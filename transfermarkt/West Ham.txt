@@ -1,0 +1,1549 @@
+<body class="" itemscope="" itemtype="http://schema.org/WebPage" data-tm-tld="com" data-cmp-layer-id="225676" data-new-gr-c-s-check-loaded="14.1025.0" data-gr-ext-installed=""><div class="werbung werbung-header nkfusHid"><!-- Start GPT Tag -->
+                        <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+                        <script>
+                          window.googletag = window.googletag || {cmd: []};
+                          googletag.cmd.push(function() {
+                            googletag.defineSlot("/58778164/Desktop-Billboard-1", [[960, 90], [970, 250], [950, 90], [728, 90], [970, 90]], "div-gpt-ad-1621524903956-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-1", [[300, 250], [336, 280]], "div-gpt-ad-1621526463511-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-1", [[160, 600], [336, 280], [300, 250], [300, 600]], "div-gpt-ad-1621527521939-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-2", [[336, 280], [300, 250]], "div-gpt-ad-1621528018930-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-2",  [[300, 250], [336, 280], [160, 600], [300, 600]], "div-gpt-ad-1621528123398-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Billboard-2",  [[950, 90], [970, 250], [728, 90], [970, 90], [960, 90]], "div-gpt-ad-1621528173524-0")
+                            .addService(googletag.pubads());
+                             googletag.pubads().enableLazyLoad({
+                                fetchMarginPercent: 500,
+                                renderMarginPercent: 200,
+                                mobileScaling: 2.0});
+                            googletag.pubads().setCentering(true);
+                            googletag.pubads().disableInitialLoad();
+                            googletag.pubads().enableSingleRequest();
+                            googletag.pubads().setTargeting("cg1", ["verein"]);
+                            googletag.pubads().setTargeting("URL", "www.transfermarkt.com");
+                            googletag.enableServices();
+                          });
+                        </script>
+                        <!-- End GPT Tag --></div>    
+
+    
+    
+        <div id="main">
+    <div id="ciEPhPbJ" class="xraqIpVC hide-for-small"><div id="sWoyDVaQM"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/ivxRTrfnyjyuwBsiSHDHWctVDmstWwPEObKIybEXmtT6/7hkIdqJd2eWMMh0TlnQBSU12nWrwtUbxgp4UZILZyB5m8O5prVS7Wdifw.gif" style="position: fixed; top: 0px;"></div></div><div class="werbung-skyscraper-container">
+            <div class="werbung werbung-skyscraper nkfusHid"><!-- /58778164/Desktop-Skyscraper-1 -->
+                        <div id="div-gpt-ad-1621527521939-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621527521939-0"); });
+                          </script>
+                        </div></div>        </div>
+
+        <div class="werbung-skyscraperbtf-container" style="top: 2000px; display: block;">
+            <div class="werbung werbung-skyscraperbtf nkfusHid"><!-- /58778164/Desktop-Skyscraper-2 -->
+                        <div id="div-gpt-ad-1621528123398-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528123398-0"); });
+                          </script>
+                        </div></div>        </div>
+        
+        <header class="tm-header">
+                        <div class="tm-header__box ">
+                                <a href="/">
+                    <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" height="62" width="156" title="Transfermarkt" alt="Transfermarkt">
+                </a>
+                                                 <tm-domainswitcher open-list="false" tld="com" class="hydrated"></tm-domainswitcher>
+                                    <div class="tm-header__social-box">
+		                <a href="https://www.facebook.com/Transfermarkt.global" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/fb_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://twitter.com/TMuk_news" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/twitter_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="http://instagram.com/transfermarkt_official" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/instagram_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="/intern/rssguide" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','RSS');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/rss_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://www.tiktok.com/@transfermarkt" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Tiktok');
+">
+                    <img src="https://tmsi.akamaized.net/icons/tiktok.svg" width="20" height="20" class="header__icon">
+                </a>
+				    </div>
+                    <div class="tm-header__input-wrapper " id="schnellsuche-platz">
+                        <form name="schnellsuche" id="schnellsuche" class="tm-header__form" action="/schnellsuche/ergebnis/schnellsuche">
+                            <input type="text" name="query" class="tm-header__input--search-field" onclick="" placeholder="Enter search term" autocorrect="off" spellcheck="false" value="">
+                            <input type="submit" value="" class="tm-header__input--search-send" alt="search">
+                        </form>
+                        <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="tm-header__search-detail">
+                            <img src="https://tmsi.akamaized.net/icons/search_icon_plus_blue_white.svg" alt="search" class="tm-header__icon-detail-search" height="26" width="26">
+                        </a>
+                    </div>
+                                </div>
+                
+            <nav class="main-navbar navihalter">
+                                                                        <ul class="main-navbar__container megamenu_dark_bar megamenu_dark" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+                    <a href="/" class="sticky-logo hide-for-small">
+                <span title="Transfermarkt" class="tm_svg"></span>
+            </a>
+        
+    <li class="main-navbar__list" data-nav-group="news">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('News','click','menu');
+">
+            News        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="transfers">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Transfers &amp; Gerüchte','click','menu');
+">
+            Transfers &amp; rumours        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="marktwerte">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Marktwerte','click','menu');
+">
+            Market values        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list aktiv" data-nav-group="wettbewerbe">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Wettbewerbe','click','menu');
+">
+            Competitions        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="foren">
+                <a class="main-navbar__list-title tm-main-nav-el" href="/uebersicht/index/forum/com" onclick="tmEvent('Foren','click','menu');
+">
+            Forums                    </a>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="meintm">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('MeinTM','click','menu');
+">
+            My TM        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list">
+                <a class="main-navbar__list-title tm-main-nav-el live-navilink" href="/ticker/index/live" onclick="tmEvent('Live','click','menu');
+">
+            Live                            <tm-live-match-counter auto-request="true" content="[&quot;Live match&quot;, &quot;live matches&quot;]" class="hydrated"></tm-live-match-counter>
+                    </a>
+            </li>
+</ul>
+
+                
+                <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                    <input type="text" name="query" class="header-suche" onclick="" placeholder="Enter search term">
+                    <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="search">
+                </form>
+                <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="header-suche-detailsuche">
+                    <span class="icon-detailsuche"></span>
+                </a>
+                                 <a id="arrow-up-xy" href="#">
+                            <svg style="fill: white; width: 20px; height: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                            <g>
+                            <path d="M78.016,49.132L51.961,12.714c-0.471-0.66-1.233-1.049-2.043-1.051c-0.006,0-0.006,0-0.006,0
+                                c-0.815,0.002-1.575,0.396-2.048,1.059L21.977,49.14c-0.546,0.767-0.616,1.776-0.183,2.612c0.426,0.835,1.292,1.361,2.236,1.361
+                                h12.183l-0.001,32.709c0,1.39,1.125,2.515,2.516,2.515l22.541-0.001c1.389,0.001,2.515-1.124,2.516-2.517l0-32.705h12.187
+                                c0.94,0,1.803-0.53,2.237-1.367C78.641,50.911,78.566,49.9,78.016,49.132z"></path>
+                            </g>
+                            </svg>
+                        </a>
+                                <div class="tm-login" id="login" onclick="tmEvent('login','click','sign_in_button');
+">
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" fill="#FFF" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve" class="tm-login__image">
+        <g>
+            <path d="M80.161,60.441l-15.66-7.47l-6.622-3.159c2.892-1.822,5.241-4.634,6.778-8.022c1.22-2.69,1.946-5.734,1.946-8.99
+                c0-1.827-0.29-3.562-0.694-5.236C63.94,19.453,57.605,13.477,50,13.477c-7.461,0-13.701,5.763-15.792,13.645
+                c-0.482,1.808-0.815,3.688-0.815,5.68c0,3.459,0.808,6.684,2.181,9.489c1.587,3.254,3.94,5.937,6.804,7.662l-6.342,2.953
+                l-16.168,7.53c-1.404,0.658-2.327,2.242-2.327,4.011v15.062v2.703c0,2.381,1.659,4.312,3.708,4.312h57.505
+                c2.048,0,3.708-1.93,3.708-4.312v-2.703V64.446C82.46,62.683,81.552,61.114,80.161,60.441z"></path>
+        </g>
+    </svg>
+    <span class="tm-login__cta">
+        Log in    </span>
+</div>
+            </nav>
+                         
+           <div class="quick-select-wrapper">
+    
+
+    <tm-quick-select-bar default-country="189" default-competition="GB1" default-club="379" default-player="" dropdown-visible="" translations="{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Country&quot;,&quot;competition&quot;:&quot;Competition&quot;,&quot;club&quot;:&quot;club&quot;,&quot;player&quot;:&quot;player&quot;,&quot;attack&quot;:&quot;attack&quot;,&quot;midfield&quot;:&quot;midfield&quot;,&quot;defense&quot;:&quot;defence&quot;,&quot;goalkeeper&quot;:&quot;goalkeeper&quot;}" version="2.0.0" class="hydrated" in-viewport="true">
+    </tm-quick-select-bar>
+</div>
+
+
+            <div id="tfRVNSWL"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/Wk1Lh8wh0FnZIMhpb0sgSCgYGYgXykexGDjU2GMsj45G/7hkIdqJd2eEUIoDo7z2DL8XemthtY2X61z2Z9TU43HL1njEPtXnGsyKBU.gif"></div><div class="werbung werbung-billboard nkfusHid"><!-- /58778164/Desktop-Billboard-1 -->
+                        <div id="div-gpt-ad-1621524903956-0" style="min-width: 728px; min-height: 90px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621524903956-0"); });
+                          </script>
+                        </div></div>        </header>
+        <main>
+            <script type="text/javascript" class="teads" src="//a.teads.tv/page/138303/tag" async="true"></script><header class="data-header">
+    <div class="data-header__headline-container">
+        <h1 class="data-header__headline-wrapper data-header__headline-wrapper--oswald">
+            West Ham United        </h1>
+    </div>
+    <div class="data-header__badge-container">
+                                    <a href="/west-ham-united/erfolge/verein/379" title="Cup Winners Cup Winner" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/53.png?lm=1647507697" data-src="https://tmssl.akamaized.net/images/erfolge/header/53.png?lm=1647507697" title="Cup Winners Cup Winner" alt="Cup Winners Cup Winner" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        1                    </span>
+                </a>
+                            <a href="/west-ham-united/erfolge/verein/379" title="FA Cup Winner" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/29.png?lm=1520606999" data-src="https://tmssl.akamaized.net/images/erfolge/header/29.png?lm=1520606999" title="FA Cup Winner" alt="FA Cup Winner" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        3                    </span>
+                </a>
+                            <a href="/west-ham-united/erfolge/verein/379" title="English Supercup Winner" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/316.png?lm=1520606999" data-src="https://tmssl.akamaized.net/images/erfolge/header/316.png?lm=1520606999" title="English Supercup Winner" alt="English Supercup Winner" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        1                    </span>
+                </a>
+                            <a href="/west-ham-united/erfolge/verein/379" title="English 2nd tier champion" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/869.png?lm=1646225519" data-src="https://tmssl.akamaized.net/images/erfolge/header/869.png?lm=1646225519" title="English 2nd tier champion" alt="English 2nd tier champion" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        2                    </span>
+                </a>
+                                    </div>
+            <div class="data-header__box--big">
+            <a class="data-header__box__club-link" href="/premier-league/startseite/wettbewerb/GB1">
+                                    <img srcset="
+                                    https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/gb1.png?lm=1521104656 1x,
+                                    https://tmssl.akamaized.net/images/logo/homepageWappen150x150/gb1.png?lm=1521104656 2x
+                                " alt="Premier League" height="80" width="80">
+                            </a>
+            <div class="data-header__club-info">
+                <span class="data-header__club" itemprop="affiliation">
+                    <a href="/premier-league/startseite/wettbewerb/GB1">
+                        Premier League                    </a>
+                </span>
+                                        <span class="data-header__label">
+                            <strong>League level:</strong>                            <span class="data-header__content">
+                                <a href="/premier-league/startseite/wettbewerb/GB1">
+                                    <img src="https://tmssl.akamaized.net/images/flagge/tiny/189.png?lm=1520611569" data-src="https://tmssl.akamaized.net/images/flagge/tiny/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen vm lazy entered loaded" data-ll-status="loaded">First Tier
+                                </a>
+                            </span>
+                        </span>
+                                            <span class="data-header__label">
+                            Table position:
+                            <span class="data-header__content">
+                                <a href="/premier-league/tabelle/wettbewerb/GB1" title="League table">15</a>                                
+                            </span>
+                        </span>
+                        <span class="data-header__label">
+                            In league since:
+                            <span class="data-header__content">
+                                <a href="/west-ham-united/platzierungen/verein/379" title="">11 years</a>
+                            </span>
+                        </span>
+                            </div>
+        </div>
+        <div class="data-header__profile-container">
+        <img src="https://tmssl.akamaized.net/images/wappen/head/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class="">
+    </div>
+            <div class="data-header__box--small">
+
+                        <a href="/west-ham-united/kader/verein/379" class="data-header__market-value-wrapper"><span class="waehrung">€</span>459.50<span class="waehrung">m</span>            <p class="data-header__last-update">
+                Total market value            </p>
+            </a>
+        </div>
+        <div class="data-header__info-box">
+        <div class="data-header__details">
+            <ul class="data-header__items">
+                <li class="data-header__label">
+                    Squad size:
+                    <span itemprop="dataItem" class="data-header__content">
+                        24                    </span>
+                </li>
+                <li class="data-header__label">
+                    Average age:
+                    <span itemprop="dataItem" class="data-header__content">
+                        27.8                    </span>
+                </li>
+                <li class="data-header__label">
+                    Foreigners:
+                    <span itemprop="dataItem" class="data-header__content">
+                        <a href="/west-ham-united/legionaere/verein/379">18</a>&nbsp;&nbsp;<span class="tabellenplatz">75.0 %</span>                    </span>
+                </li>
+            </ul>
+            <ul class="data-header__items">
+                                    <li class="data-header__label">
+                        National team players:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a href="/west-ham-united/nationalspieler/verein/379">15</a>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Stadium:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a title="West Ham United" href="/west-ham-united/stadion/verein/379">London Stadium</a>&nbsp;&nbsp;<span class="tabellenplatz">60.000 Seats</span>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Current transfer record:
+                        <span itemprop="dataItem" class="data-header__content">
+                                                        <span class="redtext">
+                                <a class="redtext" href="/west-ham-united/transfers/verein/379/saison_id/2022">€-164.20m</a>                            </span>
+                    </span></li>
+                            </ul>
+        </div>
+    </div>
+            <div class="data-header__toggle">
+            <div class="data-header__toggle-icon">+</div>
+            <ul class="data-header__list-clubs">
+                <li><img src="https://tmssl.akamaized.net/images/wappen/tiny/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class="tiny_wappen"><span><a title="West Ham United" href="/west-ham-united/startseite/verein/379">West Ham United</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class="tiny_wappen"><span><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267">West Ham United U21</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/9955.png?lm=1464675260" title="West Ham United U18" alt="West Ham United U18" class="tiny_wappen"><span><a title="West Ham United U18" href="/west-ham-united-u18/startseite/verein/9955">West Ham United U18</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/52975.png?lm=1464675260" title="West Ham United Youth" alt="West Ham United Youth" class="tiny_wappen"><span><a title="West Ham United Youth" href="/west-ham-united-jugend/startseite/verein/52975">West Ham United Youth</a></span>                    </li>            </ul>
+        </div>
+    </header>
+<script type="text/javascript">
+    const headerLinkList = document.querySelector('.data-header__toggle');
+    if (headerLinkList) {
+        headerLinkList.addEventListener('click', () => {
+            headerLinkList.classList.toggle('data-header__toggle--active');
+        })
+    };
+</script>
+<a href="https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178" class="db mt10" onclick="tmEvent('banner', 'https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178', 'd-day-banner');">
+    <img src="https://dzjovqk3zamsg.cloudfront.net/MVU_Banner_Premier-League_1122_Desktop_EN.jpg" width="1034" height="99" alt="deadline-day banner">
+</a>
+    <div class="row hide-on-print" id="subnavi" data-season="2021" data-controller="verein" data-action="startseite" data-path="west-ham-united/startseite/verein/379" data-id="379">
+        <div class="page_wrapper subnavi">
+            <div class="large-12 columns">
+                <div class="subnavi_box" id="subnavigation">
+                    <div class="submenu-text show-for-small">
+                        <a name="SubNavi" title="Navigation">
+                            <span>≡ Sub Menu</span>
+                        </a>
+                    </div>
+                    <nav>
+                        <ul id="submenu">
+                                                        <li id="close_submenu" class="show-for-small">
+                                <div id="submenu-icon">
+                                    <span class="clicked"></span>
+                                    <span class="clicked"></span>
+                                </div>
+                                <a>Close Menu</a>
+                            </li>
+                                                                <li id="overview" class="first-button aktiv " data-nav-group="overview">
+                                        <a name="SubNavi" href="/west-ham-united/startseite/verein/379/saison_id/2022" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','uebersicht');
+">Overview</a>
+                                                                            </li>
+                                                                        <li id="squad" class="  " data-nav-group="squad">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','kader');
+">Squad</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="fixtures" class="  " data-nav-group="fixtures">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','spielplan');
+">Fixtures</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="transfers-amp-rumours" class="  " data-nav-group="transfers-amp-rumours">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','transfers-amp-geruchte');
+">Transfers &amp; rumours</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="information-amp-facts" class="  " data-nav-group="information-amp-facts">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','daten_und_fakten');
+">Information &amp; facts</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="stadium" class="  " data-nav-group="stadium">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','stadion');
+">Stadium</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="history" class="  " data-nav-group="history">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','historie');
+">History</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="news" class="  " data-nav-group="news">
+                                        <a name="SubNavi" href="/west-ham-united/news/verein/379" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','news');
+">News</a>
+                                                                            </li>
+                                                                        <li id="forum" class="  " data-nav-group="forum">
+                                        <a name="SubNavi" href="/west-ham-united/detail/forum/196" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','forum');
+">Forum</a>
+                                                                            </li>
+                                                                        <li id="subnavi-edit" class="  subnavi-edit" data-nav-group="subnavi-edit">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','edit');
+"></a>
+                                        <div class="dropdown_fullwidth gasthinweis" title="Log in or register now"><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var stickySubTop = $('#subnavigation').offset().top;
+        stickySubTop = stickySubTop - 60;
+        var main = $("#main");
+        $(document).ready(function () {
+            $(window).on('scroll load', function () {
+                if (!main.hasClass("stickySubnavigation")) {
+                    stickySubTop = $('#subnavigation').offset().top;
+                }
+                if ($(window).scrollTop() > stickySubTop) {
+                    main.addClass("stickySubnavigation");
+                } else {
+                    main.removeClass("stickySubnavigation");
+                }
+            });
+        });
+    </script>
+    <style>
+        .forum-anchor {
+            margin-top: -80px;
+        }
+    </style>
+
+    <div class="row vereinsstartseite" itemscope="" itemtype="http://schema.org/SportsTeam">
+    <div class="large-8 columns">
+        <div class="box kader-widget viewport-tracking" data-viewport="Kader">
+    <h2 class="content-box-headline">
+                        Squad of West Ham United - Season 21/22      
+    </h2>
+            <div class="content">
+            <form action="/west-ham-united/startseite/verein/379" method="get">            <div class="row">
+                <div class="large-12 columns">
+                    <table class="auflistung">
+                        <tbody>
+                            <tr>
+                                <td>
+                                                                            Filter by season                                                                    </td>
+                                <td>
+                                    <div class="inline-select">
+                                        <select name="saison_id" data-placeholder="Filter by season" class="chzn-select chzn-done" tabindex="-1" id="sel0Q8" style="display: none;">
+                                                                                            <option value="2022">22/23</option>
+                                                                                            <option selected="selected" value="2021">21/22</option>
+                                                                                            <option value="2020">20/21</option>
+                                                                                            <option value="2019">19/20</option>
+                                                                                            <option value="2018">18/19</option>
+                                                                                            <option value="2017">17/18</option>
+                                                                                            <option value="2016">16/17</option>
+                                                                                            <option value="2015">15/16</option>
+                                                                                            <option value="2014">14/15</option>
+                                                                                            <option value="2013">13/14</option>
+                                                                                            <option value="2012">12/13</option>
+                                                                                            <option value="2011">11/12</option>
+                                                                                            <option value="2010">10/11</option>
+                                                                                            <option value="2009">09/10</option>
+                                                                                            <option value="2008">08/09</option>
+                                                                                            <option value="2007">07/08</option>
+                                                                                            <option value="2006">06/07</option>
+                                                                                            <option value="2005">05/06</option>
+                                                                                            <option value="2004">04/05</option>
+                                                                                            <option value="2003">03/04</option>
+                                                                                            <option value="2002">02/03</option>
+                                                                                            <option value="2001">01/02</option>
+                                                                                            <option value="2000">00/01</option>
+                                                                                            <option value="1999">99/00</option>
+                                                                                            <option value="1998">98/99</option>
+                                                                                            <option value="1997">97/98</option>
+                                                                                            <option value="1996">96/97</option>
+                                                                                            <option value="1995">95/96</option>
+                                                                                            <option value="1994">94/95</option>
+                                                                                            <option value="1993">93/94</option>
+                                                                                            <option value="1992">92/93</option>
+                                                                                            <option value="1991">91/92</option>
+                                                                                            <option value="1990">90/91</option>
+                                                                                            <option value="1989">89/90</option>
+                                                                                            <option value="1988">88/89</option>
+                                                                                            <option value="1987">87/88</option>
+                                                                                            <option value="1986">86/87</option>
+                                                                                            <option value="1985">85/86</option>
+                                                                                            <option value="1984">84/85</option>
+                                                                                            <option value="1983">83/84</option>
+                                                                                            <option value="1982">82/83</option>
+                                                                                            <option value="1981">81/82</option>
+                                                                                            <option value="1980">80/81</option>
+                                                                                            <option value="1979">79/80</option>
+                                                                                            <option value="1978">78/79</option>
+                                                                                            <option value="1977">77/78</option>
+                                                                                            <option value="1976">76/77</option>
+                                                                                            <option value="1975">75/76</option>
+                                                                                            <option value="1974">74/75</option>
+                                                                                            <option value="1973">73/74</option>
+                                                                                            <option value="1972">72/73</option>
+                                                                                            <option value="1971">71/72</option>
+                                                                                            <option value="1970">70/71</option>
+                                                                                            <option value="1969">69/70</option>
+                                                                                            <option value="1968">68/69</option>
+                                                                                            <option value="1967">67/68</option>
+                                                                                            <option value="1966">66/67</option>
+                                                                                            <option value="1965">65/66</option>
+                                                                                            <option value="1964">64/65</option>
+                                                                                            <option value="1963">63/64</option>
+                                                                                            <option value="1962">62/63</option>
+                                                                                            <option value="1961">61/62</option>
+                                                                                            <option value="1960">60/61</option>
+                                                                                            <option value="1959">59/60</option>
+                                                                                            <option value="1958">58/59</option>
+                                                                                            <option value="1957">57/58</option>
+                                                                                            <option value="1956">56/57</option>
+                                                                                            <option value="1955">55/56</option>
+                                                                                            <option value="1954">54/55</option>
+                                                                                            <option value="1953">53/54</option>
+                                                                                            <option value="1952">52/53</option>
+                                                                                    </select><div id="sel0Q8_chzn" class="chzn-container chzn-container-single" style="width: 100%;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>21/22</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="search" autocomplete="off" tabindex="0"></div><ul class="chzn-results"><li id="sel0Q8_chzn_o_0" class="active-result" style="">22/23</li><li id="sel0Q8_chzn_o_1" class="active-result result-selected" style="">21/22</li><li id="sel0Q8_chzn_o_2" class="active-result" style="">20/21</li><li id="sel0Q8_chzn_o_3" class="active-result" style="">19/20</li><li id="sel0Q8_chzn_o_4" class="active-result" style="">18/19</li><li id="sel0Q8_chzn_o_5" class="active-result" style="">17/18</li><li id="sel0Q8_chzn_o_6" class="active-result" style="">16/17</li><li id="sel0Q8_chzn_o_7" class="active-result" style="">15/16</li><li id="sel0Q8_chzn_o_8" class="active-result" style="">14/15</li><li id="sel0Q8_chzn_o_9" class="active-result" style="">13/14</li><li id="sel0Q8_chzn_o_10" class="active-result" style="">12/13</li><li id="sel0Q8_chzn_o_11" class="active-result" style="">11/12</li><li id="sel0Q8_chzn_o_12" class="active-result" style="">10/11</li><li id="sel0Q8_chzn_o_13" class="active-result" style="">09/10</li><li id="sel0Q8_chzn_o_14" class="active-result" style="">08/09</li><li id="sel0Q8_chzn_o_15" class="active-result" style="">07/08</li><li id="sel0Q8_chzn_o_16" class="active-result" style="">06/07</li><li id="sel0Q8_chzn_o_17" class="active-result" style="">05/06</li><li id="sel0Q8_chzn_o_18" class="active-result" style="">04/05</li><li id="sel0Q8_chzn_o_19" class="active-result" style="">03/04</li><li id="sel0Q8_chzn_o_20" class="active-result" style="">02/03</li><li id="sel0Q8_chzn_o_21" class="active-result" style="">01/02</li><li id="sel0Q8_chzn_o_22" class="active-result" style="">00/01</li><li id="sel0Q8_chzn_o_23" class="active-result" style="">99/00</li><li id="sel0Q8_chzn_o_24" class="active-result" style="">98/99</li><li id="sel0Q8_chzn_o_25" class="active-result" style="">97/98</li><li id="sel0Q8_chzn_o_26" class="active-result" style="">96/97</li><li id="sel0Q8_chzn_o_27" class="active-result" style="">95/96</li><li id="sel0Q8_chzn_o_28" class="active-result" style="">94/95</li><li id="sel0Q8_chzn_o_29" class="active-result" style="">93/94</li><li id="sel0Q8_chzn_o_30" class="active-result" style="">92/93</li><li id="sel0Q8_chzn_o_31" class="active-result" style="">91/92</li><li id="sel0Q8_chzn_o_32" class="active-result" style="">90/91</li><li id="sel0Q8_chzn_o_33" class="active-result" style="">89/90</li><li id="sel0Q8_chzn_o_34" class="active-result" style="">88/89</li><li id="sel0Q8_chzn_o_35" class="active-result" style="">87/88</li><li id="sel0Q8_chzn_o_36" class="active-result" style="">86/87</li><li id="sel0Q8_chzn_o_37" class="active-result" style="">85/86</li><li id="sel0Q8_chzn_o_38" class="active-result" style="">84/85</li><li id="sel0Q8_chzn_o_39" class="active-result" style="">83/84</li><li id="sel0Q8_chzn_o_40" class="active-result" style="">82/83</li><li id="sel0Q8_chzn_o_41" class="active-result" style="">81/82</li><li id="sel0Q8_chzn_o_42" class="active-result" style="">80/81</li><li id="sel0Q8_chzn_o_43" class="active-result" style="">79/80</li><li id="sel0Q8_chzn_o_44" class="active-result" style="">78/79</li><li id="sel0Q8_chzn_o_45" class="active-result" style="">77/78</li><li id="sel0Q8_chzn_o_46" class="active-result" style="">76/77</li><li id="sel0Q8_chzn_o_47" class="active-result" style="">75/76</li><li id="sel0Q8_chzn_o_48" class="active-result" style="">74/75</li><li id="sel0Q8_chzn_o_49" class="active-result" style="">73/74</li><li id="sel0Q8_chzn_o_50" class="active-result" style="">72/73</li><li id="sel0Q8_chzn_o_51" class="active-result" style="">71/72</li><li id="sel0Q8_chzn_o_52" class="active-result" style="">70/71</li><li id="sel0Q8_chzn_o_53" class="active-result" style="">69/70</li><li id="sel0Q8_chzn_o_54" class="active-result" style="">68/69</li><li id="sel0Q8_chzn_o_55" class="active-result" style="">67/68</li><li id="sel0Q8_chzn_o_56" class="active-result" style="">66/67</li><li id="sel0Q8_chzn_o_57" class="active-result" style="">65/66</li><li id="sel0Q8_chzn_o_58" class="active-result" style="">64/65</li><li id="sel0Q8_chzn_o_59" class="active-result" style="">63/64</li><li id="sel0Q8_chzn_o_60" class="active-result" style="">62/63</li><li id="sel0Q8_chzn_o_61" class="active-result" style="">61/62</li><li id="sel0Q8_chzn_o_62" class="active-result" style="">60/61</li><li id="sel0Q8_chzn_o_63" class="active-result" style="">59/60</li><li id="sel0Q8_chzn_o_64" class="active-result" style="">58/59</li><li id="sel0Q8_chzn_o_65" class="active-result" style="">57/58</li><li id="sel0Q8_chzn_o_66" class="active-result" style="">56/57</li><li id="sel0Q8_chzn_o_67" class="active-result" style="">55/56</li><li id="sel0Q8_chzn_o_68" class="active-result" style="">54/55</li><li id="sel0Q8_chzn_o_69" class="active-result" style="">53/54</li><li id="sel0Q8_chzn_o_70" class="active-result" style="">52/53</li></ul></div></div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <input type="submit" class="small button" value="Show">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            </form>
+        </div>
+                
+<div class="tm-tabs">
+    <a class="tm-tab tm-tab__active--parent" href="/west-ham-united/kader/verein/379/saison_id/2021"><div class=" tm-tab__active"><span>Compact</span></div></a><a class="tm-tab" href="/west-ham-united/kader/verein/379/saison_id/2021/plus/1"><div class=""><span>Detailed</span></div></a><a class="tm-tab" href="/west-ham-united/kader/verein/379/saison_id/2021/galerie/1"><div class=""><span>Gallery</span></div></a></div>
+        <div class="responsive-table">
+            <div id="yw1" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw1_c0"><a class="sort-link" href="/west-ham-united/startseite/verein/379/saison_id/2021/sort/rn">#</a></th><th id="yw1_c1"><a class="sort-link" href="/west-ham-united/startseite/verein/379/saison_id/2021/sort/name_sort">player</a></th><th class="zentriert" id="yw1_c2"><a class="sort-link" href="/west-ham-united/startseite/verein/379/saison_id/2021/sort/age">Date of birth / Age</a></th><th class="zentriert" id="yw1_c3">Nat.</th><th class="zentriert" id="yw1_c4">Current club</th><th class="rechts" id="yw1_c5"><a class="sort-link" href="/west-ham-united/startseite/verein/379/saison_id/2021/sort/marktwert.desc">Market value</a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">13</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="On loan from Paris Saint-Germain; committed until: Jul 1, 2022; fee: €9.30m" href="/paris-saint-germain/startseite/verein/583/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/583.png?lm=1522312728" title="Paris Saint-Germain" alt="Paris Saint-Germain" class=""></a></span><a title="On loan from Paris Saint-Germain; committed until: Jul 1, 2022; fee: €9.30m" class="hide-for-small" href="/paris-saint-germain/startseite/verein/583/saison_id/2021"><img src="/images/icons/leihe_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/120629-1663243036.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/120629-1663243036.jpg?lm=1" title="Alphonse Areola" alt="Alphonse Areola" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Alphonse Areola" href="/alphonse-areola/profil/spieler/120629">Alphonse Areola</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Alphonse Areola" href="/alphonse-areola/profil/spieler/120629">A. Areola</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Feb 27, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/134.png?lm=1520611569" title="Philippines" alt="Philippines" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/alphonse-areola/marktwertverlauf/spieler/120629">€8.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">1</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/29692-1464085213.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/29692-1464085213.jpg?lm=1" title="Lukasz Fabianski" alt="Lukasz Fabianski" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Lukasz Fabianski" href="/lukasz-fabianski/profil/spieler/29692">Lukasz Fabianski</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Lukasz Fabianski" href="/lukasz-fabianski/profil/spieler/29692">L. Fabianski</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Apr 18, 1985 (36)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/135.png?lm=1520611569" title="Poland" alt="Poland" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/lukasz-fabianski/marktwertverlauf/spieler/29692">€1.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">35</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/51321-1667549274.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/51321-1667549274.jpg?lm=1" title="Darren Randolph" alt="Darren Randolph" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Darren Randolph" href="/darren-randolph/profil/spieler/51321">Darren Randolph</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Darren Randolph" href="/darren-randolph/profil/spieler/51321">D. Randolph</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">May 12, 1987 (34)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/72.png?lm=1520611569" title="Ireland" alt="Ireland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/184.png?lm=1520611569" title="United States" alt="United States" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/darren-randolph/marktwertverlauf/spieler/51321">€800k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">25</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/15930-1560936786.png?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/15930-1560936786.png?lm=1" title="David Martin" alt="David Martin" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="David Martin" href="/david-martin/profil/spieler/15930">David Martin</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="David Martin" href="/david-martin/profil/spieler/15930">D. Martin</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Jan 22, 1986 (35)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="Milton Keynes Dons" href="/milton-keynes-dons/startseite/verein/991"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/991.png?lm=1457991827" title="Milton Keynes Dons" alt="Milton Keynes Dons" class=""></a></td><td class="rechts hauptlink"><a href="/david-martin/marktwertverlauf/spieler/15930">€250k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">4</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Chelsea FC; date: Aug 28, 2021; fee: €35.00m" href="/chelsea-fc/startseite/verein/631/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/631.png?lm=1628160548" title="Chelsea FC" alt="Chelsea FC" class=""></a></span><a title="Joined from Chelsea FC; date: Aug 28, 2021; fee: €35.00m" class="hide-for-small" href="/chelsea-fc/startseite/verein/631/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/157509-1647595996.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/157509-1647595996.jpg?lm=1" title="Kurt Zouma" alt="Kurt Zouma" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Kurt Zouma" href="/kurt-zouma/profil/spieler/157509">Kurt Zouma</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Kurt Zouma" href="/kurt-zouma/profil/spieler/157509">K. Zouma</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Oct 27, 1994 (26)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/138.png?lm=1520611569" title="Central African Republic" alt="Central African Republic" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/kurt-zouma/marktwertverlauf/spieler/157509">€28.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">23</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/272622-1660565295.jpg?lm=1" title="Issa Diop" alt="Issa Diop" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Issa Diop" href="/issa-diop/profil/spieler/272622">Issa Diop</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Issa Diop" href="/issa-diop/profil/spieler/272622">Issa Diop</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Jan 9, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569" title="Senegal" alt="Senegal" class="flaggenrahmen"></td><td class="zentriert"><a title="Fulham FC" href="/fc-fulham/startseite/verein/931"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/931.png?lm=1556831687" title="Fulham FC" alt="Fulham FC" class=""></a></td><td class="rechts hauptlink"><a href="/issa-diop/marktwertverlauf/spieler/272622">€10.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">15</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Watford FC; date: Jul 1, 2021; fee: €2.30m" href="/watford-fc/startseite/verein/1010/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/1010.png?lm=1468103673" title="Watford FC" alt="Watford FC" class=""></a></span><a title="Joined from Watford FC; date: Jul 1, 2021; fee: €2.30m" class="hide-for-small" href="/watford-fc/startseite/verein/1010/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/121477-1520417734.jpg?lm=1" title="Craig Dawson" alt="Craig Dawson" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Craig Dawson" href="/craig-dawson/profil/spieler/121477">Craig Dawson</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Craig Dawson" href="/craig-dawson/profil/spieler/121477">C. Dawson</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">May 6, 1990 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/craig-dawson/marktwertverlauf/spieler/121477">€3.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">21</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/48002-1636457151.jpg?lm=1" title="Angelo Ogbonna" alt="Angelo Ogbonna" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Angelo Ogbonna" href="/angelo-ogbonna/profil/spieler/48002">Angelo Ogbonna</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Angelo Ogbonna" href="/angelo-ogbonna/profil/spieler/48002">A. Ogbonna</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">May 23, 1988 (33)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/angelo-ogbonna/marktwertverlauf/spieler/48002">€1.20m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">42</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/502065-1544622088.jpg?lm=1" title="Aji Alese" alt="Aji Alese" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Aji Alese" href="/aji-alese/profil/spieler/502065">Aji Alese</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Aji Alese" href="/aji-alese/profil/spieler/502065">Aji Alese</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Jan 17, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="Sunderland AFC" href="/afc-sunderland/startseite/verein/289"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/289.png?lm=1485645633" title="Sunderland AFC" alt="Sunderland AFC" class=""></a></td><td class="rechts hauptlink"><a href="/aji-alese/marktwertverlauf/spieler/502065">€500k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/610706-1650877342.jpg?lm=1" title="Jamal Baptiste" alt="Jamal Baptiste" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jamal Baptiste" href="/jamal-baptiste/profil/spieler/610706">Jamal Baptiste</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jamal Baptiste" href="/jamal-baptiste/profil/spieler/610706">J. Baptiste</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Nov 11, 2003 (17)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class=""></a></td><td class="rechts hauptlink"><a href="/jamal-baptiste/marktwertverlauf/spieler/610706">€200k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">26</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/181380-1666280141.png?lm=1" title="Arthur Masuaku" alt="Arthur Masuaku" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Arthur Masuaku" href="/arthur-masuaku/profil/spieler/181380">Arthur Masuaku</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Arthur Masuaku" href="/arthur-masuaku/profil/spieler/181380">A. Masuaku</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Nov 7, 1993 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/193.png?lm=1520611569" title="DR Congo" alt="DR Congo" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Besiktas JK" href="/besiktas-istanbul/startseite/verein/114"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/114.png?lm=1502974502" title="Besiktas JK" alt="Besiktas JK" class=""></a></td><td class="rechts hauptlink"><a href="/arthur-masuaku/marktwertverlauf/spieler/181380">€5.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">3</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/92571-1467723523.jpg?lm=1" title="Aaron Cresswell" alt="Aaron Cresswell" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Aaron Cresswell" href="/aaron-cresswell/profil/spieler/92571">Aaron Cresswell</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Aaron Cresswell" href="/aaron-cresswell/profil/spieler/92571">A. Cresswell</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Dec 15, 1989 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/aaron-cresswell/marktwertverlauf/spieler/92571">€3.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Emmanuel Longelo" alt="Emmanuel Longelo" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Emmanuel Longelo" href="/emmanuel-longelo/profil/spieler/504386">Emmanuel Longelo</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Emmanuel Longelo" href="/emmanuel-longelo/profil/spieler/504386">E. Longelo</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Dec 27, 2000 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/193.png?lm=1520611569" title="DR Congo" alt="DR Congo" class="flaggenrahmen"></td><td class="zentriert"><a title="Birmingham City" href="/birmingham-city/startseite/verein/337"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/337.png?lm=1522153307" title="Birmingham City" alt="Birmingham City" class=""></a></td><td class="rechts hauptlink"><a href="/emmanuel-longelo/marktwertverlauf/spieler/504386">€150k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">5</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/157672-1667897675.jpg?lm=1" title="Vladimir Coufal" alt="Vladimir Coufal" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Vladimir Coufal" href="/vladimir-coufal/profil/spieler/157672">Vladimir Coufal</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Vladimir Coufal" href="/vladimir-coufal/profil/spieler/157672">V. Coufal</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Aug 22, 1992 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/172.png?lm=1520611569" title="Czech Republic" alt="Czech Republic" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/vladimir-coufal/marktwertverlauf/spieler/157672">€12.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">31</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/468002-1551363739.jpg?lm=1" title="Ben Johnson" alt="Ben Johnson" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Ben Johnson" href="/ben-johnson/profil/spieler/468002">Ben Johnson</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Ben Johnson" href="/ben-johnson/profil/spieler/468002">B. Johnson</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Jan 24, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/ben-johnson/marktwertverlauf/spieler/468002">€9.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">24</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/140191-1473150244.jpg?lm=1" title="Ryan Fredericks" alt="Ryan Fredericks" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Ryan Fredericks" href="/ryan-fredericks/profil/spieler/140191">Ryan Fredericks</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Ryan Fredericks" href="/ryan-fredericks/profil/spieler/140191">R. Fredericks</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Oct 10, 1992 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/190.png?lm=1520611569" title="Scotland" alt="Scotland" class="flaggenrahmen"></td><td class="zentriert"><a title="AFC Bournemouth" href="/afc-bournemouth/startseite/verein/989"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/989.png?lm=1457991811" title="AFC Bournemouth" alt="AFC Bournemouth" class=""></a></td><td class="rechts hauptlink"><a href="/ryan-fredericks/marktwertverlauf/spieler/140191">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/559130-1667548907.jpg?lm=1" title="Harrison Ashby" alt="Harrison Ashby" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Harrison Ashby" href="/harrison-ashby/profil/spieler/559130">Harrison Ashby</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Harrison Ashby" href="/harrison-ashby/profil/spieler/559130">H. Ashby</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Nov 14, 2001 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/190.png?lm=1520611569" title="Scotland" alt="Scotland" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class=""></a></td><td class="rechts hauptlink"><a href="/harrison-ashby/marktwertverlauf/spieler/559130">€300k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">41</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/357662-1624883831.jpg?lm=1" title="Declan Rice" alt="Declan Rice" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Declan Rice" href="/declan-rice/profil/spieler/357662">Declan Rice</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Declan Rice" href="/declan-rice/profil/spieler/357662">D. Rice</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Jan 14, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/72.png?lm=1520611569" title="Ireland" alt="Ireland" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/declan-rice/marktwertverlauf/spieler/357662">€80.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">28</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/283628-1515765413.jpg?lm=1" title="Tomas Soucek" alt="Tomas Soucek" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Tomas Soucek" href="/tomas-soucek/profil/spieler/283628">Tomas Soucek</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Tomas Soucek" href="/tomas-soucek/profil/spieler/283628">T. Soucek</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 27, 1995 (26)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/172.png?lm=1520611569" title="Czech Republic" alt="Czech Republic" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/tomas-soucek/marktwertverlauf/spieler/283628">€45.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">33</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="On loan from Spartak Moscow; started on: Aug 31, 2021; loaned until: -" href="/spartak-moscow/startseite/verein/232/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/232_1645543343.png?lm=1645543343" title="On loan from Spartak Moscow; started on: Aug 31, 2021; loaned until: -" alt="Spartak Moscow" class=""></a></span><a title="On loan from Spartak Moscow; started on: Aug 31, 2021; loaned until: -" class="hide-for-small" href="/spartak-moscow/startseite/verein/232/saison_id/2021"><img src="/images/icons/leihe_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/337333-1660339660.jpg?lm=1" title="Alex Kral" alt="Alex Kral" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Alex Kral" href="/alex-kral/profil/spieler/337333">Alex Kral</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Alex Kral" href="/alex-kral/profil/spieler/337333">Alex Kral</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">May 19, 1998 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/172.png?lm=1520611569" title="Czech Republic" alt="Czech Republic" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/154.png?lm=1520611569" title="Slovakia" alt="Slovakia" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Schalke 04" href="/fc-schalke-04/startseite/verein/33"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/33.png?lm=1656580846" title="FC Schalke 04" alt="FC Schalke 04" class=""></a></td><td class="rechts hauptlink"><a href="/alex-kral/marktwertverlauf/spieler/337333">€7.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">54</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with Milton Keynes Dons; date: May 31, 2022; fee: End of loan" href="/milton-keynes-dons/startseite/verein/991/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/991.png?lm=1457991827" title="Milton Keynes Dons" alt="Milton Keynes Dons" class=""></a></span><a title="Returned after loan spell with Milton Keynes Dons; date: May 31, 2022; fee: End of loan" class="hide-for-small" href="/milton-keynes-dons/startseite/verein/991/saison_id/2021"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/419025-1662362174.jpg?lm=1" title="Conor Coventry" alt="Conor Coventry" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Conor Coventry" href="/conor-coventry/profil/spieler/419025">Conor Coventry</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Conor Coventry" href="/conor-coventry/profil/spieler/419025">C. Coventry</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Mar 25, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/72.png?lm=1520611569" title="Ireland" alt="Ireland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/conor-coventry/marktwertverlauf/spieler/419025">€500k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/554098-1639140288.jpg?lm=1" title="Keenan Appiah-Forson" alt="Keenan Appiah-Forson" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Keenan Appiah-Forson" href="/keenan-appiah-forson/profil/spieler/554098">Keenan Appiah-Forson</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Keenan Appiah-Forson" href="/keenan-appiah-forson/profil/spieler/554098">K. Appiah-Forson</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Oct 16, 2001 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/54.png?lm=1520611569" title="Ghana" alt="Ghana" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class=""></a></td><td class="rechts hauptlink"><a href="/keenan-appiah-forson/marktwertverlauf/spieler/554098">€300k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/698164-1647594007.jpg?lm=1" title="Freddie Potts" alt="Freddie Potts" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Freddie Potts" href="/freddie-potts/profil/spieler/698164">Freddie Potts</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Freddie Potts" href="/freddie-potts/profil/spieler/698164">F. Potts</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Sep 12, 2003 (17)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class=""></a></td><td class="rechts hauptlink"><a href="/freddie-potts/marktwertverlauf/spieler/698164">€250k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Pierre Ekwah" alt="Pierre Ekwah" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pierre Ekwah" href="/pierre-ekwah/profil/spieler/538994">Pierre Ekwah</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pierre Ekwah" href="/pierre-ekwah/profil/spieler/538994">P. Ekwah</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Jan 15, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/54.png?lm=1520611569" title="Ghana" alt="Ghana" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class=""></a></td><td class="rechts hauptlink">&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">16</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/31835-1470302562.jpg?lm=1" title="Mark Noble" alt="Mark Noble" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Mark Noble" href="/mark-noble/profil/spieler/31835">Mark Noble</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Mark Noble" href="/mark-noble/profil/spieler/31835">M. Noble</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">May 8, 1987 (34)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/72.png?lm=1520611569" title="Ireland" alt="Ireland" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/123.png?lm=1456997286" title="Retired" alt="Retired" class=""></td><td class="rechts hauptlink"><a href="/mark-noble/marktwertverlauf/spieler/31835">€1.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/561452-1647593975.jpg?lm=1" title="Dan Chesters" alt="Dan Chesters" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Dan Chesters" href="/dan-chesters/profil/spieler/561452">Dan Chesters</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Dan Chesters" href="/dan-chesters/profil/spieler/561452">D. Chesters</a></span></div></td></tr><tr><td>Right Midfield</td></tr></tbody></table></td><td class="zentriert">Apr 4, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="Colchester United" href="/colchester-united/startseite/verein/1060"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1060.png?lm=1570543405" title="Colchester United" alt="Colchester United" class=""></a></td><td class="rechts hauptlink"><a href="/dan-chesters/marktwertverlauf/spieler/561452">€250k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">8</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/357885-1629883796.jpg?lm=1" title="Pablo Fornals" alt="Pablo Fornals" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pablo Fornals" href="/pablo-fornals/profil/spieler/357885">Pablo Fornals</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pablo Fornals" href="/pablo-fornals/profil/spieler/357885">P. Fornals</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 22, 1996 (25)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/pablo-fornals/marktwertverlauf/spieler/357885">€22.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">11</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from CSKA Moscow; date: Aug 31, 2021; fee: €30.00m" href="/cska-moscow/startseite/verein/2410/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/2410.png?lm=1409222667" title="CSKA Moscow" alt="CSKA Moscow" class=""></a></span><a title="Joined from CSKA Moscow; date: Aug 31, 2021; fee: €30.00m" class="hide-for-small" href="/cska-moscow/startseite/verein/2410/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/293200-1647595523.png?lm=1" title="Nikola Vlasic" alt="Nikola Vlasic" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nikola Vlasic" href="/nikola-vlasic/profil/spieler/293200">Nikola Vlasic</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nikola Vlasic" href="/nikola-vlasic/profil/spieler/293200">N. Vlasic</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Oct 4, 1997 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/37.png?lm=1520611569" title="Croatia" alt="Croatia" class="flaggenrahmen"></td><td class="zentriert"><a title="Torino FC" href="/fc-turin/startseite/verein/416"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/416.png?lm=1438548174" title="Torino FC" alt="Torino FC" class=""></a></td><td class="rechts hauptlink"><a href="/nikola-vlasic/marktwertverlauf/spieler/293200">€22.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">10</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/135853-1520606166.jpg?lm=1" title="Manuel Lanzini" alt="Manuel Lanzini" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Manuel Lanzini" href="/manuel-lanzini/profil/spieler/135853">Manuel Lanzini</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Manuel Lanzini" href="/manuel-lanzini/profil/spieler/135853">M. Lanzini</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 15, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/manuel-lanzini/marktwertverlauf/spieler/135853">€12.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/693066-1667549034.jpg?lm=1" title="Kamarai Swyer" alt="Kamarai Swyer" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Kamarai Swyer" href="/kamarai-swyer/profil/spieler/693066">Kamarai Swyer</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Kamarai Swyer" href="/kamarai-swyer/profil/spieler/693066">K. Swyer</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Dec 4, 2002 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United U21" href="/west-ham-united-u23/startseite/verein/9267"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/9267.png?lm=1464675260" title="West Ham United U21" alt="West Ham United U21" class=""></a></td><td class="rechts hauptlink">&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">22</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/290532-1538466883.jpg?lm=1" title="Saïd Benrahma" alt="Saïd Benrahma" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Saïd Benrahma" href="/said-benrahma/profil/spieler/290532">Saïd Benrahma</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Saïd Benrahma" href="/said-benrahma/profil/spieler/290532">S. Benrahma</a></span></div></td></tr><tr><td>Left Winger</td></tr></tbody></table></td><td class="zentriert">Aug 10, 1995 (25)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/4.png?lm=1520611569" title="Algeria" alt="Algeria" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/said-benrahma/marktwertverlauf/spieler/290532">€25.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/531461-1646904971.jpg?lm=1" title="Armstrong Oko-Flex" alt="Armstrong Oko-Flex" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Armstrong Oko-Flex" href="/armstrong-oko-flex/profil/spieler/531461">Armstrong Oko-Flex</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Armstrong Oko-Flex" href="/armstrong-oko-flex/profil/spieler/531461">A. Oko-Flex</a></span></div></td></tr><tr><td>Left Winger</td></tr></tbody></table></td><td class="zentriert">Mar 2, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/72.png?lm=1520611569" title="Ireland" alt="Ireland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="Swansea City" href="/swansea-city/startseite/verein/2288"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/2288.png?lm=1658400285" title="Swansea City" alt="Swansea City" class=""></a></td><td class="rechts hauptlink">&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">20</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/314875-1662362005.jpg?lm=1" title="Jarrod Bowen" alt="Jarrod Bowen" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jarrod Bowen" href="/jarrod-bowen/profil/spieler/314875">Jarrod Bowen</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jarrod Bowen" href="/jarrod-bowen/profil/spieler/314875">J. Bowen</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Dec 20, 1996 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/jarrod-bowen/marktwertverlauf/spieler/314875">€42.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">7</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/69015-1503932828.jpg?lm=1" title="Andriy Yarmolenko" alt="Andriy Yarmolenko" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Andriy Yarmolenko" href="/andriy-yarmolenko/profil/spieler/69015">Andriy Yarmolenko</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Andriy Yarmolenko" href="/andriy-yarmolenko/profil/spieler/69015">A. Yarmolenko</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Oct 23, 1989 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/177.png?lm=1520611569" title="Ukraine" alt="Ukraine" class="flaggenrahmen"></td><td class="zentriert"><a title="Al-Ain FC" href="/al-ain-fc/startseite/verein/2150"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/2150.png?lm=1542533060" title="Al-Ain FC" alt="Al-Ain FC" class=""></a></td><td class="rechts hauptlink"><a href="/andriy-yarmolenko/marktwertverlauf/spieler/69015">€2.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">9</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/104124-1642175096.jpg?lm=1" title="Michail Antonio" alt="Michail Antonio" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Michail Antonio" href="/michail-antonio/profil/spieler/104124">Michail Antonio</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Michail Antonio" href="/michail-antonio/profil/spieler/104124">M. Antonio</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Mar 28, 1990 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/76.png?lm=1520611569" title="Jamaica" alt="Jamaica" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="West Ham United" href="/west-ham-united/startseite/verein/379"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class=""></a></td><td class="rechts hauptlink"><a href="/michail-antonio/marktwertverlauf/spieler/104124">€10.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/670877-1637915626.jpg?lm=1" title="Sonny Perkins" alt="Sonny Perkins" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Sonny Perkins" href="/sonny-perkins/profil/spieler/670877">Sonny Perkins</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Sonny Perkins" href="/sonny-perkins/profil/spieler/670877">S. Perkins</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Feb 10, 2004 (17)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/72.png?lm=1520611569" title="Ireland" alt="Ireland" class="flaggenrahmen"></td><td class="zentriert"><a title="Leeds United U21" href="/leeds-united-u23/startseite/verein/20116"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/20116.png?lm=1645652224" title="Leeds United U21" alt="Leeds United U21" class=""></a></td><td class="rechts hauptlink"><a href="/sonny-perkins/marktwertverlauf/spieler/670877">€1.20m</a>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/west-ham-united/startseite/verein/379?saison_id=2021"><span>120629</span><span>29692</span><span>51321</span><span>15930</span><span>157509</span><span>272622</span><span>121477</span><span>48002</span><span>502065</span><span>610706</span><span>181380</span><span>92571</span><span>504386</span><span>157672</span><span>468002</span><span>140191</span><span>559130</span><span>357662</span><span>283628</span><span>337333</span><span>419025</span><span>554098</span><span>698164</span><span>538994</span><span>31835</span><span>561452</span><span>357885</span><span>293200</span><span>135853</span><span>693066</span><span>290532</span><span>531461</span><span>314875</span><span>69015</span><span>104124</span><span>670877</span></div>
+</div>        </div>
+        <a title="West Ham United" class="content-link" href="/west-ham-united/kader/verein/379/saison_id/2021">Detailed squad</a>    </div>
+
+<div class="XbaRDxYMVF PlUTJQhJ"></div><script async="" src="/js/custom/tm-track-links.min.js" type="module"></script>
+<article data-teads=""></article><script>!function($,s,t,e,i,a,o){s[$]||(s[$]={init:function(){_('i',arguments)},fetchBids:function(){_('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]},(a=t.createElement(e)).async=!0,a.src=i,(o=t.getElementsByTagName(e)[0]).parentNode.insertBefore(a,o));function _(t,e){s[$]._Q.push([t,e])}}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js'),apstag.init({pubID:'5134',adServer:'googletag'}),apstag.fetchBids({slots:[{slotID:'div-gpt-ad-1621524903956-0',slotName:'58778164/Desktop-Billboard-1',sizes:[[960,90],[970,250],[950,90],[728,90],[970,90]]},{slotID:'div-gpt-ad-1621526463511-0',slotName:'58778164/Desktop-MediumRectangle-1',sizes:[[300,250],[336,280]]},{slotID:'div-gpt-ad-1621527521939-0',slotName:'58778164/Desktop-Skyscraper-1',sizes:[[160,600],[336,280],[300,250],[300,600]]},{slotID:'div-gpt-ad-1621528018930-0',slotName:'58778164/Desktop-MediumRectangle-2',sizes:[[336,280],[300,250]]},{slotID:'div-gpt-ad-1621528123398-0',slotName:'58778164/Desktop-Skyscraper-2',sizes:[[300,250],[336,280],[160,600],[300,600]]},{slotID:'div-gpt-ad-1621528173524-0',slotName:'58778164/Desktop-Billboard-2',sizes:[[950,90],[970,250],[728,90],[970,90],[960,90]]},{slotID:'div-gpt-ad-1621534289296-0',slotName:'58778164/Mobile-MediumRectangle-1',sizes:[[300,100],[300,250]]},{slotID:'div-gpt-ad-1621534369294-0',slotName:'58778164/Mobile-Halfpage-1',sizes:[[300,600],[300,250]]},{slotID:'div-gpt-ad-1621534432829-0',slotName:'58778164/Mobile-Sticky',sizes:[[300,50],[320,50]]},],timeout:2e3},function($){googletag.cmd.push(function(){apstag.setDisplayBids(),googletag.pubads().refresh()})});</script>        <div class="flex-container">
+            <div class="box verein-widget zugaenge-widget viewport-tracking" data-viewport="TopTransfers_zugaenge">
+    <div class="sub-kategorie">
+        <h2>Top arrivals</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/kurt-zouma/profil/spieler/157509" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/157509-1647595996.jpg?lm=1" title="Kurt Zouma" alt="Kurt Zouma" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/kurt-zouma/profil/spieler/157509" class="table-link">
+                        <span class="spielername">
+                            Kurt Zouma                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/631.png?lm=1628160548" title="Chelsea" alt="Chelsea" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>35.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/nikola-vlasic/profil/spieler/293200" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/293200-1647595523.png?lm=1" title="Nikola Vlasic" alt="Nikola Vlasic" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/nikola-vlasic/profil/spieler/293200" class="table-link">
+                        <span class="spielername">
+                            Nikola Vlasic                        </span>
+                            <span class="spieler-zusatz">
+                            Attacking Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/2410.png?lm=1409222667" title="CSKA Moscow" alt="CSKA Moscow" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>30.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/alphonse-areola/profil/spieler/120629" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/120629-1663243036.jpg?lm=1" title="Alphonse Areola" alt="Alphonse Areola" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/alphonse-areola/profil/spieler/120629" class="table-link">
+                        <span class="spielername">
+                            Alphonse Areola                        </span>
+                            <span class="spieler-zusatz">
+                            Goalkeeper                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/583.png?lm=1522312728" title="Paris SG" alt="Paris SG" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="leihtext">Loan fee</span><span class="abloeseLeihe"><span class="abloeseZusatz">€</span>2.00<span class="abloeseZusatz">m</span></span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/alex-kral/profil/spieler/337333" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/337333-1660339660.jpg?lm=1" title="Alex Kral" alt="Alex Kral" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/alex-kral/profil/spieler/337333" class="table-link">
+                        <span class="spielername">
+                            Alex Kral                        </span>
+                            <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/232.png?lm=1645543288" title="Spartak Moscow" alt="Spartak Moscow" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="leihtext">Loan fee</span><span class="abloeseLeihe"><span class="abloeseZusatz">€</span>5.20<span class="abloeseZusatz">m</span></span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/craig-dawson/profil/spieler/121477" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/121477-1520417734.jpg?lm=1" title="Craig Dawson" alt="Craig Dawson" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/craig-dawson/profil/spieler/121477" class="table-link">
+                        <span class="spielername">
+                            Craig Dawson                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/1010.png?lm=1468103673" title="Watford" alt="Watford" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>2.30<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/west-ham-united/transferrekorde/verein/379/saison_id/2021" class="content-link">
+            All arrivals        </a>
+        <div class="clearer"></div>
+</div>
+<div class="box verein-widget abgaenge-widget viewport-tracking" data-viewport="TopTransfers_abgaenge">
+    <div class="sub-kategorie">
+        <h2>Top departures</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/felipe-anderson/profil/spieler/159372" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/159372-1606396538.png?lm=1" title="Felipe Anderson" alt="Felipe Anderson" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/felipe-anderson/profil/spieler/159372" class="table-link">
+                        <span class="spielername">
+                            Felipe Anderson                        </span>
+                            <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/398.png?lm=1601537785" title="Lazio" alt="Lazio" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>3.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/fabian-balbuena/profil/spieler/285548" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/285548-1628412348.png?lm=1" title="Fabián Balbuena" alt="Fabián Balbuena" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/fabian-balbuena/profil/spieler/285548" class="table-link">
+                        <span class="spielername">
+                            Fabián Balbuena                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/121.png?lm=1597937447" title="Dynamo Moscow" alt="Dynamo Moscow" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/winston-reid/profil/spieler/37526" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/37526-1598780676.jpg?lm=1" title="Winston Reid" alt="Winston Reid" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/winston-reid/profil/spieler/37526" class="table-link">
+                        <span class="spielername">
+                            Winston Reid                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/515.png?lm=1456997255" title="Without Club" alt="Without Club" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/frederik-alves/profil/spieler/542690" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/542690-1604481861.jpg?lm=1" title="Frederik Alves" alt="Frederik Alves" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/frederik-alves/profil/spieler/542690" class="table-link">
+                        <span class="spielername">
+                            Frederik Alves                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/206.png?lm=1518117616" title="Bröndby IF" alt="Bröndby IF" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>1.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/frederik-alves/profil/spieler/542690" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/542690-1604481861.jpg?lm=1" title="Frederik Alves" alt="Frederik Alves" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/frederik-alves/profil/spieler/542690" class="table-link">
+                        <span class="spielername">
+                            Frederik Alves                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/289.png?lm=1485645633" title="Sunderland" alt="Sunderland" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    loan transfer                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/west-ham-united/rekordabgaenge/verein/379/saison_id/2021" class="content-link">
+            All departures        </a>
+        <div class="clearer"></div>
+</div>
+
+            
+            <div class="clearer"></div>
+        </div>
+        <div class="flex-container">
+            <div class="box verein-widget torschuetzen-widget viewport-tracking" data-viewport="TopTorschuetzen">
+    <div class="sub-kategorie">
+        <h2>Top Goalscorers</h2>
+    </div>
+    <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">Goals</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/jarrod-bowen/profil/spieler/314875" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/314875-1662362005.jpg?lm=1" title="Jarrod Bowen" alt="Jarrod Bowen" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/jarrod-bowen/profil/spieler/314875" class="table-link">
+                        <span class="spielername">
+                            Jarrod Bowen                        </span>
+                        <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        12                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/michail-antonio/profil/spieler/104124" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/104124-1642175096.jpg?lm=1" title="Michail Antonio" alt="Michail Antonio" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/michail-antonio/profil/spieler/104124" class="table-link">
+                        <span class="spielername">
+                            Michail Antonio                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        10                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/said-benrahma/profil/spieler/290532" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/290532-1538466883.jpg?lm=1" title="Saïd Benrahma" alt="Saïd Benrahma" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/said-benrahma/profil/spieler/290532" class="table-link">
+                        <span class="spielername">
+                            Saïd Benrahma                        </span>
+                        <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        8                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/pablo-fornals/profil/spieler/357885" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/357885-1629883796.jpg?lm=1" title="Pablo Fornals" alt="Pablo Fornals" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/pablo-fornals/profil/spieler/357885" class="table-link">
+                        <span class="spielername">
+                            Pablo Fornals                        </span>
+                        <span class="spieler-zusatz">
+                            Attacking Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        6                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/manuel-lanzini/profil/spieler/135853" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/135853-1520606166.jpg?lm=1" title="Manuel Lanzini" alt="Manuel Lanzini" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/manuel-lanzini/profil/spieler/135853" class="table-link">
+                        <span class="spielername">
+                            Manuel Lanzini                        </span>
+                        <span class="spieler-zusatz">
+                            Attacking Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        5                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+        <a href="/west-ham-united/leistungsdaten/verein/379/reldata/GB1%262021" class="content-link">
+        All goalscorers    </a>
+    <div class="clearer"></div>
+</div>
+<div class="box verein-widget vorlagengeber-widget viewport-tracking" data-viewport="TopVorlagengeber">
+    <div class="sub-kategorie">
+        <h2>Most assists</h2>
+    </div>
+    <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">Assists</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/jarrod-bowen/profil/spieler/314875" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/314875-1662362005.jpg?lm=1" title="Jarrod Bowen" alt="Jarrod Bowen" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/jarrod-bowen/profil/spieler/314875" class="table-link">
+                        <span class="spielername">
+                            Jarrod Bowen                        </span>
+                        <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        12                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/michail-antonio/profil/spieler/104124" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/104124-1642175096.jpg?lm=1" title="Michail Antonio" alt="Michail Antonio" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/michail-antonio/profil/spieler/104124" class="table-link">
+                        <span class="spielername">
+                            Michail Antonio                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        8                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/said-benrahma/profil/spieler/290532" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/290532-1538466883.jpg?lm=1" title="Saïd Benrahma" alt="Saïd Benrahma" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/said-benrahma/profil/spieler/290532" class="table-link">
+                        <span class="spielername">
+                            Saïd Benrahma                        </span>
+                        <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        6                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/pablo-fornals/profil/spieler/357885" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/357885-1629883796.jpg?lm=1" title="Pablo Fornals" alt="Pablo Fornals" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/pablo-fornals/profil/spieler/357885" class="table-link">
+                        <span class="spielername">
+                            Pablo Fornals                        </span>
+                        <span class="spieler-zusatz">
+                            Attacking Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        4                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/declan-rice/profil/spieler/357662" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/357662-1624883831.jpg?lm=1" title="Declan Rice" alt="Declan Rice" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/declan-rice/profil/spieler/357662" class="table-link">
+                        <span class="spielername">
+                            Declan Rice                        </span>
+                        <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        4                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+         <a href="/west-ham-united/leistungsdaten/verein/379/reldata/GB1%262021/plus/1" class="content-link">
+        Total ranking    </a>
+    <div class="clearer"></div>
+</div>
+            <div class="clearer"></div>
+        </div>
+        <div class="row">     <div class="large-12 columns" style="margin-top: 10px;">         <div class="box aobj0" style="padding: 10px; display: block;">             <div style="color: #1d75a3; font-family: OSB; font-weight: normal; font-size: 20px; letter-spacing: 0.8px; line-height: 20px; text-transform: uppercase; padding-bottom: 15px; ">DAS KÖNNTE SIE AUCH INTERESSIEREN</div>             <div style="padding: 0;                 position: absolute;                 top: 26px;                 right: 103px;">                 <a href="https://www.outbrain.com/what-is/default/de" rel="nofollow" onclick="OBR.extern.callWhatIs(&quot;https://www.outbrain.com/what-is/default/de&quot;,&quot;&quot;,-1,-1,true ,null);return false" style="                 color: #757575;                 font-size: 11px;                 font-family: arial;                 text-decoration: none;                 display: block;">empfohlen von                     <span class="ob_logo" title="Outbrain - content marketing" style="                         width: 67px;                         height: 12px;                         background: url(https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png) no-repeat center top;                         position: absolute;                         margin-left: 4px;                         float: left;">                         <span style="float: right;                             background-image: url(https://widgets.outbrain.com/images/widgetIcons/achoice.svg);                             background-size: 75% 75%;                             width: 12px;                             height: 12px;                             padding-left: 4px;                             display: inline-block;                             background-repeat: no-repeat;                             background-position: right center;                             border-left: 1px solid #999;                             position: relative;                             left: 17px;">                         </span>                     </span>                 </a>             </div>             <div id="sftb1"> <div id="hnMGpOWVX" class="aAinslRH "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/fMt60I90NVsYDE1iQ5cEbXbWMbgDY5rDuXB47F2BP6ks/7hkIdqJd2eWSQ4X8SnKBVqemvNUs7yjFyETWQ93Ke37Pqi3tpvzezsmU4.gif"></div></div>             <div id="sftb2"> </div>             <div id="sftb3"> </div>             <div id="sftb4"> </div>             <div id="sftb5"> </div>         </div>     </div> </div><div id="recommender" class="box" style="display: none;">
+    <div class="OUTBRAIN" data-src="" data-widget-id="AR_1" data-ob-template="DE_Transfermarkt.de"></div>
+	<script type="text/javascript" src="https://widgets.outbrain.com/outbrain.js"></script>
+</div>
+    </div>
+    <div class="large-4 columns">
+        
+
+
+<tm-next-matches class="viewport-tracking hydrated" data-viewport="Naechste_Begegnungen" locale="en" type="team" identifier="379" translations="{&quot;headline&quot;:&quot;Next matches&quot;,&quot;matchDay&quot;:&quot;Matchday&quot;}" skeleton="tm-next-matches-462031783"><!---->
+    
+            
+    <div class="next-match-headline">Next matches</div><div class="slider"><next-matches-arrows class="hydrated"><div class="next-match-arrows"><button class="next-match-arrow-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z" transform="translate(10 18.707) rotate(180)"></path></svg></button><button class="next-match-arrow-right"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z"></path></svg></button></div></next-matches-arrows><div class="next-match-arrows"></div><div class="slider__slides" data-observe-slider-next-matches=""><div class="slider__box" data-slide-id-next-matches="slide-0"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/16" class="competition-day">16. Matchday</a></div><div class="next-match-competition-time">Saturday, 11/12/2022 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838244" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-1"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/17" class="competition-day">17. Matchday</a></div><div class="next-match-competition-time">Monday, 12/26/2022 - 12:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838252" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-2"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/18" class="competition-day">18. Matchday</a></div><div class="next-match-competition-time">Friday, 12/30/2022 - 11:45 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838270" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-3"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/19" class="competition-day">19. Matchday</a></div><div class="next-match-competition-time">Wednesday, 01/04/2023 - 11:45 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838278" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-4"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/20" class="competition-day">20. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/14/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838795" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-5"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/21" class="competition-day">21. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/21/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838783" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-6"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/22" class="competition-day">22. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/04/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838780" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-7"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/23" class="competition-day">23. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/11/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838761" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-8"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/24" class="competition-day">24. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/18/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838759" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-9"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/25" class="competition-day">25. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/25/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838750" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-10"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/26" class="competition-day">26. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/04/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838737" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-11"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/27" class="competition-day">27. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/11/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838726" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-12"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/28" class="competition-day">28. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/18/2023 - 8:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838717" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-13"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/29" class="competition-day">29. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/01/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838701" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-14"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/30" class="competition-day">30. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/08/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838698" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-15"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/31" class="competition-day">31. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/15/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838677" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-16"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/32" class="competition-day">32. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/22/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838673" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-17"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/33" class="competition-day">33. Matchday</a></div><div class="next-match-competition-time">Tuesday, 04/25/2023 - 11:45 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838655" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-18"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/34" class="competition-day">34. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/29/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838644" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-19"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/35" class="competition-day">35. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/06/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838630" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-20"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/36" class="competition-day">36. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/13/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838615" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-21"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/37" class="competition-day">37. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/20/2023 - 7:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838611" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-22"><div class="next-match-box"><a href="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1" class="next-match-competition">Premier League</a><a href="/wettbewerb/spieltag/wettbewerb/GB1/saison_id/2022/spieltag/38" class="competition-day">38. Matchday</a></div><div class="next-match-competition-time">Sunday, 05/28/2023 - 8:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3838600" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div></div></div><div class="quote-slot" slot="quotes" onclick="tmEvent('werbung','click','begegnungsbox_verein');"><span class="oddsServe" data-match="3838244" data-gameday="16" data-competition="GB1"></span></div><div slot="full-matchplan">
+            <a title="West Ham United" class="content-link" href="/west-ham-united/spielplan/verein/379/saison_id/2021">All fixtures</a>        </div></tm-next-matches>
+
+<script>
+    var nextMatchesEl = document.getElementsByTagName('tm-next-matches')[0];
+    if(nextMatchesEl) {
+        nextMatchesEl.addEventListener('nextMatchesReloadQuotes', (event) => {
+            jQuery(document).trigger('begegnungenVereinSliderLoad', 1);
+        });
+    }
+</script>
+<div id="DGaWAYrNea" class="pRYNcoTNd PlUTJQhJ"><div class="dqPrCEouYM "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/IPBNJZJPCUrBYJfbGrWoIMMFydEc6zE4XZUbSWHnkzgn/7hkIdqJd2eYKBRCwYR7joQ86GZ5PZZEf8tH55bPHK6NqdkIPnrQvFecK0.gif"><style id="vr-rk7qsb6a6i">/*!
+* this is a simplified version of
+* cleanslate
+*   github.com/premasagar/cleanslate
+*
+*/.vr-rk7qsb6a6i-reset,.vr-rk7qsb6a6i-reset *{background-attachment:scroll;background-color:transparent;background-image:none;background-position:0 0;background-repeat:repeat;border-color:black;border-color:currentColor;border-radius:0;border-style:none;border-width:medium;bottom:auto;clear:none;clip:auto;color:inherit;counter-increment:none;counter-reset:none;cursor:auto;direction:inherit;float:none;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:normal;font-weight:inherit;height:auto;left:auto;letter-spacing:normal;line-height:inherit;list-style-type:inherit;list-style-position:outside;list-style-image:none;margin:0;max-height:none;max-width:none;min-height:0;min-width:0;opacity:1;outline:invert none medium;overflow:visible;padding:0;position:static;quotes:'' '';right:auto;table-layout:auto;text-align:inherit;text-decoration:inherit;text-indent:0;text-transform:none;top:auto;unicode-bidi:normal;vertical-align:baseline;visibility:inherit;white-space:normal;width:auto;word-spacing:normal;z-index:auto;background-origin:padding-box;background-clip:border-box;background-size:auto;-o-border-image:none;border-image:none;box-shadow:none;box-sizing:content-box;-webkit-column-count:auto;-moz-column-count:auto;column-count:auto;-webkit-column-gap:normal;-moz-column-gap:normal;column-gap:normal;-webkit-column-rule:medium none black;-moz-column-rule:medium none black;column-rule:medium none black;-webkit-column-span:1;-moz-column-span:1;column-span:1;-webkit-column-width:auto;-moz-column-width:auto;column-width:auto;-webkit-font-feature-settings:normal;font-feature-settings:normal;overflow-x:visible;overflow-y:visible;-webkit-hyphens:manual;hyphens:manual;-webkit-perspective:none;perspective:none;-webkit-perspective-origin:50% 50%;perspective-origin:50% 50%;-webkit-backface-visibility:visible;backface-visibility:visible;text-shadow:none;transition:all 0s ease 0s;-webkit-transform:none;transform:none;-webkit-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transform-style:flat;transform-style:flat;word-break:normal}.vr-rk7qsb6a6i-reset a,.vr-rk7qsb6a6i-reset a:visited{color:inherit;text-decoration:none}.vr-rk7qsb6a6i-reset a,.vr-rk7qsb6a6i-reset a *{cursor:pointer}#viralize-wide-wrapper-rk7qsb6a6i{width:100%;height:0;text-align:center;position:relative}#viralize-wide-wrapper-rk7qsb6a6i div:first-child{background-color:black}#viralize-wide-wrapper-rk7qsb6a6i #vr-rk7qsb6a6i-disclaimer{visibility:hidden;height:20px;line-height:20px;color:black;font-family:'Helvetiva Neue', Helvetica, Arial, sans-serif;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase}#viralize-wide-wrapper-rk7qsb6a6i #vr-rk7qsb6a6i-disclaimer.show{visibility:visible;font-family:'Helvetiva Regular', Helvetica, Arial, sans-serif;color:#c5c5c5}#viralize-native-wrapper-rk7qsb6a6i{width:100%;max-height:0;display:inline-block;height:auto;overflow:hidden}#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip{height:auto}#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-animated{transition:max-height 0.3s ease-in}#viralize-native-rk7qsb6a6i{width:100%;height:0;position:relative;overflow:hidden}#viralize-player-iframe-rk7qsb6a6i{position:absolute;top:0;left:0;z-index:1}@media (orientation: landscape) and (min-width: 1025px){.vr-rk7qsb6a6i-desktop-top{top:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-rk7qsb6a6i-desktop-bottom{bottom:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-rk7qsb6a6i-desktop-top-left{top:20px;left:1%}.vr-rk7qsb6a6i-desktop-top-right{top:20px;right:20px}.vr-rk7qsb6a6i-desktop-bottom-left{bottom:20px;left:20px}.vr-rk7qsb6a6i-desktop-bottom-right{bottom:20px;right:20px}}@media (orientation: landscape) and (max-width: 1024px){.vr-rk7qsb6a6i-mobile-landscape-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-rk7qsb6a6i-mobile-landscape-top.vr-rk7qsb6a6i-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-rk7qsb6a6i-mobile-landscape-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-rk7qsb6a6i-mobile-landscape-bottom.vr-rk7qsb6a6i-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-rk7qsb6a6i-mobile-landscape-top-left{top:5px;left:5px}.vr-rk7qsb6a6i-mobile-landscape-top-right{top:5px;right:5px}.vr-rk7qsb6a6i-mobile-landscape-bottom-left{bottom:5px;left:5px}.vr-rk7qsb6a6i-mobile-landscape-bottom-right{bottom:5px;right:5px}}@media (orientation: portrait){.vr-rk7qsb6a6i-mobile-portrait-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-rk7qsb6a6i-mobile-portrait-top.vr-rk7qsb6a6i-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-rk7qsb6a6i-mobile-portrait-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-rk7qsb6a6i-mobile-portrait-bottom.vr-rk7qsb6a6i-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-rk7qsb6a6i-mobile-portrait-top-left{top:5px;left:5px}.vr-rk7qsb6a6i-mobile-portrait-top-right{top:5px;right:5px}.vr-rk7qsb6a6i-mobile-portrait-bottom-left{bottom:5px;left:5px}.vr-rk7qsb6a6i-mobile-portrait-bottom-right{bottom:5px;right:5px}}#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip{position:fixed;z-index:2147483647;width:25%}@media (orientation: landscape) and (max-width: 2140px){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-medium{width:400px}#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-large{width:535px}}@media (orientation: portrait){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip{width:90%}}@media (orientation: landscape) and (min-width: 1921px){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-aspect-ratio-square{width:450px}}@media (orientation: landscape) and (max-width: 1920px){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-aspect-ratio-square{width:300px}}@media (orientation: portrait){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-aspect-ratio-square{width:90%}}@media (orientation: landscape) and (min-width: 1601px){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-aspect-ratio-portrait{width:300px}}@media (orientation: landscape) and (max-width: 1600px){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-aspect-ratio-portrait{width:226px}}@media (orientation: portrait){#viralize-native-wrapper-rk7qsb6a6i.vr-rk7qsb6a6i-vip.vr-rk7qsb6a6i-aspect-ratio-portrait{width:50%}}
+</style><div id="viralize-wide-wrapper-rk7qsb6a6i" class="vr-rk7qsb6a6i-native vr-rk7qsb6a6i-wide-wrapper vr-rk7qsb6a6i-reset"><p id="vr-rk7qsb6a6i-disclaimer">Advertisement</p><div id="viralize-native-wrapper-rk7qsb6a6i" class="vr-rk7qsb6a6i-native vr-rk7qsb6a6i-native-wrapper"><div id="viralize-native-rk7qsb6a6i" class="vr-rk7qsb6a6i-native vr-rk7qsb6a6i-native-element" style="height: auto; padding-bottom: 56.25%;"><iframe id="viralize-player-iframe-rk7qsb6a6i" src="about:blank" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allow="autoplay; fullscreen" width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" class="vr-rk7qsb6a6i-native vr-rk7qsb6a6i-frame" style="width: 100%; height: 100%; max-height: 0px;"></iframe></div></div></div><script type="text/javascript" data-wid="auto" src="https://content.viralize.tv/display/?zid=AAEiXtWFbVzM5lZh&amp;u=https%3A%2F%2Fwww.transfermarkt.com%2Fwest-ham-united%2Fstartseite%2Fverein%2F379%3Fsaison_id%3D2021" data-injected="true"></script></div></div><div class="werbung werbung-rectangle1 nkfusHid"><!-- /58778164/Desktop-MediumRectangle-1 -->
+                        <div id="div-gpt-ad-1621526463511-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621526463511-0"); });
+                          </script>
+                        </div></div><tm-groundhopping-widget class="viewport-tracking hydrated" data-viewport="Groundhopping" raw-data="{&quot;headline&quot;:&quot;Groundhopping&quot;,&quot;clubname&quot;:&quot;West Ham&quot;,&quot;description&quot;:&quot;Have you seen West Ham live?&quot;,&quot;link&quot;:{&quot;text&quot;:&quot;Register now&quot;,&quot;url&quot;:&quot;\/profil\/registrieren&quot;}}"><section class="groundhopping-box"><h2 class="content-box-headline">Groundhopping</h2><p class="groundhopping-box__description">Have you seen West Ham live?</p><a class="groundhopping-box__link content-link" href="/profil/registrieren">Register now</a></section></tm-groundhopping-widget>
+<div class="box saison-bilanz viewport-tracking" data-viewport="Saisonbilanz">
+            <h2 class="content-box-headline">
+            Season record 21/22        </h2>
+        <table>
+        <thead>
+        <tr>
+            <th colspan="2">Competition</th>
+            <th class="rechts">Achieve</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="EFL Cup" href="/efl-cup/startseite/pokalwettbewerb/CGB/saison_id/2021">EFL Cup</a></td>
+
+                <td class="rechts">
+                    Quarter-Finals                </td>
+            </tr>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="Europa League" href="/europa-league/startseite/pokalwettbewerb/EL/saison_id/2021">Europa League</a></td>
+
+                <td class="rechts">
+                    Semi-Finals                </td>
+            </tr>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="FA Cup" href="/fa-cup/startseite/pokalwettbewerb/FAC/saison_id/2021">FA Cup</a></td>
+
+                <td class="rechts">
+                    Fifth Round                </td>
+            </tr>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="Premier League" href="/premier-league/startseite/wettbewerb/GB1/saison_id/2021">Premier League</a></td>
+
+                <td class="rechts">
+                    7th                </td>
+            </tr>
+        
+        </tbody>
+
+    </table>
+    <a title="West Ham United" class="content-link" href="/west-ham-united/erfolge/verein/379">View achievements</a></div>
+<div class="box viewport-tracking" data-viewport="Tabelle">
+    <h2 class="content-box-headline">
+        Table section Premier League 21/22    </h2>
+    <table>
+        <thead>
+        <tr>
+            <th class="zentriert">#</th>
+            <th colspan="2">club</th>
+            <th class="zentriert">Matches</th>
+
+            <th class="zentriert">+/-</th>
+            <th class="zentriert">Pts</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td style="background-color:" class="zentriert">4</td>
+                <td class="zentriert no-border-rechts"><a title="Tottenham Hotspur" href="/tottenham-hotspur/startseite/verein/148/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/148.png?lm=1544345801" title="Tottenham Hotspur" alt="Tottenham Hotspur" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Tottenham Hotspur" href="/tottenham-hotspur/startseite/verein/148/saison_id/2021">Spurs</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">29</td>
+                                <td class="zentriert">71</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">5</td>
+                <td class="zentriert no-border-rechts"><a title="Arsenal FC" href="/fc-arsenal/startseite/verein/11/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/11.png?lm=1489787850" title="Arsenal FC" alt="Arsenal FC" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Arsenal FC" href="/fc-arsenal/startseite/verein/11/saison_id/2021">Arsenal</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">13</td>
+                                <td class="zentriert">69</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">6</td>
+                <td class="zentriert no-border-rechts"><a title="Manchester United" href="/manchester-united/startseite/verein/985/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/985.png?lm=1457975903" title="Manchester United" alt="Manchester United" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Manchester United" href="/manchester-united/startseite/verein/985/saison_id/2021">Man Utd</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">0</td>
+                                <td class="zentriert">58</td>
+            </tr>
+                    <tr class="table-highlight">
+                <td style="background-color:" class="zentriert">7</td>
+                <td class="zentriert no-border-rechts"><a title="West Ham United" href="/west-ham-united/startseite/verein/379/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="West Ham United" href="/west-ham-united/startseite/verein/379/saison_id/2021">West Ham</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">9</td>
+                                <td class="zentriert">56</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">8</td>
+                <td class="zentriert no-border-rechts"><a title="Leicester City" href="/leicester-city/startseite/verein/1003/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1003.png?lm=1472229265" title="Leicester City" alt="Leicester City" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Leicester City" href="/leicester-city/startseite/verein/1003/saison_id/2021">Leicester</a>                    <a href="#"><img src="https://tmssl.akamaized.net/images/erfolge/mini/29.png?lm=1520606999" title="FA Cup Winner 2021" alt="FA Cup Winner 2021" class="tabelle-erfolg"></a>                </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">3</td>
+                                <td class="zentriert">52</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">9</td>
+                <td class="zentriert no-border-rechts"><a title="Brighton &amp; Hove Albion" href="/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1237.png?lm=1492718902" title="Brighton &amp; Hove Albion" alt="Brighton &amp; Hove Albion" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Brighton &amp; Hove Albion" href="/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2021">Brighton</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-2</td>
+                                <td class="zentriert">51</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">10</td>
+                <td class="zentriert no-border-rechts"><a title="Wolverhampton Wanderers" href="/wolverhampton-wanderers/startseite/verein/543/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/543.png?lm=1467496784" title="Wolverhampton Wanderers" alt="Wolverhampton Wanderers" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Wolverhampton Wanderers" href="/wolverhampton-wanderers/startseite/verein/543/saison_id/2021">Wolves</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-5</td>
+                                <td class="zentriert">51</td>
+            </tr>
+                </tbody>
+    </table>
+    <a title="To complete table" class="content-link" href="/premier-league/tabelle/wettbewerb/GB1/saison_id/2021">To complete table</a></div>
+<div class="box box-slider viewport-tracking" data-viewport="Mitarbeiter_Historie">
+    <div class="container">
+        <span class="mitarbeiterVereinSlider-prev"><a class="bx-prev disabled" href=""> </a></span>
+                    <h2 class="text">
+                <span>Coach for the season 21/22</span>
+            </h2>
+                <span class="mitarbeiterVereinSlider-next"><a class="bx-next disabled" href=""> </a></span>
+    </div>
+    <div class="clearer">
+        <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 196px;"><ul class="mitarbeiterVereinSlider slider-list" style="width: auto; position: relative;">
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 50; display: block;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/450-1667898089.jpg?lm=1" title="David Moyes" alt="David Moyes" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="David Moyes" id="0" href="/david-moyes/profil/trainer/450">David Moyes</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                58 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/190.png?lm=1520611569" title="Scotland" alt="Scotland" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                Dec 29, 2019                                <br>
+                                <b>Departure :</b>
+                                -                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/david-moyes/leistungsdatenDetail/trainer/450/verein_id/379/saison_id/2021">56</a>                                        </td>
+                                        <td class="zentriert">26</td>
+                                        <td class="zentriert">10</td>
+                                        <td class="zentriert">20</td>
+                                        <td class="zentriert">
+                                            <a href="/david-moyes/leistungsdatenDetail/trainer/450/verein_id/379/saison_id/2021">1.57</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                    </ul></div><div class="bx-controls"></div></div>
+    </div>
+    <div class="c2action-footer bxPagerParent">
+        <span class="bxPagerCustomMitarbeiter"><div class="bx-pager bx-default-pager">1 / 1</div></span>
+        <a title="West Ham United" href="/west-ham-united/mitarbeiterhistorie/verein/379">Go to coach history</a>    </div>
+</div>
+<div class="box viewport-tracking transfer-record" data-viewport="Transferbilanz">
+    <h2 class="content-box-headline">
+        Transfer record 21/22    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th class="transfer-record__header"></th>
+                <th class="zentriert transfer-record__header">Arrivals/Departures</th>
+                <th class="transfer-record__header transfer-record__header--right">Fee</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="transfer-record__revenue">
+                <td class="transfer-record__text">Income</td>
+                <td class="zentriert test-class transfer-record__text">6</td>
+                <td class="transfer-record__total transfer-record__total--positive">
+                    <span class="abloeseZusatz">€</span>4.24<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+            <tr class="transfer-record__expenses">
+                <td class="transfer-record__text">Expenditure</td>
+                <td class="zentriert transfer-record__text">9</td>
+                <td class="transfer-record__total transfer-record__total--negative">
+                    <span class="abloeseZusatz">€</span>74.50<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="transfer-record__text transfer-record__text--bold" colspan="2">Overall balance</td>
+                <td class="redtext rechts transfer-record__total">
+                    <span class="abloeseZusatz">€</span>-70.27<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+        </tfoot>
+    </table>
+    <a title="West Ham United" class="content-link" href="/west-ham-united/transfers/verein/379/saison_id/2021">All transfers</a></div>
+<div class="DGalxHp "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/X7DtoRDtPJ8kbVp1QH5PdNTFCOjf6SgKn5fZVpZFMcXz/7hkIdqJd2eNUZG9ZhTuvDvRciijfhuw9Ptc9PB3OdTdzSq1RNBp1nG6VH.gif"></div><div class="werbung werbung-rectangle2 nkfusHid"><!-- /58778164/Desktop-MediumRectangle-2 -->
+                        <div id="div-gpt-ad-1621528018930-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528018930-0"); });
+                          </script>
+                        </div></div>    </div>
+</div>
+                    </main>
+
+        <footer>
+            
+
+<div class="tm-footer">
+            <a href="/" class="tm-footer__logo">
+          <img src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" alt="Transfermarkt" height="33" width="80">
+        </a>
+      <ul class="tm-footer__links">
+    <li class="tm-footer__links-item">
+      <a href="/intern/impressum">
+          Legal notice      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/web/datenschutz">
+          Data protection      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="javascript:void(0)" class="cmp-link">
+          Privacy      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/anb">
+          General terms of use      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/tmteam">
+          The TM team      </a>
+    </li>
+                        <li class="tm-footer__links-item">
+      <a href="/intern/faq">
+          FAQ      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/fehlermelden">
+          Found a mistake?      </a>
+    </li>
+  </ul>
+</div>
+        </footer>
+                    <div id="menue_overlay"></div>
+</div><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+                        <script type="text/javascript">
+                var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r",
+"co":""
+}
+            </script>
+                        <script type="module">
+                var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};
+            </script>
+                        <script type="text/javascript">
+                if(typeof IOMm === 'function') {
+                    IOMm('configure', { st: iam_data.st, dn: 'data-84a0f3455d.transfermarkt.com', mh:5 });
+                    IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+                } else {
+                    console.warn('IOMm is not defined');
+                }
+            </script>
+            <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script><img src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk">
+
+	<!-- Adition -->
+	<div id="oddsServe">
+	<script type="text/javascript">
+		adition.srq.push(function(api) {
+			api.renderSlot("oddsServe");
+		})
+	</script>
+	</div>
+
+            <script type="module" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.esm.js" defer=""></script><script nomodule="" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.js" defer=""></script>    <script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1667566935"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-menu.min.js?lm=1667566934"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1667566934"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+function skyscraperSwitch() {
+                const firstAd = document.getElementsByClassName("werbung-skyscraper");
+                const secondAd = document.getElementsByClassName("werbung-skyscraperbtf")
+                if (this.scrollY > 699) {
+                    firstAd[0].style.visibility = "hidden";
+                    secondAd[0].style.position = "fixed";
+                    secondAd[0].style.top = "40px";
+                } else {
+                    firstAd[0].style.visibility = "visible";
+                    secondAd[0].style.position = "relative";
+                    secondAd[0].style.top = "unset";
+                }
+            }
+            window.addEventListener("scroll", skyscraperSwitch, false);
+	var loginUrl='/profil/login';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function sendIvwData(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_t",
+"co":""
+}
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_r",
+"co":""
+}
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_forum",
+"co":""
+}
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_s",
+"co":""
+}
+
+    }
+    if(typeof IOMm === 'function') {
+        IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+    }
+}
+jQuery(function($) {
+jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','afterAjaxUpdate':function() {window.LazyLoadInstance.update(); tmTrackingAndAds(); trackLinks(); document.dispatchEvent(new CustomEvent("tmInitTooltip"));}});
+
+    mitarbeiterVereinSlider = $('.mitarbeiterVereinSlider').bxSlider({
+        mode: 'fade',
+        prevSelector: '.mitarbeiterVereinSlider-prev',
+        prevText: ' ',
+        nextSelector: '.mitarbeiterVereinSlider-next',
+        nextText: ' ',
+        pager: true,
+        pagerType: 'short',
+        pagerSelector: '.bxPagerCustomMitarbeiter',
+        responsive: true,
+        adaptiveHeight: true,
+    });
+
+});
+/*]]>*/
+</script>
+
+
+
+<script src="https://static.criteo.net/js/ld/publishertag.js"></script><script>window.Criteo = window.Criteo || {}; window.Criteo.events = window.Criteo.events || [];</script><ins id="113"><script language="javascript" type="text/javascript">
+	s = document.createElement('script');
+	s.src='https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r='+Math.round(Math.random()*99999999999); 
+	document.body.append(s);
+</script></ins><ins id="3"><script>
+	// Smart RTB+ force cookie-sync code - https only - 2020-02-04
+       var c ={
+           'insertionId' : 5733718,
+           'pageId' : 1473518,
+           'domain' : 'www8.smartadserver.com'
+       }
+       var h = document.getElementsByTagName('head')[0];
+       var sl = document.createElement('script');
+       sl.type = 'text/javascript';
+       sl.src =  'https://'+ c.domain+'/ac?pgid='+c.pageId+'&insid='+c.insertionId+'&tmstp='+Math.round(Math.random()*10000000000)+'&out=js';
+       sl.async = true;
+       h.appendChild(sl);
+</script></ins><ins id="1"><img src="//ads.stickyadstv.com/auto-user-sync" style="display:none;" width="1" height="1"></ins><ins id="219"><iframe src="https://csync-global.smartadserver.com/2058/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="166"><iframe src="https://csync-global.smartadserver.com/2161/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="42"><iframe src="https://csync-global.smartadserver.com/3668/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><script src="https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r=34084182422"></script><iframe referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/jHVtjngWUHVGhxKfGIG7FNhBl12175GWQO6XDZT6GiCe/7hkIdqJd2eZTTjRYUilQd0Dwl6PXIo3Hv4TW73Wh4iIUQt1jFJxf2ngqv.gif" style="width: 2px; height: 2px;"></iframe></body>

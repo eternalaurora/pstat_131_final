@@ -1,0 +1,3854 @@
+﻿id,squad,player,position
+1,Alavés,Fernando Pacheco,Goalkeeper
+2,Alavés,Antonio Sivera,Goalkeeper
+3,Alavés,Jesús Owono,Goalkeeper
+4,Alavés,Adrián Rodríguez,Goalkeeper
+5,Alavés,Óscar Medina,Goalkeeper
+6,Alavés,Iván Sanz,Goalkeeper
+7,Alavés,Matt Miazga,Centre-Back
+8,Alavés,Víctor Laguardia,Centre-Back
+9,Alavés,Florian Lejeune,Centre-Back
+10,Alavés,Tachi,Centre-Back
+11,Alavés,Abdel Abqar,Centre-Back
+12,Alavés,Rubén Duarte,Left-Back
+13,Alavés,Javi López,Left-Back
+14,Alavés,Saúl García,Left-Back
+15,Alavés,Nahuel Tenaglia,Right-Back
+16,Alavés,Martín Aguirregabiria,Right-Back
+17,Alavés,Ximo Navarro,Right-Back
+18,Alavés,Alexandru Tirlea,Right-Back
+19,Alavés,Mamadou Loum,Defensive Midfield
+20,Alavés,Pere Pons,Defensive Midfield
+21,Alavés,Antonio Perera,Defensive Midfield
+22,Alavés,Gonzalo Escalante,Central Midfield
+23,Alavés,Toni Moya,Central Midfield
+24,Alavés,Tomás Pina,Central Midfield
+25,Alavés,Álex Balboa,Central Midfield
+26,Alavés,Tomás Mendes,Central Midfield
+27,Alavés,Manu García,Attacking Midfield
+28,Alavés,Iván Martín,Attacking Midfield
+29,Alavés,Manu Vallejo,Left Winger
+30,Alavés,Luis Rioja,Left Winger
+31,Alavés,Facundo Pellistri,Right Winger
+32,Alavés,Jason,Right Winger
+33,Alavés,Edgar Méndez,Right Winger
+34,Alavés,Unai Ropero,Right Winger
+35,Alavés,Joselu,Centre-Forward
+36,Alavés,Lucas Pérez,Centre-Forward
+37,Alavés,Miguel de la Fuente,Centre-Forward
+38,Alavés,Taichi Hara,Centre-Forward
+39,Alavés,Mamadou Sylla,Centre-Forward
+40,Alavés,John Guidetti,Centre-Forward
+41,Alavés,Marc Tenas,Centre-Forward
+42,Alavés,Giorgi Gagua,Centre-Forward
+43,Alavés,Alan Godoy,Centre-Forward
+44,Angers,Paul Bernardoni,Goalkeeper
+45,Angers,Anthony Mandréa,Goalkeeper
+46,Angers,Danijel Petkovic,Goalkeeper
+47,Angers,Romain Thomas,Centre-Back
+48,Angers,Vincent Manceau,Centre-Back
+49,Angers,Ismaël Traoré,Centre-Back
+50,Angers,Kévin Boma,Centre-Back
+51,Angers,Daylam Meddah,Centre-Back
+52,Angers,Souleyman Doumbia,Left-Back
+53,Angers,Enzo Ebosse,Left-Back
+54,Angers,Abdoulaye Bamba,Right-Back
+55,Angers,Ali Kalla,Right-Back
+56,Angers,Batista Mendy,Defensive Midfield
+57,Angers,Zinédine Ould Khaled,Defensive Midfield
+58,Angers,Nabil Bentaleb,Central Midfield
+59,Angers,Azzedine Ounahi,Central Midfield
+60,Angers,Antonin Bobichon,Central Midfield
+61,Angers,Thomas Mangani,Central Midfield
+62,Angers,Yassin Belkhdim,Central Midfield
+63,Angers,Mattéo Corduan,Central Midfield
+64,Angers,Jimmy Cabot,Right Midfield
+65,Angers,Mathias Pereira Lage,Right Midfield
+66,Angers,Pierrick Capelle,Left Midfield
+67,Angers,Angelo Fulgini,Attacking Midfield
+68,Angers,Waniss Taïbi,Attacking Midfield
+69,Angers,Sofiane Boufal,Left Winger
+70,Angers,Billal Brahimi,Left Winger
+71,Angers,Casimir Ninga,Left Winger
+72,Angers,Marin Jakolis,Left Winger
+73,Angers,Farid El Melali,Left Winger
+74,Angers,Jason Mbock,Left Winger
+75,Angers,Sada Thioub,Right Winger
+76,Angers,Noah Fatar,Right Winger
+77,Angers,Momo Cho,Centre-Forward
+78,Angers,Stéphane Bahoken,Centre-Forward
+79,Angers,Rachid Alioui,Centre-Forward
+80,Angers,Frank Magri,Centre-Forward
+81,Angers,Guédé Nadje,Centre-Forward
+82,Arminia,Stefan Ortega,Goalkeeper
+83,Arminia,Stefanos Kapino,Goalkeeper
+84,Arminia,Oscar Linnér,Goalkeeper
+85,Arminia,Arne Schulz,Goalkeeper
+86,Arminia,Amos Pieper,Centre-Back
+87,Arminia,Joakim Nilsson,Centre-Back
+88,Arminia,Guilherme Ramos,Centre-Back
+89,Arminia,Andrés Andrade,Centre-Back
+90,Arminia,Mike van der Hoorn,Centre-Back
+91,Arminia,Nathan de Medina,Centre-Back
+92,Arminia,Kenson Pierre Bauer,Centre-Back
+93,Arminia,George Bello,Left-Back
+94,Arminia,Lennart Czyborra,Left-Back
+95,Arminia,Jacob Barrett Laursen,Left-Back
+96,Arminia,Cédric Brunner,Right-Back
+97,Arminia,Manuel Prietl,Defensive Midfield
+98,Arminia,Fabian Kunze,Defensive Midfield
+99,Arminia,Julian Frommann,Defensive Midfield
+100,Arminia,Alessandro Schöpf,Central Midfield
+101,Arminia,Edimilson Fernandes,Central Midfield
+102,Arminia,Marcel Hartel,Central Midfield
+103,Arminia,Sebastian Vasiliadis,Central Midfield
+104,Arminia,Burak Ince,Central Midfield
+105,Arminia,Gonzalo Castro,Central Midfield
+106,Arminia,Masaya Okugawa,Attacking Midfield
+107,Arminia,Vladislav Cherny,Attacking Midfield
+108,Arminia,Cem-Ali Dogan,Attack
+109,Arminia,Robin Hack,Left Winger
+110,Arminia,Patrick Wimmer,Right Winger
+111,Arminia,Bryan Lasme,Right Winger
+112,Arminia,Christian Gebauer,Right Winger
+113,Arminia,Florian Krüger,Centre-Forward
+114,Arminia,Janni Serra,Centre-Forward
+115,Arminia,Fabian Klos,Centre-Forward
+116,Arsenal,Aaron Ramsdale,Goalkeeper
+117,Arsenal,Bernd Leno,Goalkeeper
+118,Arsenal,Arthur Okonkwo,Goalkeeper
+119,Arsenal,Karl Hein,Goalkeeper
+120,Arsenal,Ben White,Centre-Back
+121,Arsenal,Gabriel Magalhães,Centre-Back
+122,Arsenal,Calum Chambers,Centre-Back
+123,Arsenal,Rob Holding,Centre-Back
+124,Arsenal,Pablo Marí,Centre-Back
+125,Arsenal,Mazeed Ogungbo,Centre-Back
+126,Arsenal,Alex Kirk,Centre-Back
+127,Arsenal,Zach Awe,Centre-Back
+128,Arsenal,Kieran Tierney,Left-Back
+129,Arsenal,Sead Kolasinac,Left-Back
+130,Arsenal,Takehiro Tomiyasu,Right-Back
+131,Arsenal,Héctor Bellerín,Right-Back
+132,Arsenal,Cédric Soares,Right-Back
+133,Arsenal,Ryan Alebiosu,Right-Back
+134,Arsenal,Zak Swanson,Right-Back
+135,Arsenal,Thomas Partey,Defensive Midfield
+136,Arsenal,Mohamed Elneny,Defensive Midfield
+137,Arsenal,Granit Xhaka,Central Midfield
+138,Arsenal,Albert Sambi Lokonga,Central Midfield
+139,Arsenal,Charlie Patino,Central Midfield
+140,Arsenal,Miguel Azeez,Central Midfield
+141,Arsenal,Salah-Eddine Oulad M'Hand,Central Midfield
+142,Arsenal,Bukayo Saka,Right Midfield
+143,Arsenal,Ainsley Maitland-Niles,Right Midfield
+144,Arsenal,Nuno Tavares,Left Midfield
+145,Arsenal,Martin Ødegaard,Attacking Midfield
+146,Arsenal,Emile Smith Rowe,Attacking Midfield
+147,Arsenal,Marcelo Flores,Attacking Midfield
+148,Arsenal,Omari Hutchinson,Attacking Midfield
+149,Arsenal,Gabriel Martinelli,Left Winger
+150,Arsenal,Nicolas Pépé,Right Winger
+151,Arsenal,Reiss Nelson,Right Winger
+152,Arsenal,Eddie Nketiah,Centre-Forward
+153,Arsenal,Pierre-Emerick Aubameyang,Centre-Forward
+154,Arsenal,Alexandre Lacazette,Centre-Forward
+155,Arsenal,Folarin Balogun,Centre-Forward
+156,Arsenal,Mika Biereth,Centre-Forward
+157,Aston Villa,Emiliano Martínez,Goalkeeper
+158,Aston Villa,Robin Olsen,Goalkeeper
+159,Aston Villa,Jed Steer,Goalkeeper
+160,Aston Villa,Viljami Sinisalo,Goalkeeper
+161,Aston Villa,Filip Marshall,Goalkeeper
+162,Aston Villa,Tyrone Mings,Centre-Back
+163,Aston Villa,Ezri Konsa,Centre-Back
+164,Aston Villa,Calum Chambers,Centre-Back
+165,Aston Villa,Axel Tuanzebe,Centre-Back
+166,Aston Villa,Kortney Hause,Centre-Back
+167,Aston Villa,Lamare Bogarde,Centre-Back
+168,Aston Villa,Sil Swinkels,Centre-Back
+169,Aston Villa,Josh Feeney,Centre-Back
+170,Aston Villa,Lucas Digne,Left-Back
+171,Aston Villa,Matt Targett,Left-Back
+172,Aston Villa,Ashley Young,Left-Back
+173,Aston Villa,Ben Chrisene,Left-Back
+174,Aston Villa,Matty Cash,Right-Back
+175,Aston Villa,Frédéric Guilbert,Right-Back
+176,Aston Villa,Kaine Kesler-Hayden,Right-Back
+177,Aston Villa,Douglas Luiz,Defensive Midfield
+178,Aston Villa,Marvelous Nakamba,Defensive Midfield
+179,Aston Villa,Hayden Lindley,Defensive Midfield
+180,Aston Villa,John McGinn,Central Midfield
+181,Aston Villa,Jacob Ramsey,Central Midfield
+182,Aston Villa,Morgan Sanson,Central Midfield
+183,Aston Villa,Carney Chukwuemeka,Central Midfield
+184,Aston Villa,Tim Iroegbunam,Central Midfield
+185,Aston Villa,Conor Hourihane,Central Midfield
+186,Aston Villa,Aaron Ramsey,Attacking Midfield
+187,Aston Villa,Tommi O'Reilly,Attacking Midfield
+188,Aston Villa,Leon Bailey,Left Winger
+189,Aston Villa,Philippe Coutinho,Left Winger
+190,Aston Villa,Mahmoud Trezeguet,Left Winger
+191,Aston Villa,Jaden Philogene,Left Winger
+192,Aston Villa,Emiliano Buendía,Right Winger
+193,Aston Villa,Bertrand Traoré,Right Winger
+194,Aston Villa,Anwar El Ghazi,Right Winger
+195,Aston Villa,Ollie Watkins,Centre-Forward
+196,Aston Villa,Danny Ings,Centre-Forward
+197,Aston Villa,Wesley Moraes,Centre-Forward
+198,Aston Villa,Cameron Archer,Centre-Forward
+199,Aston Villa,Keinan Davis,Centre-Forward
+200,Aston Villa,Caleb Chukwuemeka,Centre-Forward
+201,Atalanta,Juan Musso,Goalkeeper
+202,Atalanta,Marco Sportiello,Goalkeeper
+203,Atalanta,Jacopo Sassi,Goalkeeper
+204,Atalanta,Matevz Dajcar,Goalkeeper
+205,Atalanta,Francesco Rossi,Goalkeeper
+206,Atalanta,Tommaso Bertini,Goalkeeper
+207,Atalanta,Merih Demiral,Centre-Back
+208,Atalanta,Berat Djimsiti,Centre-Back
+209,Atalanta,Giorgio Scalvini,Centre-Back
+210,Atalanta,Rafael Tolói,Centre-Back
+211,Atalanta,José Luis Palomino,Centre-Back
+212,Atalanta,Matteo Lovato,Centre-Back
+213,Atalanta,Bosko Sutalo,Centre-Back
+214,Atalanta,Giorgio Cittadini,Centre-Back
+215,Atalanta,Joakim Maehle,Left-Back
+216,Atalanta,Giuseppe Pezzella,Left-Back
+217,Atalanta,Hans Hateboer,Right-Back
+218,Atalanta,Davide Zappacosta,Right-Back
+219,Atalanta,Enrico Del Prato,Right-Back
+220,Atalanta,Teun Koopmeiners,Defensive Midfield
+221,Atalanta,Marten de Roon,Defensive Midfield
+222,Atalanta,Simone Panada,Defensive Midfield
+223,Atalanta,Remo Freuler,Central Midfield
+224,Atalanta,Jacopo Da Riva,Central Midfield
+225,Atalanta,Alassane Sidibe,Central Midfield
+226,Atalanta,Samuel Giovane,Central Midfield
+227,Atalanta,Federico Zuccon,Central Midfield
+228,Atalanta,Andrea Oliveri,Right Midfield
+229,Atalanta,Guillaume Renault,Right Midfield
+230,Atalanta,Robin Gosens,Left Midfield
+231,Atalanta,Ruslan Malinovskyi,Attacking Midfield
+232,Atalanta,Mario Pasalic,Attacking Midfield
+233,Atalanta,Matteo Pessina,Attacking Midfield
+234,Atalanta,Aleksey Miranchuk,Attacking Midfield
+235,Atalanta,Jérémie Boga,Left Winger
+236,Atalanta,Valentin Mihaila,Left Winger
+237,Atalanta,Bryan Cabezas,Left Winger
+238,Atalanta,Josip Ilicic,Second Striker
+239,Atalanta,Tommaso De Nipoti,Second Striker
+240,Atalanta,Duván Zapata,Centre-Forward
+241,Atalanta,Luis Muriel,Centre-Forward
+242,Atalanta,Roberto Piccoli,Centre-Forward
+243,Atalanta,Sam Lammers,Centre-Forward
+244,Atalanta,Moustapha Cissé,Centre-Forward
+245,Athletic Club,Unai Simón,Goalkeeper
+246,Athletic Club,Julen Agirrezabala,Goalkeeper
+247,Athletic Club,Jokin Ezkieta,Goalkeeper
+248,Athletic Club,Ander Iru,Goalkeeper
+249,Athletic Club,Iñigo Martínez,Centre-Back
+250,Athletic Club,Yeray Álvarez,Centre-Back
+251,Athletic Club,Dani Vivian,Centre-Back
+252,Athletic Club,Unai Núñez,Centre-Back
+253,Athletic Club,Aitor Paredes,Centre-Back
+254,Athletic Club,Yuri Berchiche,Left-Back
+255,Athletic Club,Mikel Balenziaga,Left-Back
+256,Athletic Club,Iñigo Lekue,Right-Back
+257,Athletic Club,Ander Capa,Right-Back
+258,Athletic Club,Óscar de Marcos,Right-Back
+259,Athletic Club,Álex Petxa,Right-Back
+260,Athletic Club,Mikel Vesga,Defensive Midfield
+261,Athletic Club,Peru Nolaskoain,Defensive Midfield
+262,Athletic Club,Unai Vencedor,Central Midfield
+263,Athletic Club,Oier Zarraga,Central Midfield
+264,Athletic Club,Dani García,Central Midfield
+265,Athletic Club,Iker Muniain,Attacking Midfield
+266,Athletic Club,Oihan Sancet,Attacking Midfield
+267,Athletic Club,Jon Morcillo,Left Winger
+268,Athletic Club,Nico Serrano,Left Winger
+269,Athletic Club,Luis Bilbao,Left Winger
+270,Athletic Club,Álex Berenguer,Right Winger
+271,Athletic Club,Nico Williams,Right Winger
+272,Athletic Club,Juan Artola,Right Winger
+273,Athletic Club,Iñaki Williams,Centre-Forward
+274,Athletic Club,Asier Villalibre,Centre-Forward
+275,Athletic Club,Raúl García,Centre-Forward
+276,Atlético Madrid,Jan Oblak,Goalkeeper
+277,Atlético Madrid,Benjamin Lecomte,Goalkeeper
+278,Atlético Madrid,Ivo Grbic,Goalkeeper
+279,Atlético Madrid,Christian Gómez,Goalkeeper
+280,Atlético Madrid,Alejandro Iturbe,Goalkeeper
+281,Atlético Madrid,Antonio Gomis,Goalkeeper
+282,Atlético Madrid,José María Giménez,Centre-Back
+283,Atlético Madrid,Mario Hermoso,Centre-Back
+284,Atlético Madrid,Stefan Savic,Centre-Back
+285,Atlético Madrid,Nehuén Pérez,Centre-Back
+286,Atlético Madrid,Felipe,Centre-Back
+287,Atlético Madrid,Marco Moreno,Centre-Back
+288,Atlético Madrid,Fran González,Centre-Back
+289,Atlético Madrid,Manu Lama,Centre-Back
+290,Atlético Madrid,Joan Rojas,Centre-Back
+291,Atlético Madrid,Ibra Cámara,Centre-Back
+292,Atlético Madrid,Renan Lodi,Left-Back
+293,Atlético Madrid,Reinildo Mandava,Left-Back
+294,Atlético Madrid,Kieran Trippier,Right-Back
+295,Atlético Madrid,Sime Vrsaljko,Right-Back
+296,Atlético Madrid,Sergio Camus,Right-Back
+297,Atlético Madrid,Sergio Diez,Right-Back
+298,Atlético Madrid,Geoffrey Kondogbia,Defensive Midfield
+299,Atlético Madrid,Marcos Llorente,Central Midfield
+300,Atlético Madrid,Rodrigo de Paul,Central Midfield
+301,Atlético Madrid,Koke,Central Midfield
+302,Atlético Madrid,Saúl Ñíguez,Central Midfield
+303,Atlético Madrid,Daniel Wass,Central Midfield
+304,Atlético Madrid,Héctor Herrera,Central Midfield
+305,Atlético Madrid,Javi Serrano,Central Midfield
+306,Atlético Madrid,Alberto Moreno,Central Midfield
+307,Atlético Madrid,Pablo Barrios,Central Midfield
+308,Atlético Madrid,Thomas Lemar,Attacking Midfield
+309,Atlético Madrid,Yannick Carrasco,Left Winger
+310,Atlético Madrid,Giuliano Simeone,Left Winger
+311,Atlético Madrid,Ángel Correa,Right Winger
+312,Atlético Madrid,João Félix,Second Striker
+313,Atlético Madrid,Antoine Griezmann,Second Striker
+314,Atlético Madrid,Matheus Cunha,Centre-Forward
+315,Atlético Madrid,Luis Suárez,Centre-Forward
+316,Atlético Madrid,Sergio Camello,Centre-Forward
+317,Atlético Madrid,Ivan Saponjic,Centre-Forward
+318,Atlético Madrid,Carlos Martín,Centre-Forward
+319,Augsburg,Rafal Gikiewicz,Goalkeeper
+320,Augsburg,Tomas Koubek,Goalkeeper
+321,Augsburg,Daniel Klein,Goalkeeper
+322,Augsburg,Reece Oxford,Centre-Back
+323,Augsburg,Felix Uduokhai,Centre-Back
+324,Augsburg,Jeffrey Gouweleeuw,Centre-Back
+325,Augsburg,Frederik Winther,Centre-Back
+326,Augsburg,Iago,Left-Back
+327,Augsburg,Mads Pedersen,Left-Back
+328,Augsburg,Lasse Günther,Left-Back
+329,Augsburg,Robert Gumny,Right-Back
+330,Augsburg,Raphael Framberger,Right-Back
+331,Augsburg,Niklas Dorsch,Defensive Midfield
+332,Augsburg,Carlos Gruezo,Defensive Midfield
+333,Augsburg,Tobias Strobl,Defensive Midfield
+334,Augsburg,Dikeni Salifou,Defensive Midfield
+335,Augsburg,Arne Maier,Central Midfield
+336,Augsburg,Jan Moravek,Central Midfield
+337,Augsburg,Tim Civeja,Central Midfield
+338,Augsburg,Dominic Schmidt,Central Midfield
+339,Augsburg,Fredrik Jensen,Attacking Midfield
+340,Augsburg,Rubén Vargas,Left Winger
+341,Augsburg,André Hahn,Right Winger
+342,Augsburg,Noah Joel Sarenren Bazee,Right Winger
+343,Augsburg,Daniel Caligiuri,Right Winger
+344,Augsburg,Ricardo Pepi,Centre-Forward
+345,Augsburg,Michael Gregoritsch,Centre-Forward
+346,Augsburg,Andi Zeqiri,Centre-Forward
+347,Augsburg,Florian Niederlechner,Centre-Forward
+348,Augsburg,Sergio Córdova,Centre-Forward
+349,Augsburg,Alfred Finnbogason,Centre-Forward
+350,Augsburg,Maurice Malone,Centre-Forward
+351,Barcelona,Marc-André ter Stegen,Goalkeeper
+352,Barcelona,Iñaki Peña,Goalkeeper
+353,Barcelona,Neto,Goalkeeper
+354,Barcelona,Arnau Tenas,Goalkeeper
+355,Barcelona,Lazar Carevic,Goalkeeper
+356,Barcelona,Ronald Araújo,Centre-Back
+357,Barcelona,Eric García,Centre-Back
+358,Barcelona,Clément Lenglet,Centre-Back
+359,Barcelona,Óscar Mingueza,Centre-Back
+360,Barcelona,Gerard Piqué,Centre-Back
+361,Barcelona,Samuel Umtiti,Centre-Back
+362,Barcelona,Arnau Comas,Centre-Back
+363,Barcelona,Mika Mármol,Centre-Back
+364,Barcelona,Jordi Alba,Left-Back
+365,Barcelona,Alejandro Balde,Left-Back
+366,Barcelona,Emerson Royal,Right-Back
+367,Barcelona,Sergiño Dest,Right-Back
+368,Barcelona,Sergi Roberto,Right-Back
+369,Barcelona,Dani Alves,Right-Back
+370,Barcelona,Guillem Jaime,Right-Back
+371,Barcelona,Sergio Busquets,Defensive Midfield
+372,Barcelona,Jandro Orellana,Defensive Midfield
+373,Barcelona,Álvaro Sanz,Defensive Midfield
+374,Barcelona,Pedri,Central Midfield
+375,Barcelona,Frenkie de Jong,Central Midfield
+376,Barcelona,Gavi,Central Midfield
+377,Barcelona,Nico González,Central Midfield
+378,Barcelona,Miralem Pjanic,Central Midfield
+379,Barcelona,Riqui Puig,Central Midfield
+380,Barcelona,Lucas de Vega,Central Midfield
+381,Barcelona,Ansu Fati,Left Winger
+382,Barcelona,Ferran Torres,Left Winger
+383,Barcelona,Philippe Coutinho,Left Winger
+384,Barcelona,Ez Abde,Left Winger
+385,Barcelona,Ousmane Dembélé,Right Winger
+386,Barcelona,Adama Traoré,Right Winger
+387,Barcelona,Yusuf Demir,Right Winger
+388,Barcelona,Ilias Akhomach,Right Winger
+389,Barcelona,Estanis Pedrola,Right Winger
+390,Barcelona,Antoine Griezmann,Second Striker
+391,Barcelona,Memphis Depay,Centre-Forward
+392,Barcelona,Pierre-Emerick Aubameyang,Centre-Forward
+393,Barcelona,Martin Braithwaite,Centre-Forward
+394,Barcelona,Luuk de Jong,Centre-Forward
+395,Barcelona,Ferran Jutglà,Centre-Forward
+396,Barcelona,Rey Manaj,Centre-Forward
+397,Barcelona,Sergio Agüero,Centre-Forward
+398,Bayern Munich,Manuel Neuer,Goalkeeper
+399,Bayern Munich,Sven Ulreich,Goalkeeper
+400,Bayern Munich,Christian Früchtl,Goalkeeper
+401,Bayern Munich,Ron-Thorben Hoffmann,Goalkeeper
+402,Bayern Munich,Lucas Hernández,Centre-Back
+403,Bayern Munich,Dayot Upamecano,Centre-Back
+404,Bayern Munich,Niklas Süle,Centre-Back
+405,Bayern Munich,Tanguy Nianzou,Centre-Back
+406,Bayern Munich,Chris Richards,Centre-Back
+407,Bayern Munich,Bright Arrey-Mbi,Centre-Back
+408,Bayern Munich,Jamie Lawrence,Centre-Back
+409,Bayern Munich,Alphonso Davies,Left-Back
+410,Bayern Munich,Omar Richards,Left-Back
+411,Bayern Munich,Benjamin Pavard,Right-Back
+412,Bayern Munich,Josip Stanisic,Right-Back
+413,Bayern Munich,Joshua Kimmich,Defensive Midfield
+414,Bayern Munich,Marc Roca,Defensive Midfield
+415,Bayern Munich,Taylor Booth,Defensive Midfield
+416,Bayern Munich,Nicolas Feldhahn,Defensive Midfield
+417,Bayern Munich,Leon Goretzka,Central Midfield
+418,Bayern Munich,Marcel Sabitzer,Central Midfield
+419,Bayern Munich,Corentin Tolisso,Central Midfield
+420,Bayern Munich,Michaël Cuisance,Central Midfield
+421,Bayern Munich,Timo Kern,Central Midfield
+422,Bayern Munich,Bouna Sarr,Right Midfield
+423,Bayern Munich,Jamal Musiala,Attacking Midfield
+424,Bayern Munich,Gabriel Vidovic,Attacking Midfield
+425,Bayern Munich,Paul Wanner,Attacking Midfield
+426,Bayern Munich,Malik Tillman,Attacking Midfield
+427,Bayern Munich,Arijon Ibrahimovic,Attacking Midfield
+428,Bayern Munich,Leroy Sané,Left Winger
+429,Bayern Munich,Nemanja Motika,Left Winger
+430,Bayern Munich,Serge Gnabry,Right Winger
+431,Bayern Munich,Kingsley Coman,Right Winger
+432,Bayern Munich,Thomas Müller,Second Striker
+433,Bayern Munich,Robert Lewandowski,Centre-Forward
+434,Bayern Munich,Eric Maxim Choupo-Moting,Centre-Forward
+435,Bayern Munich,Lucas Copado,Centre-Forward
+436,Betis,Rui Silva,Goalkeeper
+437,Betis,Joel Robles,Goalkeeper
+438,Betis,Claudio Bravo,Goalkeeper
+439,Betis,Dani Rebollo,Goalkeeper
+440,Betis,Edgar González,Centre-Back
+441,Betis,Marc Bartra,Centre-Back
+442,Betis,Germán Pezzella,Centre-Back
+443,Betis,Sidnei,Centre-Back
+444,Betis,Víctor Ruiz,Centre-Back
+445,Betis,Kike Hermoso,Centre-Back
+446,Betis,Álex Moreno,Left-Back
+447,Betis,Juan Miranda,Left-Back
+448,Betis,Marc Baró,Left-Back
+449,Betis,José Calderón,Left-Back
+450,Betis,Héctor Bellerín,Right-Back
+451,Betis,Youssouf Sabaly,Right-Back
+452,Betis,Aitor Ruibal,Right-Back
+453,Betis,Martín Montoya,Right-Back
+454,Betis,Fran Delgado,Right-Back
+455,Betis,Guido Rodríguez,Defensive Midfield
+456,Betis,William Carvalho,Defensive Midfield
+457,Betis,Paul Akouokou,Defensive Midfield
+458,Betis,Andrés Guardado,Central Midfield
+459,Betis,Víctor Camarasa,Central Midfield
+460,Betis,Antonio Marchena,Central Midfield
+461,Betis,Nabil Fekir,Attacking Midfield
+462,Betis,Sergio Canales,Attacking Midfield
+463,Betis,Rodri Sánchez,Attacking Midfield
+464,Betis,Yassin Fekir,Attacking Midfield
+465,Betis,Juanmi,Left Winger
+466,Betis,Cristian Tello,Left Winger
+467,Betis,Diego Lainez,Right Winger
+468,Betis,Rober González,Right Winger
+469,Betis,Joaquín,Right Winger
+470,Betis,Borja Iglesias,Centre-Forward
+471,Betis,Willian José,Centre-Forward
+472,Betis,Loren Morón,Centre-Forward
+473,Betis,Raúl García,Centre-Forward
+474,Bochum,Manuel Riemann,Goalkeeper
+475,Bochum,Michael Esser,Goalkeeper
+476,Bochum,Tjark Ernst,Goalkeeper
+477,Bochum,Paul Grave,Goalkeeper
+478,Bochum,Armel Bella-Kotchap,Centre-Back
+479,Bochum,Maxim Leitsch,Centre-Back
+480,Bochum,Erhan Masovic,Centre-Back
+481,Bochum,Vasilios Lampropoulos,Centre-Back
+482,Bochum,Saulo Decarli,Centre-Back
+483,Bochum,Danilo Soares,Left-Back
+484,Bochum,Konstantinos Stafylidis,Left-Back
+485,Bochum,Moritz Römling,Left-Back
+486,Bochum,Herbert Bockhorn,Right-Back
+487,Bochum,Cristian Gamboa,Right-Back
+488,Bochum,Anthony Losilla,Defensive Midfield
+489,Bochum,Elvis Rexhbecaj,Central Midfield
+490,Bochum,Eduard Löwen,Central Midfield
+491,Bochum,Patrick Osterhage,Central Midfield
+492,Bochum,Robert Tesche,Central Midfield
+493,Bochum,Raman Chibsah,Central Midfield
+494,Bochum,Milos Pantovic,Attacking Midfield
+495,Bochum,Tom Weilandt,Attacking Midfield
+496,Bochum,Gerrit Holtmann,Left Winger
+497,Bochum,Christopher Antwi-Adjei,Left Winger
+498,Bochum,Danny Blum,Left Winger
+499,Bochum,Takuma Asano,Right Winger
+500,Bochum,Tarsis Bonga,Right Winger
+501,Bochum,Sebastian Polter,Centre-Forward
+502,Bochum,Jürgen Locadia,Centre-Forward
+503,Bochum,Simon Zoller,Centre-Forward
+504,Bochum,Silvère Ganvoula,Centre-Forward
+505,Bochum,Soma Novothny,Centre-Forward
+506,Bochum,Luis Hartwig,Centre-Forward
+507,Bologna,Lukasz Skorupski,Goalkeeper
+508,Bologna,Francesco Bardi,Goalkeeper
+509,Bologna,Marco Molla,Goalkeeper
+510,Bologna,Nicola Bagnolini,Goalkeeper
+511,Bologna,Davide Franzini,Goalkeeper
+512,Bologna,Arthur Theate,Centre-Back
+513,Bologna,Adama Soumaoro,Centre-Back
+514,Bologna,Kevin Bonifazi,Centre-Back
+515,Bologna,Luis Binks,Centre-Back
+516,Bologna,Gabriele Corbo,Centre-Back
+517,Bologna,Omar Khailoti,Centre-Back
+518,Bologna,Riccardo Stivanello,Centre-Back
+519,Bologna,Wisdom Amey,Centre-Back
+520,Bologna,Aaron Hickey,Left-Back
+521,Bologna,Mitchell Dijks,Left-Back
+522,Bologna,Ebenezer Annan,Left-Back
+523,Bologna,Takehiro Tomiyasu,Right-Back
+524,Bologna,Denso Kasius,Right-Back
+525,Bologna,Lorenzo De Silvestri,Right-Back
+526,Bologna,Ibrahima Mbaye,Right-Back
+527,Bologna,Jerdy Schouten,Defensive Midfield
+528,Bologna,Gary Medel,Defensive Midfield
+529,Bologna,Kacper Urbanski,Defensive Midfield
+530,Bologna,Mattias Svanberg,Central Midfield
+531,Bologna,Nicolás Domínguez,Central Midfield
+532,Bologna,Michel Aebischer,Central Midfield
+533,Bologna,Nicolas Viola,Central Midfield
+534,Bologna,Andri Fannar Baldursson,Central Midfield
+535,Bologna,Kingsley Michael,Central Midfield
+536,Bologna,Niklas Pyyhtiä,Central Midfield
+537,Bologna,Andreas Skov Olsen,Right Midfield
+538,Bologna,Roberto Soriano,Attacking Midfield
+539,Bologna,Luis Rojas,Attacking Midfield
+540,Bologna,Musa Barrow,Left Winger
+541,Bologna,Nicola Sansone,Left Winger
+542,Bologna,Gianmarco Cangiano,Left Winger
+543,Bologna,Musa Juwara,Left Winger
+544,Bologna,Riccardo Orsolini,Right Winger
+545,Bologna,Emanuel Vignato,Right Winger
+546,Bologna,Marko Arnautovic,Centre-Forward
+547,Bologna,Sydney van Hooijdonk,Centre-Forward
+548,Bologna,Diego Falcinelli,Centre-Forward
+549,Bologna,Federico Santander,Centre-Forward
+550,Bologna,Mattia Pagliuca,Centre-Forward
+551,Bologna,Antonio Raimondo,Centre-Forward
+552,Bordeaux,Benoît Costil,Goalkeeper
+553,Bordeaux,Gaëtan Poussin,Goalkeeper
+554,Bordeaux,Davy Rouyard,Goalkeeper
+555,Bordeaux,Tidiane Malbec,Goalkeeper
+556,Bordeaux,Guerric Bernou,Goalkeeper
+557,Bordeaux,Anel Ahmedhodzic,Centre-Back
+558,Bordeaux,Stian Gregersen,Centre-Back
+559,Bordeaux,Mexer,Centre-Back
+560,Bordeaux,Marcelo,Centre-Back
+561,Bordeaux,Loïc Bessilé,Centre-Back
+562,Bordeaux,Paul Baysse,Centre-Back
+563,Bordeaux,Abdel Medioub,Centre-Back
+564,Bordeaux,Tijany Atallah,Centre-Back
+565,Bordeaux,Junior Mwanga,Centre-Back
+566,Bordeaux,Laurent Koscielny,Centre-Back
+567,Bordeaux,Yaël Mouanga,Centre-Back
+568,Bordeaux,Gideon Mensah,Left-Back
+569,Bordeaux,Ricardo Mangas,Left-Back
+570,Bordeaux,Loris Benito,Left-Back
+571,Bordeaux,Aïssa Boudechicha,Left-Back
+572,Bordeaux,Jacques Ekomié,Left-Back
+573,Bordeaux,Raoul Bellanova,Right-Back
+574,Bordeaux,Timothée Pembélé,Right-Back
+575,Bordeaux,Enock Kwateng,Right-Back
+576,Bordeaux,Johaneko Louis-Jean,Right-Back
+577,Bordeaux,Mohamed Aggoun,Right-Back
+578,Bordeaux,Otávio,Defensive Midfield
+579,Bordeaux,Jean Onana,Defensive Midfield
+580,Bordeaux,Josuha Guilavogui,Defensive Midfield
+581,Bordeaux,Tom Lacoux,Defensive Midfield
+582,Bordeaux,Emeric Depussay,Defensive Midfield
+583,Bordeaux,Toma Basic,Central Midfield
+584,Bordeaux,Fransérgio,Central Midfield
+585,Bordeaux,Rubén Pardo,Central Midfield
+586,Bordeaux,Danylo Ignatenko,Central Midfield
+587,Bordeaux,Issouf Sissokho,Central Midfield
+588,Bordeaux,Rudy Orea,Central Midfield
+589,Bordeaux,Yacine Adli,Attacking Midfield
+590,Bordeaux,Logan Delaurier-Chaubet,Attacking Midfield
+591,Bordeaux,Johab Pascal,Attacking Midfield
+592,Bordeaux,Javairô Dilrosun,Left Winger
+593,Bordeaux,Dilane Bakwa,Left Winger
+594,Bordeaux,Alberth Elis,Right Winger
+595,Bordeaux,Rémi Oudin,Right Winger
+596,Bordeaux,Samuel Kalu,Right Winger
+597,Bordeaux,Mehdi Zerkane,Right Winger
+598,Bordeaux,Amadou Traoré,Right Winger
+599,Bordeaux,Moudja Sié Ouattara,Right Winger
+600,Bordeaux,Ui-jo Hwang,Centre-Forward
+601,Bordeaux,M'Baye Niang,Centre-Forward
+602,Bordeaux,Josh Maja,Centre-Forward
+603,Bordeaux,Sékou Mara,Centre-Forward
+604,Bordeaux,Jimmy Briand,Centre-Forward
+605,Bordeaux,Thibault Klidjé,Centre-Forward
+606,Brentford,David Raya,Goalkeeper
+607,Brentford,Álvaro Fernández,Goalkeeper
+608,Brentford,Jonas Lössl,Goalkeeper
+609,Brentford,Patrik Gunnarsson,Goalkeeper
+610,Brentford,Ellery Balcombe,Goalkeeper
+611,Brentford,Matthew Cox,Goalkeeper
+612,Brentford,Kristoffer Ajer,Centre-Back
+613,Brentford,Ethan Pinnock,Centre-Back
+614,Brentford,Pontus Jansson,Centre-Back
+615,Brentford,Mads Bech Sörensen,Centre-Back
+616,Brentford,Zanka,Centre-Back
+617,Brentford,Charlie Goode,Centre-Back
+618,Brentford,Julian Jeanvier,Centre-Back
+619,Brentford,Rico Henry,Left-Back
+620,Brentford,Dominic Thompson,Left-Back
+621,Brentford,Mads Roerslev Rasmussen,Right-Back
+622,Brentford,Fin Stevens,Right-Back
+623,Brentford,Daniel Oyegoke,Right-Back
+624,Brentford,Christian Nörgaard,Defensive Midfield
+625,Brentford,Vitaly Janelt,Defensive Midfield
+626,Brentford,Josh Dasilva,Defensive Midfield
+627,Brentford,Mathias Jensen,Central Midfield
+628,Brentford,Frank Onyeka,Central Midfield
+629,Brentford,Shandon Baptiste,Central Midfield
+630,Brentford,Mads Bidstrup,Central Midfield
+631,Brentford,Paris Maghoma,Central Midfield
+632,Brentford,Christian Eriksen,Attacking Midfield
+633,Brentford,Saman Ghoddos,Attacking Midfield
+634,Brentford,Myles Peart-Harris,Attacking Midfield
+635,Brentford,Yoane Wissa,Left Winger
+636,Brentford,Tariqe Fosu,Left Winger
+637,Brentford,Max Haygarth,Left Winger
+638,Brentford,Bryan Mbeumo,Right Winger
+639,Brentford,Sergi Canós,Right Winger
+640,Brentford,Nathan Young-Coombes,Right Winger
+641,Brentford,Ivan Toney,Centre-Forward
+642,Brentford,Marcus Forss,Centre-Forward
+643,Brentford,Halil Dervisoglu,Centre-Forward
+644,Brest,Marco Bizot,Goalkeeper
+645,Brest,Gautier Larsonneur,Goalkeeper
+646,Brest,Sébastien Cibois,Goalkeeper
+647,Brest,Grégoire Coudert,Goalkeeper
+648,Brest,Brendan Chardonnet,Centre-Back
+649,Brest,Jean-Kévin Duverne,Centre-Back
+650,Brest,Lilian Brassier,Centre-Back
+651,Brest,Christophe Hérelle,Centre-Back
+652,Brest,Denys Bain,Centre-Back
+653,Brest,Noé Sow,Centre-Back
+654,Brest,Jere Uronen,Left-Back
+655,Brest,Ronaël Pierre-Gabriel,Right-Back
+656,Brest,Julien Faussurier,Right-Back
+657,Brest,Lucien Agoumé,Defensive Midfield
+658,Brest,Paul Lasne,Defensive Midfield
+659,Brest,Haris Belkebla,Central Midfield
+660,Brest,Hugo Magnetti,Central Midfield
+661,Brest,Hianga'a Mbock,Central Midfield
+662,Brest,Romain Faivre,Right Midfield
+663,Brest,Romain Philippoteaux,Right Midfield
+664,Brest,Axel Camblan,Attacking Midfield
+665,Brest,Youcef Belaïli,Left Winger
+666,Brest,Rafiki Saïd,Left Winger
+667,Brest,Franck Honorat,Right Winger
+668,Brest,Romain Del Castillo,Right Winger
+669,Brest,Martín Satriano,Centre-Forward
+670,Brest,Steve Mounié,Centre-Forward
+671,Brest,Irvin Cardona,Centre-Forward
+672,Brest,Jérémy Le Douaron,Centre-Forward
+673,Brest,Youssouph Badji,Centre-Forward
+674,Brighton,Robert Sánchez,Goalkeeper
+675,Brighton,Kjell Scherpen,Goalkeeper
+676,Brighton,Christian Walton,Goalkeeper
+677,Brighton,Jason Steele,Goalkeeper
+678,Brighton,Tom McGill,Goalkeeper
+679,Brighton,Lewis Dunk,Centre-Back
+680,Brighton,Adam Webster,Centre-Back
+681,Brighton,Dan Burn,Centre-Back
+682,Brighton,Jan Paul van Hecke,Centre-Back
+683,Brighton,Shane Duffy,Centre-Back
+684,Brighton,Matt Clarke,Centre-Back
+685,Brighton,Haydon Roberts,Centre-Back
+686,Brighton,Antef Tsoungui,Centre-Back
+687,Brighton,Ed Turns,Centre-Back
+688,Brighton,Odel Offiah,Centre-Back
+689,Brighton,Marc Cucurella,Left-Back
+690,Brighton,Michal Karbownik,Left-Back
+691,Brighton,James Furlong,Left-Back
+692,Brighton,Tariq Lamptey,Right-Back
+693,Brighton,Joël Veltman,Right-Back
+694,Brighton,Tudor Baluta,Defensive Midfield
+695,Brighton,Yves Bissouma,Central Midfield
+696,Brighton,Enock Mwepu,Central Midfield
+697,Brighton,Alexis Mac Allister,Central Midfield
+698,Brighton,Jakub Moder,Central Midfield
+699,Brighton,Pascal Groß,Central Midfield
+700,Brighton,Moisés Caicedo,Central Midfield
+701,Brighton,Steven Alzate,Central Midfield
+702,Brighton,Taylor Richards,Central Midfield
+703,Brighton,Marc Leonard,Central Midfield
+704,Brighton,Solly March,Left Midfield
+705,Brighton,Jeremy Sarmiento,Attacking Midfield
+706,Brighton,Adam Lallana,Attacking Midfield
+707,Brighton,Andy Moran,Attacking Midfield
+708,Brighton,Leandro Trossard,Left Winger
+709,Brighton,Abdallah Sima,Right Winger
+710,Brighton,Neal Maupay,Centre-Forward
+711,Brighton,Aaron Connolly,Centre-Forward
+712,Brighton,Danny Welbeck,Centre-Forward
+713,Brighton,Andi Zeqiri,Centre-Forward
+714,Brighton,Jürgen Locadia,Centre-Forward
+715,Brighton,Florin Andone,Centre-Forward
+716,Brighton,Evan Ferguson,Centre-Forward
+717,Burnley,Nick Pope,Goalkeeper
+718,Burnley,Bailey Peacock-Farrell,Goalkeeper
+719,Burnley,Wayne Hennessey,Goalkeeper
+720,Burnley,Will Norris,Goalkeeper
+721,Burnley,Lukas Jensen,Goalkeeper
+722,Burnley,Sam Waller,Goalkeeper
+723,Burnley,James Tarkowski,Centre-Back
+724,Burnley,Nathan Collins,Centre-Back
+725,Burnley,Ben Mee,Centre-Back
+726,Burnley,Kevin Long,Centre-Back
+727,Burnley,Bobby Thomas,Centre-Back
+728,Burnley,Charlie Taylor,Left-Back
+729,Burnley,Erik Pieters,Left-Back
+730,Burnley,Owen Dodgson,Left-Back
+731,Burnley,Connor Roberts,Right-Back
+732,Burnley,Matthew Lowton,Right-Back
+733,Burnley,Phil Bardsley,Right-Back
+734,Burnley,Ashley Westwood,Defensive Midfield
+735,Burnley,Jack Cork,Defensive Midfield
+736,Burnley,Josh Brownhill,Central Midfield
+737,Burnley,Dale Stephens,Central Midfield
+738,Burnley,Anthony Mancini,Central Midfield
+739,Burnley,Mark Helm,Central Midfield
+740,Burnley,Lewis Richardson,Attacking Midfield
+741,Burnley,Dwight McNeil,Left Winger
+742,Burnley,Maxwel Cornet,Left Winger
+743,Burnley,Dara Costelloe,Left Winger
+744,Burnley,Jóhann Berg Gudmundsson,Right Winger
+745,Burnley,Aaron Lennon,Right Winger
+746,Burnley,Wout Weghorst,Centre-Forward
+747,Burnley,Chris Wood,Centre-Forward
+748,Burnley,Jay Rodríguez,Centre-Forward
+749,Burnley,Matej Vydra,Centre-Forward
+750,Burnley,Ashley Barnes,Centre-Forward
+751,Burnley,Joe McGlynn,Centre-Forward
+752,Cagliari,Alessio Cragno,Goalkeeper
+753,Cagliari,Boris Radunović,Goalkeeper
+754,Cagliari,Andrea D'Aniello,Goalkeeper
+755,Cagliari,Simone Aresti,Goalkeeper
+756,Cagliari,Eugenio Fusco,Goalkeeper
+757,Cagliari,Eldin Lolic,Goalkeeper
+758,Cagliari,Matteo Lovato,Centre-Back
+759,Cagliari,Sebastian Walukiewicz,Centre-Back
+760,Cagliari,Andrea Carboni,Centre-Back
+761,Cagliari,Giorgio Altare,Centre-Back
+762,Cagliari,Diego Godín,Centre-Back
+763,Cagliari,Edoardo Goldaniga,Centre-Back
+764,Cagliari,Martín Cáceres,Centre-Back
+765,Cagliari,Adam Obert,Centre-Back
+766,Cagliari,Luca Ceppitelli,Centre-Back
+767,Cagliari,Luigi Palomba,Centre-Back
+768,Cagliari,Iurie Iovu,Centre-Back
+769,Cagliari,Dalbert,Left-Back
+770,Cagliari,Charalampos Lykogiannis,Left-Back
+771,Cagliari,Raoul Bellanova,Right-Back
+772,Cagliari,Gabriele Zappa,Right-Back
+773,Cagliari,Christian Oliva,Defensive Midfield
+774,Cagliari,Riccardo Ladinetti,Defensive Midfield
+775,Cagliari,Razvan Marin,Central Midfield
+776,Cagliari,Marko Rog,Central Midfield
+777,Cagliari,Alberto Grassi,Central Midfield
+778,Cagliari,Alessandro Deiola,Central Midfield
+779,Cagliari,Kevin Strootman,Central Midfield
+780,Cagliari,Daniele Baselli,Central Midfield
+781,Cagliari,Paolo Faragò,Central Midfield
+782,Cagliari,Christos Kourfalidis,Central Midfield
+783,Cagliari,Nahitan Nández,Right Midfield
+784,Cagliari,Gastón Pereiro,Attacking Midfield
+785,Cagliari,Nicolò Cavuoti,Attacking Midfield
+786,Cagliari,Isaias Delpupo,Attacking Midfield
+787,Cagliari,Diego Farias,Left Winger
+788,Cagliari,Jacopo Desogus,Left Winger
+789,Cagliari,Zito Luvumbo,Right Winger
+790,Cagliari,Lisandru Tramoni,Right Winger
+791,Cagliari,Giovanni Simeone,Centre-Forward
+792,Cagliari,João Pedro,Centre-Forward
+793,Cagliari,Keita Baldé,Centre-Forward
+794,Cagliari,Alberto Cerri,Centre-Forward
+795,Cagliari,Leonardo Pavoletti,Centre-Forward
+796,Cagliari,Damir Ceter,Centre-Forward
+797,Cagliari,Luca Gagliano,Centre-Forward
+798,Celta Vigo,Rubén Blanco,Goalkeeper
+799,Celta Vigo,Matías Dituro,Goalkeeper
+800,Celta Vigo,Gaizka Campos,Goalkeeper
+801,Celta Vigo,Coke Carrillo,Goalkeeper
+802,Celta Vigo,César Fernández,Goalkeeper
+803,Celta Vigo,Joseph Aidoo,Centre-Back
+804,Celta Vigo,Néstor Araújo,Centre-Back
+805,Celta Vigo,Jeison Murillo,Centre-Back
+806,Celta Vigo,José Fontán,Centre-Back
+807,Celta Vigo,Carlos Domínguez,Centre-Back
+808,Celta Vigo,Javi Castro,Centre-Back
+809,Celta Vigo,Javi Galán,Left-Back
+810,Celta Vigo,Fernando Medrano,Left-Back
+811,Celta Vigo,Hugo Mallo,Right-Back
+812,Celta Vigo,Kevin Vázquez,Right-Back
+813,Celta Vigo,Thomas Carrique,Right-Back
+814,Celta Vigo,Renato Tapia,Defensive Midfield
+815,Celta Vigo,Okay Yokuslu,Defensive Midfield
+816,Celta Vigo,Brais Méndez,Central Midfield
+817,Celta Vigo,Fran Beltrán,Central Midfield
+818,Celta Vigo,Orbelín Pineda,Central Midfield
+819,Celta Vigo,Damián Rodríguez,Central Midfield
+820,Celta Vigo,Hugo Sotelo,Central Midfield
+821,Celta Vigo,Denis Suárez,Attacking Midfield
+822,Celta Vigo,Gabri Veiga,Attacking Midfield
+823,Celta Vigo,Miguel Baeza,Attacking Midfield
+824,Celta Vigo,Franco Cervi,Left Winger
+825,Celta Vigo,Nolito,Left Winger
+826,Celta Vigo,Alfon González,Left Winger
+827,Celta Vigo,Hugo Álvarez,Left Winger
+828,Celta Vigo,Augusto Solari,Right Winger
+829,Celta Vigo,Iago Aspas,Centre-Forward
+830,Celta Vigo,Thiago Galhardo,Centre-Forward
+831,Celta Vigo,Santi Mina,Centre-Forward
+832,Chelsea,Edouard Mendy,Goalkeeper
+833,Chelsea,Kepa Arrizabalaga,Goalkeeper
+834,Chelsea,Marcus Bettinelli,Goalkeeper
+835,Chelsea,Lucas Bergström,Goalkeeper
+836,Chelsea,Teddy Sharman-Lowe,Goalkeeper
+837,Chelsea,Antonio Rüdiger,Centre-Back
+838,Chelsea,Andreas Christensen,Centre-Back
+839,Chelsea,Kurt Zouma,Centre-Back
+840,Chelsea,Trevoh Chalobah,Centre-Back
+841,Chelsea,Malang Sarr,Centre-Back
+842,Chelsea,Thiago Silva,Centre-Back
+843,Chelsea,Jake Clarke-Salter,Centre-Back
+844,Chelsea,Xavier Mbuyamba,Centre-Back
+845,Chelsea,Ben Chilwell,Left-Back
+846,Chelsea,Emerson,Left-Back
+847,Chelsea,Marcos Alonso,Left-Back
+848,Chelsea,Abdul-Rahman Baba,Left-Back
+849,Chelsea,Dylan Williams,Left-Back
+850,Chelsea,Reece James,Right-Back
+851,Chelsea,César Azpilicueta,Right-Back
+852,Chelsea,Jorginho,Defensive Midfield
+853,Chelsea,N'Golo Kanté,Defensive Midfield
+854,Chelsea,Xavier Simons,Defensive Midfield
+855,Chelsea,Mateo Kovacic,Central Midfield
+856,Chelsea,Saúl Ñíguez,Central Midfield
+857,Chelsea,Ruben Loftus-Cheek,Central Midfield
+858,Chelsea,Billy Gilmour,Central Midfield
+859,Chelsea,Ross Barkley,Central Midfield
+860,Chelsea,Lewis Baker,Central Midfield
+861,Chelsea,Danny Drinkwater,Central Midfield
+862,Chelsea,Lewis Hall,Central Midfield
+863,Chelsea,Charlie Webster,Central Midfield
+864,Chelsea,Mason Mount,Attacking Midfield
+865,Chelsea,Kai Havertz,Attacking Midfield
+866,Chelsea,Hakim Ziyech,Attacking Midfield
+867,Chelsea,Harvey Vale,Attacking Midfield
+868,Chelsea,Callum Hudson-Odoi,Left Winger
+869,Chelsea,Kenedy,Left Winger
+870,Chelsea,Charly Musonda Jr.,Left Winger
+871,Chelsea,Christian Pulisic,Right Winger
+872,Chelsea,Romelu Lukaku,Centre-Forward
+873,Chelsea,Tammy Abraham,Centre-Forward
+874,Chelsea,Timo Werner,Centre-Forward
+875,Chelsea,Jude Soonsup-Bell,Centre-Forward
+876,Clermont Foot,Ouparine Djoco,Goalkeeper
+877,Clermont Foot,Arthur Desmas,Goalkeeper
+878,Clermont Foot,Lucas Margueron,Goalkeeper
+879,Clermont Foot,Karim Mohamed,Defender
+880,Clermont Foot,Cédric Hountondji,Centre-Back
+881,Clermont Foot,Alidu Seidu,Centre-Back
+882,Clermont Foot,Jean-Claude Billong,Centre-Back
+883,Clermont Foot,Florent Ogier,Centre-Back
+884,Clermont Foot,Josué Albert,Centre-Back
+885,Clermont Foot,Baptiste Boît,Centre-Back
+886,Clermont Foot,Vital Nsimba,Left-Back
+887,Clermont Foot,Arial Mendy,Left-Back
+888,Clermont Foot,Julien Boyer,Left-Back
+889,Clermont Foot,Akim Zedadka,Right-Back
+890,Clermont Foot,Jérôme Phojo,Right-Back
+891,Clermont Foot,Oliver Kamdem,Right-Back
+892,Clermont Foot,Salis Abdul Samed,Defensive Midfield
+893,Clermont Foot,Yohann Magnin,Defensive Midfield
+894,Clermont Foot,Uri Busquets,Defensive Midfield
+895,Clermont Foot,Johan Gastien,Defensive Midfield
+896,Clermont Foot,Jonathan Iglesias,Central Midfield
+897,Clermont Foot,Naël Jaby,Central Midfield
+898,Clermont Foot,Fred Gnalega,Central Midfield
+899,Clermont Foot,Yuliwes Bellache,Central Midfield
+900,Clermont Foot,Saîf-Eddine Khaoui,Attacking Midfield
+901,Clermont Foot,Jason Berthomier,Attacking Midfield
+902,Clermont Foot,Yadaly Diaby,Attacking Midfield
+903,Clermont Foot,Aïman Maurer,Attacking Midfield
+904,Clermont Foot,Elbasan Rashani,Left Winger
+905,Clermont Foot,Jim Allevinah,Left Winger
+906,Clermont Foot,Bryan Teixeira,Left Winger
+907,Clermont Foot,Lucas Da Cunha,Right Winger
+908,Clermont Foot,Jodel Dossou,Right Winger
+909,Clermont Foot,Aboubakar Sidibé,Right Winger
+910,Clermont Foot,Mohamed Bayo,Centre-Forward
+911,Clermont Foot,Grejohn Kyei,Centre-Forward
+912,Clermont Foot,Pierre-Yves Hamel,Centre-Forward
+913,Clermont Foot,Jordan Tell,Centre-Forward
+914,Clermont Foot,Mathis Clairicia,Centre-Forward
+915,Crystal Palace,Jack Butland,Goalkeeper
+916,Crystal Palace,Vicente Guaita,Goalkeeper
+917,Crystal Palace,Remi Matthews,Goalkeeper
+918,Crystal Palace,Marc Guéhi,Centre-Back
+919,Crystal Palace,Joachim Andersen,Centre-Back
+920,Crystal Palace,Nathan Ferguson,Centre-Back
+921,Crystal Palace,James Tomkins,Centre-Back
+922,Crystal Palace,Jaroslaw Jach,Centre-Back
+923,Crystal Palace,Tyrick Mitchell,Left-Back
+924,Crystal Palace,Reece Hannam,Left-Back
+925,Crystal Palace,Tayo Adaramola,Left-Back
+926,Crystal Palace,Joel Ward,Right-Back
+927,Crystal Palace,Nathaniel Clyne,Right-Back
+928,Crystal Palace,Martin Kelly,Right-Back
+929,Crystal Palace,Jairo Riedewald,Defensive Midfield
+930,Crystal Palace,Luka Milivojevic,Defensive Midfield
+931,Crystal Palace,Cheikhou Kouyaté,Defensive Midfield
+932,Crystal Palace,Conor Gallagher,Central Midfield
+933,Crystal Palace,Will Hughes,Central Midfield
+934,Crystal Palace,James McArthur,Central Midfield
+935,Crystal Palace,Jack Wells-Morrison,Central Midfield
+936,Crystal Palace,Michael Olise,Right Midfield
+937,Crystal Palace,Jeffrey Schlupp,Left Midfield
+938,Crystal Palace,Eberechi Eze,Attacking Midfield
+939,Crystal Palace,Wilfried Zaha,Left Winger
+940,Crystal Palace,Jesurun Rak-Sakyi,Left Winger
+941,Crystal Palace,Scott Banks,Right Winger
+942,Crystal Palace,Odsonne Edouard,Centre-Forward
+943,Crystal Palace,Jean-Philippe Mateta,Centre-Forward
+944,Crystal Palace,Jordan Ayew,Centre-Forward
+945,Crystal Palace,Christian Benteke,Centre-Forward
+946,Crystal Palace,Luke Plange,Centre-Forward
+947,Crystal Palace,Robert Street,Centre-Forward
+948,Cádiz,Jeremías Ledesma,Goalkeeper
+949,Cádiz,David Gil,Goalkeeper
+950,Cádiz,Juan Flere,Goalkeeper
+951,Cádiz,Victor Aznar,Goalkeeper
+952,Cádiz,Fali,Centre-Back
+953,Cádiz,Víctor Chust,Centre-Back
+954,Cádiz,Marcos Mauro,Centre-Back
+955,Cádiz,Varazdat Haroyan,Centre-Back
+956,Cádiz,Juan Cala,Centre-Back
+957,Cádiz,Luis Hernández,Centre-Back
+958,Cádiz,Alfonso Espino,Left-Back
+959,Cádiz,Santiago Arzamendia,Left-Back
+960,Cádiz,Genar Fornés,Left-Back
+961,Cádiz,Iza Carcelén,Right-Back
+962,Cádiz,Carlos Akapo,Right-Back
+963,Cádiz,Raúl Parra,Right-Back
+964,Cádiz,Jens Jönsson,Defensive Midfield
+965,Cádiz,Tomás Alarcón,Defensive Midfield
+966,Cádiz,José Mari,Defensive Midfield
+967,Cádiz,Rubén Alcaraz,Central Midfield
+968,Cádiz,Fede San Emeterio,Central Midfield
+969,Cádiz,Álvaro Bastida,Central Midfield
+970,Cádiz,Martín Calderón,Central Midfield
+971,Cádiz,Álex Fernández,Attacking Midfield
+972,Cádiz,Oussama Idrissi,Left Winger
+973,Cádiz,Alberto Perea,Left Winger
+974,Cádiz,Ivan Chapela,Left Winger
+975,Cádiz,Salvi Sánchez,Right Winger
+976,Cádiz,Iván Alejo,Right Winger
+977,Cádiz,Álvaro Jiménez,Right Winger
+978,Cádiz,Choco Lozano,Centre-Forward
+979,Cádiz,Lucas Pérez,Centre-Forward
+980,Cádiz,Rubén Sobrino,Centre-Forward
+981,Cádiz,Álvaro Negredo,Centre-Forward
+982,Cádiz,Florin Andone,Centre-Forward
+983,Cádiz,Milutin Osmajic,Centre-Forward
+984,Cádiz,Pedro Benito,Centre-Forward
+985,Dortmund,Gregor Kobel,Goalkeeper
+986,Dortmund,Luca Unbehaun,Goalkeeper
+987,Dortmund,Roman Bürki,Goalkeeper
+988,Dortmund,Marwin Hitz,Goalkeeper
+989,Dortmund,Stefan Drljaca,Goalkeeper
+990,Dortmund,Silas Ostrzinski,Goalkeeper
+991,Dortmund,Manuel Akanji,Centre-Back
+992,Dortmund,Dan-Axel Zagadou,Centre-Back
+993,Dortmund,Mats Hummels,Centre-Back
+994,Dortmund,Marin Pongracic,Centre-Back
+995,Dortmund,Soumaïla Coulibaly,Centre-Back
+996,Dortmund,Lennard Maloney,Centre-Back
+997,Dortmund,Antonios Papadopoulos,Centre-Back
+998,Dortmund,Raphaël Guerreiro,Left-Back
+999,Dortmund,Nico Schulz,Left-Back
+1000,Dortmund,Tom Rothe,Left-Back
+1001,Dortmund,Marcel Schmelzer,Left-Back
+1002,Dortmund,Thomas Meunier,Right-Back
+1003,Dortmund,Marius Wolf,Right-Back
+1004,Dortmund,Mateu Morey Bauzà,Right-Back
+1005,Dortmund,Felix Passlack,Right-Back
+1006,Dortmund,Lion Semic,Right-Back
+1007,Dortmund,Marco Pasalic,Right-Back
+1008,Dortmund,Emre Can,Defensive Midfield
+1009,Dortmund,Axel Witsel,Defensive Midfield
+1010,Dortmund,Abdoulaye Kamara,Defensive Midfield
+1011,Dortmund,Jude Bellingham,Central Midfield
+1012,Dortmund,Mahmoud Dahoud,Central Midfield
+1013,Dortmund,Thomas Delaney,Central Midfield
+1014,Dortmund,Tobias Raschl,Central Midfield
+1015,Dortmund,Giovanni Reyna,Attacking Midfield
+1016,Dortmund,Julian Brandt,Attacking Midfield
+1017,Dortmund,Marco Reus,Attacking Midfield
+1018,Dortmund,Reinier,Attacking Midfield
+1019,Dortmund,Immanuel Pherai,Attacking Midfield
+1020,Dortmund,Göktan Gürpüz,Attacking Midfield
+1021,Dortmund,Donyell Malen,Left Winger
+1022,Dortmund,Thorgan Hazard,Left Winger
+1023,Dortmund,Ansgar Knauff,Right Winger
+1024,Dortmund,Jamie Bynoe-Gittens,Right Winger
+1025,Dortmund,Erling Haaland,Centre-Forward
+1026,Dortmund,Youssoufa Moukoko,Centre-Forward
+1027,Dortmund,Steffen Tigges,Centre-Forward
+1028,Dortmund,Justin Njinmah,Centre-Forward
+1029,Eint Frankfurt,Kevin Trapp,Goalkeeper
+1030,Eint Frankfurt,Diant Ramaj,Goalkeeper
+1031,Eint Frankfurt,Jens Grahl,Goalkeeper
+1032,Eint Frankfurt,Jannik Horz,Goalkeeper
+1033,Eint Frankfurt,Matteo Bignetti,Goalkeeper
+1034,Eint Frankfurt,Evan Ndicka,Centre-Back
+1035,Eint Frankfurt,Tuta,Centre-Back
+1036,Eint Frankfurt,Martin Hinteregger,Centre-Back
+1037,Eint Frankfurt,Almamy Touré,Centre-Back
+1038,Eint Frankfurt,Makoto Hasebe,Centre-Back
+1039,Eint Frankfurt,Christopher Lenz,Left-Back
+1040,Eint Frankfurt,Jan Schröder,Left-Back
+1041,Eint Frankfurt,Danny da Costa,Right-Back
+1042,Eint Frankfurt,Timothy Chandler,Right-Back
+1043,Eint Frankfurt,Erik Durm,Right-Back
+1044,Eint Frankfurt,Kristijan Jakic,Defensive Midfield
+1045,Eint Frankfurt,Stefan Ilsanker,Defensive Midfield
+1046,Eint Frankfurt,Djibril Sow,Central Midfield
+1047,Eint Frankfurt,Sebastian Rode,Central Midfield
+1048,Eint Frankfurt,Aymen Barkok,Central Midfield
+1049,Eint Frankfurt,Antonio Foti,Central Midfield
+1050,Eint Frankfurt,Filip Kostic,Left Midfield
+1051,Eint Frankfurt,Daichi Kamada,Attacking Midfield
+1052,Eint Frankfurt,Jesper Lindström,Attacking Midfield
+1053,Eint Frankfurt,Ajdin Hrustic,Attacking Midfield
+1054,Eint Frankfurt,Steven Zuber,Left Winger
+1055,Eint Frankfurt,Amin Younes,Left Winger
+1056,Eint Frankfurt,Gianluca Schäfer,Left Winger
+1057,Eint Frankfurt,Ansgar Knauff,Right Winger
+1058,Eint Frankfurt,Jens Petter Hauge,Right Winger
+1059,Eint Frankfurt,Fabio Blanco,Right Winger
+1060,Eint Frankfurt,Rafael Borré,Centre-Forward
+1061,Eint Frankfurt,Sam Lammers,Centre-Forward
+1062,Eint Frankfurt,Gonçalo Paciência,Centre-Forward
+1063,Eint Frankfurt,Ragnar Ache,Centre-Forward
+1064,Eint Frankfurt,Enrique Herrero,Centre-Forward
+1065,Elche,Édgar Badía,Goalkeeper
+1066,Elche,Axel Werner,Goalkeeper
+1067,Elche,Kiko Casilla,Goalkeeper
+1068,Elche,Lluis Andreu,Goalkeeper
+1069,Elche,Enzo Roco,Centre-Back
+1070,Elche,Diego González,Centre-Back
+1071,Elche,Pedro Bigas,Centre-Back
+1072,Elche,Josema,Centre-Back
+1073,Elche,Gonzalo Verdú,Centre-Back
+1074,Elche,Sergio Bono,Centre-Back
+1075,Elche,John Nwankwo,Centre-Back
+1076,Elche,Johan Mojica,Left-Back
+1077,Elche,Lucas Olaza,Left-Back
+1078,Elche,Helibelton Palacios,Right-Back
+1079,Elche,Antonio Barragán,Right-Back
+1080,Elche,Carles Marco,Right-Back
+1081,Elche,Omar Mascarell,Defensive Midfield
+1082,Elche,Gerard Gumbau,Defensive Midfield
+1083,Elche,Iván Marcone,Defensive Midfield
+1084,Elche,Raúl Guti,Central Midfield
+1085,Elche,Kike Pérez,Central Midfield
+1086,Elche,César Moreno,Central Midfield
+1087,Elche,Jony Álamo,Central Midfield
+1088,Elche,Javier Pastore,Attacking Midfield
+1089,Elche,Pere Milla,Left Winger
+1090,Elche,Tete Morente,Left Winger
+1091,Elche,Fidel,Left Winger
+1092,Elche,Pablo Piatti,Left Winger
+1093,Elche,Josan,Right Winger
+1094,Elche,Joselu Friaza,Right Winger
+1095,Elche,Joselu Friaza,Right Winger
+1096,Elche,Lucas Boyé,Centre-Forward
+1097,Elche,Ezequiel Ponce,Centre-Forward
+1098,Elche,Darío Benedetto,Centre-Forward
+1099,Elche,Lucas Pérez,Centre-Forward
+1100,Elche,Guido Carrillo,Centre-Forward
+1101,Elche,Diego Bri,Centre-Forward
+1102,Elche,Cheikh Diamanka,Centre-Forward
+1103,Empoli,Guglielmo Vicario,Goalkeeper
+1104,Empoli,Alberto Brignoli,Goalkeeper
+1105,Empoli,Jacopo Furlan,Goalkeeper
+1106,Empoli,Samir Ujkani,Goalkeeper
+1107,Empoli,Klemen Hvalic,Goalkeeper
+1108,Empoli,Valerio Biagini,Goalkeeper
+1109,Empoli,Mattia Viti,Centre-Back
+1110,Empoli,Sebastiano Luperto,Centre-Back
+1111,Empoli,Ardian Ismajli,Centre-Back
+1112,Empoli,Simone Canestrelli,Centre-Back
+1113,Empoli,Simone Romagnoli,Centre-Back
+1114,Empoli,Lorenzo Tonelli,Centre-Back
+1115,Empoli,Leonardo Pezzola,Centre-Back
+1116,Empoli,Fabiano Parisi,Left-Back
+1117,Empoli,Liberato Cacace,Left-Back
+1118,Empoli,Riccardo Marchizza,Left-Back
+1119,Empoli,Alessio Rizza,Left-Back
+1120,Empoli,Petar Stojanovic,Right-Back
+1121,Empoli,Riccardo Fiamozzi,Right-Back
+1122,Empoli,Samuele Ricci,Defensive Midfield
+1123,Empoli,Kristjan Asllani,Defensive Midfield
+1124,Empoli,Leo Stulac,Defensive Midfield
+1125,Empoli,Duccio Degli Innocenti,Defensive Midfield
+1126,Empoli,Samuele Damiani,Defensive Midfield
+1127,Empoli,Szymon Zurkowski,Central Midfield
+1128,Empoli,Filippo Bandinelli,Central Midfield
+1129,Empoli,Nicolas Haas,Central Midfield
+1130,Empoli,Liam Henderson,Central Midfield
+1131,Empoli,Marco Benassi,Central Midfield
+1132,Empoli,Giovanni Crociata,Central Midfield
+1133,Empoli,Jacopo Fazzini,Central Midfield
+1134,Empoli,Nedim Bajrami,Attacking Midfield
+1135,Empoli,Valerio Verre,Attacking Midfield
+1136,Empoli,Tommaso Baldanzi,Attacking Midfield
+1137,Empoli,Federico Di Francesco,Left Winger
+1138,Empoli,Andrea Pinamonti,Centre-Forward
+1139,Empoli,Patrick Cutrone,Centre-Forward
+1140,Empoli,Leonardo Mancuso,Centre-Forward
+1141,Empoli,Andrea La Mantia,Centre-Forward
+1142,Empoli,Emmanuel Ekong,Centre-Forward
+1143,Espanyol,Diego López,Goalkeeper
+1144,Espanyol,Joan García,Goalkeeper
+1145,Espanyol,Oier Olazábal,Goalkeeper
+1146,Espanyol,Leandro Cabrera,Centre-Back
+1147,Espanyol,Sergi Gómez,Centre-Back
+1148,Espanyol,Fernando Calero,Centre-Back
+1149,Espanyol,David López,Centre-Back
+1150,Espanyol,Álvaro García,Centre-Back
+1151,Espanyol,Lluís Recasens,Centre-Back
+1152,Espanyol,Adrià Pedrosa,Left-Back
+1153,Espanyol,Dídac Vilà,Left-Back
+1154,Espanyol,Óscar Gil,Right-Back
+1155,Espanyol,Víctor Gómez,Right-Back
+1156,Espanyol,Aleix Vidal,Right-Back
+1157,Espanyol,Miguel Llambrich,Right-Back
+1158,Espanyol,Rubén Sánchez,Right-Back
+1159,Espanyol,Sergi Darder,Central Midfield
+1160,Espanyol,Yangel Herrera,Central Midfield
+1161,Espanyol,Manu Morlanes,Central Midfield
+1162,Espanyol,Tonny Vilhena,Central Midfield
+1163,Espanyol,Keidi Bare,Central Midfield
+1164,Espanyol,Fran Mérida,Central Midfield
+1165,Espanyol,Roger Martínez,Central Midfield
+1166,Espanyol,Dani Villahermosa,Central Midfield
+1167,Espanyol,Alejandro Pérez,Central Midfield
+1168,Espanyol,Óscar Melendo,Attacking Midfield
+1169,Espanyol,Gori,Attacking Midfield
+1170,Espanyol,Javi Puado,Left Winger
+1171,Espanyol,Nico Melamed,Left Winger
+1172,Espanyol,Lei Wu,Left Winger
+1173,Espanyol,Álvaro Vadillo,Left Winger
+1174,Espanyol,Luca Koleosho,Left Winger
+1175,Espanyol,Adrián Embarba,Right Winger
+1176,Espanyol,Jofre Carreras,Right Winger
+1177,Espanyol,Raúl de Tomás,Centre-Forward
+1178,Espanyol,Loren Morón,Centre-Forward
+1179,Espanyol,Landry Dimata,Centre-Forward
+1180,Espanyol,Max Svensson,Centre-Forward
+1181,Everton,Jordan Pickford,Goalkeeper
+1182,Everton,Asmir Begovic,Goalkeeper
+1183,Everton,Andy Lonergan,Goalkeeper
+1184,Everton,Harry Tyrer,Goalkeeper
+1185,Everton,Michael Keane,Centre-Back
+1186,Everton,Yerry Mina,Centre-Back
+1187,Everton,Ben Godfrey,Centre-Back
+1188,Everton,Mason Holgate,Centre-Back
+1189,Everton,Jarrad Branthwaite,Centre-Back
+1190,Everton,Ryan Astley,Centre-Back
+1191,Everton,Reece Welch,Centre-Back
+1192,Everton,Lucas Digne,Left-Back
+1193,Everton,Vitaliy Mykolenko,Left-Back
+1194,Everton,Niels Nkounkou,Left-Back
+1195,Everton,Nathan Patterson,Right-Back
+1196,Everton,Jonjoe Kenny,Right-Back
+1197,Everton,Seamus Coleman,Right-Back
+1198,Everton,Allan,Defensive Midfield
+1199,Everton,Jean-Philippe Gbamin,Defensive Midfield
+1200,Everton,Donny van de Beek,Central Midfield
+1201,Everton,Abdoulaye Doucouré,Central Midfield
+1202,Everton,André Gomes,Central Midfield
+1203,Everton,Tom Davies,Central Midfield
+1204,Everton,Fabian Delph,Central Midfield
+1205,Everton,Tyler Onyango,Central Midfield
+1206,Everton,Isaac Price,Central Midfield
+1207,Everton,Alex Iwobi,Attacking Midfield
+1208,Everton,Dele Alli,Attacking Midfield
+1209,Everton,Charlie Whitaker,Attacking Midfield
+1210,Everton,Gylfi Sigurdsson,Attacking Midfield
+1211,Everton,Demarai Gray,Left Winger
+1212,Everton,Anthony Gordon,Left Winger
+1213,Everton,Lewis Dobbin,Left Winger
+1214,Everton,Anwar El Ghazi,Right Winger
+1215,Everton,Andros Townsend,Right Winger
+1216,Everton,Richarlison,Centre-Forward
+1217,Everton,Dominic Calvert-Lewin,Centre-Forward
+1218,Everton,Moise Kean,Centre-Forward
+1219,Everton,Salomón Rondón,Centre-Forward
+1220,Everton,Cenk Tosun,Centre-Forward
+1221,Everton,Nathan Broadhead,Centre-Forward
+1222,Everton,Ellis Simms,Centre-Forward
+1223,Fiorentina,Bartlomiej Dragowski,Goalkeeper
+1224,Fiorentina,Pietro Terracciano,Goalkeeper
+1225,Fiorentina,Michele Cerofolini,Goalkeeper
+1226,Fiorentina,Antonio Rosati,Goalkeeper
+1227,Fiorentina,Nikola Milenković,Centre-Back
+1228,Fiorentina,Igor,Centre-Back
+1229,Fiorentina,Lucas Martínez Quarta,Centre-Back
+1230,Fiorentina,Germán Pezzella,Centre-Back
+1231,Fiorentina,Matija Nastasić,Centre-Back
+1232,Fiorentina,Filippo Frison,Centre-Back
+1233,Fiorentina,Cristiano Biraghi,Left-Back
+1234,Fiorentina,Luca Ranieri,Left-Back
+1235,Fiorentina,Aleksa Terzić,Left-Back
+1236,Fiorentina,Álvaro Odriozola,Right-Back
+1237,Fiorentina,Lorenzo Venuti,Right-Back
+1238,Fiorentina,Lucas Torreira,Defensive Midfield
+1239,Fiorentina,Sofyan Amrabat,Defensive Midfield
+1240,Fiorentina,Erick Pulgar,Defensive Midfield
+1241,Fiorentina,Gaetano Castrovilli,Central Midfield
+1242,Fiorentina,Alfred Duncan,Central Midfield
+1243,Fiorentina,Youssef Maleh,Central Midfield
+1244,Fiorentina,Giacomo Bonaventura,Central Midfield
+1245,Fiorentina,Marco Benassi,Central Midfield
+1246,Fiorentina,Alessandro Bianco,Central Midfield
+1247,Fiorentina,Riccardo Saponara,Attacking Midfield
+1248,Fiorentina,Vittorio Agostinelli,Attacking Midfield
+1249,Fiorentina,Nicolás González,Left Winger
+1250,Fiorentina,Riccardo Sottil,Left Winger
+1251,Fiorentina,Jonathan Ikoné,Right Winger
+1252,Fiorentina,José Callejón,Right Winger
+1253,Fiorentina,Destiny Egharevba,Right Winger
+1254,Fiorentina,Filippo Distefano,Second Striker
+1255,Fiorentina,Dušan Vlahović,Centre-Forward
+1256,Fiorentina,Arthur Cabral,Centre-Forward
+1257,Fiorentina,Krzysztof Piatek,Centre-Forward
+1258,Fiorentina,Aleksandr Kokorin,Centre-Forward
+1259,Fiorentina,Louis Munteanu,Centre-Forward
+1260,Fiorentina,Eljon Toci,Centre-Forward
+1261,Freiburg,Mark Flekken,Goalkeeper
+1262,Freiburg,Noah Atubolu,Goalkeeper
+1263,Freiburg,Benjamin Uphoff,Goalkeeper
+1264,Freiburg,Nico Schlotterbeck,Centre-Back
+1265,Freiburg,Philipp Lienhart,Centre-Back
+1266,Freiburg,Keven Schlotterbeck,Centre-Back
+1267,Freiburg,Dominique Heintz,Centre-Back
+1268,Freiburg,Manuel Gulde,Centre-Back
+1269,Freiburg,Kenneth Schmidt,Centre-Back
+1270,Freiburg,Christian Günter,Left-Back
+1271,Freiburg,Kimberly Ezekwem,Left-Back
+1272,Freiburg,Hugo Siquet,Right-Back
+1273,Freiburg,Lukas Kübler,Right-Back
+1274,Freiburg,Kiliann Sildillia,Right-Back
+1275,Freiburg,Jonathan Schmid,Right-Back
+1276,Freiburg,Yannik Keitel,Defensive Midfield
+1277,Freiburg,Nicolas Höfler,Defensive Midfield
+1278,Freiburg,Yannik Engelhardt,Defensive Midfield
+1279,Freiburg,Baptiste Santamaria,Central Midfield
+1280,Freiburg,Maximilian Eggestein,Central Midfield
+1281,Freiburg,Janik Haberer,Central Midfield
+1282,Freiburg,Robert Wagner,Central Midfield
+1283,Freiburg,Vincenzo Grifo,Left Winger
+1284,Freiburg,Noah Weißhaupt,Left Winger
+1285,Freiburg,Roland Sallai,Right Winger
+1286,Freiburg,Kevin Schade,Right Winger
+1287,Freiburg,Woo-yeong Jeong,Second Striker
+1288,Freiburg,Lucas Höler,Centre-Forward
+1289,Freiburg,Ermedin Demirovic,Centre-Forward
+1290,Freiburg,Nils Petersen,Centre-Forward
+1291,Freiburg,Vincent Vermeij,Centre-Forward
+1292,Freiburg,Nishan Burkart,Centre-Forward
+1293,Genoa,Adrian Semper,Goalkeeper
+1294,Genoa,Salvatore Sirigu,Goalkeeper
+1295,Genoa,Lorenzo Andrenacci,Goalkeeper
+1296,Genoa,Federico Marchetti,Goalkeeper
+1297,Genoa,Rok Vodisek,Goalkeeper
+1298,Genoa,Zinho Vanheusden,Centre-Back
+1299,Genoa,Leo Östigard,Centre-Back
+1300,Genoa,Johan Vásquez,Centre-Back
+1301,Genoa,Nikola Maksimovic,Centre-Back
+1302,Genoa,Davide Biraschi,Centre-Back
+1303,Genoa,Mattia Bani,Centre-Back
+1304,Genoa,Andrea Masiello,Centre-Back
+1305,Genoa,Laurens Serpe,Centre-Back
+1306,Genoa,Andrea Cambiaso,Left-Back
+1307,Genoa,Riccardo Calafiori,Left-Back
+1308,Genoa,Lennart Czyborra,Left-Back
+1309,Genoa,Domenico Criscito,Left-Back
+1310,Genoa,Silvan Hefti,Right-Back
+1311,Genoa,Paolo Ghiglione,Right-Back
+1312,Genoa,Stefano Sabelli,Right-Back
+1313,Genoa,Nicolò Rovella,Defensive Midfield
+1314,Genoa,Pablo Galdames,Defensive Midfield
+1315,Genoa,Abdoulaye Touré,Defensive Midfield
+1316,Genoa,Milan Badelj,Defensive Midfield
+1317,Genoa,Valon Behrami,Defensive Midfield
+1318,Genoa,Nadiem Amiri,Central Midfield
+1319,Genoa,Morten Frendrup,Central Midfield
+1320,Genoa,Stefano Sturaro,Central Midfield
+1321,Genoa,Hernani,Central Midfield
+1322,Genoa,Manolo Portanova,Central Midfield
+1323,Genoa,Filippo Melegoni,Central Midfield
+1324,Genoa,Francesco Cassata,Central Midfield
+1325,Genoa,Steeve-Mike Eyango,Central Midfield
+1326,Genoa,Mohamed Fares,Left Midfield
+1327,Genoa,Kevin Agudelo,Attacking Midfield
+1328,Genoa,Albert Gudmundsson,Right Winger
+1329,Genoa,Yayah Kallon,Right Winger
+1330,Genoa,Goran Pandev,Second Striker
+1331,Genoa,Kelvin Yeboah,Centre-Forward
+1332,Genoa,Roberto Piccoli,Centre-Forward
+1333,Genoa,Eddie Salcedo,Centre-Forward
+1334,Genoa,Mattia Destro,Centre-Forward
+1335,Genoa,Caleb Ekuban,Centre-Forward
+1336,Genoa,Felipe Caicedo,Centre-Forward
+1337,Genoa,Andrea Favilli,Centre-Forward
+1338,Genoa,Aleksander Buksa,Centre-Forward
+1339,Genoa,Flavio Bianchi,Centre-Forward
+1340,Getafe,David Soria,Goalkeeper
+1341,Getafe,Rubén Yáñez,Goalkeeper
+1342,Getafe,Diego Conde,Goalkeeper
+1343,Getafe,Pablo Montero,Defender
+1344,Getafe,Djené,Centre-Back
+1345,Getafe,Jorge Cuenca,Centre-Back
+1346,Getafe,Erick Cabaco,Centre-Back
+1347,Getafe,Stefan Mitrović,Centre-Back
+1348,Getafe,Ignasi Miquel,Centre-Back
+1349,Getafe,Chema Rodríguez,Centre-Back
+1350,Getafe,Gastón Álvarez,Centre-Back
+1351,Getafe,Álvaro López,Centre-Back
+1352,Getafe,Chinchu,Centre-Back
+1353,Getafe,Marc Cucurella,Left-Back
+1354,Getafe,Mathías Olivera,Left-Back
+1355,Getafe,Jonathan Silva,Left-Back
+1356,Getafe,Koffi,Left-Back
+1357,Getafe,Juan Iglesias,Right-Back
+1358,Getafe,Damián Suárez,Right-Back
+1359,Getafe,Allan Nyom,Right-Back
+1360,Getafe,Diego López,midfield
+1361,Getafe,Nemanja Maksimović,Defensive Midfield
+1362,Getafe,Florentino,Defensive Midfield
+1363,Getafe,Okay Yokuslu,Defensive Midfield
+1364,Getafe,David Timor,Defensive Midfield
+1365,Getafe,Mauro Arambarri,Central Midfield
+1366,Getafe,Carles Aleñá,Central Midfield
+1367,Getafe,Gonzalo Villar,Central Midfield
+1368,Getafe,John Joe Patrick Finn,Central Midfield
+1369,Getafe,Ángel Algobia,Central Midfield
+1370,Getafe,Antonio Vera,Central Midfield
+1371,Getafe,Jakub Jankto,Left Midfield
+1372,Getafe,Óscar Rodríguez,Attacking Midfield
+1373,Getafe,Santi García,Attacking Midfield
+1374,Getafe,Vitolo,Left Winger
+1375,Getafe,Enes Ünal,Centre-Forward
+1376,Getafe,Hugo Duro,Centre-Forward
+1377,Getafe,Borja Mayoral,Centre-Forward
+1378,Getafe,José Juan Macías,Centre-Forward
+1379,Getafe,Sandro Ramírez,Centre-Forward
+1380,Getafe,Jaime Mata,Centre-Forward
+1381,Getafe,Darío Poveda,Centre-Forward
+1382,Getafe,Mamor Niang,Centre-Forward
+1383,Granada,Luís Maximiano,Goalkeeper
+1384,Granada,Aarón Escandell,Goalkeeper
+1385,Granada,João Costa,Goalkeeper
+1386,Granada,Cheikh Kane Sarr,Goalkeeper
+1387,Granada,Ángel Jiménez,Goalkeeper
+1388,Granada,Domingos Duarte,Centre-Back
+1389,Granada,Luis Abram,Centre-Back
+1390,Granada,Raúl Torrente,Centre-Back
+1391,Granada,Germán Sánchez,Centre-Back
+1392,Granada,Pepe Sánchez,Centre-Back
+1393,Granada,Sergio Barcia,Centre-Back
+1394,Granada,Neyder Lozano,Centre-Back
+1395,Granada,Carlos Neva,Left-Back
+1396,Granada,Sergio Escudero,Left-Back
+1397,Granada,Miguel Ángel Brau,Left-Back
+1398,Granada,Dimitri Foulquier,Right-Back
+1399,Granada,Santiago Arias,Right-Back
+1400,Granada,Víctor Díaz,Right-Back
+1401,Granada,Quini,Right-Back
+1402,Granada,Njegos Petrovic,Defensive Midfield
+1403,Granada,Maxime Gonalons,Defensive Midfield
+1404,Granada,Luis Milla,Central Midfield
+1405,Granada,Monchu,Central Midfield
+1406,Granada,Yan Eteki,Central Midfield
+1407,Granada,Ángel Montoro,Central Midfield
+1408,Granada,Isma Ruiz,Central Midfield
+1409,Granada,Darwin Machís,Left Winger
+1410,Granada,Myrto Uzuni,Left Winger
+1411,Granada,Bryan Zaragoza,Left Winger
+1412,Granada,Antonio Puertas,Right Winger
+1413,Granada,Álex Collado,Right Winger
+1414,Granada,Alberto Soro,Right Winger
+1415,Granada,Rubén Rochina,Right Winger
+1416,Granada,Dani Raba,Right Winger
+1417,Granada,Luis Suárez,Centre-Forward
+1418,Granada,Matías Arezo,Centre-Forward
+1419,Granada,Jorge Molina,Centre-Forward
+1420,Granada,Carlos Bacca,Centre-Forward
+1421,Granada,Adrián Butzke,Centre-Forward
+1422,Greuther Fürth,Andreas Linde,Goalkeeper
+1423,Greuther Fürth,Sascha Burchert,Goalkeeper
+1424,Greuther Fürth,Marius Funk,Goalkeeper
+1425,Greuther Fürth,Leon Schaffran,Goalkeeper
+1426,Greuther Fürth,Lasse Schulz,Goalkeeper
+1427,Greuther Fürth,Maximilian Bauer,Centre-Back
+1428,Greuther Fürth,Justin Hoogma,Centre-Back
+1429,Greuther Fürth,Nick Viergever,Centre-Back
+1430,Greuther Fürth,Sebastian Griesbeck,Centre-Back
+1431,Greuther Fürth,Gideon Jung,Centre-Back
+1432,Greuther Fürth,Abdourahmane Barry,Centre-Back
+1433,Greuther Fürth,Oliver Fobassam,Centre-Back
+1434,Greuther Fürth,Luca Itter,Left-Back
+1435,Greuther Fürth,Jetro Willems,Left-Back
+1436,Greuther Fürth,Marco Meyerhöfer,Right-Back
+1437,Greuther Fürth,Simon Asta,Right-Back
+1438,Greuther Fürth,Max Christiansen,Defensive Midfield
+1439,Greuther Fürth,Adrian Fein,Defensive Midfield
+1440,Greuther Fürth,Nunoo Sarpei,Defensive Midfield
+1441,Greuther Fürth,Paul Seguin,Central Midfield
+1442,Greuther Fürth,Timothy Tillman,Central Midfield
+1443,Greuther Fürth,Tobias Raschl,Central Midfield
+1444,Greuther Fürth,Julian Green,Central Midfield
+1445,Greuther Fürth,Nils Seufert,Central Midfield
+1446,Greuther Fürth,Jeremy Dudziak,Attacking Midfield
+1447,Greuther Fürth,Mert Yusuf Torlak,Attacking Midfield
+1448,Greuther Fürth,Jamie Leweling,Second Striker
+1449,Greuther Fürth,Branimir Hrgota,Centre-Forward
+1450,Greuther Fürth,Jessic Ngankam,Centre-Forward
+1451,Greuther Fürth,Cedric Itten,Centre-Forward
+1452,Greuther Fürth,Afimico Pululu,Centre-Forward
+1453,Greuther Fürth,Havard Nielsen,Centre-Forward
+1454,Greuther Fürth,Dickson Abiama,Centre-Forward
+1455,Greuther Fürth,Robin Kehr,Centre-Forward
+1456,Hellas Verona,Lorenzo Montipò,Goalkeeper
+1457,Hellas Verona,Ivor Pandur,Goalkeeper
+1458,Hellas Verona,Mattia Chiesa,Goalkeeper
+1459,Hellas Verona,Kaur Kivila,Goalkeeper
+1460,Hellas Verona,Alessandro Berardi,Goalkeeper
+1461,Hellas Verona,Nicola Borghetto,Goalkeeper
+1462,Hellas Verona,Elia Boseggia,Goalkeeper
+1463,Hellas Verona,Giacomo Toniolo,Goalkeeper
+1464,Hellas Verona,Nicolò Casale,Centre-Back
+1465,Hellas Verona,Koray Günter,Centre-Back
+1466,Hellas Verona,Pawel Dawidowicz,Centre-Back
+1467,Hellas Verona,Federico Ceccherini,Centre-Back
+1468,Hellas Verona,Giangiacomo Magnani,Centre-Back
+1469,Hellas Verona,Bosko Sutalo,Centre-Back
+1470,Hellas Verona,Panagiotis Retsos,Centre-Back
+1471,Hellas Verona,Bruno Amione,Centre-Back
+1472,Hellas Verona,Mert Cetin,Centre-Back
+1473,Hellas Verona,Diego Coppola,Centre-Back
+1474,Hellas Verona,Gianluca Frabotta,Left-Back
+1475,Hellas Verona,Davide Faraoni,Right-Back
+1476,Hellas Verona,Fabio Depaoli,Right-Back
+1477,Hellas Verona,Kevin Rüegg,Right-Back
+1478,Hellas Verona,Adrien Tamèze,Defensive Midfield
+1479,Hellas Verona,Martin Hongla,Defensive Midfield
+1480,Hellas Verona,Miguel Veloso,Defensive Midfield
+1481,Hellas Verona,Ivan Ilic,Central Midfield
+1482,Hellas Verona,Daniel Bessa,Central Midfield
+1483,Hellas Verona,Filippo Terracciano,Central Midfield
+1484,Hellas Verona,Christian Pierobon,Central Midfield
+1485,Hellas Verona,Mattia Turra,Central Midfield
+1486,Hellas Verona,Darko Lazović,Left Midfield
+1487,Hellas Verona,Antonin Barak,Attacking Midfield
+1488,Hellas Verona,Mateusz Praszelik,Attacking Midfield
+1489,Hellas Verona,Mattia Zaccagni,Left Winger
+1490,Hellas Verona,Antonino Ragusa,Left Winger
+1491,Hellas Verona,Matteo Cancellieri,Right Winger
+1492,Hellas Verona,Gianluca Caprari,Second Striker
+1493,Hellas Verona,Mattia Florio,Second Striker
+1494,Hellas Verona,Giovanni Simeone,Centre-Forward
+1495,Hellas Verona,Kevin Lasagna,Centre-Forward
+1496,Hellas Verona,Nikola Kalinic,Centre-Forward
+1497,Hellas Verona,Samuel Di Carmine,Centre-Forward
+1498,Hellas Verona,David Flakus Bosilj,Centre-Forward
+1499,Hertha BSC,Alexander Schwolow,Goalkeeper
+1500,Hertha BSC,Oliver Christensen,Goalkeeper
+1501,Hertha BSC,Marcel Lotka,Goalkeeper
+1502,Hertha BSC,Nils-Jonathan Körber,Goalkeeper
+1503,Hertha BSC,Rune Jarstein,Goalkeeper
+1504,Hertha BSC,Niklas Stark,Centre-Back
+1505,Hertha BSC,Jordan Torunarigha,Centre-Back
+1506,Hertha BSC,Márton Dárdai,Centre-Back
+1507,Hertha BSC,Marc Oliver Kempf,Centre-Back
+1508,Hertha BSC,Linus Gechter,Centre-Back
+1509,Hertha BSC,Dedryck Boyata,Centre-Back
+1510,Hertha BSC,Christalino Atemona,Centre-Back
+1511,Hertha BSC,Cimo Röcker,Centre-Back
+1512,Hertha BSC,Marlon Morgenstern,Centre-Back
+1513,Hertha BSC,Maximilian Mittelstädt,Left-Back
+1514,Hertha BSC,Fredrik Björkan,Left-Back
+1515,Hertha BSC,Marvin Plattenhardt,Left-Back
+1516,Hertha BSC,Deyovaisio Zeefuik,Right-Back
+1517,Hertha BSC,Lukas Klünter,Right-Back
+1518,Hertha BSC,Peter Pekarik,Right-Back
+1519,Hertha BSC,Julian Eitschberger,Right-Back
+1520,Hertha BSC,Lucas Tousart,Defensive Midfield
+1521,Hertha BSC,Santiago Ascacíbar,Defensive Midfield
+1522,Hertha BSC,Jonas Dirkner,Defensive Midfield
+1523,Hertha BSC,Suat Serdar,Central Midfield
+1524,Hertha BSC,Jurgen Ekkelenkamp,Central Midfield
+1525,Hertha BSC,Vladimir Darida,Central Midfield
+1526,Hertha BSC,Jonas Michelbrink,Central Midfield
+1527,Hertha BSC,Julian Albrecht,Central Midfield
+1528,Hertha BSC,Kevin-Prince Boateng,Attacking Midfield
+1529,Hertha BSC,Dennis Jastrzembski,Attacking Midfield
+1530,Hertha BSC,Javairô Dilrosun,Left Winger
+1531,Hertha BSC,Myziane Maolida,Left Winger
+1532,Hertha BSC,Anton Kade,Left Winger
+1533,Hertha BSC,Dodi Lukébakio,Right Winger
+1534,Hertha BSC,Marco Richter,Right Winger
+1535,Hertha BSC,Kelian Nsona,Right Winger
+1536,Hertha BSC,Dong-jun Lee,Right Winger
+1537,Hertha BSC,Marten Winkler,Right Winger
+1538,Hertha BSC,Matheus Cunha,Centre-Forward
+1539,Hertha BSC,Krzysztof Piatek,Centre-Forward
+1540,Hertha BSC,Stevan Jovetic,Centre-Forward
+1541,Hertha BSC,Ishak Belfodil,Centre-Forward
+1542,Hertha BSC,Davie Selke,Centre-Forward
+1543,Hertha BSC,Luca Wollschläger,Centre-Forward
+1544,Hoffenheim,Oliver Baumann,Goalkeeper
+1545,Hoffenheim,Philipp Pentke,Goalkeeper
+1546,Hoffenheim,Luca Philipp,Goalkeeper
+1547,Hoffenheim,Nahue Noll,Goalkeeper
+1548,Hoffenheim,Stefan Posch,Centre-Back
+1549,Hoffenheim,Chris Richards,Centre-Back
+1550,Hoffenheim,Kevin Akpoguma,Centre-Back
+1551,Hoffenheim,Kevin Vogt,Centre-Back
+1552,Hoffenheim,Ermin Bicakcic,Centre-Back
+1553,Hoffenheim,Havard Nordtveit,Centre-Back
+1554,Hoffenheim,Kasim Adams,Centre-Back
+1555,Hoffenheim,Benjamin Hübner,Centre-Back
+1556,Hoffenheim,Gabriel Haider,Centre-Back
+1557,Hoffenheim,Noah König,Centre-Back
+1558,Hoffenheim,David Raum,Left-Back
+1559,Hoffenheim,Marco John,Left-Back
+1560,Hoffenheim,Pavel Kaderabek,Right-Back
+1561,Hoffenheim,Justin Che,Right-Back
+1562,Hoffenheim,Florian Grillitsch,Defensive Midfield
+1563,Hoffenheim,Angelo Stiller,Defensive Midfield
+1564,Hoffenheim,Sebastian Rudy,Defensive Midfield
+1565,Hoffenheim,Melayro Bogarde,Defensive Midfield
+1566,Hoffenheim,Fabian Rüth,Defensive Midfield
+1567,Hoffenheim,Diadié Samassékou,Central Midfield
+1568,Hoffenheim,Dennis Geiger,Central Midfield
+1569,Hoffenheim,Umut Tohumcu,Central Midfield
+1570,Hoffenheim,Christoph Baumgartner,Attacking Midfield
+1571,Hoffenheim,Mijat Gacinovic,Attacking Midfield
+1572,Hoffenheim,Tom Bischof,Attacking Midfield
+1573,Hoffenheim,Jacob Bruun Larsen,Left Winger
+1574,Hoffenheim,Bambasé Conté,Left Winger
+1575,Hoffenheim,Robert Skov,Right Winger
+1576,Hoffenheim,Ihlas Bebou,Centre-Forward
+1577,Hoffenheim,Georginio Rutter,Centre-Forward
+1578,Hoffenheim,Andrej Kramaric,Centre-Forward
+1579,Hoffenheim,Munas Dabbur,Centre-Forward
+1580,Hoffenheim,Sargis Adamyan,Centre-Forward
+1581,Hoffenheim,Maximilian Beier,Centre-Forward
+1582,Hoffenheim,Fisnik Asllani,Centre-Forward
+1583,Hoffenheim,Nick Proschwitz,Centre-Forward
+1584,Inter,Ionut Radu,Goalkeeper
+1585,Inter,Samir Handanovic,Goalkeeper
+1586,Inter,Alex Cordaz,Goalkeeper
+1587,Inter,William Rovida,Goalkeeper
+1588,Inter,Milan Skriniar,Centre-Back
+1589,Inter,Alessandro Bastoni,Centre-Back
+1590,Inter,Stefan de Vrij,Centre-Back
+1591,Inter,Danilo D'Ambrosio,Centre-Back
+1592,Inter,Andrea Ranocchia,Centre-Back
+1593,Inter,Fabio Cortinovis,Centre-Back
+1594,Inter,Federico Dimarco,Left-Back
+1595,Inter,Franco Carboni,Left-Back
+1596,Inter,Aleksandar Kolarov,Left-Back
+1597,Inter,Matteo Darmian,Right-Back
+1598,Inter,Mattia Zanotti,Right-Back
+1599,Inter,Marcelo Brozovic,Defensive Midfield
+1600,Inter,Lucien Agoumé,Defensive Midfield
+1601,Inter,Mattia Sangalli,Defensive Midfield
+1602,Inter,Nicolò Barella,Central Midfield
+1603,Inter,Hakan Calhanoglu,Central Midfield
+1604,Inter,Roberto Gagliardini,Central Midfield
+1605,Inter,Stefano Sensi,Central Midfield
+1606,Inter,Matías Vecino,Central Midfield
+1607,Inter,Arturo Vidal,Central Midfield
+1608,Inter,Cesare Casadei,Central Midfield
+1609,Inter,Denzel Dumfries,Right Midfield
+1610,Inter,Robin Gosens,Left Midfield
+1611,Inter,Ivan Perisic,Left Midfield
+1612,Inter,Joaquín Correa,Second Striker
+1613,Inter,Lautaro Martínez,Centre-Forward
+1614,Inter,Andrea Pinamonti,Centre-Forward
+1615,Inter,Martín Satriano,Centre-Forward
+1616,Inter,Edin Dzeko,Centre-Forward
+1617,Inter,Alexis Sánchez,Centre-Forward
+1618,Inter,Felipe Caicedo,Centre-Forward
+1619,Inter,Dennis Curatolo,Centre-Forward
+1620,Juventus,Wojciech Szczesny,Goalkeeper
+1621,Juventus,Mattia Perin,Goalkeeper
+1622,Juventus,Franco Israel,Goalkeeper
+1623,Juventus,Carlo Pinsoglio,Goalkeeper
+1624,Juventus,Zsombor Senkó,Goalkeeper
+1625,Juventus,Marco Raina,Goalkeeper
+1626,Juventus,Matthijs de Ligt,Centre-Back
+1627,Juventus,Leonardo Bonucci,Centre-Back
+1628,Juventus,Daniele Rugani,Centre-Back
+1629,Juventus,Koni De Winter,Centre-Back
+1630,Juventus,Giorgio Chiellini,Centre-Back
+1631,Juventus,Diego Stramaccioni,Centre-Back
+1632,Juventus,Luca Pellegrini,Left-Back
+1633,Juventus,Mattia De Sciglio,Left-Back
+1634,Juventus,Alex Sandro,Left-Back
+1635,Juventus,Danilo,Right-Back
+1636,Juventus,Manuel Locatelli,Defensive Midfield
+1637,Juventus,Denis Zakaria,Defensive Midfield
+1638,Juventus,Rodrigo Bentancur,Central Midfield
+1639,Juventus,Weston McKennie,Central Midfield
+1640,Juventus,Arthur Melo,Central Midfield
+1641,Juventus,Adrien Rabiot,Central Midfield
+1642,Juventus,Nicolò Fagioli,Central Midfield
+1643,Juventus,Fabio Miretti,Central Midfield
+1644,Juventus,Aaron Ramsey,Central Midfield
+1645,Juventus,Filippo Ranocchia,Central Midfield
+1646,Juventus,Hans Nicolussi Caviglia,Central Midfield
+1647,Juventus,Emanuele Zuelli,Central Midfield
+1648,Juventus,Martin Palumbo,Central Midfield
+1649,Juventus,Juan Cuadrado,Right Midfield
+1650,Juventus,Marley Aké,Left Winger
+1651,Juventus,Samuel Iling Junior,Left Winger
+1652,Juventus,Federico Chiesa,Right Winger
+1653,Juventus,Dejan Kulusevski,Right Winger
+1654,Juventus,Federico Bernardeschi,Right Winger
+1655,Juventus,Matías Soulé,Right Winger
+1656,Juventus,Paulo Dybala,Second Striker
+1657,Juventus,Dušan Vlahović,Centre-Forward
+1658,Juventus,Cristiano Ronaldo,Centre-Forward
+1659,Juventus,Álvaro Morata,Centre-Forward
+1660,Juventus,Moise Kean,Centre-Forward
+1661,Juventus,Kaio Jorge,Centre-Forward
+1662,Juventus,Cosimo Marco Da Graca,Centre-Forward
+1663,Köln,Marvin Schwäbe,Goalkeeper
+1664,Köln,Timo Horn,Goalkeeper
+1665,Köln,Jonas Urbig,Goalkeeper
+1666,Köln,Matthias Köbbing,Goalkeeper
+1667,Köln,Timo Hübers,Centre-Back
+1668,Köln,Luca Kilian,Centre-Back
+1669,Köln,Jorge Meré,Centre-Back
+1670,Köln,Julian Chabot,Centre-Back
+1671,Köln,Bright Arrey-Mbi,Centre-Back
+1672,Köln,Rafael Czichos,Centre-Back
+1673,Köln,Jonas Hector,Left-Back
+1674,Köln,Jannes Horn,Left-Back
+1675,Köln,Noah Katterbach,Left-Back
+1676,Köln,Benno Schmitz,Right-Back
+1677,Köln,Kingsley Ehizibue,Right-Back
+1678,Köln,Kingsley Schindler,Right-Back
+1679,Köln,Salih Özcan,Defensive Midfield
+1680,Köln,Ellyes Skhiri,Defensive Midfield
+1681,Köln,Dejan Ljubicic,Defensive Midfield
+1682,Köln,Niklas Hauptmann,Central Midfield
+1683,Köln,Mathias Olesen,Central Midfield
+1684,Köln,Ondrej Duda,Attacking Midfield
+1685,Köln,Louis Schaub,Attacking Midfield
+1686,Köln,Tomas Ostrák,Attacking Midfield
+1687,Köln,Florian Kainz,Left Winger
+1688,Köln,Marvin Obuz,Left Winger
+1689,Köln,Jan Thielmann,Right Winger
+1690,Köln,Mark Uth,Second Striker
+1691,Köln,Anthony Modeste,Centre-Forward
+1692,Köln,Sebastian Andersson,Centre-Forward
+1693,Köln,Tim Lemperle,Centre-Forward
+1694,Lazio,Thomas Strakosha,Goalkeeper
+1695,Lazio,Pepe Reina,Goalkeeper
+1696,Lazio,Marius Adamonis,Goalkeeper
+1697,Lazio,Alessio Furlanetto,Goalkeeper
+1698,Lazio,Luiz Felipe,Centre-Back
+1699,Lazio,Patric,Centre-Back
+1700,Lazio,Francesco Acerbi,Centre-Back
+1701,Lazio,Denis Vavro,Centre-Back
+1702,Lazio,Stefan Radu,Centre-Back
+1703,Lazio,Dimitrije Kamenovic,Left-Back
+1704,Lazio,Manuel Lazzari,Right-Back
+1705,Lazio,Adam Marusic,Right-Back
+1706,Lazio,Elseid Hysaj,Right-Back
+1707,Lazio,Romano Floriani,Right-Back
+1708,Lazio,Danilo Cataldi,Defensive Midfield
+1709,Lazio,Lucas Leiva,Defensive Midfield
+1710,Lazio,Patryk Dziczek,Defensive Midfield
+1711,Lazio,Marco Bertini,Defensive Midfield
+1712,Lazio,Sergej Milinković-Savić,Central Midfield
+1713,Lazio,Luis Alberto,Central Midfield
+1714,Lazio,Toma Basic,Central Midfield
+1715,Lazio,Gonzalo Escalante,Central Midfield
+1716,Lazio,Jean-Daniel Akpa Akpro,Central Midfield
+1717,Lazio,André Anderson,Attacking Midfield
+1718,Lazio,Mattia Zaccagni,Left Winger
+1719,Lazio,Jovane Cabral,Left Winger
+1720,Lazio,Raúl Moro,Left Winger
+1721,Lazio,Jony,Left Winger
+1722,Lazio,Felipe Anderson,Right Winger
+1723,Lazio,Pedro,Right Winger
+1724,Lazio,Luka Romero,Right Winger
+1725,Lazio,Ciro Immobile,Centre-Forward
+1726,Lazio,Vedat Muriqi,Centre-Forward
+1727,Lazio,Felipe Caicedo,Centre-Forward
+1728,Leeds United,Illan Meslier,Goalkeeper
+1729,Leeds United,Kristoffer Klaesson,Goalkeeper
+1730,Leeds United,Diego Llorente,Centre-Back
+1731,Leeds United,Robin Koch,Centre-Back
+1732,Leeds United,Pascal Struijk,Centre-Back
+1733,Leeds United,Liam Cooper,Centre-Back
+1734,Leeds United,Charlie Cresswell,Centre-Back
+1735,Leeds United,Kris Moore,Centre-Back
+1736,Leeds United,Junior Firpo,Left-Back
+1737,Leeds United,Leif Davis,Left-Back
+1738,Leeds United,Leo Fuhr Hjelde,Left-Back
+1739,Leeds United,Liam McCarron,Left-Back
+1740,Leeds United,Luke Ayling,Right-Back
+1741,Leeds United,Stuart Dallas,Right-Back
+1742,Leeds United,Cody Drameh,Right-Back
+1743,Leeds United,Kalvin Phillips,Defensive Midfield
+1744,Leeds United,Jack Jenkins,Defensive Midfield
+1745,Leeds United,Nohan Kenneh,Defensive Midfield
+1746,Leeds United,Mateusz Klich,Central Midfield
+1747,Leeds United,Jamie Shackleton,Central Midfield
+1748,Leeds United,Adam Forshaw,Central Midfield
+1749,Leeds United,Lewis Bate,Central Midfield
+1750,Leeds United,Stuart McKinstry,Central Midfield
+1751,Leeds United,Archie Gray,Attacking Midfield
+1752,Leeds United,Jack Harrison,Left Winger
+1753,Leeds United,Raphinha,Right Winger
+1754,Leeds United,Daniel James,Right Winger
+1755,Leeds United,Hélder Costa,Right Winger
+1756,Leeds United,Ian Poveda,Right Winger
+1757,Leeds United,Crysencio Summerville,Right Winger
+1758,Leeds United,Rodrigo,Second Striker
+1759,Leeds United,Patrick Bamford,Centre-Forward
+1760,Leeds United,Tyler Roberts,Centre-Forward
+1761,Leeds United,Joe Gelhardt,Centre-Forward
+1762,Leeds United,Sam Greenwood,Centre-Forward
+1763,Leicester City,Danny Ward,Goalkeeper
+1764,Leicester City,Kasper Schmeichel,Goalkeeper
+1765,Leicester City,Eldin Jakupovic,Goalkeeper
+1766,Leicester City,Jakub Stolarczyk,Goalkeeper
+1767,Leicester City,Chituru Odunze,Goalkeeper
+1768,Leicester City,Wesley Fofana,Centre-Back
+1769,Leicester City,Caglar Söyüncü,Centre-Back
+1770,Leicester City,Jannik Vestergaard,Centre-Back
+1771,Leicester City,Daniel Amartey,Centre-Back
+1772,Leicester City,Jonny Evans,Centre-Back
+1773,Leicester City,Filip Benkovic,Centre-Back
+1774,Leicester City,Sam Hughes,Centre-Back
+1775,Leicester City,Ben Nelson,Centre-Back
+1776,Leicester City,Luke Thomas,Left-Back
+1777,Leicester City,Ryan Bertrand,Left-Back
+1778,Leicester City,Timothy Castagne,Right-Back
+1779,Leicester City,James Justin,Right-Back
+1780,Leicester City,Ricardo Pereira,Right-Back
+1781,Leicester City,Vontae Daley-Campbell,Right-Back
+1782,Leicester City,Wilfred Ndidi,Defensive Midfield
+1783,Leicester City,Boubakary Soumaré,Defensive Midfield
+1784,Leicester City,Nampalys Mendy,Defensive Midfield
+1785,Leicester City,Lewis Brunt,Defensive Midfield
+1786,Leicester City,Sammy Braybrooke,Defensive Midfield
+1787,Leicester City,Youri Tielemans,Central Midfield
+1788,Leicester City,Dennis Praet,Central Midfield
+1789,Leicester City,Kiernan Dewsbury-Hall,Central Midfield
+1790,Leicester City,Hamza Choudhury,Central Midfield
+1791,Leicester City,Oliver Ewing,Central Midfield
+1792,Leicester City,Wanya Marçal,Central Midfield
+1793,Leicester City,Marc Albrighton,Right Midfield
+1794,Leicester City,Harvey Barnes,Left Midfield
+1795,Leicester City,James Maddison,Attacking Midfield
+1796,Leicester City,Kasey McAteer,Attacking Midfield
+1797,Leicester City,Will Alves,Attacking Midfield
+1798,Leicester City,Ademola Lookman,Left Winger
+1799,Leicester City,Ayoze Pérez,Second Striker
+1800,Leicester City,Kelechi Iheanacho,Centre-Forward
+1801,Leicester City,Patson Daka,Centre-Forward
+1802,Leicester City,Jamie Vardy,Centre-Forward
+1803,Lens,Wuilker Fariñez,Goalkeeper
+1804,Lens,Jean-Louis Leca,Goalkeeper
+1805,Lens,Yannick Pandor,Goalkeeper
+1806,Lens,Facundo Medina,Centre-Back
+1807,Lens,Kevin Danso,Centre-Back
+1808,Lens,Jonathan Gradit,Centre-Back
+1809,Lens,Christopher Wooh,Centre-Back
+1810,Lens,Steven Fortes,Centre-Back
+1811,Lens,Adrien Louveau,Centre-Back
+1812,Lens,Massadio Haidara,Left-Back
+1813,Lens,Deiver Machado,Left-Back
+1814,Lens,Ismaël Boura,Left-Back
+1815,Lens,Malcom Musquet,Left-Back
+1816,Lens,Brayann Pereira,Right-Back
+1817,Lens,Cheick Doucouré,Defensive Midfield
+1818,Lens,Patrick Berg,Defensive Midfield
+1819,Lens,Yannick Cahuzac,Defensive Midfield
+1820,Lens,Samba Sow,Defensive Midfield
+1821,Lens,Seko Fofana,Central Midfield
+1822,Lens,Jonathan Varane,Central Midfield
+1823,Lens,Mamadou Camara,Central Midfield
+1824,Lens,Yacouba Barry,Central Midfield
+1825,Lens,Jonathan Clauss,Right Midfield
+1826,Lens,Przemyslaw Frankowski,Right Midfield
+1827,Lens,Charles Boli,Left Midfield
+1828,Lens,Gaël Kakuta,Attacking Midfield
+1829,Lens,David Costa,Attacking Midfield
+1830,Lens,Wesley Saïd,Left Winger
+1831,Lens,Mohamed Cissé,Right Winger
+1832,Lens,Arnaud Kalimuendo,Centre-Forward
+1833,Lens,Simon Banza,Centre-Forward
+1834,Lens,Ignatius Ganago,Centre-Forward
+1835,Lens,Florian Sotoca,Centre-Forward
+1836,Lens,Corentin Jean,Centre-Forward
+1837,Lens,Ibrahima Baldé,Centre-Forward
+1838,Levante,Aitor Fernández,Goalkeeper
+1839,Levante,Dani Cárdenas,Goalkeeper
+1840,Levante,Koke Vegas,Goalkeeper
+1841,Levante,Pablo Picón,Goalkeeper
+1842,Levante,Pablo Cuñat,Goalkeeper
+1843,Levante,Álex Primo,Goalkeeper
+1844,Levante,Rúben Vezo,Centre-Back
+1845,Levante,Shkodran Mustafi,Centre-Back
+1846,Levante,Rober Pier,Centre-Back
+1847,Levante,Martín Cáceres,Centre-Back
+1848,Levante,Óscar Duarte,Centre-Back
+1849,Levante,Sergio Postigo,Centre-Back
+1850,Levante,José Manuel,Centre-Back
+1851,Levante,Antonio Leal,Centre-Back
+1852,Levante,Carlos Giménez,Centre-Back
+1853,Levante,Marcelo Saracchi,Left-Back
+1854,Levante,Carlos Clerc,Left-Back
+1855,Levante,Enric Franquesa,Left-Back
+1856,Levante,Jorge Miramón,Right-Back
+1857,Levante,Son,Right-Back
+1858,Levante,Marc Pubill,Right-Back
+1859,Levante,Coke,Right-Back
+1860,Levante,Joseda Álvarez,Right-Back
+1861,Levante,Pepelu,Defensive Midfield
+1862,Levante,Mickaël Malsa,Defensive Midfield
+1863,Levante,Nemanja Radoja,Defensive Midfield
+1864,Levante,Nikola Vukcevic,Defensive Midfield
+1865,Levante,José Campaña,Central Midfield
+1866,Levante,Gonzalo Melero,Central Midfield
+1867,Levante,Pablo Martínez,Central Midfield
+1868,Levante,Álex Blesa,Central Midfield
+1869,Levante,Giorgi Kochorashvili,Central Midfield
+1870,Levante,Carlos Benítez,Central Midfield
+1871,Levante,Enis Bardhi,Attacking Midfield
+1872,Levante,Alejandro Cantero,Left Winger
+1873,Levante,Jorge de Frutos,Right Winger
+1874,Levante,Hernâni,Right Winger
+1875,Levante,Roger Martí,Centre-Forward
+1876,Levante,José Luis Morales,Centre-Forward
+1877,Levante,Dani Gómez,Centre-Forward
+1878,Levante,Roberto Soldado,Centre-Forward
+1879,Levante,Omar Faraj,Centre-Forward
+1880,Leverkusen,Lukas Hradecky,Goalkeeper
+1881,Leverkusen,Andrey Lunev,Goalkeeper
+1882,Leverkusen,Lennart Grill,Goalkeeper
+1883,Leverkusen,Niklas Lomb,Goalkeeper
+1884,Leverkusen,Maximilian Neutgens,Goalkeeper
+1885,Leverkusen,Edmond Tapsoba,Centre-Back
+1886,Leverkusen,Jonathan Tah,Centre-Back
+1887,Leverkusen,Odilon Kossounou,Centre-Back
+1888,Leverkusen,Piero Hincapié,Centre-Back
+1889,Leverkusen,Panagiotis Retsos,Centre-Back
+1890,Leverkusen,Sadik Fofana,Centre-Back
+1891,Leverkusen,Mitchel Bakker,Left-Back
+1892,Leverkusen,Wendell,Left-Back
+1893,Leverkusen,Daley Sinkgraven,Left-Back
+1894,Leverkusen,Jeremie Frimpong,Right-Back
+1895,Leverkusen,Timothy Fosu-Mensah,Right-Back
+1896,Leverkusen,Mitchell Weiser,Right-Back
+1897,Leverkusen,Julian Baumgartlinger,Defensive Midfield
+1898,Leverkusen,Kerem Demirbay,Central Midfield
+1899,Leverkusen,Exequiel Palacios,Central Midfield
+1900,Leverkusen,Robert Andrich,Central Midfield
+1901,Leverkusen,Nadiem Amiri,Central Midfield
+1902,Leverkusen,Charles Aránguiz,Central Midfield
+1903,Leverkusen,Zidan Sertdemir,Central Midfield
+1904,Leverkusen,Florian Wirtz,Attacking Midfield
+1905,Leverkusen,Moussa Diaby,Left Winger
+1906,Leverkusen,Paulinho,Left Winger
+1907,Leverkusen,Amine Adli,Right Winger
+1908,Leverkusen,Karim Bellarabi,Right Winger
+1909,Leverkusen,Patrik Schick,Centre-Forward
+1910,Leverkusen,Sardar Azmoun,Centre-Forward
+1911,Leverkusen,Lucas Alario,Centre-Forward
+1912,Leverkusen,Joel Pohjanpalo,Centre-Forward
+1913,Leverkusen,Emrehan Gedikli,Centre-Forward
+1914,Leverkusen,Iker Bravo,Centre-Forward
+1915,Lille,Léo Jardim,Goalkeeper
+1916,Lille,Ivo Grbic,Goalkeeper
+1917,Lille,Orestis Karnezis,Goalkeeper
+1918,Lille,Adam Jakubech,Goalkeeper
+1919,Lille,Jules Raux,Goalkeeper
+1920,Lille,Sven Botman,Centre-Back
+1921,Lille,Tiago Djaló,Centre-Back
+1922,Lille,Kouadio-Yves Dabila,Centre-Back
+1923,Lille,José Fonte,Centre-Back
+1924,Lille,Maxime Wackers,Centre-Back
+1925,Lille,Leny Yoro,Centre-Back
+1926,Lille,Reinildo Mandava,Left-Back
+1927,Lille,Gabriel Gudmundsson,Left-Back
+1928,Lille,Domagoj Bradaric,Left-Back
+1929,Lille,Zeki Celik,Right-Back
+1930,Lille,Jérémy Pied,Right-Back
+1931,Lille,Simon Ramet,Right-Back
+1932,Lille,Benjamin André,Defensive Midfield
+1933,Lille,Amadou Onana,Defensive Midfield
+1934,Lille,Jean Onana,Defensive Midfield
+1935,Lille,Cheikh Niasse,Defensive Midfield
+1936,Lille,Renato Sanches,Central Midfield
+1937,Lille,Xeka,Central Midfield
+1938,Lille,Ugo Raghouber,Central Midfield
+1939,Lille,Rocco Ascone,Central Midfield
+1940,Lille,Carlos Baleba,Central Midfield
+1941,Lille,Yusuf Yazici,Attacking Midfield
+1942,Lille,Angel Gomes,Attacking Midfield
+1943,Lille,Hatem Ben Arfa,Attacking Midfield
+1944,Lille,Exaucé Mpembele Boula,Attacking Midfield
+1945,Lille,Jonathan Bamba,Left Winger
+1946,Lille,Capita,Left Winger
+1947,Lille,Joffrey Bazie,Left Winger
+1948,Lille,Jonathan Ikoné,Right Winger
+1949,Lille,Luiz Araújo,Right Winger
+1950,Lille,Edon Zhegrova,Right Winger
+1951,Lille,Isaac Lihadji,Right Winger
+1952,Lille,Jonathan David,Centre-Forward
+1953,Lille,Timothy Weah,Centre-Forward
+1954,Lille,Burak Yilmaz,Centre-Forward
+1955,Lille,Bica,Centre-Forward
+1956,Liverpool,Alisson,Goalkeeper
+1957,Liverpool,Caoimhín Kelleher,Goalkeeper
+1958,Liverpool,Loris Karius,Goalkeeper
+1959,Liverpool,Adrián,Goalkeeper
+1960,Liverpool,Marcelo Pitaluga,Goalkeeper
+1961,Liverpool,Liam Hughes,Goalkeeper
+1962,Liverpool,Harvey Davies,Goalkeeper
+1963,Liverpool,Virgil van Dijk,Centre-Back
+1964,Liverpool,Ibrahima Konaté,Centre-Back
+1965,Liverpool,Joe Gomez,Centre-Back
+1966,Liverpool,Joel Matip,Centre-Back
+1967,Liverpool,Nathaniel Phillips,Centre-Back
+1968,Liverpool,Sepp van den Berg,Centre-Back
+1969,Liverpool,Rhys Williams,Centre-Back
+1970,Liverpool,Ben Davies,Centre-Back
+1971,Liverpool,Billy Koumetio,Centre-Back
+1972,Liverpool,Jarell Quansah,Centre-Back
+1973,Liverpool,Andrew Robertson,Left-Back
+1974,Liverpool,Konstantinos Tsimikas,Left-Back
+1975,Liverpool,Owen Beck,Left-Back
+1976,Liverpool,James Norris,Left-Back
+1977,Liverpool,Trent Alexander-Arnold,Right-Back
+1978,Liverpool,Neco Williams,Right-Back
+1979,Liverpool,Conor Bradley,Right-Back
+1980,Liverpool,Isaac Mabaya,Right-Back
+1981,Liverpool,Fabinho,Defensive Midfield
+1982,Liverpool,Curtis Jones,Central Midfield
+1983,Liverpool,Naby Keïta,Central Midfield
+1984,Liverpool,Thiago,Central Midfield
+1985,Liverpool,Alex Oxlade-Chamberlain,Central Midfield
+1986,Liverpool,Jordan Henderson,Central Midfield
+1987,Liverpool,Tyler Morton,Central Midfield
+1988,Liverpool,James Milner,Central Midfield
+1989,Liverpool,Elijah Dixon-Bonner,Central Midfield
+1990,Liverpool,Melkamu Frauendorf,Central Midfield
+1991,Liverpool,Harvey Elliott,Attacking Midfield
+1992,Liverpool,Ben Woodburn,Attacking Midfield
+1993,Liverpool,James Balagizi,Attacking Midfield
+1994,Liverpool,Sadio Mané,Left Winger
+1995,Liverpool,Luis Díaz,Left Winger
+1996,Liverpool,Diogo Jota,Left Winger
+1997,Liverpool,Takumi Minamino,Left Winger
+1998,Liverpool,Sheyi Ojo,Left Winger
+1999,Liverpool,Mohamed Salah,Right Winger
+2000,Liverpool,Kaide Gordon,Right Winger
+2001,Liverpool,Harvey Blair,Right Winger
+2002,Liverpool,Roberto Firmino,Centre-Forward
+2003,Liverpool,Divock Origi,Centre-Forward
+2004,Liverpool,Max Woltman,Centre-Forward
+2005,Lorient,Paul Nardi,Goalkeeper
+2006,Lorient,Matthieu Dreyer,Goalkeeper
+2007,Lorient,Teddy Bartouche,Goalkeeper
+2008,Lorient,Thomas Callens,Goalkeeper
+2009,Lorient,Julien Laporte,Centre-Back
+2010,Lorient,Moritz Jenz,Centre-Back
+2011,Lorient,Léo Pétrot,Centre-Back
+2012,Lorient,Thomas Fontaine,Centre-Back
+2013,Lorient,Loris Mouyokolo,Centre-Back
+2014,Lorient,Jérémy Morel,Centre-Back
+2015,Lorient,Vincent Le Goff,Left-Back
+2016,Lorient,Samuel Loric,Left-Back
+2017,Lorient,Houboulang Mendes,Right-Back
+2018,Lorient,Igor Silva,Right-Back
+2019,Lorient,Théo Le Bris,Right-Back
+2020,Lorient,Jérôme Hergault,Right-Back
+2021,Lorient,Ronny Labonne,Right-Back
+2022,Lorient,Laurent Abergel,Defensive Midfield
+2023,Lorient,Bonke Innocent,Defensive Midfield
+2024,Lorient,Thomas Monconduit,Defensive Midfield
+2025,Lorient,Fabien Lemoine,Defensive Midfield
+2026,Lorient,Bamo Meïté,Defensive Midfield
+2027,Lorient,Baptiste Mouazan,Central Midfield
+2028,Lorient,Redwan Bourlès,Left Midfield
+2029,Lorient,Enzo Le Fée,Attacking Midfield
+2030,Lorient,Quentin Boisgard,Attacking Midfield
+2031,Lorient,Armand Laurienté,Left Winger
+2032,Lorient,Stéphane Diarra,Right Winger
+2033,Lorient,Dango Ouattara,Right Winger
+2034,Lorient,Terem Moffi,Centre-Forward
+2035,Lorient,Ibrahima Koné,Centre-Forward
+2036,Lorient,Adrian Grbic,Centre-Forward
+2037,Lorient,Pierre-Yves Hamel,Centre-Forward
+2038,Lorient,Sambou Soumano,Centre-Forward
+2039,Lorient,Pablo Pagis,Centre-Forward
+2040,Lyon,Anthony Lopes,Goalkeeper
+2041,Lyon,Julian Pollersbeck,Goalkeeper
+2042,Lyon,Kayne Bonnevie,Goalkeeper
+2043,Lyon,Malcolm Barcola,Goalkeeper
+2044,Lyon,Castello Lukeba,Centre-Back
+2045,Lyon,Jason Denayer,Centre-Back
+2046,Lyon,Sinaly Diomandé,Centre-Back
+2047,Lyon,Jérôme Boateng,Centre-Back
+2048,Lyon,Marcelo,Centre-Back
+2049,Lyon,Damien Da Silva,Centre-Back
+2050,Lyon,Emerson,Left-Back
+2051,Lyon,Henrique Silva,Left-Back
+2052,Lyon,Hugo Vogel,Left-Back
+2053,Lyon,Malo Gusto,Right-Back
+2054,Lyon,Léo Dubois,Right-Back
+2055,Lyon,Irvyn Lomami,Right-Back
+2056,Lyon,Bruno Guimarães,Defensive Midfield
+2057,Lyon,Thiago Mendes,Defensive Midfield
+2058,Lyon,Tanguy Ndombélé,Central Midfield
+2059,Lyon,Houssem Aouar,Central Midfield
+2060,Lyon,Maxence Caqueret,Central Midfield
+2061,Lyon,Pape Cheikh,Central Midfield
+2062,Lyon,Habib Keïta,Central Midfield
+2063,Lyon,Florent Sanchez,Central Midfield
+2064,Lyon,Noam Bonnet,Central Midfield
+2065,Lyon,Romain Faivre,Right Midfield
+2066,Lyon,Lucas Paquetá,Attacking Midfield
+2067,Lyon,Jeff Reine-Adélaïde,Attacking Midfield
+2068,Lyon,Maxwel Cornet,Left Winger
+2069,Lyon,Karl Toko Ekambi,Left Winger
+2070,Lyon,Lenny Pintor,Left Winger
+2071,Lyon,Bradley Barcola,Left Winger
+2072,Lyon,Madyan Sounni,Left Winger
+2073,Lyon,Tetê,Right Winger
+2074,Lyon,Rayan Cherki,Right Winger
+2075,Lyon,Xherdan Shaqiri,Right Winger
+2076,Lyon,Moussa Dembélé,Centre-Forward
+2077,Lyon,Tino Kadewere,Centre-Forward
+2078,Lyon,Islam Slimani,Centre-Forward
+2079,Lyon,Gaël Nsombi,Centre-Forward
+2080,M'Gladbach,Yann Sommer,Goalkeeper
+2081,M'Gladbach,Tobias Sippel,Goalkeeper
+2082,M'Gladbach,Jan Olschowsky,Goalkeeper
+2083,M'Gladbach,Jonas Kersken,Goalkeeper
+2084,M'Gladbach,Matthias Ginter,Centre-Back
+2085,M'Gladbach,Nico Elvedi,Centre-Back
+2086,M'Gladbach,Marvin Friedrich,Centre-Back
+2087,M'Gladbach,Jordan Beyer,Centre-Back
+2088,M'Gladbach,Tony Jantschke,Centre-Back
+2089,M'Gladbach,Tom Gaal,Centre-Back
+2090,M'Gladbach,Mamadou Doucouré,Centre-Back
+2091,M'Gladbach,Ramy Bensebaini,Left-Back
+2092,M'Gladbach,Luca Netz,Left-Back
+2093,M'Gladbach,Joe Scally,Right-Back
+2094,M'Gladbach,Stefan Lainer,Right-Back
+2095,M'Gladbach,Denis Zakaria,Defensive Midfield
+2096,M'Gladbach,Christoph Kramer,Defensive Midfield
+2097,M'Gladbach,Florian Neuhaus,Central Midfield
+2098,M'Gladbach,Manu Koné,Central Midfield
+2099,M'Gladbach,László Bénes,Central Midfield
+2100,M'Gladbach,Keanan Bennetts,Left Midfield
+2101,M'Gladbach,Hannes Wolf,Attacking Midfield
+2102,M'Gladbach,Lars Stindl,Attacking Midfield
+2103,M'Gladbach,Conor Noß,Attacking Midfield
+2104,M'Gladbach,Torben Müsel,Attacking Midfield
+2105,M'Gladbach,Alassane Plea,Left Winger
+2106,M'Gladbach,Mika Schroers,Left Winger
+2107,M'Gladbach,Jonas Hofmann,Right Winger
+2108,M'Gladbach,Patrick Herrmann,Right Winger
+2109,M'Gladbach,Marcus Thuram,Centre-Forward
+2110,M'Gladbach,Breel Embolo,Centre-Forward
+2111,Mainz 05,Robin Zentner,Goalkeeper
+2112,Mainz 05,Finn Dahmen,Goalkeeper
+2113,Mainz 05,Lasse Rieß,Goalkeeper
+2114,Mainz 05,Moussa Niakhaté,Centre-Back
+2115,Mainz 05,Jeremiah St. Juste,Centre-Back
+2116,Mainz 05,Luca Kilian,Centre-Back
+2117,Mainz 05,Stefan Bell,Centre-Back
+2118,Mainz 05,Alexander Hack,Centre-Back
+2119,Mainz 05,David Nemeth,Centre-Back
+2120,Mainz 05,Aarón Martín,Left-Back
+2121,Mainz 05,Anderson Lucoqui,Left-Back
+2122,Mainz 05,Silvan Widmer,Right-Back
+2123,Mainz 05,Daniel Brosinski,Right-Back
+2124,Mainz 05,Anton Stach,Defensive Midfield
+2125,Mainz 05,Niklas Tauer,Defensive Midfield
+2126,Mainz 05,Stephan Fürstner,Defensive Midfield
+2127,Mainz 05,Leandro Barreiro,Central Midfield
+2128,Mainz 05,Dominik Kohr,Central Midfield
+2129,Mainz 05,Edimilson Fernandes,Central Midfield
+2130,Mainz 05,Merveille Papela,Central Midfield
+2131,Mainz 05,Eniss Shabani,Central Midfield
+2132,Mainz 05,Timothé Rupil,Central Midfield
+2133,Mainz 05,Jean-Paul Boëtius,Attacking Midfield
+2134,Mainz 05,Jae-sung Lee,Attacking Midfield
+2135,Mainz 05,Kevin Stöger,Attacking Midfield
+2136,Mainz 05,Kaito Mizuta,Attacking Midfield
+2137,Mainz 05,Romario Rösch,Attacking Midfield
+2138,Mainz 05,Delano Burgzorg,Left Winger
+2139,Mainz 05,Ben Bobzien,Left Winger
+2140,Mainz 05,Paul Nebel,Right Winger
+2141,Mainz 05,Jonathan Burkardt,Centre-Forward
+2142,Mainz 05,Karim Onisiwo,Centre-Forward
+2143,Mainz 05,Marcus Ingvartsen,Centre-Forward
+2144,Mainz 05,Ádám Szalai,Centre-Forward
+2145,Mallorca,Sergio Rico,Goalkeeper
+2146,Mallorca,Dominik Greif,Goalkeeper
+2147,Mallorca,Leo Román,Goalkeeper
+2148,Mallorca,Manolo Reina,Goalkeeper
+2149,Mallorca,Pere García,Goalkeeper
+2150,Mallorca,Ferrán Quetglas,Goalkeeper
+2151,Mallorca,Marcos Fernández,Defender
+2152,Mallorca,Martin Valjent,Centre-Back
+2153,Mallorca,Antonio Raíllo,Centre-Back
+2154,Mallorca,Franco Russo,Centre-Back
+2155,Mallorca,Aleksandar Sedlar,Centre-Back
+2156,Mallorca,Josep Gayá,Centre-Back
+2157,Mallorca,Brian Oliván,Left-Back
+2158,Mallorca,Jaume Costa,Left-Back
+2159,Mallorca,Marc Carmona,Left-Back
+2160,Mallorca,Pablo Maffeo,Right-Back
+2161,Mallorca,Joan Sastre,Right-Back
+2162,Mallorca,Giovanni González,Right-Back
+2163,Mallorca,Miguelito,Right-Back
+2164,Mallorca,Rodrigo Battaglia,Defensive Midfield
+2165,Mallorca,Iddrisu Baba,Central Midfield
+2166,Mallorca,Iñigo Ruiz de Galarreta,Central Midfield
+2167,Mallorca,Antonio Sánchez,Central Midfield
+2168,Mallorca,Aleix Febas,Central Midfield
+2169,Mallorca,Clément Grenier,Central Midfield
+2170,Mallorca,Salva Sevilla,Central Midfield
+2171,Mallorca,Kang-in Lee,Attacking Midfield
+2172,Mallorca,Dani Rodríguez,Attacking Midfield
+2173,Mallorca,Thomas Giaquinto,Attacking Midfield
+2174,Mallorca,Amath Ndiaye,Left Winger
+2175,Mallorca,Lago Júnior,Left Winger
+2176,Mallorca,Javier Llabrés,Left Winger
+2177,Mallorca,Takefusa Kubo,Right Winger
+2178,Mallorca,Víctor Mollejo,Right Winger
+2179,Mallorca,Jordi Mboula,Right Winger
+2180,Mallorca,Vedat Muriqi,Centre-Forward
+2181,Mallorca,Fer Niño,Centre-Forward
+2182,Mallorca,Ángel Rodríguez,Centre-Forward
+2183,Mallorca,Abdón Prats,Centre-Forward
+2184,Mallorca,Matthew Hoppe,Centre-Forward
+2185,Mallorca,Pablo Gálvez,Centre-Forward
+2186,Manchester City,Ederson,Goalkeeper
+2187,Manchester City,Zack Steffen,Goalkeeper
+2188,Manchester City,Scott Carson,Goalkeeper
+2189,Manchester City,Cieran Slicker,Goalkeeper
+2190,Manchester City,Rúben Dias,Centre-Back
+2191,Manchester City,Aymeric Laporte,Centre-Back
+2192,Manchester City,John Stones,Centre-Back
+2193,Manchester City,Nathan Aké,Centre-Back
+2194,Manchester City,Philippe Sandler,Centre-Back
+2195,Manchester City,CJ Egan-Riley,Centre-Back
+2196,Manchester City,Luke Mbete,Centre-Back
+2197,Manchester City,Finley Burns,Centre-Back
+2198,Manchester City,Oleksandr Zinchenko,Left-Back
+2199,Manchester City,Josh Wilson-Esbrand,Left-Back
+2200,Manchester City,Benjamin Mendy,Left-Back
+2201,Manchester City,João Cancelo,Right-Back
+2202,Manchester City,Kyle Walker,Right-Back
+2203,Manchester City,Yan Couto,Right-Back
+2204,Manchester City,Rodri,Defensive Midfield
+2205,Manchester City,Roméo Lavia,Defensive Midfield
+2206,Manchester City,Fernandinho,Defensive Midfield
+2207,Manchester City,Claudio Gomes,Defensive Midfield
+2208,Manchester City,Phil Foden,Central Midfield
+2209,Manchester City,Ilkay Gündogan,Central Midfield
+2210,Manchester City,Tommy Doyle,Central Midfield
+2211,Manchester City,Kevin De Bruyne,Attacking Midfield
+2212,Manchester City,Bernardo Silva,Attacking Midfield
+2213,Manchester City,Cole Palmer,Attacking Midfield
+2214,Manchester City,James McAtee,Attacking Midfield
+2215,Manchester City,Raheem Sterling,Left Winger
+2216,Manchester City,Jack Grealish,Left Winger
+2217,Manchester City,Ferran Torres,Left Winger
+2218,Manchester City,Samuel Edozie,Left Winger
+2219,Manchester City,Riyad Mahrez,Right Winger
+2220,Manchester City,Kayky,Right Winger
+2221,Manchester City,Ben Knight,Right Winger
+2222,Manchester City,Oscar Bobb,Right Winger
+2223,Manchester City,Gabriel Jesus,Centre-Forward
+2224,Manchester City,Liam Delap,Centre-Forward
+2225,Manchester Utd,Dean Henderson,Goalkeeper
+2226,Manchester Utd,David de Gea,Goalkeeper
+2227,Manchester Utd,Tom Heaton,Goalkeeper
+2228,Manchester Utd,Matej Kovar,Goalkeeper
+2229,Manchester Utd,Lee Grant,Goalkeeper
+2230,Manchester Utd,Raphaël Varane,Centre-Back
+2231,Manchester Utd,Harry Maguire,Centre-Back
+2232,Manchester Utd,Victor Lindelöf,Centre-Back
+2233,Manchester Utd,Eric Bailly,Centre-Back
+2234,Manchester Utd,Phil Jones,Centre-Back
+2235,Manchester Utd,Teden Mengi,Centre-Back
+2236,Manchester Utd,Björn Hardley,Centre-Back
+2237,Manchester Utd,Luke Shaw,Left-Back
+2238,Manchester Utd,Alex Telles,Left-Back
+2239,Manchester Utd,Brandon Williams,Left-Back
+2240,Manchester Utd,Álvaro Fernandez,Left-Back
+2241,Manchester Utd,Aaron Wan-Bissaka,Right-Back
+2242,Manchester Utd,Diogo Dalot,Right-Back
+2243,Manchester Utd,Scott McTominay,Defensive Midfield
+2244,Manchester Utd,James Garner,Defensive Midfield
+2245,Manchester Utd,Nemanja Matić,Defensive Midfield
+2246,Manchester Utd,Charlie Savage,Defensive Midfield
+2247,Manchester Utd,Paul Pogba,Central Midfield
+2248,Manchester Utd,Donny van de Beek,Central Midfield
+2249,Manchester Utd,Fred,Central Midfield
+2250,Manchester Utd,Zidane Iqbal,Central Midfield
+2251,Manchester Utd,Bruno Fernandes,Attacking Midfield
+2252,Manchester Utd,Jesse Lingard,Attacking Midfield
+2253,Manchester Utd,Andreas Pereira,Attacking Midfield
+2254,Manchester Utd,Hannibal Mejbri,Attacking Midfield
+2255,Manchester Utd,Juan Mata,Attacking Midfield
+2256,Manchester Utd,Jadon Sancho,Left Winger
+2257,Manchester Utd,Marcus Rashford,Left Winger
+2258,Manchester Utd,Anthony Elanga,Left Winger
+2259,Manchester Utd,Alejandro Garnacho,Left Winger
+2260,Manchester Utd,Daniel James,Right Winger
+2261,Manchester Utd,Amad Diallo,Right Winger
+2262,Manchester Utd,Shola Shoretire,Right Winger
+2263,Manchester Utd,Tahith Chong,Right Winger
+2264,Manchester Utd,Mason Greenwood,Right Winger
+2265,Manchester Utd,Cristiano Ronaldo,Centre-Forward
+2266,Manchester Utd,Anthony Martial,Centre-Forward
+2267,Manchester Utd,Edinson Cavani,Centre-Forward
+2268,Marseille,Pau López,Goalkeeper
+2269,Marseille,Steve Mandanda,Goalkeeper
+2270,Marseille,Simon Ngapandouetnbu,Goalkeeper
+2271,Marseille,Fabio Vanni,Goalkeeper
+2272,Marseille,William Saliba,Centre-Back
+2273,Marseille,Duje Caleta-Car,Centre-Back
+2274,Marseille,Leonardo Balerdi,Centre-Back
+2275,Marseille,Luan Peres,Centre-Back
+2276,Marseille,Álvaro González,Centre-Back
+2277,Marseille,Yakine Said M'Madi,Centre-Back
+2278,Marseille,Jordan Amavi,Left-Back
+2279,Marseille,Sead Kolasinac,Left-Back
+2280,Marseille,Pol Lirola,Right-Back
+2281,Marseille,Amay Caprice,Right-Back
+2282,Marseille,Boubacar Kamara,Defensive Midfield
+2283,Marseille,Pape Gueye,Defensive Midfield
+2284,Marseille,Paolo Sciortino,Defensive Midfield
+2285,Marseille,Tom Moustier,Defensive Midfield
+2286,Marseille,Mattéo Guendouzi,Central Midfield
+2287,Marseille,Valentin Rongier,Central Midfield
+2288,Marseille,Cheick Souaré,Central Midfield
+2289,Marseille,Oussama Targhalline,Central Midfield
+2290,Marseille,Bilal Nadir,Central Midfield
+2291,Marseille,Gerson,Attacking Midfield
+2292,Marseille,Amine Harit,Attacking Midfield
+2293,Marseille,Dimitri Payet,Attacking Midfield
+2294,Marseille,Ugo Bertelli,Attacking Midfield
+2295,Marseille,Luis Henrique,Left Winger
+2296,Marseille,Konrad de la Fuente,Left Winger
+2297,Marseille,Nemanja Radonjić,Left Winger
+2298,Marseille,Salim Ben Seghir,Left Winger
+2299,Marseille,Jonathan Pitou,Left Winger
+2300,Marseille,Cengiz Ünder,Right Winger
+2301,Marseille,Arkadiusz Milik,Centre-Forward
+2302,Marseille,Bamba Dieng,Centre-Forward
+2303,Marseille,Cédric Bakambu,Centre-Forward
+2304,Marseille,Darío Benedetto,Centre-Forward
+2305,Marseille,Aylan Benyahia-Tani,Centre-Forward
+2306,Metz,Alexandre Oukidja,Goalkeeper
+2307,Metz,Marc-Aurèle Caillard,Goalkeeper
+2308,Metz,Ousmane Ba,Goalkeeper
+2309,Metz,David Oberhauser,Goalkeeper
+2310,Metz,Kiki Kouyaté,Centre-Back
+2311,Metz,Dylan Bronn,Centre-Back
+2312,Metz,Jemerson,Centre-Back
+2313,Metz,Mamadou Fofana,Centre-Back
+2314,Metz,Sikou Niakaté,Centre-Back
+2315,Metz,Lenny Lacroix,Centre-Back
+2316,Metz,Amadou Salif Mbengue,Centre-Back
+2317,Metz,Jean-Armel Kana-Biyik,Centre-Back
+2318,Metz,Noah Zilliox,Centre-Back
+2319,Metz,Matthieu Udol,Left-Back
+2320,Metz,Thomas Delaine,Left-Back
+2321,Metz,Fali Candé,Left-Back
+2322,Metz,Manuel Cabit,Left-Back
+2323,Metz,Fabien Centonze,Right-Back
+2324,Metz,William Mikelbrencis,Right-Back
+2325,Metz,Sofiane Alakouch,Right-Back
+2326,Metz,Habib Maïga,Defensive Midfield
+2327,Metz,Kévin N'Doram,Defensive Midfield
+2328,Metz,Ibrahim Amadou,Defensive Midfield
+2329,Metz,Vincent Pajot,Defensive Midfield
+2330,Metz,Pape Matar Sarr,Central Midfield
+2331,Metz,Boubacar Traoré,Central Midfield
+2332,Metz,Danley Jean Jacques,Central Midfield
+2333,Metz,Farid Boulaya,Attacking Midfield
+2334,Metz,Amine Bassi,Attacking Midfield
+2335,Metz,Didier Lamkel Zé,Left Winger
+2336,Metz,Opa Nguette,Left Winger
+2337,Metz,Papa Ndiaga Yade,Left Winger
+2338,Metz,Cheikh Sabaly,Left Winger
+2339,Metz,Lamine Gueye,Right Winger
+2340,Metz,Vagner,Right Winger
+2341,Metz,Warren Tchimbembé,Right Winger
+2342,Metz,Ibrahima Niane,Centre-Forward
+2343,Metz,Nicolas de Préville,Centre-Forward
+2344,Metz,Georges Mikautadze,Centre-Forward
+2345,Metz,Louis Mafouta,Centre-Forward
+2346,Metz,Lenny Joseph,Centre-Forward
+2347,Milan,Mike Maignan,Goalkeeper
+2348,Milan,Alessandro Plizzari,Goalkeeper
+2349,Milan,Ciprian Tatarusanu,Goalkeeper
+2350,Milan,Antonio Mirante,Goalkeeper
+2351,Milan,Sebastiano Desplanches,Goalkeeper
+2352,Milan,Andreas Jungdal,Goalkeeper
+2353,Milan,Lapo Nava,Goalkeeper
+2354,Milan,Fikayo Tomori,Centre-Back
+2355,Milan,Pierre Kalulu,Centre-Back
+2356,Milan,Alessio Romagnoli,Centre-Back
+2357,Milan,Simon Kjaer,Centre-Back
+2358,Milan,Matteo Gabbia,Centre-Back
+2359,Milan,Luca Stanga,Centre-Back
+2360,Milan,Theo Hernández,Left-Back
+2361,Milan,Fodé Ballo-Touré,Left-Back
+2362,Milan,Davide Calabria,Right-Back
+2363,Milan,Alessandro Florenzi,Right-Back
+2364,Milan,Andrea Conti,Right-Back
+2365,Milan,Sandro Tonali,Defensive Midfield
+2366,Milan,Ismaël Bennacer,Defensive Midfield
+2367,Milan,Tiemoué Bakayoko,Defensive Midfield
+2368,Milan,Franck Kessié,Central Midfield
+2369,Milan,Tommaso Pobega,Central Midfield
+2370,Milan,Rade Krunic,Central Midfield
+2371,Milan,Enrico Di Gesù,Central Midfield
+2372,Milan,Brahim Díaz,Attacking Midfield
+2373,Milan,Daniel Maldini,Attacking Midfield
+2374,Milan,Rafael Leão,Left Winger
+2375,Milan,Ante Rebic,Left Winger
+2376,Milan,Alexis Saelemaekers,Right Winger
+2377,Milan,Junior Messias,Right Winger
+2378,Milan,Samu Castillejo,Right Winger
+2379,Milan,Pietro Pellegri,Centre-Forward
+2380,Milan,Olivier Giroud,Centre-Forward
+2381,Milan,Zlatan Ibrahimović,Centre-Forward
+2382,Milan,Marko Lazetić,Centre-Forward
+2383,Milan,Emil Roback,Centre-Forward
+2384,Monaco,Alexander Nübel,Goalkeeper
+2385,Monaco,Radoslaw Majecki,Goalkeeper
+2386,Monaco,Vito Mannone,Goalkeeper
+2387,Monaco,Yann Lienard,Goalkeeper
+2388,Monaco,Benoît Badiashile,Centre-Back
+2389,Monaco,Axel Disasi,Centre-Back
+2390,Monaco,Guillermo Maripán,Centre-Back
+2391,Monaco,Strahinja Pavlovic,Centre-Back
+2392,Monaco,Chrislain Matsima,Centre-Back
+2393,Monaco,Jean Marcelin,Centre-Back
+2394,Monaco,Yllan Okou,Centre-Back
+2395,Monaco,Fouad El Maach,Centre-Back
+2396,Monaco,Caio Henrique,Left-Back
+2397,Monaco,Ismail Jakobs,Left-Back
+2398,Monaco,Louis Torres,Left-Back
+2399,Monaco,Vanderson,Right-Back
+2400,Monaco,Ruben Aguilar,Right-Back
+2401,Monaco,Djibril Sidibé,Right-Back
+2402,Monaco,Aurélien Platret,Right-Back
+2403,Monaco,Aurélien Tchouameni,Defensive Midfield
+2404,Monaco,Pelé,Defensive Midfield
+2405,Monaco,Soungoutou Magassa,Defensive Midfield
+2406,Monaco,Youssouf Fofana,Central Midfield
+2407,Monaco,Jean Lucas,Central Midfield
+2408,Monaco,Eliot Matazo,Central Midfield
+2409,Monaco,Cesc Fàbregas,Central Midfield
+2410,Monaco,Félix Lemaréchal,Central Midfield
+2411,Monaco,Tiago Ribeiro,Central Midfield
+2412,Monaco,Florian Baranik,Central Midfield
+2413,Monaco,Aleksandr Golovin,Attacking Midfield
+2414,Monaco,Maghnes Akliouche,Attacking Midfield
+2415,Monaco,Sofiane Diop,Left Winger
+2416,Monaco,Eric Ayiah,Left Winger
+2417,Monaco,Gelson Martins,Right Winger
+2418,Monaco,Krépin Diatta,Right Winger
+2419,Monaco,Anthony Musaba,Right Winger
+2420,Monaco,Wissam Ben Yedder,Centre-Forward
+2421,Monaco,Kevin Volland,Centre-Forward
+2422,Monaco,Myron Boadu,Centre-Forward
+2423,Monaco,Wilson Isidor,Centre-Forward
+2424,Monaco,Pietro Pellegri,Centre-Forward
+2425,Montpellier,Jonas Omlin,Goalkeeper
+2426,Montpellier,Dimitry Bertaud,Goalkeeper
+2427,Montpellier,Matis Carvalho,Goalkeeper
+2428,Montpellier,Mamadou Sakho,Centre-Back
+2429,Montpellier,Maxime Estève,Centre-Back
+2430,Montpellier,Pedro Mendes,Centre-Back
+2431,Montpellier,Thuler,Centre-Back
+2432,Montpellier,Enzo Tchato,Centre-Back
+2433,Montpellier,Redouane Halhal,Centre-Back
+2434,Montpellier,Nicolas Cozza,Left-Back
+2435,Montpellier,Mihailo Ristić,Left-Back
+2436,Montpellier,Ambroise Oyongo,Left-Back
+2437,Montpellier,Thibault Tamas,Left-Back
+2438,Montpellier,Junior Sambia,Right-Back
+2439,Montpellier,Arnaud Souquet,Right-Back
+2440,Montpellier,Thibaut Vargas,Right-Back
+2441,Montpellier,Mathías Suárez,Right-Back
+2442,Montpellier,Marius Ros,Right-Back
+2443,Montpellier,Joris Chotard,Defensive Midfield
+2444,Montpellier,Gabriel Barès,Defensive Midfield
+2445,Montpellier,Jordan Ferri,Central Midfield
+2446,Montpellier,Léo Leroy,Central Midfield
+2447,Montpellier,Sacha Delaye,Central Midfield
+2448,Montpellier,Téji Savanier,Attacking Midfield
+2449,Montpellier,Rémy Cabella,Attacking Midfield
+2450,Montpellier,Florent Mollet,Attacking Midfield
+2451,Montpellier,Stephy Mavididi,Left Winger
+2452,Montpellier,Gaëtan Laborde,Centre-Forward
+2453,Montpellier,Andy Delort,Centre-Forward
+2454,Montpellier,Elye Wahi,Centre-Forward
+2455,Montpellier,Valère Germain,Centre-Forward
+2456,Montpellier,Nicholas Gioacchini,Centre-Forward
+2457,Montpellier,Béni Makouana,Centre-Forward
+2458,Montpellier,Petar Skuletic,Centre-Forward
+2459,Montpellier,Yanis Guermouche,Centre-Forward
+2460,Montpellier,Ryan Bakayoko,Centre-Forward
+2461,Nantes,Alban Lafont,Goalkeeper
+2462,Nantes,Rémy Descamps,Goalkeeper
+2463,Nantes,Denis Petric,Goalkeeper
+2464,Nantes,Andrei Girotto,Centre-Back
+2465,Nantes,Jean-Charles Castelletto,Centre-Back
+2466,Nantes,Nicolas Pallois,Centre-Back
+2467,Nantes,Abdoulaye Sylla,Centre-Back
+2468,Nantes,Yannis M'Bemba,Centre-Back
+2469,Nantes,Robin Voisine,Centre-Back
+2470,Nantes,Quentin Merlin,Left-Back
+2471,Nantes,Charles Traoré,Left-Back
+2472,Nantes,Dennis Appiah,Right-Back
+2473,Nantes,Fábio,Right-Back
+2474,Nantes,Sébastien Corchia,Right-Back
+2475,Nantes,Pedro Chirivella,Defensive Midfield
+2476,Nantes,Lohann Doucet,Defensive Midfield
+2477,Nantes,Wylan Cyprien,Central Midfield
+2478,Nantes,Samuel Moutoussamy,Central Midfield
+2479,Nantes,Mohamed Achi,Central Midfield
+2480,Nantes,Ludovic Blas,Attacking Midfield
+2481,Nantes,Roli Pereira de Sa,Attacking Midfield
+2482,Nantes,Gor Manvelyan,Attacking Midfield
+2483,Nantes,Moses Simon,Left Winger
+2484,Nantes,Willem Geubbels,Left Winger
+2485,Nantes,Anthony Limbombe,Left Winger
+2486,Nantes,Osman Bukari,Right Winger
+2487,Nantes,Marcus Coco,Right Winger
+2488,Nantes,Randal Kolo Muani,Centre-Forward
+2489,Nantes,Kalifa Coulibaly,Centre-Forward
+2490,Nantes,Jean-Kévin Augustin,Centre-Forward
+2491,Nantes,Renaud Emond,Centre-Forward
+2492,Napoli,Alex Meret,Goalkeeper
+2493,Napoli,David Ospina,Goalkeeper
+2494,Napoli,Hubert Idasiak,Goalkeeper
+2495,Napoli,Davide Marfella,Goalkeeper
+2496,Napoli,Valerio Boffelli,Goalkeeper
+2497,Napoli,Kalidou Koulibaly,Centre-Back
+2498,Napoli,Amir Rrahmani,Centre-Back
+2499,Napoli,Axel Tuanzebe,Centre-Back
+2500,Napoli,Konstantinos Manolas,Centre-Back
+2501,Napoli,Juan Jesus,Centre-Back
+2502,Napoli,Davide Costanzo,Centre-Back
+2503,Napoli,Benedetto Barba,Centre-Back
+2504,Napoli,Jonathan Spedalieri,Centre-Back
+2505,Napoli,Mário Rui,Left-Back
+2506,Napoli,Faouzi Ghoulam,Left-Back
+2507,Napoli,Giovanni Di Lorenzo,Right-Back
+2508,Napoli,Alessandro Zanoli,Right-Back
+2509,Napoli,Kévin Malcuit,Right-Back
+2510,Napoli,Moussa Mané,Right-Back
+2511,Napoli,Frank Anguissa,Defensive Midfield
+2512,Napoli,Stanislav Lobotka,Defensive Midfield
+2513,Napoli,Diego Demme,Defensive Midfield
+2514,Napoli,Luca Palmiero,Defensive Midfield
+2515,Napoli,Fabián Ruiz,Central Midfield
+2516,Napoli,Piotr Zielinski,Attacking Midfield
+2517,Napoli,Eljif Elmas,Attacking Midfield
+2518,Napoli,Gianluca Gaetano,Attacking Midfield
+2519,Napoli,Antonio Vergara,Attacking Midfield
+2520,Napoli,Lorenzo Insigne,Left Winger
+2521,Napoli,Antonio Cioffi,Left Winger
+2522,Napoli,Hirving Lozano,Right Winger
+2523,Napoli,Matteo Politano,Right Winger
+2524,Napoli,Adam Ounas,Right Winger
+2525,Napoli,Victor Osimhen,Centre-Forward
+2526,Napoli,Andrea Petagna,Centre-Forward
+2527,Napoli,Dries Mertens,Centre-Forward
+2528,Napoli,Giuseppe Ambrosino,Centre-Forward
+2529,Newcastle Utd,Freddie Woodman,Goalkeeper
+2530,Newcastle Utd,Martin Dúbravka,Goalkeeper
+2531,Newcastle Utd,Karl Darlow,Goalkeeper
+2532,Newcastle Utd,Mark Gillespie,Goalkeeper
+2533,Newcastle Utd,Dan Burn,Centre-Back
+2534,Newcastle Utd,Jamaal Lascelles,Centre-Back
+2535,Newcastle Utd,Fabian Schär,Centre-Back
+2536,Newcastle Utd,Ciaran Clark,Centre-Back
+2537,Newcastle Utd,Federico Fernández,Centre-Back
+2538,Newcastle Utd,Matt Targett,Left-Back
+2539,Newcastle Utd,Jamal Lewis,Left-Back
+2540,Newcastle Utd,Paul Dummett,Left-Back
+2541,Newcastle Utd,Kieran Trippier,Right-Back
+2542,Newcastle Utd,Emil Krafth,Right-Back
+2543,Newcastle Utd,Javier Manquillo,Right-Back
+2544,Newcastle Utd,Bruno Guimarães,Defensive Midfield
+2545,Newcastle Utd,Isaac Hayden,Defensive Midfield
+2546,Newcastle Utd,Joe Willock,Central Midfield
+2547,Newcastle Utd,Sean Longstaff,Central Midfield
+2548,Newcastle Utd,Jonjo Shelvey,Central Midfield
+2549,Newcastle Utd,Jeff Hendrick,Central Midfield
+2550,Newcastle Utd,Matty Longstaff,Central Midfield
+2551,Newcastle Utd,Lucas De Bolle,Central Midfield
+2552,Newcastle Utd,Matt Ritchie,Right Midfield
+2553,Newcastle Utd,Joelinton,Attacking Midfield
+2554,Newcastle Utd,Miguel Almirón,Attacking Midfield
+2555,Newcastle Utd,Elliot Anderson,Attacking Midfield
+2556,Newcastle Utd,Joe White,Attacking Midfield
+2557,Newcastle Utd,Allan Saint-Maximin,Left Winger
+2558,Newcastle Utd,Ryan Fraser,Left Winger
+2559,Newcastle Utd,Jacob Murphy,Right Winger
+2560,Newcastle Utd,Callum Wilson,Centre-Forward
+2561,Newcastle Utd,Chris Wood,Centre-Forward
+2562,Newcastle Utd,Dwight Gayle,Centre-Forward
+2563,Nice,Walter Benítez,Goalkeeper
+2564,Nice,Marcin Bulka,Goalkeeper
+2565,Nice,Teddy Boulhendi,Goalkeeper
+2566,Nice,Jean-Clair Todibo,Centre-Back
+2567,Nice,Flavius Daniliuc,Centre-Back
+2568,Nice,Robson Bambu,Centre-Back
+2569,Nice,Dante,Centre-Back
+2570,Nice,Yannis Nahounou,Centre-Back
+2571,Nice,Melvin Bard,Left-Back
+2572,Nice,Jordan Amavi,Left-Back
+2573,Nice,Hassane Kamara,Left-Back
+2574,Nice,Youcef Atal,Right-Back
+2575,Nice,Jordan Lotomba,Right-Back
+2576,Nice,Antoine Mendy,Right-Back
+2577,Nice,Khéphren Thuram,Defensive Midfield
+2578,Nice,Pablo Rosario,Defensive Midfield
+2579,Nice,Mario Lemina,Defensive Midfield
+2580,Nice,Morgan Schneiderlin,Defensive Midfield
+2581,Nice,Danilo Barbosa,Defensive Midfield
+2582,Nice,Justin Smith,Defensive Midfield
+2583,Nice,Hicham Boudaoui,Central Midfield
+2584,Nice,Alexis Trouillet,Central Midfield
+2585,Nice,Alexis Claude-Maurice,Attacking Midfield
+2586,Nice,Justin Kluivert,Left Winger
+2587,Nice,Billal Brahimi,Left Winger
+2588,Nice,Myziane Maolida,Left Winger
+2589,Nice,Calvin Stengs,Right Winger
+2590,Nice,Dan Ndoye,Right Winger
+2591,Nice,Lucas Da Cunha,Right Winger
+2592,Nice,Amine Gouiri,Centre-Forward
+2593,Nice,Kasper Dolberg,Centre-Forward
+2594,Nice,Andy Delort,Centre-Forward
+2595,Nice,Evann Guessand,Centre-Forward
+2596,Nice,Ihsan Sacko,Centre-Forward
+2597,Norwich City,Angus Gunn,Goalkeeper
+2598,Norwich City,Tim Krul,Goalkeeper
+2599,Norwich City,Daniel Barden,Goalkeeper
+2600,Norwich City,Michael McGovern,Goalkeeper
+2601,Norwich City,Aston Oxborough,Goalkeeper
+2602,Norwich City,Jon McCracken,Goalkeeper
+2603,Norwich City,Ozan Kabak,Centre-Back
+2604,Norwich City,Ben Gibson,Centre-Back
+2605,Norwich City,Grant Hanley,Centre-Back
+2606,Norwich City,Andrew Omobamidele,Centre-Back
+2607,Norwich City,Christoph Zimmermann,Centre-Back
+2608,Norwich City,Rocky Bushiri,Centre-Back
+2609,Norwich City,Akin Famewo,Centre-Back
+2610,Norwich City,Jonathan Tomkinson,Centre-Back
+2611,Norwich City,Brandon Williams,Left-Back
+2612,Norwich City,Dimitrios Giannoulis,Left-Back
+2613,Norwich City,Sam McCallum,Left-Back
+2614,Norwich City,Max Aarons,Right-Back
+2615,Norwich City,Sam Byram,Right-Back
+2616,Norwich City,Bali Mumba,Right-Back
+2617,Norwich City,Mathias Normann,Defensive Midfield
+2618,Norwich City,Jacob Lungi Sörensen,Defensive Midfield
+2619,Norwich City,Billy Gilmour,Central Midfield
+2620,Norwich City,Pierre Lees-Melou,Central Midfield
+2621,Norwich City,Kenny McLean,Central Midfield
+2622,Norwich City,Lukas Rupp,Central Midfield
+2623,Norwich City,Daniel Adshead,Central Midfield
+2624,Norwich City,Liam Gibbs,Central Midfield
+2625,Norwich City,Todd Cantwell,Left Midfield
+2626,Norwich City,Kieran Dowell,Attacking Midfield
+2627,Norwich City,Jonathan Rowe,Attacking Midfield
+2628,Norwich City,Christos Tzolis,Left Winger
+2629,Norwich City,Przemyslaw Placheta,Left Winger
+2630,Norwich City,Onel Hernández,Left Winger
+2631,Norwich City,Josh Martin,Left Winger
+2632,Norwich City,Milot Rashica,Right Winger
+2633,Norwich City,Danel Sinani,Right Winger
+2634,Norwich City,Tony Springett,Right Winger
+2635,Norwich City,Josh Sargent,Centre-Forward
+2636,Norwich City,Teemu Pukki,Centre-Forward
+2637,Norwich City,Adam Idah,Centre-Forward
+2638,Norwich City,Jordan Hugill,Centre-Forward
+2639,Norwich City,Sebastian Soto,Centre-Forward
+2640,Norwich City,Thomas Dickson-Peters,Centre-Forward
+2641,Norwich City,Abu Kamara,Centre-Forward
+2642,Osasuna,Sergio Herrera,Goalkeeper
+2643,Osasuna,Juan Pérez,Goalkeeper
+2644,Osasuna,Darío Ramos,Goalkeeper
+2645,Osasuna,Yoel Ramírez,Goalkeeper
+2646,Osasuna,David García,Centre-Back
+2647,Osasuna,Unai García,Centre-Back
+2648,Osasuna,Aridane Hernández,Centre-Back
+2649,Osasuna,Jonás Ramalho,Centre-Back
+2650,Osasuna,Unai Dufur,Centre-Back
+2651,Osasuna,Manu Sánchez,Left-Back
+2652,Osasuna,Juan Cruz,Left-Back
+2653,Osasuna,Cote,Left-Back
+2654,Osasuna,Nacho Vidal,Right-Back
+2655,Osasuna,Jesús Areso,Right-Back
+2656,Osasuna,Lucas Torró,Defensive Midfield
+2657,Osasuna,Oier Sanjurjo,Defensive Midfield
+2658,Osasuna,Jon Moncayola,Central Midfield
+2659,Osasuna,Darko Brasanac,Central Midfield
+2660,Osasuna,Jaume Grau,Central Midfield
+2661,Osasuna,Iñigo Pérez,Central Midfield
+2662,Osasuna,Roberto Torres,Attacking Midfield
+2663,Osasuna,Javi Martínez,Attacking Midfield
+2664,Osasuna,Rubén García,Left Winger
+2665,Osasuna,Javi Ontiveros,Left Winger
+2666,Osasuna,Kike Barja,Right Winger
+2667,Osasuna,Rober Ibáñez,Right Winger
+2668,Osasuna,Iker Benito,Right Winger
+2669,Osasuna,Pau Martínez,Right Winger
+2670,Osasuna,Chimy Ávila,Centre-Forward
+2671,Osasuna,Ante Budimir,Centre-Forward
+2672,Osasuna,Kike García,Centre-Forward
+2673,Osasuna,Iván Barbero,Centre-Forward
+2674,Paris S-G,Gianluigi Donnarumma,Goalkeeper
+2675,Paris S-G,Keylor Navas,Goalkeeper
+2676,Paris S-G,Sergio Rico,Goalkeeper
+2677,Paris S-G,Alexandre Letellier,Goalkeeper
+2678,Paris S-G,Garissone Innocent,Goalkeeper
+2679,Paris S-G,Denis Franchi,Goalkeeper
+2680,Paris S-G,Marquinhos,Centre-Back
+2681,Paris S-G,Presnel Kimpembe,Centre-Back
+2682,Paris S-G,Thilo Kehrer,Centre-Back
+2683,Paris S-G,Abdou Diallo,Centre-Back
+2684,Paris S-G,Sergio Ramos,Centre-Back
+2685,Paris S-G,El Chadaille Bitshiabu,Centre-Back
+2686,Paris S-G,Nuno Mendes,Left-Back
+2687,Paris S-G,Juan Bernat,Left-Back
+2688,Paris S-G,Layvin Kurzawa,Left-Back
+2689,Paris S-G,Teddy Alloh,Left-Back
+2690,Paris S-G,Achraf Hakimi,Right-Back
+2691,Paris S-G,Colin Dagba,Right-Back
+2692,Paris S-G,Nathan Bitumazala,Right-Back
+2693,Paris S-G,Leandro Paredes,Defensive Midfield
+2694,Paris S-G,Danilo Pereira,Defensive Midfield
+2695,Paris S-G,Marco Verratti,Central Midfield
+2696,Paris S-G,Georginio Wijnaldum,Central Midfield
+2697,Paris S-G,Idrissa Gueye,Central Midfield
+2698,Paris S-G,Ander Herrera,Central Midfield
+2699,Paris S-G,Junior Dina Ebimbe,Central Midfield
+2700,Paris S-G,Rafinha,Attacking Midfield
+2701,Paris S-G,Xavi Simons,Attacking Midfield
+2702,Paris S-G,Edouard Michut,Attacking Midfield
+2703,Paris S-G,Ismaël Gharbi,Attacking Midfield
+2704,Paris S-G,Neymar,Left Winger
+2705,Paris S-G,Julian Draxler,Left Winger
+2706,Paris S-G,Djeidi Gassama,Left Winger
+2707,Paris S-G,Pablo Sarabia,Right Winger
+2708,Paris S-G,Ángel Di María,Right Winger
+2709,Paris S-G,Lionel Messi,Second Striker
+2710,Paris S-G,Kylian Mbappé,Centre-Forward
+2711,Paris S-G,Mauro Icardi,Centre-Forward
+2712,Paris S-G,Arnaud Kalimuendo,Centre-Forward
+2713,Paris S-G,Kenny Nagera,Centre-Forward
+2714,Paris S-G,Sekou Yansané,Centre-Forward
+2715,Rayo Vallecano,Stole Dimitrievski,Goalkeeper
+2716,Rayo Vallecano,Luca Zidane,Goalkeeper
+2717,Rayo Vallecano,Iván Arboleda,Goalkeeper
+2718,Rayo Vallecano,Miguel Ángel Morro,Goalkeeper
+2719,Rayo Vallecano,Adrián Quintela,Goalkeeper
+2720,Rayo Vallecano,Alejandro Catena,Centre-Back
+2721,Rayo Vallecano,Nikola Maras,Centre-Back
+2722,Rayo Vallecano,Esteban Saveljich,Centre-Back
+2723,Rayo Vallecano,Jorge Moreno,Centre-Back
+2724,Rayo Vallecano,Mario Suárez,Centre-Back
+2725,Rayo Vallecano,Sergio Gimeno,Centre-Back
+2726,Rayo Vallecano,Iker Recio,Centre-Back
+2727,Rayo Vallecano,Fran García,Left-Back
+2728,Rayo Vallecano,Kévin Rodrigues,Left-Back
+2729,Rayo Vallecano,Iván Balliu,Right-Back
+2730,Rayo Vallecano,Mario Hernández,Right-Back
+2731,Rayo Vallecano,Santi Comesaña,Central Midfield
+2732,Rayo Vallecano,Unai López,Central Midfield
+2733,Rayo Vallecano,Óscar Valentín,Central Midfield
+2734,Rayo Vallecano,Pathé Ciss,Central Midfield
+2735,Rayo Vallecano,Manu Navarro,Central Midfield
+2736,Rayo Vallecano,Randy Nteka,Attacking Midfield
+2737,Rayo Vallecano,Óscar Trejo,Attacking Midfield
+2738,Rayo Vallecano,José Pozo,Attacking Midfield
+2739,Rayo Vallecano,Álvaro García,Left Winger
+2740,Rayo Vallecano,Martín Merquelanz,Left Winger
+2741,Rayo Vallecano,Bebé,Left Winger
+2742,Rayo Vallecano,Álvaro Aguirre,Left Winger
+2743,Rayo Vallecano,Alejandro Asensio,Left Winger
+2744,Rayo Vallecano,Isi Palazón,Right Winger
+2745,Rayo Vallecano,Sergi Guardiola,Centre-Forward
+2746,Rayo Vallecano,Radamel Falcao,Centre-Forward
+2747,Rayo Vallecano,Andrés Martín,Centre-Forward
+2748,Rayo Vallecano,Mamadou Sylla,Centre-Forward
+2749,Rayo Vallecano,Yacine Qasmi,Centre-Forward
+2750,Rayo Vallecano,Sergio Moreno,Centre-Forward
+2751,RB Leipzig,Péter Gulácsi,Goalkeeper
+2752,RB Leipzig,Josep Martínez,Goalkeeper
+2753,RB Leipzig,Philipp Tschauner,Goalkeeper
+2754,RB Leipzig,Fabian Eutinger,Goalkeeper
+2755,RB Leipzig,Josko Gvardiol,Centre-Back
+2756,RB Leipzig,Mohamed Simakan,Centre-Back
+2757,RB Leipzig,Lukas Klostermann,Centre-Back
+2758,RB Leipzig,Willi Orbán,Centre-Back
+2759,RB Leipzig,David Lelle,Centre-Back
+2760,RB Leipzig,Angeliño,Left-Back
+2761,RB Leipzig,Marcel Halstenberg,Left-Back
+2762,RB Leipzig,Nordi Mukiele,Right-Back
+2763,RB Leipzig,Benjamin Henrichs,Right-Back
+2764,RB Leipzig,Solomon Bonnah,Right-Back
+2765,RB Leipzig,Tyler Adams,Defensive Midfield
+2766,RB Leipzig,Konrad Laimer,Central Midfield
+2767,RB Leipzig,Amadou Haidara,Central Midfield
+2768,RB Leipzig,Marcel Sabitzer,Central Midfield
+2769,RB Leipzig,Ilaix Moriba,Central Midfield
+2770,RB Leipzig,Kevin Kampl,Central Midfield
+2771,RB Leipzig,Sidney Raebiger,Central Midfield
+2772,RB Leipzig,Ben Klefisch,Central Midfield
+2773,RB Leipzig,Dani Olmo,Attacking Midfield
+2774,RB Leipzig,Dominik Szoboszlai,Attacking Midfield
+2775,RB Leipzig,Joscha Wosz,Attacking Midfield
+2776,RB Leipzig,Emil Forsberg,Left Winger
+2777,RB Leipzig,Mehmet Ibrahimi,Left Winger
+2778,RB Leipzig,Hugo Novoa,Right Winger
+2779,RB Leipzig,Fabrice Hartmann,Right Winger
+2780,RB Leipzig,Christopher Nkunku,Second Striker
+2781,RB Leipzig,André Silva,Centre-Forward
+2782,RB Leipzig,Hee-chan Hwang,Centre-Forward
+2783,RB Leipzig,Yussuf Poulsen,Centre-Forward
+2784,RB Leipzig,Brian Brobbey,Centre-Forward
+2785,Real Madrid,Thibaut Courtois,Goalkeeper
+2786,Real Madrid,Andriy Lunin,Goalkeeper
+2787,Real Madrid,Luis López,Goalkeeper
+2788,Real Madrid,Toni Fuidias,Goalkeeper
+2789,Real Madrid,Diego Piñeiro,Goalkeeper
+2790,Real Madrid,Éder Militão,Centre-Back
+2791,Real Madrid,David Alaba,Centre-Back
+2792,Real Madrid,Nacho Fernández,Centre-Back
+2793,Real Madrid,Jesús Vallejo,Centre-Back
+2794,Real Madrid,Mario Gila,Centre-Back
+2795,Real Madrid,Rafa Marín,Centre-Back
+2796,Real Madrid,Ferland Mendy,Left-Back
+2797,Real Madrid,Miguel Gutiérrez,Left-Back
+2798,Real Madrid,Marcelo,Left-Back
+2799,Real Madrid,Daniel Carvajal,Right-Back
+2800,Real Madrid,Álvaro Odriozola,Right-Back
+2801,Real Madrid,Sergio Santos,Right-Back
+2802,Real Madrid,Casemiro,Defensive Midfield
+2803,Real Madrid,Antonio Blanco,Defensive Midfield
+2804,Real Madrid,Federico Valverde,Central Midfield
+2805,Real Madrid,Eduardo Camavinga,Central Midfield
+2806,Real Madrid,Toni Kroos,Central Midfield
+2807,Real Madrid,Dani Ceballos,Central Midfield
+2808,Real Madrid,Luka Modric,Central Midfield
+2809,Real Madrid,Isco,Attacking Midfield
+2810,Real Madrid,Vinicius Junior,Left Winger
+2811,Real Madrid,Eden Hazard,Left Winger
+2812,Real Madrid,Rodrygo,Right Winger
+2813,Real Madrid,Marco Asensio,Right Winger
+2814,Real Madrid,Lucas Vázquez,Right Winger
+2815,Real Madrid,Gareth Bale,Right Winger
+2816,Real Madrid,Peter González,Right Winger
+2817,Real Madrid,Karim Benzema,Centre-Forward
+2818,Real Madrid,Luka Jović,Centre-Forward
+2819,Real Madrid,Mariano Díaz,Centre-Forward
+2820,Real Madrid,Juanmi Latasa,Centre-Forward
+2821,Real Sociedad,Álex Remiro,Goalkeeper
+2822,Real Sociedad,Mathew Ryan,Goalkeeper
+2823,Real Sociedad,Gaizka Ayesa,Goalkeeper
+2824,Real Sociedad,Unai Marrero,Goalkeeper
+2825,Real Sociedad,Robin Le Normand,Centre-Back
+2826,Real Sociedad,Aritz Elustondo,Centre-Back
+2827,Real Sociedad,Igor Zubeldia,Centre-Back
+2828,Real Sociedad,Jon Pacheco,Centre-Back
+2829,Real Sociedad,Urko González,Centre-Back
+2830,Real Sociedad,Aihen Muñoz,Left-Back
+2831,Real Sociedad,Diego Rico,Left-Back
+2832,Real Sociedad,Nacho Monreal,Left-Back
+2833,Real Sociedad,Jonathan Gómez,Left-Back
+2834,Real Sociedad,Cristo Romero,Left-Back
+2835,Real Sociedad,Andoni Gorosabel,Right-Back
+2836,Real Sociedad,Joseba Zaldua,Right-Back
+2837,Real Sociedad,Álex Sola,Right-Back
+2838,Real Sociedad,Martín Zubimendi,Defensive Midfield
+2839,Real Sociedad,Asier Illarramendi,Defensive Midfield
+2840,Real Sociedad,Mikel Merino,Central Midfield
+2841,Real Sociedad,Ander Guevara,Central Midfield
+2842,Real Sociedad,Beñat Turrientes,Central Midfield
+2843,Real Sociedad,Jon Guridi,Central Midfield
+2844,Real Sociedad,Jon Ander Olasagasti,Central Midfield
+2845,Real Sociedad,Rafinha,Attacking Midfield
+2846,Real Sociedad,David Silva,Attacking Midfield
+2847,Real Sociedad,Robert Navarro,Attacking Midfield
+2848,Real Sociedad,Mikel Oyarzabal,Left Winger
+2849,Real Sociedad,Ander Barrenetxea,Left Winger
+2850,Real Sociedad,Näis Djouahra,Left Winger
+2851,Real Sociedad,Adnan Januzaj,Right Winger
+2852,Real Sociedad,Portu,Right Winger
+2853,Real Sociedad,Germán Valera,Right Winger
+2854,Real Sociedad,Ander Martín,Right Winger
+2855,Real Sociedad,Alexander Isak,Centre-Forward
+2856,Real Sociedad,Alexander Sörloth,Centre-Forward
+2857,Real Sociedad,Carlos Fernández,Centre-Forward
+2858,Real Sociedad,Jon Karrikaburu,Centre-Forward
+2859,Real Sociedad,Julen Lobete,Centre-Forward
+2860,Real Sociedad,Jon Bautista,Centre-Forward
+2861,Reims,Predrag Rajković,Goalkeeper
+2862,Reims,Yehvann Diouf,Goalkeeper
+2863,Reims,Nicolas Penneteau,Goalkeeper
+2864,Reims,Wout Faes,Centre-Back
+2865,Reims,Andreaw Gravillon,Centre-Back
+2866,Reims,Yunis Abdelhamid,Centre-Back
+2867,Reims,Moustapha Mbow,Centre-Back
+2868,Reims,Enzo Valentim,Centre-Back
+2869,Reims,Ghislain Konan,Left-Back
+2870,Reims,Bradley Locko,Left-Back
+2871,Reims,Thomas Foket,Right-Back
+2872,Reims,Maxime Busi,Right-Back
+2873,Reims,Fodé Doucouré,Right-Back
+2874,Reims,Ibrahim Diakité,Right-Back
+2875,Reims,Azor Matusiwa,Defensive Midfield
+2876,Reims,Jens Cajuste,Defensive Midfield
+2877,Reims,Marshall Munetsi,Defensive Midfield
+2878,Reims,Dion Lopy,Defensive Midfield
+2879,Reims,Sambou Sissoko,Defensive Midfield
+2880,Reims,Moreto Cassamá,Central Midfield
+2881,Reims,Valon Berisha,Central Midfield
+2882,Reims,Martin Adeline,Central Midfield
+2883,Reims,Xavier Chavalerin,Left Midfield
+2884,Reims,Ilan Kebbal,Attacking Midfield
+2885,Reims,Mathieu Cafaro,Attacking Midfield
+2886,Reims,Kamory Doumbia,Attacking Midfield
+2887,Reims,Noa Cervantes,Attacking Midfield
+2888,Reims,Samuel Koeberlé,Attacking Midfield
+2889,Reims,Nathanaël Mbuku,Left Winger
+2890,Reims,Billal Brahimi,Left Winger
+2891,Reims,Arbër Zeneli,Left Winger
+2892,Reims,Mitchell van Bergen,Left Winger
+2893,Reims,Moussa Doumbia,Left Winger
+2894,Reims,Alexis Flips,Right Winger
+2895,Reims,Anastasios Donis,Second Striker
+2896,Reims,Hugo Ekitiké,Centre-Forward
+2897,Reims,El Bilal Touré,Centre-Forward
+2898,Reims,Kaj Sierhuis,Centre-Forward
+2899,Reims,N'Dri Philippe Koffi,Centre-Forward
+2900,Reims,Fraser Hornby,Centre-Forward
+2901,Rennes,Alfred Gomis,Goalkeeper
+2902,Rennes,Dogan Alemdar,Goalkeeper
+2903,Rennes,Romain Salin,Goalkeeper
+2904,Rennes,Pépé Bonet,Goalkeeper
+2905,Rennes,Elias Damergy,Goalkeeper
+2906,Rennes,Loïc Badé,Centre-Back
+2907,Rennes,Nayef Aguerd,Centre-Back
+2908,Rennes,Warmed Omari,Centre-Back
+2909,Rennes,Jérémy Gélin,Centre-Back
+2910,Rennes,Jeanuël Belocian,Centre-Back
+2911,Rennes,Adrien Truffert,Left-Back
+2912,Rennes,Birger Meling,Left-Back
+2913,Rennes,Faitout Maouassa,Left-Back
+2914,Rennes,Hamari Traoré,Right-Back
+2915,Rennes,Lorenz Assignon,Right-Back
+2916,Rennes,Lesley Ugochukwu,Defensive Midfield
+2917,Rennes,Jonas Martin,Defensive Midfield
+2918,Rennes,Noah Françoise,Defensive Midfield
+2919,Rennes,Eduardo Camavinga,Central Midfield
+2920,Rennes,Baptiste Santamaria,Central Midfield
+2921,Rennes,Flavien Tait,Central Midfield
+2922,Rennes,Andy Diouf,Central Midfield
+2923,Rennes,Trésor Matondo,Central Midfield
+2924,Rennes,Benjamin Bourigeaud,Right Midfield
+2925,Rennes,Lovro Majer,Attacking Midfield
+2926,Rennes,Désiré Doué,Attacking Midfield
+2927,Rennes,Martin Terrier,Left Winger
+2928,Rennes,Kamaldeen Sulemana,Left Winger
+2929,Rennes,Jérémy Doku,Right Winger
+2930,Rennes,Romain Del Castillo,Right Winger
+2931,Rennes,Loum Tchaouna,Right Winger
+2932,Rennes,Junior Kadile,Right Winger
+2933,Rennes,Gaëtan Laborde,Centre-Forward
+2934,Rennes,Serhou Guirassy,Centre-Forward
+2935,Rennes,Matthis Abline,Centre-Forward
+2936,Rennes,Mathys Tel,Centre-Forward
+2937,Roma,Rui Patrício,Goalkeeper
+2938,Roma,Daniel Fuzato,Goalkeeper
+2939,Roma,Pietro Boer,Goalkeeper
+2940,Roma,Davide Mastrantonio,Goalkeeper
+2941,Roma,Roger Ibañez,Centre-Back
+2942,Roma,Gianluca Mancini,Centre-Back
+2943,Roma,Marash Kumbulla,Centre-Back
+2944,Roma,Chris Smalling,Centre-Back
+2945,Roma,Maissa Ndiaye,Centre-Back
+2946,Roma,Filippo Tripi,Centre-Back
+2947,Roma,Dimitrios Keramitsis,Centre-Back
+2948,Roma,Leonardo Spinazzola,Left-Back
+2949,Roma,Matías Viña,Left-Back
+2950,Roma,Riccardo Calafiori,Left-Back
+2951,Roma,Jan Oliveras,Left-Back
+2952,Roma,Rick Karsdorp,Right-Back
+2953,Roma,Bryan Reynolds,Right-Back
+2954,Roma,Davide Santon,Right-Back
+2955,Roma,Filippo Missori,Right-Back
+2956,Roma,Bryan Cristante,Defensive Midfield
+2957,Roma,Amadou Diawara,Defensive Midfield
+2958,Roma,Ebrima Darboe,Defensive Midfield
+2959,Roma,Jordan Veretout,Central Midfield
+2960,Roma,Sérgio Oliveira,Central Midfield
+2961,Roma,Gonzalo Villar,Central Midfield
+2962,Roma,Edoardo Bove,Central Midfield
+2963,Roma,Ainsley Maitland-Niles,Right Midfield
+2964,Roma,Nicola Zalewski,Left Midfield
+2965,Roma,Lorenzo Pellegrini,Attacking Midfield
+2966,Roma,Nicolò Zaniolo,Attacking Midfield
+2967,Roma,Henrikh Mkhitaryan,Attacking Midfield
+2968,Roma,Cristian Volpato,Attacking Midfield
+2969,Roma,Stephan El Shaarawy,Left Winger
+2970,Roma,Carles Pérez,Right Winger
+2971,Roma,Tammy Abraham,Centre-Forward
+2972,Roma,Borja Mayoral,Centre-Forward
+2973,Roma,Eldor Shomurodov,Centre-Forward
+2974,Roma,Felix Afena-Gyan,Centre-Forward
+2975,Roma,Joel Voelkerling Persson,Centre-Forward
+2976,Saint-Étienne,Etienne Green,Goalkeeper
+2977,Saint-Étienne,Paul Bernardoni,Goalkeeper
+2978,Saint-Étienne,Stefan Bajic,Goalkeeper
+2979,Saint-Étienne,Boubacar Fall,Goalkeeper
+2980,Saint-Étienne,Harold Moukoudi,Centre-Back
+2981,Saint-Étienne,Saïdou Sow,Centre-Back
+2982,Saint-Étienne,Mickaël Nade,Centre-Back
+2983,Saint-Étienne,Timothée Kolodziejczak,Centre-Back
+2984,Saint-Étienne,Eliaquim Mangala,Centre-Back
+2985,Saint-Étienne,Abdoulaye Bakayoko,Centre-Back
+2986,Saint-Étienne,Miguel Trauco,Left-Back
+2987,Saint-Étienne,Gabriel Silva,Left-Back
+2988,Saint-Étienne,Lucas Calodat,Left-Back
+2989,Saint-Étienne,Lucas Llort,Left-Back
+2990,Saint-Étienne,Yvann Maçon,Right-Back
+2991,Saint-Étienne,Falaye Sacko,Right-Back
+2992,Saint-Étienne,Alpha Sissoko,Right-Back
+2993,Saint-Étienne,Bryan Nokoue,Right-Back
+2994,Saint-Étienne,Lucas Gourna-Douath,Defensive Midfield
+2995,Saint-Étienne,Yvan Neyou,Defensive Midfield
+2996,Saint-Étienne,Assane Dioussé,Defensive Midfield
+2997,Saint-Étienne,Louis Mouton,Defensive Midfield
+2998,Saint-Étienne,Mahdi Camara,Central Midfield
+2999,Saint-Étienne,Zaydou Youssouf,Central Midfield
+3000,Saint-Étienne,Aimen Moueffek,Central Midfield
+3001,Saint-Étienne,Ahmed Sidibé,Central Midfield
+3002,Saint-Étienne,Adil Aouchiche,Attacking Midfield
+3003,Saint-Étienne,Ryad Boudebouz,Attacking Midfield
+3004,Saint-Étienne,Bilal Benkhedim,Attacking Midfield
+3005,Saint-Étienne,Denis Bouanga,Left Winger
+3006,Saint-Étienne,Arnaud Nordin,Left Winger
+3007,Saint-Étienne,Bakary Sako,Left Winger
+3008,Saint-Étienne,Sada Thioub,Right Winger
+3009,Saint-Étienne,Maxence Rivera,Right Winger
+3010,Saint-Étienne,Lamine Ghezali,Right Winger
+3011,Saint-Étienne,El Hadji Dieye,Right Winger
+3012,Saint-Étienne,Wahbi Khazri,Centre-Forward
+3013,Saint-Étienne,Jean-Philippe Krasso,Centre-Forward
+3014,Saint-Étienne,Enzo Crivelli,Centre-Forward
+3015,Saint-Étienne,Ignacio Ramírez,Centre-Forward
+3016,Saint-Étienne,Charles Abi,Centre-Forward
+3017,Saint-Étienne,Romain Hamouma,Centre-Forward
+3018,Saint-Étienne,Yanis Lhéry,Centre-Forward
+3019,Saint-Étienne,Mathys Saban,Centre-Forward
+3020,Salernitana,Luigi Sepe,Goalkeeper
+3021,Salernitana,Vid Belec,Goalkeeper
+3022,Salernitana,Vincenzo Fiorillo,Goalkeeper
+3023,Salernitana,Antonio Russo,Goalkeeper
+3024,Salernitana,Guido Guerrieri,Goalkeeper
+3025,Salernitana,Jacopo De Matteis,Goalkeeper
+3026,Salernitana,Radu Dragusin,Centre-Back
+3027,Salernitana,Norbert Gyomber,Centre-Back
+3028,Salernitana,Luka Bogdan,Centre-Back
+3029,Salernitana,Riccardo Gagliolo,Centre-Back
+3030,Salernitana,Federico Fazio,Centre-Back
+3031,Salernitana,Stefan Strandberg,Centre-Back
+3032,Salernitana,Frédéric Veseli,Centre-Back
+3033,Salernitana,Filippo Delli Carri,Centre-Back
+3034,Salernitana,Ramzi Aya,Centre-Back
+3035,Salernitana,Andrei Motoc,Centre-Back
+3036,Salernitana,Mario Perrone,Centre-Back
+3037,Salernitana,Luca Ranieri,Left-Back
+3038,Salernitana,Matteo Ruggeri,Left-Back
+3039,Salernitana,Pawel Jaroszynski,Left-Back
+3040,Salernitana,Tommaso De Lorenzo,Left-Back
+3041,Salernitana,Pasquale Mazzocchi,Right-Back
+3042,Salernitana,Nadir Zortea,Right-Back
+3043,Salernitana,Wajdi Kechrida,Right-Back
+3044,Salernitana,Ivan Radovanovic,Defensive Midfield
+3045,Salernitana,Andrea Schiavone,Defensive Midfield
+3046,Salernitana,Francesco Di Tacchio,Defensive Midfield
+3047,Salernitana,Éderson,Central Midfield
+3048,Salernitana,Emil Bohinen,Central Midfield
+3049,Salernitana,Lassana Coulibaly,Central Midfield
+3050,Salernitana,Mamadou Coulibaly,Central Midfield
+3051,Salernitana,Grigoris Kastanos,Central Midfield
+3052,Salernitana,Leonardo Capezzi,Central Midfield
+3053,Salernitana,Joel Obi,Central Midfield
+3054,Salernitana,Alessandro Russo,Central Midfield
+3055,Salernitana,Antonio Pio Iervolino,Central Midfield
+3056,Salernitana,Sedrick Kalombo,Right Midfield
+3057,Salernitana,Simone Verdi,Attacking Midfield
+3058,Salernitana,Franck Ribéry,Left Winger
+3059,Salernitana,Diego Perotti,Left Winger
+3060,Salernitana,Lys Mousset,Centre-Forward
+3061,Salernitana,Federico Bonazzoli,Centre-Forward
+3062,Salernitana,Mikael,Centre-Forward
+3063,Salernitana,Simy,Centre-Forward
+3064,Salernitana,Milan Djuric,Centre-Forward
+3065,Salernitana,Cedric Gondo,Centre-Forward
+3066,Salernitana,Edoardo Vergani,Centre-Forward
+3067,Salernitana,Julian Kristoffersen,Centre-Forward
+3068,Salernitana,Angelo Guida,Centre-Forward
+3069,Salernitana,Carmine Iannone,Centre-Forward
+3070,Salernitana,Lorenzo Cannavale,Centre-Forward
+3071,Sampdoria,Emil Audero,Goalkeeper
+3072,Sampdoria,Wladimiro Falcone,Goalkeeper
+3073,Sampdoria,Nicola Ravaglia,Goalkeeper
+3074,Sampdoria,Ivan Saio,Goalkeeper
+3075,Sampdoria,Omar Colley,Centre-Back
+3076,Sampdoria,Giangiacomo Magnani,Centre-Back
+3077,Sampdoria,Jeison Murillo,Centre-Back
+3078,Sampdoria,Radu Dragusin,Centre-Back
+3079,Sampdoria,Julian Chabot,Centre-Back
+3080,Sampdoria,Alex Ferrari,Centre-Back
+3081,Sampdoria,Maya Yoshida,Centre-Back
+3082,Sampdoria,Lorenzo Tonelli,Centre-Back
+3083,Sampdoria,Luigi Aquino,Centre-Back
+3084,Sampdoria,Giovanni Bonfanti,Centre-Back
+3085,Sampdoria,Tommaso Augello,Left-Back
+3086,Sampdoria,Nicola Murru,Left-Back
+3087,Sampdoria,Francesco Migliardi,Left-Back
+3088,Sampdoria,Bartosz Bereszynski,Right-Back
+3089,Sampdoria,Fabio Depaoli,Right-Back
+3090,Sampdoria,Andrea Conti,Right-Back
+3091,Sampdoria,Albin Ekdal,Defensive Midfield
+3092,Sampdoria,Tomás Rincón,Defensive Midfield
+3093,Sampdoria,Gerard Yepes,Defensive Midfield
+3094,Sampdoria,Morten Thorsby,Central Midfield
+3095,Sampdoria,Stefano Sensi,Central Midfield
+3096,Sampdoria,Ronaldo Vieira,Central Midfield
+3097,Sampdoria,Adrien Silva,Central Midfield
+3098,Sampdoria,Kristoffer Askildsen,Central Midfield
+3099,Sampdoria,Simone Trimboli,Central Midfield
+3100,Sampdoria,Antonio Candreva,Right Midfield
+3101,Sampdoria,Marco Somma,Right Midfield
+3102,Sampdoria,Jakub Jankto,Left Midfield
+3103,Sampdoria,Mohamed Ihattaren,Attacking Midfield
+3104,Sampdoria,Abdelhamid Sabiri,Attacking Midfield
+3105,Sampdoria,Valerio Verre,Attacking Midfield
+3106,Sampdoria,Mikkel Damsgaard,Left Winger
+3107,Sampdoria,Riccardo Ciervo,Left Winger
+3108,Sampdoria,Gianluca Caprari,Second Striker
+3109,Sampdoria,Sebastian Giovinco,Second Striker
+3110,Sampdoria,Manolo Gabbiadini,Centre-Forward
+3111,Sampdoria,Ernesto Torregrossa,Centre-Forward
+3112,Sampdoria,Vladyslav Supryaga,Centre-Forward
+3113,Sampdoria,Francesco Caputo,Centre-Forward
+3114,Sampdoria,Fabio Quagliarella,Centre-Forward
+3115,Sampdoria,Lorenzo Di Stefano,Centre-Forward
+3116,Sampdoria,Daniele Montevago,Centre-Forward
+3117,Sassuolo,Andrea Consigli,Goalkeeper
+3118,Sassuolo,Giacomo Satalino,Goalkeeper
+3119,Sassuolo,Gioele Zacchi,Goalkeeper
+3120,Sassuolo,Samuele Vitale,Goalkeeper
+3121,Sassuolo,Gianluca Pegolo,Goalkeeper
+3122,Sassuolo,Gian Marco Ferrari,Centre-Back
+3123,Sassuolo,Kaan Ayhan,Centre-Back
+3124,Sassuolo,Ruan Tressoldi,Centre-Back
+3125,Sassuolo,Vlad Chiriches,Centre-Back
+3126,Sassuolo,Filippo Romagna,Centre-Back
+3127,Sassuolo,Edoardo Goldaniga,Centre-Back
+3128,Sassuolo,Rogério,Left-Back
+3129,Sassuolo,Georgios Kyriakopoulos,Left-Back
+3130,Sassuolo,Federico Peluso,Left-Back
+3131,Sassuolo,Edoardo Pieragnolo,Left-Back
+3132,Sassuolo,Mert Müldür,Right-Back
+3133,Sassuolo,Jeremy Toljan,Right-Back
+3134,Sassuolo,Yeferson Paz,Right-Back
+3135,Sassuolo,Maxime López,Defensive Midfield
+3136,Sassuolo,Francesco Magnanelli,Defensive Midfield
+3137,Sassuolo,Davide Frattesi,Central Midfield
+3138,Sassuolo,Matheus Henrique,Central Midfield
+3139,Sassuolo,Abdou Harroui,Central Midfield
+3140,Sassuolo,Pedro Obiang,Central Midfield
+3141,Sassuolo,Christian Aucelli,Central Midfield
+3142,Sassuolo,Salim Abubakar,Central Midfield
+3143,Sassuolo,Justin Kumi,Central Midfield
+3144,Sassuolo,Hamed Junior Traorè,Attacking Midfield
+3145,Sassuolo,Filip Djuricic,Attacking Midfield
+3146,Sassuolo,Jérémie Boga,Left Winger
+3147,Sassuolo,Emil Konradsen Ceide,Left Winger
+3148,Sassuolo,Lukas Haraslin,Left Winger
+3149,Sassuolo,Riccardo Ciervo,Left Winger
+3150,Sassuolo,Asan Mata,Left Winger
+3151,Sassuolo,Nicolás Schiappacasse,Left Winger
+3152,Sassuolo,Domenico Berardi,Right Winger
+3153,Sassuolo,Brian Oddei,Right Winger
+3154,Sassuolo,Giacomo Raspadori,Second Striker
+3155,Sassuolo,Gianluca Scamacca,Centre-Forward
+3156,Sassuolo,Luca Moro,Centre-Forward
+3157,Sassuolo,Grégoire Defrel,Centre-Forward
+3158,Sassuolo,Francesco Caputo,Centre-Forward
+3159,Sassuolo,Luigi Samele,Centre-Forward
+3160,Sevilla,Bono,Goalkeeper
+3161,Sevilla,Marko Dmitrović,Goalkeeper
+3162,Sevilla,Javi Díaz,Goalkeeper
+3163,Sevilla,Alfonso Pastor,Goalkeeper
+3164,Sevilla,Adrián González,Goalkeeper
+3165,Sevilla,Alberto Flores,Goalkeeper
+3166,Sevilla,Jules Koundé,Centre-Back
+3167,Sevilla,Diego Carlos,Centre-Back
+3168,Sevilla,Karim Rekik,Centre-Back
+3169,Sevilla,Kike Salas,Centre-Back
+3170,Sevilla,Marcos Acuña,Left-Back
+3171,Sevilla,Ludwig Augustinsson,Left-Back
+3172,Sevilla,Juan María Alcedo,Left-Back
+3173,Sevilla,Pablo Pérez,Left-Back
+3174,Sevilla,Gonzalo Montiel,Right-Back
+3175,Sevilla,Alejandro Pozo,Right-Back
+3176,Sevilla,Jesús Navas,Right-Back
+3177,Sevilla,Valentino Fattore,Right-Back
+3178,Sevilla,José Ángel Carmona,Right-Back
+3179,Sevilla,Nemanja Gudelj,Defensive Midfield
+3180,Sevilla,Fernando,Defensive Midfield
+3181,Sevilla,Joan Jordán,Central Midfield
+3182,Sevilla,Óliver Torres,Central Midfield
+3183,Sevilla,Ivan Rakitic,Central Midfield
+3184,Sevilla,Thomas Delaney,Central Midfield
+3185,Sevilla,Pedro Ortiz,Central Midfield
+3186,Sevilla,Óscar Rodríguez,Attacking Midfield
+3187,Sevilla,Luismi Cruz,Attacking Midfield
+3188,Sevilla,Nacho Quintana,Attacking Midfield
+3189,Sevilla,Lucas Ocampos,Left Winger
+3190,Sevilla,Papu Gómez,Left Winger
+3191,Sevilla,Oussama Idrissi,Left Winger
+3192,Sevilla,Tecatito,Right Winger
+3193,Sevilla,Erik Lamela,Right Winger
+3194,Sevilla,Suso,Right Winger
+3195,Sevilla,Juanlu Sánchez,Right Winger
+3196,Sevilla,Antonio Zarzana,Right Winger
+3197,Sevilla,Youssef En-Nesyri,Centre-Forward
+3198,Sevilla,Rafa Mir,Centre-Forward
+3199,Sevilla,Anthony Martial,Centre-Forward
+3200,Sevilla,Munir El Haddadi,Centre-Forward
+3201,Sevilla,Luuk de Jong,Centre-Forward
+3202,Sevilla,Iván Romero,Centre-Forward
+3203,Southampton,Alex McCarthy,Goalkeeper
+3204,Southampton,Fraser Forster,Goalkeeper
+3205,Southampton,Willy Caballero,Goalkeeper
+3206,Southampton,Harry Lewis,Goalkeeper
+3207,Southampton,Jan Bednarek,Centre-Back
+3208,Southampton,Mohammed Salisu,Centre-Back
+3209,Southampton,Jack Stephens,Centre-Back
+3210,Southampton,Lyanco,Centre-Back
+3211,Southampton,Dynel Simeu,Centre-Back
+3212,Southampton,Romain Perraud,Left-Back
+3213,Southampton,Thierry Small,Left-Back
+3214,Southampton,Tino Livramento,Right-Back
+3215,Southampton,Kyle Walker-Peters,Right-Back
+3216,Southampton,Yan Valery,Right-Back
+3217,Southampton,Ibrahima Diallo,Defensive Midfield
+3218,Southampton,Oriol Romeu,Defensive Midfield
+3219,Southampton,James Ward-Prowse,Central Midfield
+3220,Southampton,Stuart Armstrong,Central Midfield
+3221,Southampton,Will Smallbone,Central Midfield
+3222,Southampton,Kgaogelo Chauke,Central Midfield
+3223,Southampton,Tyler Dibling,Attacking Midfield
+3224,Southampton,Nathan Redmond,Left Winger
+3225,Southampton,Mohamed Elyounoussi,Left Winger
+3226,Southampton,Moussa Djenepo,Left Winger
+3227,Southampton,Kazeem Olaigbe,Left Winger
+3228,Southampton,Nathan Tella,Right Winger
+3229,Southampton,Theo Walcott,Right Winger
+3230,Southampton,Armando Broja,Centre-Forward
+3231,Southampton,Ché Adams,Centre-Forward
+3232,Southampton,Adam Armstrong,Centre-Forward
+3233,Southampton,Michael Obafemi,Centre-Forward
+3234,Southampton,Dan N'Lundulu,Centre-Forward
+3235,Southampton,Shane Long,Centre-Forward
+3236,Spezia,Ivan Provedel,Goalkeeper
+3237,Spezia,Jeroen Zoet,Goalkeeper
+3238,Spezia,Petar Zovko,Goalkeeper
+3239,Spezia,Martin Erlic,Centre-Back
+3240,Spezia,Dimitrios Nikolaou,Centre-Back
+3241,Spezia,Jakub Kiwior,Centre-Back
+3242,Spezia,Petko Hristov,Centre-Back
+3243,Spezia,Nicolò Bertola,Centre-Back
+3244,Spezia,Arkadiusz Reca,Left-Back
+3245,Spezia,Kelvin Amian,Right-Back
+3246,Spezia,Luca Vignali,Right-Back
+3247,Spezia,Salva Ferrer,Right-Back
+3248,Spezia,Léo Sena,Defensive Midfield
+3249,Spezia,Mehdi Bourabia,Defensive Midfield
+3250,Spezia,Aurélien Nguiamba,Defensive Midfield
+3251,Spezia,Giulio Maggiore,Central Midfield
+3252,Spezia,Simone Bastoni,Central Midfield
+3253,Spezia,Aimar Sher,Central Midfield
+3254,Spezia,Jacopo Sala,Central Midfield
+3255,Spezia,Niccolò Pietra,Central Midfield
+3256,Spezia,Kevin Agudelo,Attacking Midfield
+3257,Spezia,Viktor Kovalenko,Attacking Midfield
+3258,Spezia,Ebrima Colley,Left Winger
+3259,Spezia,Emmanuel Gyasi,Left Winger
+3260,Spezia,Daniele Verde,Right Winger
+3261,Spezia,Suf Podgoreanu,Right Winger
+3262,Spezia,Dennis Deloriè,Second Striker
+3263,Spezia,Janis Antiste,Centre-Forward
+3264,Spezia,Eddie Salcedo,Centre-Forward
+3265,Spezia,M'Bala Nzola,Centre-Forward
+3266,Spezia,Rey Manaj,Centre-Forward
+3267,Spezia,David Strelec,Centre-Forward
+3268,Spezia,Samuel Mraz,Centre-Forward
+3269,Spezia,Diego Zuppel,Centre-Forward
+3270,Strasbourg,Matz Sels,Goalkeeper
+3271,Strasbourg,Eiji Kawashima,Goalkeeper
+3272,Strasbourg,Alaa Bellaarouch,Goalkeeper
+3273,Strasbourg,Alexander Djiku,Centre-Back
+3274,Strasbourg,Gerzino Nyamsi,Centre-Back
+3275,Strasbourg,Lucas Perrin,Centre-Back
+3276,Strasbourg,Ismaël Doukouré,Centre-Back
+3277,Strasbourg,Maxime Le Marchand,Centre-Back
+3278,Strasbourg,Marvin Elimbi,Centre-Back
+3279,Strasbourg,Kanfory Kaba,Centre-Back
+3280,Strasbourg,Anthony Caci,Left-Back
+3281,Strasbourg,Frédéric Guilbert,Right-Back
+3282,Strasbourg,Karol Fila,Right-Back
+3283,Strasbourg,Marvin Senaya,Right-Back
+3284,Strasbourg,Ibrahima Sissoko,Defensive Midfield
+3285,Strasbourg,Jean-Eudes Aholou,Defensive Midfield
+3286,Strasbourg,Mahamé Siby,Defensive Midfield
+3287,Strasbourg,Habib Diarra,Defensive Midfield
+3288,Strasbourg,Jean-Ricner Bellegarde,Central Midfield
+3289,Strasbourg,Sanjin Prcic,Central Midfield
+3290,Strasbourg,Dimitri Liénard,Central Midfield
+3291,Strasbourg,Dany Jean,Left Midfield
+3292,Strasbourg,Adrien Thomasson,Attacking Midfield
+3293,Strasbourg,Nordine Kandil,Attacking Midfield
+3294,Strasbourg,Aymeric Ahmed,Attacking Midfield
+3295,Strasbourg,Abdoul Ouattara,Attacking Midfield
+3296,Strasbourg,Mehdi Chahiri,Left Winger
+3297,Strasbourg,Moïse Sahi Dion,Second Striker
+3298,Strasbourg,Ludovic Ajorque,Centre-Forward
+3299,Strasbourg,Habib Diallo,Centre-Forward
+3300,Strasbourg,Lebo Mothiba,Centre-Forward
+3301,Strasbourg,Kévin Gameiro,Centre-Forward
+3302,Strasbourg,Majeed Waris,Centre-Forward
+3303,Stuttgart,Florian Müller,Goalkeeper
+3304,Stuttgart,Fabian Bredlow,Goalkeeper
+3305,Stuttgart,Florian Schock,Goalkeeper
+3306,Stuttgart,Konstantinos Mavropanos,Centre-Back
+3307,Stuttgart,Waldemar Anton,Centre-Back
+3308,Stuttgart,Marc Oliver Kempf,Centre-Back
+3309,Stuttgart,Hiroki Ito,Centre-Back
+3310,Stuttgart,Matej Maglica,Centre-Back
+3311,Stuttgart,Luca Bazzoli,Centre-Back
+3312,Stuttgart,Borna Sosa,Left-Back
+3313,Stuttgart,Pascal Stenzel,Right-Back
+3314,Stuttgart,Wataru Endo,Defensive Midfield
+3315,Stuttgart,Atakan Karazor,Defensive Midfield
+3316,Stuttgart,Naouirou Ahamada,Defensive Midfield
+3317,Stuttgart,Clinton Mola,Defensive Midfield
+3318,Stuttgart,Richard Weil,Defensive Midfield
+3319,Stuttgart,Orel Mangala,Central Midfield
+3320,Stuttgart,Enzo Millot,Central Midfield
+3321,Stuttgart,Nikolas Nartey,Central Midfield
+3322,Stuttgart,Silas,Right Midfield
+3323,Stuttgart,Erik Thommy,Left Midfield
+3324,Stuttgart,Philipp Förster,Attacking Midfield
+3325,Stuttgart,Mateo Klimowicz,Attacking Midfield
+3326,Stuttgart,Alexis Tibidi,Attacking Midfield
+3327,Stuttgart,Philipp Klement,Attacking Midfield
+3328,Stuttgart,Ömer Beyaz,Attacking Midfield
+3329,Stuttgart,Lilian Egloff,Attacking Midfield
+3330,Stuttgart,Daniel Didavi,Attacking Midfield
+3331,Stuttgart,Falko Michel,Attacking Midfield
+3332,Stuttgart,Omar Marmoush,Left Winger
+3333,Stuttgart,Tanguy Coulibaly,Left Winger
+3334,Stuttgart,Roberto Massimo,Left Winger
+3335,Stuttgart,Darko Churlinov,Left Winger
+3336,Stuttgart,Chris Führich,Right Winger
+3337,Stuttgart,Sasa Kalajdzic,Centre-Forward
+3338,Stuttgart,Tiago Tomás,Centre-Forward
+3339,Stuttgart,Wahid Faghir,Centre-Forward
+3340,Stuttgart,Mohamed Sankoh,Centre-Forward
+3341,Stuttgart,Hamadi Al Ghaddioui,Centre-Forward
+3342,Torino,Vanja Milinković-Savić,Goalkeeper
+3343,Torino,Etrit Berisha,Goalkeeper
+3344,Torino,Luca Gemello,Goalkeeper
+3345,Torino,Alberto Milan,Goalkeeper
+3346,Torino,Bremer,Centre-Back
+3347,Torino,David Zima,Centre-Back
+3348,Torino,Alessandro Buongiorno,Centre-Back
+3349,Torino,Ricardo Rodríguez,Centre-Back
+3350,Torino,Koffi Djidji,Centre-Back
+3351,Torino,Armando Izzo,Centre-Back
+3352,Torino,Andrei Anton,Centre-Back
+3353,Torino,Cristian Ansaldi,Left-Back
+3354,Torino,Samuele Angori,Left-Back
+3355,Torino,Stephane Singo,Right-Back
+3356,Torino,Mërgim Vojvoda,Right-Back
+3357,Torino,Ola Aina,Right-Back
+3358,Torino,Samuele Ricci,Defensive Midfield
+3359,Torino,Rolando Mandragora,Defensive Midfield
+3360,Torino,Tomás Rincón,Defensive Midfield
+3361,Torino,Tommaso Pobega,Central Midfield
+3362,Torino,Saša Lukić,Central Midfield
+3363,Torino,Dennis Praet,Central Midfield
+3364,Torino,Karol Linetty,Central Midfield
+3365,Torino,Jacopo Segre,Central Midfield
+3366,Torino,Daniele Baselli,Central Midfield
+3367,Torino,Matthew Garbett,Central Midfield
+3368,Torino,Mohamed Fares,Left Midfield
+3369,Torino,Simone Verdi,Attacking Midfield
+3370,Torino,Ben Lhassine Kone,Attacking Midfield
+3371,Torino,Dennis Stojkovic,Attacking Midfield
+3372,Torino,Josip Brekalo,Left Winger
+3373,Torino,Marko Pjaca,Left Winger
+3374,Torino,Magnus Warming,Left Winger
+3375,Torino,Demba Seck,Right Winger
+3376,Torino,Simone Edera,Right Winger
+3377,Torino,Andrea Belotti,Centre-Forward
+3378,Torino,Antonio Sanabria,Centre-Forward
+3379,Torino,Pietro Pellegri,Centre-Forward
+3380,Torino,Simone Zaza,Centre-Forward
+3381,Torino,Nicola Rauti,Centre-Forward
+3382,Torino,Lado Akhalaia,Centre-Forward
+3383,Tottenham,Pierluigi Gollini,Goalkeeper
+3384,Tottenham,Hugo Lloris,Goalkeeper
+3385,Tottenham,Brandon Austin,Goalkeeper
+3386,Tottenham,Cristian Romero,Centre-Back
+3387,Tottenham,Davinson Sánchez,Centre-Back
+3388,Tottenham,Eric Dier,Centre-Back
+3389,Tottenham,Japhet Tanganga,Centre-Back
+3390,Tottenham,Joe Rodon,Centre-Back
+3391,Tottenham,Cameron Carter-Vickers,Centre-Back
+3392,Tottenham,Maksim Paskotsi,Centre-Back
+3393,Tottenham,Brooklyn Lyons-Foster,Centre-Back
+3394,Tottenham,Tobi Omole,Centre-Back
+3395,Tottenham,Malachi Fagan-Walcott,Centre-Back
+3396,Tottenham,Sergio Reguilón,Left-Back
+3397,Tottenham,Ben Davies,Left-Back
+3398,Tottenham,Emerson Royal,Right-Back
+3399,Tottenham,Matt Doherty,Right-Back
+3400,Tottenham,Marcel Lavinier,Right-Back
+3401,Tottenham,Kallum Cesay,Right-Back
+3402,Tottenham,Oliver Skipp,Defensive Midfield
+3403,Tottenham,Harry Winks,Defensive Midfield
+3404,Tottenham,Harvey White,Defensive Midfield
+3405,Tottenham,Jamie Bowden,Defensive Midfield
+3406,Tottenham,Michael Craig,Defensive Midfield
+3407,Tottenham,Matthew Craig,Defensive Midfield
+3408,Tottenham,Pierre-Emile Höjbjerg,Central Midfield
+3409,Tottenham,Tanguy Ndombélé,Central Midfield
+3410,Tottenham,Rodrigo Bentancur,Central Midfield
+3411,Tottenham,Giovani Lo Celso,Central Midfield
+3412,Tottenham,Moussa Sissoko,Central Midfield
+3413,Tottenham,Nile John,Central Midfield
+3414,Tottenham,Ryan Sessegnon,Left Midfield
+3415,Tottenham,Dele Alli,Attacking Midfield
+3416,Tottenham,Alfie Devine,Attacking Midfield
+3417,Tottenham,Heung-min Son,Left Winger
+3418,Tottenham,Bryan Gil,Left Winger
+3419,Tottenham,Steven Bergwijn,Left Winger
+3420,Tottenham,Jack Clarke,Left Winger
+3421,Tottenham,J'Neil Bennett,Left Winger
+3422,Tottenham,Romaine Mundle,Left Winger
+3423,Tottenham,Dejan Kulusevski,Right Winger
+3424,Tottenham,Lucas Moura,Right Winger
+3425,Tottenham,Dilan Markanday,Right Winger
+3426,Tottenham,Harry Kane,Centre-Forward
+3427,Tottenham,Dane Scarlett,Centre-Forward
+3428,Troyes,Gauthier Gallon,Goalkeeper
+3429,Troyes,Sébastien Renot,Goalkeeper
+3430,Troyes,Jessy Moulin,Goalkeeper
+3431,Troyes,Ryan Bouallak,Goalkeeper
+3432,Troyes,Erik Palmer-Brown,Centre-Back
+3433,Troyes,Philippe Sandler,Centre-Back
+3434,Troyes,Yoann Salmier,Centre-Back
+3435,Troyes,Jimmy Giraudon,Centre-Back
+3436,Troyes,Eric N'Jo,Centre-Back
+3437,Troyes,Karim Azamoum,Centre-Back
+3438,Troyes,Adil Rami,Centre-Back
+3439,Troyes,Tanguy Zoukrou,Centre-Back
+3440,Troyes,Gabriel Mutombo,Centre-Back
+3441,Troyes,Nathan Gassama,Centre-Back
+3442,Troyes,Rudy Kohon,Centre-Back
+3443,Troyes,Lassine Soumaoro,Centre-Back
+3444,Troyes,Abdu Conté,Left-Back
+3445,Troyes,Yasser Larouci,Left-Back
+3446,Troyes,Youssouf Koné,Left-Back
+3447,Troyes,Mathis Hamdi,Left-Back
+3448,Troyes,Giulian Biancone,Right-Back
+3449,Troyes,Issa Kaboré,Right-Back
+3450,Troyes,Oualid El Hajjam,Right-Back
+3451,Troyes,Benrandy Abdallah,Right-Back
+3452,Troyes,Anas Namri,Right-Back
+3453,Troyes,Calvin Bombo,Defensive Midfield
+3454,Troyes,Bachir Diop,Defensive Midfield
+3455,Troyes,Rominigue Kouamé,Central Midfield
+3456,Troyes,Florian Tardieu,Central Midfield
+3457,Troyes,Metinho,Central Midfield
+3458,Troyes,Tristan Dingomé,Central Midfield
+3459,Troyes,Filip Krastev,Central Midfield
+3460,Troyes,Brandon Dominguès,Central Midfield
+3461,Troyes,Derek Mazou-Sacko,Central Midfield
+3462,Troyes,Xavier Chavalerin,Left Midfield
+3463,Troyes,Dylan Chambost,Attacking Midfield
+3464,Troyes,Luka Ilic,Attacking Midfield
+3465,Troyes,Gerson Rodrigues,Left Winger
+3466,Troyes,Levi Lumeka,Left Winger
+3467,Troyes,Renaud Ripart,Right Winger
+3468,Troyes,Patrick Roberts,Right Winger
+3469,Troyes,Nassim Chadli,Right Winger
+3470,Troyes,Alexis Lefebvre,Right Winger
+3471,Troyes,Iké Ugbo,Centre-Forward
+3472,Troyes,Mama Baldé,Centre-Forward
+3473,Troyes,Lebo Mothiba,Centre-Forward
+3474,Troyes,Hyun-jun Suk,Centre-Forward
+3475,Troyes,Yoann Touzghar,Centre-Forward
+3476,Troyes,Mykola Kukharevych,Centre-Forward
+3477,Troyes,Mamadou Camara,Centre-Forward
+3478,Udinese,Marco Silvestri,Goalkeeper
+3479,Udinese,Simone Scuffet,Goalkeeper
+3480,Udinese,Daniele Padelli,Goalkeeper
+3481,Udinese,Manuel Gasparini,Goalkeeper
+3482,Udinese,Edoardo Piana,Goalkeeper
+3483,Udinese,Antonio Santurro,Goalkeeper
+3484,Udinese,Matteo Carnelos,Goalkeeper
+3485,Udinese,Nehuén Pérez,Centre-Back
+3486,Udinese,Rodrigo Becão,Centre-Back
+3487,Udinese,Samir Caetano,Centre-Back
+3488,Udinese,Pablo Marí,Centre-Back
+3489,Udinese,Bram Nuytinck,Centre-Back
+3490,Udinese,Filip Benkovic,Centre-Back
+3491,Udinese,Sebastien De Maio,Centre-Back
+3492,Udinese,Nicolò Cocetta,Centre-Back
+3493,Udinese,Destiny Udogie,Left-Back
+3494,Udinese,Marvin Zeegelaar,Left-Back
+3495,Udinese,Raed Jaziri,Left-Back
+3496,Udinese,Nahuel Molina,Right-Back
+3497,Udinese,Brandon Soppy,Right-Back
+3498,Udinese,Jens Stryger Larsen,Right-Back
+3499,Udinese,Lorenzo Codutti,Right-Back
+3500,Udinese,Walace,Defensive Midfield
+3501,Udinese,Mato Jajalo,Defensive Midfield
+3502,Udinese,Riccardo Castagnaviz,Defensive Midfield
+3503,Udinese,Jean-Victor Makengo,Central Midfield
+3504,Udinese,Roberto Pereyra,Central Midfield
+3505,Udinese,Tolgay Arslan,Central Midfield
+3506,Udinese,Martin Palumbo,Central Midfield
+3507,Udinese,Riccardo Pinzi,Central Midfield
+3508,Udinese,Marco Ballarini,Central Midfield
+3509,Udinese,Mattia Damiani,Central Midfield
+3510,Udinese,Jacopo Fedrizzi,Central Midfield
+3511,Udinese,Lazar Samardzic,Attacking Midfield
+3512,Udinese,Simone Pafundi,Attacking Midfield
+3513,Udinese,Simone Ianesi,Left Winger
+3514,Udinese,Ignacio Pussetto,Right Winger
+3515,Udinese,Fernando Forestieri,Second Striker
+3516,Udinese,Gerard Deulofeu,Centre-Forward
+3517,Udinese,Beto,Centre-Forward
+3518,Udinese,Isaac Success,Centre-Forward
+3519,Udinese,Stefano Okaka,Centre-Forward
+3520,Udinese,Cristo González,Centre-Forward
+3521,Udinese,Ilija Nestorovski,Centre-Forward
+3522,Union Berlin,Frederik Rönnow,Goalkeeper
+3523,Union Berlin,Andreas Luthe,Goalkeeper
+3524,Union Berlin,Jakob Busk,Goalkeeper
+3525,Union Berlin,Niklas Petzsch,Goalkeeper
+3526,Union Berlin,Yannic Stein,Goalkeeper
+3527,Union Berlin,Marvin Friedrich,Centre-Back
+3528,Union Berlin,Paul Jaeckel,Centre-Back
+3529,Union Berlin,Timo Baumgartl,Centre-Back
+3530,Union Berlin,Robin Knoche,Centre-Back
+3531,Union Berlin,Dominique Heintz,Centre-Back
+3532,Union Berlin,Rick van Drongelen,Centre-Back
+3533,Union Berlin,Sebastian Griesbeck,Centre-Back
+3534,Union Berlin,Mathis Bruns,Centre-Back
+3535,Union Berlin,Tymoteusz Puchacz,Left-Back
+3536,Union Berlin,Niko Gießelmann,Left-Back
+3537,Union Berlin,Bastian Oczipka,Left-Back
+3538,Union Berlin,Julian Ryerson,Right-Back
+3539,Union Berlin,Christopher Trimmel,Right-Back
+3540,Union Berlin,Laurenz Dehl,Right-Back
+3541,Union Berlin,Rani Khedira,Defensive Midfield
+3542,Union Berlin,Robert Andrich,Central Midfield
+3543,Union Berlin,Grischa Prömel,Central Midfield
+3544,Union Berlin,András Schäfer,Central Midfield
+3545,Union Berlin,Levin Öztunali,Central Midfield
+3546,Union Berlin,Kevin Möhwald,Central Midfield
+3547,Union Berlin,Fabio Schneider,Central Midfield
+3548,Union Berlin,Maximilian Somnitz,Central Midfield
+3549,Union Berlin,Pawel Wszolek,Right Midfield
+3550,Union Berlin,Genki Haraguchi,Attacking Midfield
+3551,Union Berlin,Keita Endo,Attacking Midfield
+3552,Union Berlin,Sheraldo Becker,Second Striker
+3553,Union Berlin,Max Kruse,Second Striker
+3554,Union Berlin,Taiwo Awoniyi,Centre-Forward
+3555,Union Berlin,Marcus Ingvartsen,Centre-Forward
+3556,Union Berlin,Andreas Voglsammer,Centre-Forward
+3557,Union Berlin,Sven Michel,Centre-Forward
+3558,Union Berlin,Cedric Teuchert,Centre-Forward
+3559,Union Berlin,Kevin Behrens,Centre-Forward
+3560,Union Berlin,Anthony Ujah,Centre-Forward
+3561,Union Berlin,Suleiman Abdullahi,Centre-Forward
+3562,Valencia,Giorgi Mamardashvili,Goalkeeper
+3563,Valencia,Jasper Cillessen,Goalkeeper
+3564,Valencia,Jaume Doménech,Goalkeeper
+3565,Valencia,Cristian Rivero,Goalkeeper
+3566,Valencia,Charlie Pérez,Goalkeeper
+3567,Valencia,Omar Alderete,Centre-Back
+3568,Valencia,Gabriel Paulista,Centre-Back
+3569,Valencia,Mouctar Diakhaby,Centre-Back
+3570,Valencia,Eray Cömert,Centre-Back
+3571,Valencia,Cristiano Piccini,Centre-Back
+3572,Valencia,Cristhian Mosquera,Centre-Back
+3573,Valencia,César Tárrega,Centre-Back
+3574,Valencia,Rubén Iranzo,Centre-Back
+3575,Valencia,José Gayà,Left-Back
+3576,Valencia,Jesús Vázquez,Left-Back
+3577,Valencia,Toni Lato,Left-Back
+3578,Valencia,Thierry Correia,Right-Back
+3579,Valencia,Dimitri Foulquier,Right-Back
+3580,Valencia,Joseda Menargues,Right-Back
+3581,Valencia,Hugo Guillamón,Defensive Midfield
+3582,Valencia,Uroš Račić,Defensive Midfield
+3583,Valencia,Carlos Soler,Central Midfield
+3584,Valencia,Yunus Musah,Central Midfield
+3585,Valencia,Ilaix Moriba,Central Midfield
+3586,Valencia,Daniel Wass,Central Midfield
+3587,Valencia,Koba Koindredi,Central Midfield
+3588,Valencia,Javi Guerra,Central Midfield
+3589,Valencia,Lass Sangaré,Central Midfield
+3590,Valencia,Yellu Santiago,Central Midfield
+3591,Valencia,Pedro Alemañ,Attacking Midfield
+3592,Valencia,Gonçalo Guedes,Left Winger
+3593,Valencia,Bryan Gil,Left Winger
+3594,Valencia,Manu Vallejo,Left Winger
+3595,Valencia,Denis Cheryshev,Left Winger
+3596,Valencia,Álex Blanco,Left Winger
+3597,Valencia,Hélder Costa,Right Winger
+3598,Valencia,Jason,Right Winger
+3599,Valencia,Hugo González,Right Winger
+3600,Valencia,Maxi Gómez,Centre-Forward
+3601,Valencia,Hugo Duro,Centre-Forward
+3602,Valencia,Marcos André,Centre-Forward
+3603,Valencia,Rubén Sobrino,Centre-Forward
+3604,Valencia,Diego López,Centre-Forward
+3605,Valencia,Mario Dominguez,Centre-Forward
+3606,Venezia,Sergio Romero,Goalkeeper
+3607,Venezia,Luca Lezzerini,Goalkeeper
+3608,Venezia,Filippo Neri,Goalkeeper
+3609,Venezia,Niki Mäenpää,Goalkeeper
+3610,Venezia,Bruno Bertinato,Goalkeeper
+3611,Venezia,Riccardo Pigozzo,Goalkeeper
+3612,Venezia,Roman Lazar,Goalkeeper
+3613,Venezia,Ethan Ampadu,Centre-Back
+3614,Venezia,Mattia Caldara,Centre-Back
+3615,Venezia,Pietro Ceccaroni,Centre-Back
+3616,Venezia,Michael Svoboda,Centre-Back
+3617,Venezia,Marco Modolo,Centre-Back
+3618,Venezia,Melvin Rémy,Centre-Back
+3619,Venezia,Morré Makadji,Centre-Back
+3620,Venezia,Maximilian Ullmann,Left-Back
+3621,Venezia,Ridgeciano Haps,Left-Back
+3622,Venezia,David Schnegg,Left-Back
+3623,Venezia,Cristian Molinaro,Left-Back
+3624,Venezia,Pasquale Mazzocchi,Right-Back
+3625,Venezia,Tyronne Ebuehi,Right-Back
+3626,Venezia,Ales Mateju,Right-Back
+3627,Venezia,Jakob Pálsson,Right-Back
+3628,Venezia,Dor Peretz,Defensive Midfield
+3629,Venezia,Luca Fiordilino,Defensive Midfield
+3630,Venezia,Antonio Junior Vacca,Defensive Midfield
+3631,Venezia,Damiano Pecile,Defensive Midfield
+3632,Venezia,Filippo Mozzo,Defensive Midfield
+3633,Venezia,Gianluca Busio,Central Midfield
+3634,Venezia,Michaël Cuisance,Central Midfield
+3635,Venezia,Tanner Tessmann,Central Midfield
+3636,Venezia,Sofian Kiyine,Central Midfield
+3637,Venezia,Domen Crnigoj,Central Midfield
+3638,Venezia,Jacopo Dezi,Central Midfield
+3639,Venezia,Mattia Aramu,Attacking Midfield
+3640,Venezia,Arnór Sigurdsson,Attacking Midfield
+3641,Venezia,Daan Heymans,Attacking Midfield
+3642,Venezia,Lauri Ala-Myllymäki,Attacking Midfield
+3643,Venezia,Jack de Vries,Attacking Midfield
+3644,Venezia,Patrick Leal,Attacking Midfield
+3645,Venezia,Francesco Di Mariano,Left Winger
+3646,Venezia,Dennis Johnsen,Left Winger
+3647,Venezia,Nani,Left Winger
+3648,Venezia,Bjarki Bjarkason,Left Winger
+3649,Venezia,Issa Bah,Left Winger
+3650,Venezia,Nicolas Galazzi,Right Winger
+3651,Venezia,Thomas Henry,Centre-Forward
+3652,Venezia,David Okereke,Centre-Forward
+3653,Venezia,Jean-Pierre Nsame,Centre-Forward
+3654,Venezia,Francesco Forte,Centre-Forward
+3655,Venezia,Óttar Magnús Karlsson,Centre-Forward
+3656,Venezia,Hilmir Rafn Mikaelsson,Centre-Forward
+3657,Villarreal,Gerónimo Rulli,Goalkeeper
+3658,Villarreal,Sergio Asenjo,Goalkeeper
+3659,Villarreal,Iker Álvarez,Goalkeeper
+3660,Villarreal,Filip Jörgensen,Goalkeeper
+3661,Villarreal,Pau Torres,Centre-Back
+3662,Villarreal,Jorge Cuenca,Centre-Back
+3663,Villarreal,Aïssa Mandi,Centre-Back
+3664,Villarreal,Raúl Albiol,Centre-Back
+3665,Villarreal,Adrián de la Fuente,Centre-Back
+3666,Villarreal,Pervis Estupiñán,Left-Back
+3667,Villarreal,Alfonso Pedraza,Left-Back
+3668,Villarreal,Alberto Moreno,Left-Back
+3669,Villarreal,Dani Tasende,Left-Back
+3670,Villarreal,Juan Foyth,Right-Back
+3671,Villarreal,Serge Aurier,Right-Back
+3672,Villarreal,Mario Gaspar,Right-Back
+3673,Villarreal,Rubén Peña,Right-Back
+3674,Villarreal,Lanchi,Right-Back
+3675,Villarreal,Francis Coquelin,Defensive Midfield
+3676,Villarreal,Étienne Capoue,Defensive Midfield
+3677,Villarreal,Vicente Iborra,Defensive Midfield
+3678,Villarreal,Giovani Lo Celso,Central Midfield
+3679,Villarreal,Manu Trigueros,Central Midfield
+3680,Villarreal,Dani Parejo,Central Midfield
+3681,Villarreal,Manu Morlanes,Central Midfield
+3682,Villarreal,Antonio Pacheco,Central Midfield
+3683,Villarreal,Carlo García,Attacking Midfield
+3684,Villarreal,Moi Gómez,Left Winger
+3685,Villarreal,Nikita Iosifov,Left Winger
+3686,Villarreal,Yéremy Pino,Right Winger
+3687,Villarreal,Samuel Chukwueze,Right Winger
+3688,Villarreal,Nicolas Jackson,Right Winger
+3689,Villarreal,Dani Raba,Right Winger
+3690,Villarreal,Arnaut Danjuma,Centre-Forward
+3691,Villarreal,Gerard Moreno,Centre-Forward
+3692,Villarreal,Boulaye Dia,Centre-Forward
+3693,Villarreal,Paco Alcácer,Centre-Forward
+3694,Villarreal,Fer Niño,Centre-Forward
+3695,Villarreal,Juan Carlos Arana,Centre-Forward
+3696,Watford,Daniel Bachmann,Goalkeeper
+3697,Watford,Pontus Dahlberg,Goalkeeper
+3698,Watford,Ben Foster,Goalkeeper
+3699,Watford,Rob Elliot,Goalkeeper
+3700,Watford,Vincent Angelini,Goalkeeper
+3701,Watford,Samir Caetano,Centre-Back
+3702,Watford,William Troost-Ekong,Centre-Back
+3703,Watford,Christian Kabasele,Centre-Back
+3704,Watford,Nicolas N'Koulou,Centre-Back
+3705,Watford,Francisco Sierralta,Centre-Back
+3706,Watford,Craig Cathcart,Centre-Back
+3707,Watford,Mattie Pollock,Centre-Back
+3708,Watford,Derek Agyakwa,Centre-Back
+3709,Watford,Hassane Kamara,Left-Back
+3710,Watford,Adam Masina,Left-Back
+3711,Watford,Danny Rose,Left-Back
+3712,Watford,James Morris,Left-Back
+3713,Watford,Jeremy Ngakia,Right-Back
+3714,Watford,Kiko Femenía,Right-Back
+3715,Watford,Edo Kayembe,Defensive Midfield
+3716,Watford,Jaime Alvarado,Defensive Midfield
+3717,Watford,Imrân Louza,Central Midfield
+3718,Watford,Moussa Sissoko,Central Midfield
+3719,Watford,Ozan Tufan,Central Midfield
+3720,Watford,Peter Etebo,Central Midfield
+3721,Watford,Tom Dele-Bashiru,Central Midfield
+3722,Watford,Domingos Quina,Central Midfield
+3723,Watford,Tom Cleverley,Central Midfield
+3724,Watford,Juraj Kucka,Central Midfield
+3725,Watford,Dan Gosling,Central Midfield
+3726,Watford,Kamil Conteh,Central Midfield
+3727,Watford,Ken Sema,Left Midfield
+3728,Watford,Jack Grieves,Attack
+3729,Watford,Kwadwo Baah,Left Winger
+3730,Watford,Adrian Blake,Left Winger
+3731,Watford,Ismaïla Sarr,Right Winger
+3732,Watford,Philip Zinckernagel,Right Winger
+3733,Watford,Samuel Kalu,Right Winger
+3734,Watford,João Pedro,Centre-Forward
+3735,Watford,Emmanuel Dennis,Centre-Forward
+3736,Watford,Cucho Hernández,Centre-Forward
+3737,Watford,Joshua King,Centre-Forward
+3738,Watford,Andre Gray,Centre-Forward
+3739,Watford,Ashley Fletcher,Centre-Forward
+3740,Watford,Troy Deeney,Centre-Forward
+3741,Watford,Tiago Cukur,Centre-Forward
+3742,Watford,Shaqai Forde,Centre-Forward
+3743,West Ham,Alphonse Areola,Goalkeeper
+3744,West Ham,Lukasz Fabianski,Goalkeeper
+3745,West Ham,Darren Randolph,Goalkeeper
+3746,West Ham,David Martin,Goalkeeper
+3747,West Ham,Kurt Zouma,Centre-Back
+3748,West Ham,Issa Diop,Centre-Back
+3749,West Ham,Craig Dawson,Centre-Back
+3750,West Ham,Angelo Ogbonna,Centre-Back
+3751,West Ham,Aji Alese,Centre-Back
+3752,West Ham,Jamal Baptiste,Centre-Back
+3753,West Ham,Arthur Masuaku,Left-Back
+3754,West Ham,Aaron Cresswell,Left-Back
+3755,West Ham,Emmanuel Longelo,Left-Back
+3756,West Ham,Vladimir Coufal,Right-Back
+3757,West Ham,Ben Johnson,Right-Back
+3758,West Ham,Ryan Fredericks,Right-Back
+3759,West Ham,Harrison Ashby,Right-Back
+3760,West Ham,Declan Rice,Defensive Midfield
+3761,West Ham,Tomas Soucek,Defensive Midfield
+3762,West Ham,Alex Kral,Defensive Midfield
+3763,West Ham,Conor Coventry,Defensive Midfield
+3764,West Ham,Keenan Appiah-Forson,Defensive Midfield
+3765,West Ham,Freddie Potts,Defensive Midfield
+3766,West Ham,Pierre Ekwah,Defensive Midfield
+3767,West Ham,Mark Noble,Central Midfield
+3768,West Ham,Dan Chesters,Right Midfield
+3769,West Ham,Pablo Fornals,Attacking Midfield
+3770,West Ham,Nikola Vlasic,Attacking Midfield
+3771,West Ham,Manuel Lanzini,Attacking Midfield
+3772,West Ham,Kamarai Swyer,Attacking Midfield
+3773,West Ham,Saïd Benrahma,Left Winger
+3774,West Ham,Armstrong Oko-Flex,Left Winger
+3775,West Ham,Jarrod Bowen,Right Winger
+3776,West Ham,Andriy Yarmolenko,Right Winger
+3777,West Ham,Michail Antonio,Centre-Forward
+3778,West Ham,Sonny Perkins,Centre-Forward
+3779,Wolfsburg,Koen Casteels,Goalkeeper
+3780,Wolfsburg,Pavao Pervan,Goalkeeper
+3781,Wolfsburg,Philipp Schulze,Goalkeeper
+3782,Wolfsburg,Niklas Klinger,Goalkeeper
+3783,Wolfsburg,Maxence Lacroix,Centre-Back
+3784,Wolfsburg,Sebastiaan Bornauw,Centre-Back
+3785,Wolfsburg,John Anthony Brooks,Centre-Back
+3786,Wolfsburg,Marin Pongracic,Centre-Back
+3787,Wolfsburg,Micky van de Ven,Centre-Back
+3788,Wolfsburg,Anselmo García MacNulty,Centre-Back
+3789,Wolfsburg,Jannis Lang,Centre-Back
+3790,Wolfsburg,Paulo Otávio,Left-Back
+3791,Wolfsburg,Jérôme Roussillon,Left-Back
+3792,Wolfsburg,Ridle Baku,Right-Back
+3793,Wolfsburg,Kevin Mbabu,Right-Back
+3794,Wolfsburg,William,Right-Back
+3795,Wolfsburg,Josuha Guilavogui,Defensive Midfield
+3796,Wolfsburg,Xaver Schlager,Central Midfield
+3797,Wolfsburg,Maximilian Arnold,Central Midfield
+3798,Wolfsburg,Aster Vranckx,Central Midfield
+3799,Wolfsburg,Yannick Gerhardt,Central Midfield
+3800,Wolfsburg,Gil-Linnart Walther,Central Midfield
+3801,Wolfsburg,Kevin Paredes,Left Midfield
+3802,Wolfsburg,Felix Nmecha,Attacking Midfield
+3803,Wolfsburg,Josip Brekalo,Left Winger
+3804,Wolfsburg,Omar Marmoush,Left Winger
+3805,Wolfsburg,Dodi Lukébakio,Right Winger
+3806,Wolfsburg,Renato Steffen,Right Winger
+3807,Wolfsburg,Luca Waldschmidt,Second Striker
+3808,Wolfsburg,Maximilian Philipp,Second Striker
+3809,Wolfsburg,Max Kruse,Second Striker
+3810,Wolfsburg,Admir Mehmedi,Second Striker
+3811,Wolfsburg,Lukas Nmecha,Centre-Forward
+3812,Wolfsburg,Wout Weghorst,Centre-Forward
+3813,Wolfsburg,Jonas Wind,Centre-Forward
+3814,Wolfsburg,Bartosz Bialek,Centre-Forward
+3815,Wolfsburg,Daniel Ginczek,Centre-Forward
+3816,Wolves,José Sá,Goalkeeper
+3817,Wolves,Matija Sarkic,Goalkeeper
+3818,Wolves,John Ruddy,Goalkeeper
+3819,Wolves,Andreas Söndergaard,Goalkeeper
+3820,Wolves,Louie Moulden,Goalkeeper
+3821,Wolves,James Storer,Goalkeeper
+3822,Wolves,Conor Coady,Centre-Back
+3823,Wolves,Max Kilman,Centre-Back
+3824,Wolves,Romain Saïss,Centre-Back
+3825,Wolves,Willy Boly,Centre-Back
+3826,Wolves,Yerson Mosquera,Centre-Back
+3827,Wolves,Toti,Centre-Back
+3828,Wolves,Dion Sanderson,Centre-Back
+3829,Wolves,Christian Marques,Centre-Back
+3830,Wolves,Rayan Aït-Nouri,Left-Back
+3831,Wolves,Jonny Otto,Left-Back
+3832,Wolves,Marçal,Left-Back
+3833,Wolves,Hugo Bueno,Left-Back
+3834,Wolves,Dexter Lembikisa,Left-Back
+3835,Wolves,Nélson Semedo,Right-Back
+3836,Wolves,Ki-Jana Hoever,Right-Back
+3837,Wolves,Rúben Neves,Defensive Midfield
+3838,Wolves,Leander Dendoncker,Defensive Midfield
+3839,Wolves,João Moutinho,Central Midfield
+3840,Wolves,Bruno Jordão,Central Midfield
+3841,Wolves,Luke Cundle,Central Midfield
+3842,Wolves,Connor Ronan,Central Midfield
+3843,Wolves,Ryan Giles,Left Midfield
+3844,Wolves,Morgan Gibbs-White,Attacking Midfield
+3845,Wolves,Chem Campbell,Attacking Midfield
+3846,Wolves,Pedro Neto,Left Winger
+3847,Wolves,Chiquinho,Left Winger
+3848,Wolves,Adama Traoré,Right Winger
+3849,Wolves,Daniel Podence,Right Winger
+3850,Wolves,Francisco Trincão,Right Winger
+3851,Wolves,Raúl Jiménez,Centre-Forward
+3852,Wolves,Hee-chan Hwang,Centre-Forward
+3853,Wolves,Fábio Silva,Centre-Forward

@@ -1,0 +1,1388 @@
+<body class="" itemscope="" itemtype="http://schema.org/WebPage" data-tm-tld="com" data-cmp-layer-id="225676" data-new-gr-c-s-check-loaded="14.1025.0" data-gr-ext-installed=""><div class="werbung werbung-header bzwlfHid"><!-- Start GPT Tag -->
+                        <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+                        <script>
+                          window.googletag = window.googletag || {cmd: []};
+                          googletag.cmd.push(function() {
+                            googletag.defineSlot("/58778164/Desktop-Billboard-1", [[960, 90], [970, 250], [950, 90], [728, 90], [970, 90]], "div-gpt-ad-1621524903956-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-1", [[300, 250], [336, 280]], "div-gpt-ad-1621526463511-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-1", [[160, 600], [336, 280], [300, 250], [300, 600]], "div-gpt-ad-1621527521939-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-2", [[336, 280], [300, 250]], "div-gpt-ad-1621528018930-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-2",  [[300, 250], [336, 280], [160, 600], [300, 600]], "div-gpt-ad-1621528123398-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Billboard-2",  [[950, 90], [970, 250], [728, 90], [970, 90], [960, 90]], "div-gpt-ad-1621528173524-0")
+                            .addService(googletag.pubads());
+                             googletag.pubads().enableLazyLoad({
+                                fetchMarginPercent: 500,
+                                renderMarginPercent: 200,
+                                mobileScaling: 2.0});
+                            googletag.pubads().setCentering(true);
+                            googletag.pubads().disableInitialLoad();
+                            googletag.pubads().enableSingleRequest();
+                            googletag.pubads().setTargeting("cg1", ["verein"]);
+                            googletag.pubads().setTargeting("URL", "www.transfermarkt.com");
+                            googletag.enableServices();
+                          });
+                        </script>
+                        <!-- End GPT Tag --></div>    
+
+    
+    
+        <div id="main" class="">
+    <div id="EMKpwJC" class="mhlIPfbDh hide-for-small"><div id="smvRjCP" class="BAxkKeYKKE "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/tMOt0E5QPNw5NKRooiSfP6wuk44r234XvHYvcqRpz1ne/BBxwXzseVSPUIovxTYKvdc222ozMMU9yj8Djx4LmgoKn65QjT1SMRkpUK.gif" style="position: fixed; top: 0px;"></div></div><div class="werbung-skyscraper-container">
+            <div class="werbung werbung-skyscraper bzwlfHid" style="visibility: visible;"><!-- /58778164/Desktop-Skyscraper-1 -->
+                        <div id="div-gpt-ad-1621527521939-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621527521939-0"); });
+                          </script>
+                        </div></div>        </div>
+
+        <div class="werbung-skyscraperbtf-container" style="top: 2000px; display: block;">
+            <div class="werbung werbung-skyscraperbtf bzwlfHid" style="position: relative; top: unset;"><!-- /58778164/Desktop-Skyscraper-2 -->
+                        <div id="div-gpt-ad-1621528123398-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528123398-0"); });
+                          </script>
+                        </div></div>        </div>
+        
+        <header class="tm-header">
+                        <div class="tm-header__box ">
+                                <a href="/">
+                    <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" height="62" width="156" title="Transfermarkt" alt="Transfermarkt">
+                </a>
+                                                 <tm-domainswitcher open-list="false" tld="com" class="hydrated"></tm-domainswitcher>
+                                    <div class="tm-header__social-box">
+		                <a href="https://www.facebook.com/Transfermarkt.global" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/fb_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://twitter.com/TMuk_news" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/twitter_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="http://instagram.com/transfermarkt_official" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/instagram_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="/intern/rssguide" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','RSS');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/rss_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://www.tiktok.com/@transfermarkt" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Tiktok');
+">
+                    <img src="https://tmsi.akamaized.net/icons/tiktok.svg" width="20" height="20" class="header__icon">
+                </a>
+				    </div>
+                    <div class="tm-header__input-wrapper " id="schnellsuche-platz">
+                        <form name="schnellsuche" id="schnellsuche" class="tm-header__form" action="/schnellsuche/ergebnis/schnellsuche">
+                            <input type="text" name="query" class="tm-header__input--search-field" onclick="" placeholder="Enter search term" autocorrect="off" spellcheck="false" value="">
+                            <input type="submit" value="" class="tm-header__input--search-send" alt="search">
+                        </form>
+                        <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="tm-header__search-detail">
+                            <img src="https://tmsi.akamaized.net/icons/search_icon_plus_blue_white.svg" alt="search" class="tm-header__icon-detail-search" height="26" width="26">
+                        </a>
+                    </div>
+                                </div>
+                
+            <nav class="main-navbar navihalter">
+                                                                        <ul class="main-navbar__container megamenu_dark_bar megamenu_dark" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+                    <a href="/" class="sticky-logo hide-for-small">
+                <span title="Transfermarkt" class="tm_svg"></span>
+            </a>
+        
+    <li class="main-navbar__list" data-nav-group="news">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('News','click','menu');
+">
+            News        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="transfers">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Transfers &amp; Gerüchte','click','menu');
+">
+            Transfers &amp; rumours        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="marktwerte">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Marktwerte','click','menu');
+">
+            Market values        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list aktiv" data-nav-group="wettbewerbe">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Wettbewerbe','click','menu');
+">
+            Competitions        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="foren">
+                <a class="main-navbar__list-title tm-main-nav-el" href="/uebersicht/index/forum/com" onclick="tmEvent('Foren','click','menu');
+">
+            Forums                    </a>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="meintm">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('MeinTM','click','menu');
+">
+            My TM        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list">
+                <a class="main-navbar__list-title tm-main-nav-el live-navilink" href="/ticker/index/live" onclick="tmEvent('Live','click','menu');
+">
+            Live                            <tm-live-match-counter auto-request="true" content="[&quot;Live match&quot;, &quot;live matches&quot;]" class="hydrated"></tm-live-match-counter>
+                    </a>
+            </li>
+</ul>
+
+                
+                <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                    <input type="text" name="query" class="header-suche" onclick="" placeholder="Enter search term">
+                    <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="search">
+                </form>
+                <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="header-suche-detailsuche">
+                    <span class="icon-detailsuche"></span>
+                </a>
+                                 <a id="arrow-up-xy" href="#">
+                            <svg style="fill: white; width: 20px; height: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                            <g>
+                            <path d="M78.016,49.132L51.961,12.714c-0.471-0.66-1.233-1.049-2.043-1.051c-0.006,0-0.006,0-0.006,0
+                                c-0.815,0.002-1.575,0.396-2.048,1.059L21.977,49.14c-0.546,0.767-0.616,1.776-0.183,2.612c0.426,0.835,1.292,1.361,2.236,1.361
+                                h12.183l-0.001,32.709c0,1.39,1.125,2.515,2.516,2.515l22.541-0.001c1.389,0.001,2.515-1.124,2.516-2.517l0-32.705h12.187
+                                c0.94,0,1.803-0.53,2.237-1.367C78.641,50.911,78.566,49.9,78.016,49.132z"></path>
+                            </g>
+                            </svg>
+                        </a>
+                                <div class="tm-login" id="login" onclick="tmEvent('login','click','sign_in_button');
+">
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" fill="#FFF" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve" class="tm-login__image">
+        <g>
+            <path d="M80.161,60.441l-15.66-7.47l-6.622-3.159c2.892-1.822,5.241-4.634,6.778-8.022c1.22-2.69,1.946-5.734,1.946-8.99
+                c0-1.827-0.29-3.562-0.694-5.236C63.94,19.453,57.605,13.477,50,13.477c-7.461,0-13.701,5.763-15.792,13.645
+                c-0.482,1.808-0.815,3.688-0.815,5.68c0,3.459,0.808,6.684,2.181,9.489c1.587,3.254,3.94,5.937,6.804,7.662l-6.342,2.953
+                l-16.168,7.53c-1.404,0.658-2.327,2.242-2.327,4.011v15.062v2.703c0,2.381,1.659,4.312,3.708,4.312h57.505
+                c2.048,0,3.708-1.93,3.708-4.312v-2.703V64.446C82.46,62.683,81.552,61.114,80.161,60.441z"></path>
+        </g>
+    </svg>
+    <span class="tm-login__cta">
+        Log in    </span>
+</div>
+            </nav>
+                         
+           <div class="quick-select-wrapper">
+    
+
+    <tm-quick-select-bar default-country="157" default-competition="ES2" default-club="3368" default-player="" dropdown-visible="" translations="{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Country&quot;,&quot;competition&quot;:&quot;Competition&quot;,&quot;club&quot;:&quot;club&quot;,&quot;player&quot;:&quot;player&quot;,&quot;attack&quot;:&quot;attack&quot;,&quot;midfield&quot;:&quot;midfield&quot;,&quot;defense&quot;:&quot;defence&quot;,&quot;goalkeeper&quot;:&quot;goalkeeper&quot;}" version="2.0.0" class="hydrated" in-viewport="true">
+    </tm-quick-select-bar>
+</div>
+
+
+            <div id="feagEoVF" class="lmlDpQx "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/3378NPqdBfUzMwynoI1TwIcZL5ZcdZpVodEpyOnELIWd/BBxwXzseVSQCMC3OcWfd00RlUKpboBbPU5kDH9X8MWL7gzyk5d1BOhofw.gif"></div><div class="werbung werbung-billboard bzwlfHid"><!-- /58778164/Desktop-Billboard-1 -->
+                        <div id="div-gpt-ad-1621524903956-0" style="min-width: 728px; min-height: 90px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621524903956-0"); });
+                          </script>
+                        </div></div>        </header>
+        <main>
+            <script type="text/javascript" class="teads" src="//a.teads.tv/page/138303/tag" async="true"></script><header class="data-header">
+    <div class="data-header__headline-container">
+        <h1 class="data-header__headline-wrapper data-header__headline-wrapper--oswald">
+            Levante UD        </h1>
+    </div>
+    <div class="data-header__badge-container">
+                                    <a href="/levante-ud/erfolge/verein/3368" title="Spanish 2nd tier champion" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/878.png?lm=1647419746" data-src="https://tmssl.akamaized.net/images/erfolge/header/878.png?lm=1647419746" title="Spanish 2nd tier champion" alt="Spanish 2nd tier champion" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        3                    </span>
+                </a>
+                                    </div>
+            <div class="data-header__box--big">
+            <a class="data-header__box__club-link" href="/laliga2/startseite/wettbewerb/ES2">
+                                    <img srcset="
+                                    https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/es2.png?lm=1602229644 1x,
+                                    https://tmssl.akamaized.net/images/logo/homepageWappen150x150/es2.png?lm=1602229644 2x
+                                " alt="LaLiga2" height="80" width="80">
+                            </a>
+            <div class="data-header__club-info">
+                <span class="data-header__club" itemprop="affiliation">
+                    <a href="/laliga2/startseite/wettbewerb/ES2">
+                        LaLiga2                    </a>
+                </span>
+                                        <span class="data-header__label">
+                            <strong>League level:</strong>                            <span class="data-header__content">
+                                <a href="/laliga2/startseite/wettbewerb/ES2">
+                                    <img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" data-src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen vm lazy entered loaded" data-ll-status="loaded">Second Tier
+                                </a>
+                            </span>
+                        </span>
+                                            <span class="data-header__label">
+                            Table position:
+                            <span class="data-header__content">
+                                <a href="/laliga2/tabelle/wettbewerb/ES2" title="League table">4</a>                                
+                            </span>
+                        </span>
+                        <span class="data-header__label">
+                            In league since:
+                            <span class="data-header__content">
+                                <a href="/levante-ud/platzierungen/verein/3368" title="">1 year</a>
+                            </span>
+                        </span>
+                            </div>
+        </div>
+        <div class="data-header__profile-container">
+        <img src="https://tmssl.akamaized.net/images/wappen/head/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class="">
+    </div>
+            <div class="data-header__box--small">
+
+                        <a href="/levante-ud/kader/verein/3368" class="data-header__market-value-wrapper"><span class="waehrung">€</span>48.10<span class="waehrung">m</span>            <p class="data-header__last-update">
+                Total market value            </p>
+            </a>
+        </div>
+        <div class="data-header__info-box">
+        <div class="data-header__details">
+            <ul class="data-header__items">
+                <li class="data-header__label">
+                    Squad size:
+                    <span itemprop="dataItem" class="data-header__content">
+                        24                    </span>
+                </li>
+                <li class="data-header__label">
+                    Average age:
+                    <span itemprop="dataItem" class="data-header__content">
+                        26.9                    </span>
+                </li>
+                <li class="data-header__label">
+                    Foreigners:
+                    <span itemprop="dataItem" class="data-header__content">
+                        <a href="/levante-ud/legionaere/verein/3368">6</a>&nbsp;&nbsp;<span class="tabellenplatz">25.0 %</span>                    </span>
+                </li>
+            </ul>
+            <ul class="data-header__items">
+                                    <li class="data-header__label">
+                        National team players:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a href="/levante-ud/nationalspieler/verein/3368">0</a>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Stadium:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a title="Levante UD" href="/ud-levante/stadion/verein/3368">Ciutat de València</a>&nbsp;&nbsp;<span class="tabellenplatz">26.354 Seats</span>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Current transfer record:
+                        <span itemprop="dataItem" class="data-header__content">
+                                                        <span class="greentext">
+                                <a class="greentext" href="/levante-ud/transfers/verein/3368/saison_id/2022">+€7.40m</a>                            </span>
+                    </span></li>
+                            </ul>
+        </div>
+    </div>
+            <div class="data-header__toggle">
+            <div class="data-header__toggle-icon">+</div>
+            <ul class="data-header__list-clubs">
+                <li><img src="https://tmssl.akamaized.net/images/wappen/tiny/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class="tiny_wappen"><span><a title="Levante UD" href="/ud-levante/startseite/verein/3368">Levante UD</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/11516.png?lm=1408655062" title="Atlético Levante UD" alt="Atlético Levante UD" class="tiny_wappen"><span><a title="Atlético Levante UD" href="/ud-levante-b/startseite/verein/11516">Atlético Levante UD</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/12798.png?lm=1408655062" title="Levante UD U19" alt="Levante UD U19" class="tiny_wappen"><span><a title="Levante UD U19" href="/ud-levante-u19/startseite/verein/12798">Levante UD U19</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/default.png?lm=1457423031" title="Patacona CF U19" alt="Patacona CF U19" class="tiny_wappen"><span><a title="Patacona CF U19" href="/patacona-cf-juvenil-a/startseite/verein/84446">Patacona CF U19</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/25264.png?lm=1408655062" title="Levante UD Youth" alt="Levante UD Youth" class="tiny_wappen"><span><a title="Levante UD Youth" href="/ud-levante-jugend/startseite/verein/25264">Levante UD Youth</a></span>                    </li>            </ul>
+        </div>
+    </header>
+<script type="text/javascript">
+    const headerLinkList = document.querySelector('.data-header__toggle');
+    if (headerLinkList) {
+        headerLinkList.addEventListener('click', () => {
+            headerLinkList.classList.toggle('data-header__toggle--active');
+        })
+    };
+</script>
+<a href="https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178" class="db mt10" onclick="tmEvent('banner', 'https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178', 'd-day-banner');">
+    <img src="https://dzjovqk3zamsg.cloudfront.net/MVU_Banner_Premier-League_1122_Desktop_EN.jpg" width="1034" height="99" alt="deadline-day banner">
+</a>
+    <div class="row hide-on-print" id="subnavi" data-season="2021" data-controller="verein" data-action="startseite" data-path="levante-ud/startseite/verein/3368" data-id="3368">
+        <div class="page_wrapper subnavi">
+            <div class="large-12 columns">
+                <div class="subnavi_box" id="subnavigation">
+                    <div class="submenu-text show-for-small">
+                        <a name="SubNavi" title="Navigation">
+                            <span>≡ Sub Menu</span>
+                        </a>
+                    </div>
+                    <nav>
+                        <ul id="submenu">
+                                                        <li id="close_submenu" class="show-for-small">
+                                <div id="submenu-icon">
+                                    <span class="clicked"></span>
+                                    <span class="clicked"></span>
+                                </div>
+                                <a>Close Menu</a>
+                            </li>
+                                                                <li id="overview" class="first-button aktiv " data-nav-group="overview">
+                                        <a name="SubNavi" href="/ud-levante/startseite/verein/3368/saison_id/2022" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','uebersicht');
+">Overview</a>
+                                                                            </li>
+                                                                        <li id="squad" class="  " data-nav-group="squad">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','kader');
+">Squad</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="fixtures" class="  " data-nav-group="fixtures">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','spielplan');
+">Fixtures</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="transfers-amp-rumours" class="  " data-nav-group="transfers-amp-rumours">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','transfers-amp-geruchte');
+">Transfers &amp; rumours</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="information-amp-facts" class="  " data-nav-group="information-amp-facts">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','daten_und_fakten');
+">Information &amp; facts</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="stadium" class="  " data-nav-group="stadium">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','stadion');
+">Stadium</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="history" class="  " data-nav-group="history">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','historie');
+">History</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="news" class="  " data-nav-group="news">
+                                        <a name="SubNavi" href="/ud-levante/news/verein/3368" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','news');
+">News</a>
+                                                                            </li>
+                                                                        <li id="subnavi-edit" class="  subnavi-edit" data-nav-group="subnavi-edit">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','edit');
+"></a>
+                                        <div class="dropdown_fullwidth gasthinweis" title="Log in or register now"><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var stickySubTop = $('#subnavigation').offset().top;
+        stickySubTop = stickySubTop - 60;
+        var main = $("#main");
+        $(document).ready(function () {
+            $(window).on('scroll load', function () {
+                if (!main.hasClass("stickySubnavigation")) {
+                    stickySubTop = $('#subnavigation').offset().top;
+                }
+                if ($(window).scrollTop() > stickySubTop) {
+                    main.addClass("stickySubnavigation");
+                } else {
+                    main.removeClass("stickySubnavigation");
+                }
+            });
+        });
+    </script>
+    <style>
+        .forum-anchor {
+            margin-top: -80px;
+        }
+    </style>
+
+    <div class="row vereinsstartseite" itemscope="" itemtype="http://schema.org/SportsTeam">
+    <div class="large-8 columns">
+        <div class="box kader-widget viewport-tracking" data-viewport="Kader">
+    <h2 class="content-box-headline">
+                        Squad of Levante UD - Season 21/22      
+    </h2>
+            <div class="content">
+            <form action="/levante-ud/startseite/verein/3368" method="get">            <div class="row">
+                <div class="large-12 columns">
+                    <table class="auflistung">
+                        <tbody>
+                            <tr>
+                                <td>
+                                                                            Filter by season                                                                    </td>
+                                <td>
+                                    <div class="inline-select">
+                                        <select name="saison_id" data-placeholder="Filter by season" class="chzn-select chzn-done" tabindex="-1" id="selSX3" style="display: none;">
+                                                                                            <option value="2022">22/23</option>
+                                                                                            <option selected="selected" value="2021">21/22</option>
+                                                                                            <option value="2020">20/21</option>
+                                                                                            <option value="2019">19/20</option>
+                                                                                            <option value="2018">18/19</option>
+                                                                                            <option value="2017">17/18</option>
+                                                                                            <option value="2016">16/17</option>
+                                                                                            <option value="2015">15/16</option>
+                                                                                            <option value="2014">14/15</option>
+                                                                                            <option value="2013">13/14</option>
+                                                                                            <option value="2012">12/13</option>
+                                                                                            <option value="2011">11/12</option>
+                                                                                            <option value="2010">10/11</option>
+                                                                                            <option value="2009">09/10</option>
+                                                                                            <option value="2008">08/09</option>
+                                                                                            <option value="2007">07/08</option>
+                                                                                            <option value="2006">06/07</option>
+                                                                                            <option value="2005">05/06</option>
+                                                                                            <option value="2004">04/05</option>
+                                                                                            <option value="2003">03/04</option>
+                                                                                            <option value="2002">02/03</option>
+                                                                                            <option value="2001">01/02</option>
+                                                                                            <option value="2000">00/01</option>
+                                                                                            <option value="1999">99/00</option>
+                                                                                            <option value="1998">98/99</option>
+                                                                                            <option value="1997">97/98</option>
+                                                                                            <option value="1996">96/97</option>
+                                                                                            <option value="1995">95/96</option>
+                                                                                            <option value="1994">94/95</option>
+                                                                                            <option value="1993">93/94</option>
+                                                                                            <option value="1992">92/93</option>
+                                                                                            <option value="1991">91/92</option>
+                                                                                            <option value="1990">90/91</option>
+                                                                                            <option value="1989">89/90</option>
+                                                                                            <option value="1988">88/89</option>
+                                                                                            <option value="1987">87/88</option>
+                                                                                            <option value="1986">86/87</option>
+                                                                                            <option value="1985">85/86</option>
+                                                                                            <option value="1984">84/85</option>
+                                                                                            <option value="1983">83/84</option>
+                                                                                            <option value="1982">82/83</option>
+                                                                                            <option value="1981">81/82</option>
+                                                                                            <option value="1980">80/81</option>
+                                                                                            <option value="1979">79/80</option>
+                                                                                            <option value="1978">78/79</option>
+                                                                                            <option value="1976">76/77</option>
+                                                                                            <option value="1973">73/74</option>
+                                                                                            <option value="1969">69/70</option>
+                                                                                            <option value="1968">68/69</option>
+                                                                                            <option value="1967">67/68</option>
+                                                                                            <option value="1966">66/67</option>
+                                                                                            <option value="1965">65/66</option>
+                                                                                            <option value="1964">64/65</option>
+                                                                                            <option value="1963">63/64</option>
+                                                                                            <option value="1962">62/63</option>
+                                                                                            <option value="1961">61/62</option>
+                                                                                            <option value="1960">60/61</option>
+                                                                                            <option value="1959">59/60</option>
+                                                                                            <option value="1958">58/59</option>
+                                                                                            <option value="1957">57/58</option>
+                                                                                            <option value="1956">56/57</option>
+                                                                                            <option value="1954">54/55</option>
+                                                                                            <option value="1952">52/53</option>
+                                                                                            <option value="1951">51/52</option>
+                                                                                            <option value="1950">50/51</option>
+                                                                                            <option value="1949">49/50</option>
+                                                                                            <option value="1948">48/49</option>
+                                                                                            <option value="1947">47/48</option>
+                                                                                            <option value="1946">46/47</option>
+                                                                                            <option value="1945">45/46</option>
+                                                                                            <option value="1944">44/45</option>
+                                                                                            <option value="1943">43/44</option>
+                                                                                            <option value="1942">42/43</option>
+                                                                                            <option value="1941">41/42</option>
+                                                                                            <option value="1940">40/41</option>
+                                                                                            <option value="1939">39/40</option>
+                                                                                            <option value="1936">36/37</option>
+                                                                                            <option value="1935">35/36</option>
+                                                                                            <option value="1934">34/35</option>
+                                                                                            <option value="1933">33/34</option>
+                                                                                    </select><div id="selSX3_chzn" class="chzn-container chzn-container-single" style="width: 100%;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>21/22</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="search" autocomplete="off" tabindex="0"></div><ul class="chzn-results"><li id="selSX3_chzn_o_0" class="active-result" style="">22/23</li><li id="selSX3_chzn_o_1" class="active-result result-selected" style="">21/22</li><li id="selSX3_chzn_o_2" class="active-result" style="">20/21</li><li id="selSX3_chzn_o_3" class="active-result" style="">19/20</li><li id="selSX3_chzn_o_4" class="active-result" style="">18/19</li><li id="selSX3_chzn_o_5" class="active-result" style="">17/18</li><li id="selSX3_chzn_o_6" class="active-result" style="">16/17</li><li id="selSX3_chzn_o_7" class="active-result" style="">15/16</li><li id="selSX3_chzn_o_8" class="active-result" style="">14/15</li><li id="selSX3_chzn_o_9" class="active-result" style="">13/14</li><li id="selSX3_chzn_o_10" class="active-result" style="">12/13</li><li id="selSX3_chzn_o_11" class="active-result" style="">11/12</li><li id="selSX3_chzn_o_12" class="active-result" style="">10/11</li><li id="selSX3_chzn_o_13" class="active-result" style="">09/10</li><li id="selSX3_chzn_o_14" class="active-result" style="">08/09</li><li id="selSX3_chzn_o_15" class="active-result" style="">07/08</li><li id="selSX3_chzn_o_16" class="active-result" style="">06/07</li><li id="selSX3_chzn_o_17" class="active-result" style="">05/06</li><li id="selSX3_chzn_o_18" class="active-result" style="">04/05</li><li id="selSX3_chzn_o_19" class="active-result" style="">03/04</li><li id="selSX3_chzn_o_20" class="active-result" style="">02/03</li><li id="selSX3_chzn_o_21" class="active-result" style="">01/02</li><li id="selSX3_chzn_o_22" class="active-result" style="">00/01</li><li id="selSX3_chzn_o_23" class="active-result" style="">99/00</li><li id="selSX3_chzn_o_24" class="active-result" style="">98/99</li><li id="selSX3_chzn_o_25" class="active-result" style="">97/98</li><li id="selSX3_chzn_o_26" class="active-result" style="">96/97</li><li id="selSX3_chzn_o_27" class="active-result" style="">95/96</li><li id="selSX3_chzn_o_28" class="active-result" style="">94/95</li><li id="selSX3_chzn_o_29" class="active-result" style="">93/94</li><li id="selSX3_chzn_o_30" class="active-result" style="">92/93</li><li id="selSX3_chzn_o_31" class="active-result" style="">91/92</li><li id="selSX3_chzn_o_32" class="active-result" style="">90/91</li><li id="selSX3_chzn_o_33" class="active-result" style="">89/90</li><li id="selSX3_chzn_o_34" class="active-result" style="">88/89</li><li id="selSX3_chzn_o_35" class="active-result" style="">87/88</li><li id="selSX3_chzn_o_36" class="active-result" style="">86/87</li><li id="selSX3_chzn_o_37" class="active-result" style="">85/86</li><li id="selSX3_chzn_o_38" class="active-result" style="">84/85</li><li id="selSX3_chzn_o_39" class="active-result" style="">83/84</li><li id="selSX3_chzn_o_40" class="active-result" style="">82/83</li><li id="selSX3_chzn_o_41" class="active-result" style="">81/82</li><li id="selSX3_chzn_o_42" class="active-result" style="">80/81</li><li id="selSX3_chzn_o_43" class="active-result" style="">79/80</li><li id="selSX3_chzn_o_44" class="active-result" style="">78/79</li><li id="selSX3_chzn_o_45" class="active-result" style="">76/77</li><li id="selSX3_chzn_o_46" class="active-result" style="">73/74</li><li id="selSX3_chzn_o_47" class="active-result" style="">69/70</li><li id="selSX3_chzn_o_48" class="active-result" style="">68/69</li><li id="selSX3_chzn_o_49" class="active-result" style="">67/68</li><li id="selSX3_chzn_o_50" class="active-result" style="">66/67</li><li id="selSX3_chzn_o_51" class="active-result" style="">65/66</li><li id="selSX3_chzn_o_52" class="active-result" style="">64/65</li><li id="selSX3_chzn_o_53" class="active-result" style="">63/64</li><li id="selSX3_chzn_o_54" class="active-result" style="">62/63</li><li id="selSX3_chzn_o_55" class="active-result" style="">61/62</li><li id="selSX3_chzn_o_56" class="active-result" style="">60/61</li><li id="selSX3_chzn_o_57" class="active-result" style="">59/60</li><li id="selSX3_chzn_o_58" class="active-result" style="">58/59</li><li id="selSX3_chzn_o_59" class="active-result" style="">57/58</li><li id="selSX3_chzn_o_60" class="active-result" style="">56/57</li><li id="selSX3_chzn_o_61" class="active-result" style="">54/55</li><li id="selSX3_chzn_o_62" class="active-result" style="">52/53</li><li id="selSX3_chzn_o_63" class="active-result" style="">51/52</li><li id="selSX3_chzn_o_64" class="active-result" style="">50/51</li><li id="selSX3_chzn_o_65" class="active-result" style="">49/50</li><li id="selSX3_chzn_o_66" class="active-result" style="">48/49</li><li id="selSX3_chzn_o_67" class="active-result" style="">47/48</li><li id="selSX3_chzn_o_68" class="active-result" style="">46/47</li><li id="selSX3_chzn_o_69" class="active-result" style="">45/46</li><li id="selSX3_chzn_o_70" class="active-result" style="">44/45</li><li id="selSX3_chzn_o_71" class="active-result" style="">43/44</li><li id="selSX3_chzn_o_72" class="active-result" style="">42/43</li><li id="selSX3_chzn_o_73" class="active-result" style="">41/42</li><li id="selSX3_chzn_o_74" class="active-result" style="">40/41</li><li id="selSX3_chzn_o_75" class="active-result" style="">39/40</li><li id="selSX3_chzn_o_76" class="active-result" style="">36/37</li><li id="selSX3_chzn_o_77" class="active-result" style="">35/36</li><li id="selSX3_chzn_o_78" class="active-result" style="">34/35</li><li id="selSX3_chzn_o_79" class="active-result" style="">33/34</li></ul></div></div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <input type="submit" class="small button" value="Show">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            </form>
+        </div>
+                
+<div class="tm-tabs">
+    <a class="tm-tab tm-tab__active--parent" href="/levante-ud/kader/verein/3368/saison_id/2021"><div class=" tm-tab__active"><span>Compact</span></div></a><a class="tm-tab" href="/levante-ud/kader/verein/3368/saison_id/2021/plus/1"><div class=""><span>Detailed</span></div></a><a class="tm-tab" href="/levante-ud/kader/verein/3368/saison_id/2021/galerie/1"><div class=""><span>Gallery</span></div></a></div>
+        <div class="responsive-table">
+            <div id="yw1" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw1_c0"><a class="sort-link" href="/levante-ud/startseite/verein/3368/saison_id/2021/sort/rn">#</a></th><th id="yw1_c1"><a class="sort-link" href="/levante-ud/startseite/verein/3368/saison_id/2021/sort/name_sort">player</a></th><th class="zentriert" id="yw1_c2"><a class="sort-link" href="/levante-ud/startseite/verein/3368/saison_id/2021/sort/age">Date of birth / Age</a></th><th class="zentriert" id="yw1_c3">Nat.</th><th class="zentriert" id="yw1_c4">Current club</th><th class="rechts" id="yw1_c5"><a class="sort-link" href="/levante-ud/startseite/verein/3368/saison_id/2021/sort/marktwert.desc">Market value</a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">1</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/118997-1541153464.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/118997-1541153464.jpg?lm=1" title="Aitor Fernández" alt="Aitor Fernández" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Aitor Fernández" href="/aitor-fernandez/profil/spieler/118997">Aitor Fernández</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Aitor Fernández" href="/aitor-fernandez/profil/spieler/118997">A. Fernández</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">May 3, 1991 (30)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="CA Osasuna" href="/ca-osasuna/startseite/verein/331"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/331.png?lm=1406739464" title="CA Osasuna" alt="CA Osasuna" class=""></a></td><td class="rechts hauptlink"><a href="/aitor-fernandez/marktwertverlauf/spieler/118997">€2.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">34</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/397676-1663571879.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/397676-1663571879.jpg?lm=1" title="Dani Cárdenas" alt="Dani Cárdenas" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Dani Cárdenas" href="/dani-cardenas/profil/spieler/397676">Dani Cárdenas</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Dani Cárdenas" href="/dani-cardenas/profil/spieler/397676">D. Cárdenas</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Mar 28, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/dani-cardenas/marktwertverlauf/spieler/397676">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with RCD Mallorca; date: Jun 30, 2021; fee: End of loan" href="/rcd-mallorca/startseite/verein/237/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/237.png?lm=1407484750" title="RCD Mallorca" alt="RCD Mallorca" class=""></a></span><a title="Returned after loan spell with RCD Mallorca; date: Jun 30, 2021; fee: End of loan" class="hide-for-small" href="/rcd-mallorca/startseite/verein/237/saison_id/2020"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/299715-1666636123.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/299715-1666636123.jpg?lm=1" title="Koke Vegas" alt="Koke Vegas" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Koke Vegas" href="/koke-vegas/profil/spieler/299715">Koke Vegas</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Koke Vegas" href="/koke-vegas/profil/spieler/299715">Koke Vegas</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Sep 27, 1995 (25)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="San Diego Loyal SC" href="/san-diego-loyal-sc/startseite/verein/77720"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/77720.png?lm=1572738727" title="San Diego Loyal SC" alt="San Diego Loyal SC" class=""></a></td><td class="rechts hauptlink"><a href="/koke-vegas/marktwertverlauf/spieler/299715">€300k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/611202-1651521237.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/611202-1651521237.jpg?lm=1" title="Pablo Picón" alt="Pablo Picón" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pablo Picón" href="/pablo-picon/profil/spieler/611202">Pablo Picón</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pablo Picón" href="/pablo-picon/profil/spieler/611202">P. Picón</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Feb 1, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Córdoba CF" href="/fc-cordoba/startseite/verein/993"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/993.png?lm=1458766826" title="Córdoba CF" alt="Córdoba CF" class=""></a></td><td class="rechts hauptlink"><a href="/pablo-picon/marktwertverlauf/spieler/611202">€150k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Pablo Cuñat" alt="Pablo Cuñat" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pablo Cuñat" href="/pablo-cunat/profil/spieler/617059">Pablo Cuñat</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pablo Cuñat" href="/pablo-cunat/profil/spieler/617059">P. Cuñat</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Apr 28, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Atlético Levante UD" href="/ud-levante-b/startseite/verein/11516"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/11516.png?lm=1408655062" title="Atlético Levante UD" alt="Atlético Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/pablo-cunat/marktwertverlauf/spieler/617059">€150k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Álex Primo" alt="Álex Primo" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Álex Primo" href="/alex-primo/profil/spieler/939445">Álex Primo</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Álex Primo" href="/alex-primo/profil/spieler/939445">Á. Primo</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Jul 10, 2004 (16)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD U19" href="/ud-levante-u19/startseite/verein/12798"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/12798.png?lm=1408655062" title="Levante UD U19" alt="Levante UD U19" class=""></a></td><td class="rechts hauptlink"><a href="/alex-primo/marktwertverlauf/spieler/939445">€100k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">14</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/257851-1447247611.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/257851-1447247611.jpg?lm=1" title="Rúben Vezo" alt="Rúben Vezo" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Rúben Vezo" href="/ruben-vezo/profil/spieler/257851">Rúben Vezo</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Rúben Vezo" href="/ruben-vezo/profil/spieler/257851">R. Vezo</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 25, 1994 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/32.png?lm=1520611569" title="Cape Verde" alt="Cape Verde" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/ruben-vezo/marktwertverlauf/spieler/257851">€4.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">13</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Without Club; date: Sep 2, 2021; fee: -" href="/without-club/startseite/verein/515/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/515.png?lm=1456997255" title="Without Club" alt="Without Club" class=""></a></span><a title="Joined from Without Club; date: Sep 2, 2021; fee: -" class="hide-for-small" href="/without-club/startseite/verein/515/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/88590-1447247176.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/88590-1447247176.jpg?lm=1" title="Shkodran Mustafi" alt="Shkodran Mustafi" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Shkodran Mustafi" href="/shkodran-mustafi/profil/spieler/88590">Shkodran Mustafi</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Shkodran Mustafi" href="/shkodran-mustafi/profil/spieler/88590">S. Mustafi</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 17, 1992 (29)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/3.png?lm=1520611569" title="Albania" alt="Albania" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/shkodran-mustafi/marktwertverlauf/spieler/88590">€2.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">4</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/387129-1446727633.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/387129-1446727633.jpg?lm=1" title="Rober Pier" alt="Rober Pier" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Rober Pier" href="/rober-pier/profil/spieler/387129">Rober Pier</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Rober Pier" href="/rober-pier/profil/spieler/387129">R. Pier</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Feb 16, 1995 (26)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/rober-pier/marktwertverlauf/spieler/387129">€1.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">7</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined as a winter arrival from: Cagliari Calcio; date: Jan 30, 2022; fee: free transfer" href="/cagliari-calcio/startseite/verein/1390/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/1390.png?lm=1626441409" title="Cagliari Calcio" alt="Cagliari Calcio" class=""></a></span><a title="Joined as a winter arrival from: Cagliari Calcio; date: Jan 30, 2022; fee: free transfer" class="hide-for-small" href="/cagliari-calcio/startseite/verein/1390/saison_id/2021"><img src="/images/icons/winterzugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/54935-1666428123.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/54935-1666428123.jpg?lm=1" title="Martín Cáceres" alt="Martín Cáceres" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Martín Cáceres" href="/martin-caceres/profil/spieler/54935">Martín Cáceres</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Martín Cáceres" href="/martin-caceres/profil/spieler/54935">M. Cáceres</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 7, 1987 (34)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguay" alt="Uruguay" class="flaggenrahmen"></td><td class="zentriert"><a title="Los Angeles Galaxy" href="/los-angeles-galaxy/startseite/verein/1061"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1061.png?lm=1493067070" title="Los Angeles Galaxy" alt="Los Angeles Galaxy" class=""></a></td><td class="rechts hauptlink"><a href="/martin-caceres/marktwertverlauf/spieler/54935">€900k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">6</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/175323-1661433456.jpg?lm=1" title="Óscar Duarte" alt="Óscar Duarte" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Óscar Duarte" href="/oscar-duarte/profil/spieler/175323">Óscar Duarte</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Óscar Duarte" href="/oscar-duarte/profil/spieler/175323">Ó. Duarte</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Jun 3, 1989 (32)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/36.png?lm=1520611569" title="Costa Rica" alt="Costa Rica" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Al-Wehda FC" href="/al-wahda-mekka/startseite/verein/17209"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/17209.png?lm=1619816802" title="Al-Wehda FC" alt="Al-Wehda FC" class=""></a></td><td class="rechts hauptlink"><a href="/oscar-duarte/marktwertverlauf/spieler/175323">€800k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">15</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/158791-1541153650.jpg?lm=1" title="Sergio Postigo" alt="Sergio Postigo" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Sergio Postigo" href="/sergio-postigo/profil/spieler/158791">Sergio Postigo</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Sergio Postigo" href="/sergio-postigo/profil/spieler/158791">S. Postigo</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Nov 4, 1988 (32)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/sergio-postigo/marktwertverlauf/spieler/158791">€700k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="José Manuel" alt="José Manuel" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="José Manuel" href="/jose-manuel/profil/spieler/627277">José Manuel</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="José Manuel" href="/jose-manuel/profil/spieler/627277">José Manuel</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Feb 25, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Mar Menor FC" href="/mar-menor-fc/startseite/verein/41617"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/41617.png?lm=1629479640" title="Mar Menor FC" alt="Mar Menor FC" class=""></a></td><td class="rechts hauptlink"><a href="/jose-manuel/marktwertverlauf/spieler/627277">€150k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Antonio Leal" alt="Antonio Leal" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Antonio Leal" href="/antonio-leal/profil/spieler/627276">Antonio Leal</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Antonio Leal" href="/antonio-leal/profil/spieler/627276">A. Leal</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Jan 28, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Unionistas CF" href="/unionistas-cf/startseite/verein/52397"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/52397.png?lm=1468618498" title="Unionistas CF" alt="Unionistas CF" class=""></a></td><td class="rechts hauptlink"><a href="/antonio-leal/marktwertverlauf/spieler/627276">€100k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">44</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Carlos Giménez" alt="Carlos Giménez" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Carlos Giménez" href="/carlos-gimenez/profil/spieler/856136">Carlos Giménez</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Carlos Giménez" href="/carlos-gimenez/profil/spieler/856136">C. Giménez</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Feb 18, 2003 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Atlético Levante UD" href="/ud-levante-b/startseite/verein/11516"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/11516.png?lm=1408655062" title="Atlético Levante UD" alt="Atlético Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/carlos-gimenez/marktwertverlauf/spieler/856136">€100k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">25</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined as a winter arrival from: Without Club; date: Feb 22, 2022; fee: -" href="/without-club/startseite/verein/515/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/515.png?lm=1456997255" title="Without Club" alt="Without Club" class=""></a></span><a title="Joined as a winter arrival from: Without Club; date: Feb 22, 2022; fee: -" class="hide-for-small" href="/without-club/startseite/verein/515/saison_id/2021"><img src="/images/icons/winterzugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/373916-1608892184.jpeg?lm=1" title="Marcelo Saracchi" alt="Marcelo Saracchi" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Marcelo Saracchi" href="/marcelo-saracchi/profil/spieler/373916">Marcelo Saracchi</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Marcelo Saracchi" href="/marcelo-saracchi/profil/spieler/373916">M. Saracchi</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Apr 23, 1998 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguay" alt="Uruguay" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/marcelo-saracchi/marktwertverlauf/spieler/373916">€2.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">19</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/193784-1490623959.jpg?lm=1" title="Carlos Clerc" alt="Carlos Clerc" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Carlos Clerc" href="/carlos-clerc/profil/spieler/193784">Carlos Clerc</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Carlos Clerc" href="/carlos-clerc/profil/spieler/193784">C. Clerc</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Feb 21, 1992 (29)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Elche CF" href="/fc-elche/startseite/verein/1531"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1531.png?lm=1421955260" title="Elche CF" alt="Elche CF" class=""></a></td><td class="rechts hauptlink"><a href="/carlos-clerc/marktwertverlauf/spieler/193784">€2.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">3</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Villarreal CF; date: Jul 2, 2021; fee: €375k" href="/villarreal-cf/startseite/verein/1050/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/1050.png?lm=1408655310" title="Villarreal CF" alt="Villarreal CF" class=""></a></span><a title="Joined from Villarreal CF; date: Jul 2, 2021; fee: €375k" class="hide-for-small" href="/villarreal-cf/startseite/verein/1050/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/282700-1625480292.jpg?lm=1" title="Enric Franquesa" alt="Enric Franquesa" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Enric Franquesa" href="/enric-franquesa/profil/spieler/282700">Enric Franquesa</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Enric Franquesa" href="/enric-franquesa/profil/spieler/282700">E. Franquesa</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Feb 26, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/enric-franquesa/marktwertverlauf/spieler/282700">€800k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">20</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/228917-1541146981.jpg?lm=1" title="Jorge Miramón" alt="Jorge Miramón" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jorge Miramón" href="/jorge-miramon/profil/spieler/228917">Jorge Miramón</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jorge Miramón" href="/jorge-miramon/profil/spieler/228917">J. Miramón</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Jun 2, 1989 (32)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="CD Leganés" href="/cd-leganes/startseite/verein/1244"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1244.png?lm=1422972468" title="CD Leganés" alt="CD Leganés" class=""></a></td><td class="rechts hauptlink"><a href="/jorge-miramon/marktwertverlauf/spieler/228917">€1.80m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">2</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/349856-1612442361.jpg?lm=1" title="Son" alt="Son" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Son" href="/sontm/profil/spieler/349856">Son</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Son" href="/sontm/profil/spieler/349856">Son</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Mar 30, 1994 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/sontm/marktwertverlauf/spieler/349856">€1.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">42</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/844637-1644238065.jpg?lm=1" title="Marc Pubill" alt="Marc Pubill" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Marc Pubill" href="/marc-pubill/profil/spieler/844637">Marc Pubill</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Marc Pubill" href="/marc-pubill/profil/spieler/844637">M. Pubill</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Jun 20, 2003 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/marc-pubill/marktwertverlauf/spieler/844637">€800k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">23</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/71905-1499941497.jpg?lm=1" title="Coke" alt="Coke" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Coke" href="/coke/profil/spieler/71905">Coke</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Coke" href="/coke/profil/spieler/71905">Coke</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Apr 26, 1987 (34)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="UD Ibiza" href="/ud-ibiza/startseite/verein/13241"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/13241.png?lm=1477745446" title="UD Ibiza" alt="UD Ibiza" class=""></a></td><td class="rechts hauptlink"><a href="/coke/marktwertverlauf/spieler/71905">€600k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Joseda Álvarez" alt="Joseda Álvarez" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Joseda Álvarez" href="/joseda-alvarez/profil/spieler/718177">Joseda Álvarez</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Joseda Álvarez" href="/joseda-alvarez/profil/spieler/718177">J. Álvarez</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Jan 22, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Deportivo Alavés B" href="/deportivo-alaves-b/startseite/verein/8880"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/8880.png?lm=1596131395" title="Deportivo Alavés B" alt="Deportivo Alavés B" class=""></a></td><td class="rechts hauptlink"><a href="/joseda-alvarez/marktwertverlauf/spieler/718177">€50k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">8</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with Vitória Guimarães SC; date: Jun 30, 2021; fee: End of loan" href="/vitoria-guimaraes-sc/startseite/verein/2420/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/2420.png?lm=1432894021" title="Vitória Guimarães SC" alt="Vitória Guimarães SC" class=""></a></span><a title="Returned after loan spell with Vitória Guimarães SC; date: Jun 30, 2021; fee: End of loan" class="hide-for-small" href="/vitoria-guimaraes-sc/startseite/verein/2420/saison_id/2020"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/328480-1447314700.jpg?lm=1" title="Pepelu" alt="Pepelu" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pepelu" href="/pepelu/profil/spieler/328480">Pepelu</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pepelu" href="/pepelu/profil/spieler/328480">Pepelu</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Aug 11, 1998 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/pepelu/marktwertverlauf/spieler/328480">€3.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">12</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/205569-1595418868.jpg?lm=1" title="Mickaël Malsa" alt="Mickaël Malsa" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Mickaël Malsa" href="/mickael-malsa/profil/spieler/205569">Mickaël Malsa</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Mickaël Malsa" href="/mickael-malsa/profil/spieler/205569">M. Malsa</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Oct 12, 1996 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/207.png?lm=1520611569" title="Martinique" alt="Martinique" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Real Valladolid CF" href="/real-valladolid/startseite/verein/366"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/366.png?lm=1655726284" title="Real Valladolid CF" alt="Real Valladolid CF" class=""></a></td><td class="rechts hauptlink"><a href="/mickael-malsa/marktwertverlauf/spieler/205569">€3.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">5</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/168959-1447160280.jpg?lm=1" title="Nemanja Radoja" alt="Nemanja Radoja" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nemanja Radoja" href="/nemanja-radoja/profil/spieler/168959">Nemanja Radoja</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nemanja Radoja" href="/nemanja-radoja/profil/spieler/168959">N. Radoja</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 6, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/215.png?lm=1520611569" title="Serbia" alt="Serbia" class="flaggenrahmen"></td><td class="zentriert"><a title="Without ClubWithout Club" href="/vereinslos/startseite/verein/515"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/515.png?lm=1456997255" title="Without Club" alt="Without Club" class=""></a></td><td class="rechts hauptlink"><a href="/nemanja-radoja/marktwertverlauf/spieler/168959">€2.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">17</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/151470-1541153763.jpg?lm=1" title="Nikola Vukcevic" alt="Nikola Vukcevic" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nikola Vukcevic" href="/nikola-vukcevic/profil/spieler/151470">Nikola Vukcevic</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nikola Vukcevic" href="/nikola-vukcevic/profil/spieler/151470">N. Vukcevic</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Dec 13, 1991 (29)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/216.png?lm=1520611569" title="Montenegro" alt="Montenegro" class="flaggenrahmen"></td><td class="zentriert"><a title="Al-Ahli SC" href="/al-ahli-sc/startseite/verein/3612"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3612.png?lm=1649076280" title="Al-Ahli SC" alt="Al-Ahli SC" class=""></a></td><td class="rechts hauptlink"><a href="/nikola-vukcevic/marktwertverlauf/spieler/151470">€1.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">24</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/120095-1601644816.jpg?lm=1" title="José Campaña" alt="José Campaña" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="José Campaña" href="/jose-campana/profil/spieler/120095">José Campaña</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="José Campaña" href="/jose-campana/profil/spieler/120095">J. Campaña</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">May 31, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/jose-campana/marktwertverlauf/spieler/120095">€6.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">22</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/162056-1537291216.jpg?lm=1" title="Gonzalo Melero" alt="Gonzalo Melero" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Gonzalo Melero" href="/gonzalo-melero/profil/spieler/162056">Gonzalo Melero</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Gonzalo Melero" href="/gonzalo-melero/profil/spieler/162056">G. Melero</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Jan 2, 1994 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="UD Almería" href="/ud-almeria/startseite/verein/3302"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3302.png?lm=1408654801" title="UD Almería" alt="UD Almería" class=""></a></td><td class="rechts hauptlink"><a href="/gonzalo-melero/marktwertverlauf/spieler/162056">€4.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with SD Huesca; date: Jun 30, 2022; fee: End of loan" href="/sd-huesca/startseite/verein/5358/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/5358.png?lm=1535899179" title="SD Huesca" alt="SD Huesca" class=""></a></span><a title="Returned after loan spell with SD Huesca; date: Jun 30, 2022; fee: End of loan" class="hide-for-small" href="/sd-huesca/startseite/verein/5358/saison_id/2021"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/568835-1632129599.jpg?lm=1" title="Pablo Martínez" alt="Pablo Martínez" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pablo Martínez" href="/pablo-martinez/profil/spieler/568835">Pablo Martínez</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pablo Martínez" href="/pablo-martinez/profil/spieler/568835">P. Martínez</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 22, 1998 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/pablo-martinez/marktwertverlauf/spieler/568835">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with CD Castellón; date: Jun 30, 2022; fee: End of loan" href="/cd-castellon/startseite/verein/2502/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/2502.png?lm=1648726491" title="CD Castellón" alt="CD Castellón" class=""></a></span><a title="Returned after loan spell with CD Castellón; date: Jun 30, 2022; fee: End of loan" class="hide-for-small" href="/cd-castellon/startseite/verein/2502/saison_id/2021"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Álex Blesa" alt="Álex Blesa" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Álex Blesa" href="/alex-blesa/profil/spieler/611198">Álex Blesa</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Álex Blesa" href="/alex-blesa/profil/spieler/611198">Á. Blesa</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Jan 15, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Cultural Leonesa" href="/cultural-leonesa/startseite/verein/4542"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/4542.png?lm=1517666376" title="Cultural Leonesa" alt="Cultural Leonesa" class=""></a></td><td class="rechts hauptlink"><a href="/alex-blesa/marktwertverlauf/spieler/611198">€300k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">46</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/405564-1564131610.png?lm=1" title="Giorgi Kochorashvili" alt="Giorgi Kochorashvili" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Giorgi Kochorashvili" href="/giorgi-kochorashvili/profil/spieler/405564">Giorgi Kochorashvili</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Giorgi Kochorashvili" href="/giorgi-kochorashvili/profil/spieler/405564">G. Kochorashvili</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Jun 29, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/53.png?lm=1520611569" title="Georgia" alt="Georgia" class="flaggenrahmen"></td><td class="zentriert"><a title="CD Castellón" href="/cd-castellon/startseite/verein/2502"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/2502.png?lm=1648726491" title="CD Castellón" alt="CD Castellón" class=""></a></td><td class="rechts hauptlink"><a href="/giorgi-kochorashvili/marktwertverlauf/spieler/405564">€200k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Carlos Benítez" alt="Carlos Benítez" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Carlos Benítez" href="/carlos-benitez/profil/spieler/856156">Carlos Benítez</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Carlos Benítez" href="/carlos-benitez/profil/spieler/856156">C. Benítez</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Nov 25, 2002 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Atlético Levante UD" href="/ud-levante-b/startseite/verein/11516"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/11516.png?lm=1408655062" title="Atlético Levante UD" alt="Atlético Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/carlos-benitez/marktwertverlauf/spieler/856156">€100k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">10</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/245014-1663875874.png?lm=1" title="Enis Bardhi" alt="Enis Bardhi" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Enis Bardhi" href="/enis-bardhi/profil/spieler/245014">Enis Bardhi</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Enis Bardhi" href="/enis-bardhi/profil/spieler/245014">E. Bardhi</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Jul 2, 1995 (25)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/100.png?lm=1520611569" title="North Macedonia" alt="North Macedonia" class="flaggenrahmen"></td><td class="zentriert"><a title="Trabzonspor" href="/trabzonspor/startseite/verein/449"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/449.png?lm=1665404571" title="Trabzonspor" alt="Trabzonspor" class=""></a></td><td class="rechts hauptlink"><a href="/enis-bardhi/marktwertverlauf/spieler/245014">€8.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">29</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: Atlético Levante UD; date: Jul 1, 2021" href="/atletico-levante-ud/startseite/verein/11516/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/11516.png?lm=1408655062" title="Atlético Levante UD" alt="Atlético Levante UD" class=""></a></span><a title="Internal transfer: Atlético Levante UD; date: Jul 1, 2021" class="hide-for-small" href="/atletico-levante-ud/startseite/verein/11516/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/638235-1629702688.jpg?lm=1" title="Alejandro Cantero" alt="Alejandro Cantero" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Alejandro Cantero" href="/alejandro-cantero/profil/spieler/638235">Alejandro Cantero</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Alejandro Cantero" href="/alejandro-cantero/profil/spieler/638235">A. Cantero</a></span></div></td></tr><tr><td>Left Winger</td></tr></tbody></table></td><td class="zentriert">Jun 8, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/alejandro-cantero/marktwertverlauf/spieler/638235">€1.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">18</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/455181-1613121992.jpg?lm=1" title="Jorge de Frutos" alt="Jorge de Frutos" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jorge de Frutos" href="/jorge-de-frutos/profil/spieler/455181">Jorge de Frutos</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jorge de Frutos" href="/jorge-de-frutos/profil/spieler/455181">J. de Frutos</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Feb 20, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/jorge-de-frutos/marktwertverlauf/spieler/455181">€10.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with Al-Wehda FC; date: Jun 30, 2021; fee: End of loan" href="/al-wehda-fc/startseite/verein/17209/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/17209.png?lm=1619816802" title="Al-Wehda FC" alt="Al-Wehda FC" class=""></a></span><a title="Returned after loan spell with Al-Wehda FC; date: Jun 30, 2021; fee: End of loan" class="hide-for-small" href="/al-wehda-fc/startseite/verein/17209/saison_id/2020"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/172142-1542106499.png?lm=1" title="Hernâni" alt="Hernâni" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Hernâni" href="/hernani/profil/spieler/172142">Hernâni</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Hernâni" href="/hernani/profil/spieler/172142">Hernâni</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Aug 20, 1991 (29)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/32.png?lm=1520611569" title="Cape Verde" alt="Cape Verde" class="flaggenrahmen"></td><td class="zentriert"><a title="Rio Ave FC" href="/rio-ave-fc/startseite/verein/2425"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/2425.png?lm=1516613968" title="Rio Ave FC" alt="Rio Ave FC" class=""></a></td><td class="rechts hauptlink"><a href="/hernani/marktwertverlauf/spieler/172142">€700k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">9</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/212391-1447315858.jpg?lm=1" title="Roger Martí" alt="Roger Martí" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Roger Martí" href="/roger-marti/profil/spieler/212391">Roger Martí</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Roger Martí" href="/roger-marti/profil/spieler/212391">R. Martí</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jan 3, 1991 (30)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Elche CF" href="/fc-elche/startseite/verein/1531"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1531.png?lm=1421955260" title="Elche CF" alt="Elche CF" class=""></a></td><td class="rechts hauptlink"><a href="/roger-marti/marktwertverlauf/spieler/212391">€5.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">11</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/252677-1447315847.jpg?lm=1" title="José Luis Morales" alt="José Luis Morales" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="José Luis Morales" href="/jose-luis-morales/profil/spieler/252677">José Luis Morales</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="José Luis Morales" href="/jose-luis-morales/profil/spieler/252677">J. Morales</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jul 23, 1987 (33)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Villarreal CF" href="/fc-villarreal/startseite/verein/1050"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1050.png?lm=1408655310" title="Villarreal CF" alt="Villarreal CF" class=""></a></td><td class="rechts hauptlink"><a href="/jose-luis-morales/marktwertverlauf/spieler/252677">€4.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">21</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/422460-1603806732.jpg?lm=1" title="Dani Gómez" alt="Dani Gómez" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Dani Gómez" href="/dani-gomez/profil/spieler/422460">Dani Gómez</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Dani Gómez" href="/dani-gomez/profil/spieler/422460">D. Gómez</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jul 30, 1998 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="RCD Espanyol Barcelona" href="/espanyol-barcelona/startseite/verein/714"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/714.png?lm=1406966369" title="RCD Espanyol Barcelona" alt="RCD Espanyol Barcelona" class=""></a></td><td class="rechts hauptlink"><a href="/dani-gomez/marktwertverlauf/spieler/422460">€2.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">16</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Granada CF; date: Jul 1, 2021; fee: €500k" href="/granada-cf/startseite/verein/16795/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/16795.png?lm=1620472393" title="Granada CF" alt="Granada CF" class=""></a></span><a title="Joined from Granada CF; date: Jul 1, 2021; fee: €500k" class="hide-for-small" href="/granada-cf/startseite/verein/16795/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/34870-1583308636.jpg?lm=1" title="Roberto Soldado" alt="Roberto Soldado" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Roberto Soldado" href="/roberto-soldado/profil/spieler/34870">Roberto Soldado</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Roberto Soldado" href="/roberto-soldado/profil/spieler/34870">R. Soldado</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">May 27, 1985 (36)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen"></td><td class="zentriert"><a title="Levante UD" href="/ud-levante/startseite/verein/3368"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3368.png?lm=1408655062" title="Levante UD" alt="Levante UD" class=""></a></td><td class="rechts hauptlink"><a href="/roberto-soldado/marktwertverlauf/spieler/34870">€1.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Omar Faraj" alt="Omar Faraj" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Omar Faraj" href="/omar-faraj/profil/spieler/668041">Omar Faraj</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Omar Faraj" href="/omar-faraj/profil/spieler/668041">O. Faraj</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Mar 9, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/147.png?lm=1520611569" title="Sweden" alt="Sweden" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/240.png?lm=1520611569" title="Palästina" alt="Palästina" class="flaggenrahmen"></td><td class="zentriert"><a title="Degerfors IF" href="/degerfors-if/startseite/verein/3641"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3641.png?lm=1525078982" title="Degerfors IF" alt="Degerfors IF" class=""></a></td><td class="rechts hauptlink"><a href="/omar-faraj/marktwertverlauf/spieler/668041">€100k</a>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/levante-ud/startseite/verein/3368?saison_id=2021"><span>118997</span><span>397676</span><span>299715</span><span>611202</span><span>617059</span><span>939445</span><span>257851</span><span>88590</span><span>387129</span><span>54935</span><span>175323</span><span>158791</span><span>627277</span><span>627276</span><span>856136</span><span>373916</span><span>193784</span><span>282700</span><span>228917</span><span>349856</span><span>844637</span><span>71905</span><span>718177</span><span>328480</span><span>205569</span><span>168959</span><span>151470</span><span>120095</span><span>162056</span><span>568835</span><span>611198</span><span>405564</span><span>856156</span><span>245014</span><span>638235</span><span>455181</span><span>172142</span><span>212391</span><span>252677</span><span>422460</span><span>34870</span><span>668041</span></div>
+</div>        </div>
+        <a title="Levante UD" class="content-link" href="/ud-levante/kader/verein/3368/saison_id/2021">Detailed squad</a>    </div>
+
+<div id="XfnyiaLa" class="ixVjVloL"></div><script async="" src="/js/custom/tm-track-links.min.js" type="module"></script>
+<article data-teads=""></article><script>!function($,s,t,e,i,a,o){s[$]||(s[$]={init:function(){_('i',arguments)},fetchBids:function(){_('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]},(a=t.createElement(e)).async=!0,a.src=i,(o=t.getElementsByTagName(e)[0]).parentNode.insertBefore(a,o));function _(t,e){s[$]._Q.push([t,e])}}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js'),apstag.init({pubID:'5134',adServer:'googletag'}),apstag.fetchBids({slots:[{slotID:'div-gpt-ad-1621524903956-0',slotName:'58778164/Desktop-Billboard-1',sizes:[[960,90],[970,250],[950,90],[728,90],[970,90]]},{slotID:'div-gpt-ad-1621526463511-0',slotName:'58778164/Desktop-MediumRectangle-1',sizes:[[300,250],[336,280]]},{slotID:'div-gpt-ad-1621527521939-0',slotName:'58778164/Desktop-Skyscraper-1',sizes:[[160,600],[336,280],[300,250],[300,600]]},{slotID:'div-gpt-ad-1621528018930-0',slotName:'58778164/Desktop-MediumRectangle-2',sizes:[[336,280],[300,250]]},{slotID:'div-gpt-ad-1621528123398-0',slotName:'58778164/Desktop-Skyscraper-2',sizes:[[300,250],[336,280],[160,600],[300,600]]},{slotID:'div-gpt-ad-1621528173524-0',slotName:'58778164/Desktop-Billboard-2',sizes:[[950,90],[970,250],[728,90],[970,90],[960,90]]},{slotID:'div-gpt-ad-1621534289296-0',slotName:'58778164/Mobile-MediumRectangle-1',sizes:[[300,100],[300,250]]},{slotID:'div-gpt-ad-1621534369294-0',slotName:'58778164/Mobile-Halfpage-1',sizes:[[300,600],[300,250]]},{slotID:'div-gpt-ad-1621534432829-0',slotName:'58778164/Mobile-Sticky',sizes:[[300,50],[320,50]]},],timeout:2e3},function($){googletag.cmd.push(function(){apstag.setDisplayBids(),googletag.pubads().refresh()})});</script>        <div class="flex-container">
+            <div class="box verein-widget zugaenge-widget viewport-tracking" data-viewport="TopTransfers_zugaenge">
+    <div class="sub-kategorie">
+        <h2>Top arrivals</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/marcelo-saracchi/profil/spieler/373916" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/373916-1608892184.jpeg?lm=1" title="Marcelo Saracchi" alt="Marcelo Saracchi" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/marcelo-saracchi/profil/spieler/373916" class="table-link">
+                        <span class="spielername">
+                            Marcelo Saracchi                        </span>
+                            <span class="spieler-zusatz">
+                            Left-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/515.png?lm=1456997255" title="Without Club" alt="Without Club" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/shkodran-mustafi/profil/spieler/88590" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/88590-1447247176.jpg?lm=1" title="Shkodran Mustafi" alt="Shkodran Mustafi" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/shkodran-mustafi/profil/spieler/88590" class="table-link">
+                        <span class="spielername">
+                            Shkodran Mustafi                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/515.png?lm=1456997255" title="Without Club" alt="Without Club" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/roberto-soldado/profil/spieler/34870" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/34870-1583308636.jpg?lm=1" title="Roberto Soldado" alt="Roberto Soldado" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/roberto-soldado/profil/spieler/34870" class="table-link">
+                        <span class="spielername">
+                            Roberto Soldado                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/16795.png?lm=1620472393" title="Granada CF" alt="Granada CF" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>500<span class="abloeseZusatz">k</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/martin-caceres/profil/spieler/54935" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/54935-1666428123.jpg?lm=1" title="Martín Cáceres" alt="Martín Cáceres" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/martin-caceres/profil/spieler/54935" class="table-link">
+                        <span class="spielername">
+                            Martín Cáceres                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/1390.png?lm=1626441409" title="Cagliari Calcio" alt="Cagliari Calcio" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/enric-franquesa/profil/spieler/282700" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/282700-1625480292.jpg?lm=1" title="Enric Franquesa" alt="Enric Franquesa" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/enric-franquesa/profil/spieler/282700" class="table-link">
+                        <span class="spielername">
+                            Enric Franquesa                        </span>
+                            <span class="spieler-zusatz">
+                            Left-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/1050.png?lm=1408655310" title="Villarreal" alt="Villarreal" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>375<span class="abloeseZusatz">k</span>                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/levante-ud/transferrekorde/verein/3368/saison_id/2021" class="content-link">
+            All arrivals        </a>
+        <div class="clearer"></div>
+</div>
+<div class="box verein-widget abgaenge-widget viewport-tracking" data-viewport="TopTransfers_abgaenge">
+    <div class="sub-kategorie">
+        <h2>Top departures</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/ruben-rochina/profil/spieler/67548" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/67548-1447231325.jpg?lm=1" title="Rubén Rochina" alt="Rubén Rochina" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/ruben-rochina/profil/spieler/67548" class="table-link">
+                        <span class="spielername">
+                            Rubén Rochina                        </span>
+                            <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/16795.png?lm=1620472393" title="Granada CF" alt="Granada CF" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/pablo-martinez/profil/spieler/568835" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/568835-1632129599.jpg?lm=1" title="Pablo Martínez" alt="Pablo Martínez" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/pablo-martinez/profil/spieler/568835" class="table-link">
+                        <span class="spielername">
+                            Pablo Martínez                        </span>
+                            <span class="spieler-zusatz">
+                            Central Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/5358.png?lm=1535899179" title="SD Huesca" alt="SD Huesca" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    loan transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/sergio-leon/profil/spieler/145769" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/145769-1490624735.jpg?lm=1" title="Sergio León" alt="Sergio León" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/sergio-leon/profil/spieler/145769" class="table-link">
+                        <span class="spielername">
+                            Sergio León                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/366.png?lm=1655726284" title="Real Valladolid" alt="Real Valladolid" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/hernani/profil/spieler/172142" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/172142-1542106499.png?lm=1" title="Hernâni" alt="Hernâni" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/hernani/profil/spieler/172142" class="table-link">
+                        <span class="spielername">
+                            Hernâni                        </span>
+                            <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/515.png?lm=1456997255" title="Without Club" alt="Without Club" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/tono-garcia/profil/spieler/125931" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/125931-1447315956.jpg?lm=1" title="Toño García" alt="Toño García" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/tono-garcia/profil/spieler/125931" class="table-link">
+                        <span class="spielername">
+                            Toño García                        </span>
+                            <span class="spieler-zusatz">
+                            Left-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/1533.png?lm=1601985991" title="SD Eibar" alt="SD Eibar" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/levante-ud/rekordabgaenge/verein/3368/saison_id/2021" class="content-link">
+            All departures        </a>
+        <div class="clearer"></div>
+</div>
+
+            
+            <div class="clearer"></div>
+        </div>
+        <div class="flex-container">
+                        <div class="clearer"></div>
+        </div>
+        <div class="row">     <div class="large-12 columns" style="margin-top: 10px;">         <div class="box aobj0" style="padding: 10px; display: block;">             <div style="color: #1d75a3; font-family: OSB; font-weight: normal; font-size: 20px; letter-spacing: 0.8px; line-height: 20px; text-transform: uppercase; padding-bottom: 15px; ">DAS KÖNNTE SIE AUCH INTERESSIEREN</div>             <div style="padding: 0;                 position: absolute;                 top: 26px;                 right: 103px;">                 <a href="https://www.outbrain.com/what-is/default/de" rel="nofollow" onclick="OBR.extern.callWhatIs(&quot;https://www.outbrain.com/what-is/default/de&quot;,&quot;&quot;,-1,-1,true ,null);return false" style="                 color: #757575;                 font-size: 11px;                 font-family: arial;                 text-decoration: none;                 display: block;">empfohlen von                     <span class="ob_logo" title="Outbrain - content marketing" style="                         width: 67px;                         height: 12px;                         background: url(https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png) no-repeat center top;                         position: absolute;                         margin-left: 4px;                         float: left;">                         <span style="float: right;                             background-image: url(https://widgets.outbrain.com/images/widgetIcons/achoice.svg);                             background-size: 75% 75%;                             width: 12px;                             height: 12px;                             padding-left: 4px;                             display: inline-block;                             background-repeat: no-repeat;                             background-position: right center;                             border-left: 1px solid #999;                             position: relative;                             left: 17px;">                         </span>                     </span>                 </a>             </div>             <div id="sftb1"> <div id="hPeclPuO" class="RWIuTGm "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/5Rk0g6iO22UM992Kpzn7MRiOo4un2FDJv6kGGphZyQSU/BBxwXzseVSZVSnrXqz7fKqGr3zYgKDE3SMO6TX2TIOeeDorm1274E7BoU.gif"></div></div>             <div id="sftb2"> </div>             <div id="sftb3"> </div>             <div id="sftb4"> </div>             <div id="sftb5"> </div>         </div>     </div> </div><div id="recommender" class="box" style="display: none;">
+    <div class="OUTBRAIN" data-src="" data-widget-id="AR_1" data-ob-template="DE_Transfermarkt.de"></div>
+	<script type="text/javascript" src="https://widgets.outbrain.com/outbrain.js"></script>
+</div>
+    </div>
+    <div class="large-4 columns">
+        
+
+
+<tm-next-matches class="viewport-tracking hydrated" data-viewport="Naechste_Begegnungen" locale="en" type="team" identifier="3368" translations="{&quot;headline&quot;:&quot;Next matches&quot;,&quot;matchDay&quot;:&quot;Matchday&quot;}" skeleton="tm-next-matches-1428595073"><!---->
+    
+            
+    <div class="next-match-headline">Next matches</div><div class="slider"><next-matches-arrows class="hydrated"><div class="next-match-arrows"><button class="next-match-arrow-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z" transform="translate(10 18.707) rotate(180)"></path></svg></button><button class="next-match-arrow-right"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z"></path></svg></button></div></next-matches-arrows><div class="next-match-arrows"></div><div class="slider__slides" data-observe-slider-next-matches=""><div class="slider__box" data-slide-id-next-matches="slide-0"><div class="next-match-box"><a href="https://www.transfermarkt.com/copa-del-rey/startseite/pokalwettbewerb/CDR" class="next-match-competition">Copa del Rey</a><a href="/wettbewerb/spieltag/pokalwettbewerb/CDR/saison_id/2022/spieltag/2/gruppe/1R" class="competition-group">First Round</a></div><div class="next-match-competition-time">Saturday, 11/12/2022 - 8:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3949588" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-1"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/16" class="competition-day">16. Matchday</a></div><div class="next-match-competition-time">Sunday, 11/20/2022 - 12:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3847784" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-2"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/17" class="competition-day">17. Matchday</a></div><div class="next-match-competition-time">Sunday, 11/27/2022 - 7:15 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3847803" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-3"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/18" class="competition-day">18. Matchday</a></div><div class="next-match-competition-time">Saturday, 12/03/2022 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3847807" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-4"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/19" class="competition-day">19. Matchday</a></div><div class="next-match-competition-time">Tuesday, 12/06/2022 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850210" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-5"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/20" class="competition-day">20. Matchday</a></div><div class="next-match-competition-time">Saturday, 12/10/2022 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850217" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-6"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/21" class="competition-day">21. Matchday</a></div><div class="next-match-competition-time">Saturday, 12/17/2022 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850236" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-7"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/22" class="competition-day">22. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/07/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850247" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-8"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/23" class="competition-day">23. Matchday</a></div><div class="next-match-competition-time">Friday, 01/13/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850266" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-9"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/24" class="competition-day">24. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/21/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850277" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-10"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/25" class="competition-day">25. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/28/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3850290" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-11"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/26" class="competition-day">26. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/04/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3870241" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-12"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/27" class="competition-day">27. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/11/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3870255" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-13"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/28" class="competition-day">28. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/18/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3870267" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-14"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/29" class="competition-day">29. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/25/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3870275" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-15"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/30" class="competition-day">30. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/04/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3870284" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-16"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/31" class="competition-day">31. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/11/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3884138" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-17"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/32" class="competition-day">32. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/18/2023 - 4:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3884149" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-18"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/33" class="competition-day">33. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/25/2023 - 4:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3884158" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-19"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/34" class="competition-day">34. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/01/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3884163" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-20"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/35" class="competition-day">35. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/08/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895026" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-21"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/36" class="competition-day">36. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/15/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895039" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-22"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/37" class="competition-day">37. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/22/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895055" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-23"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/38" class="competition-day">38. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/29/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895723" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-24"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/39" class="competition-day">39. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/06/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895737" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-25"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/40" class="competition-day">40. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/13/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895750" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-26"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/41" class="competition-day">41. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/20/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895761" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-27"><div class="next-match-box"><a href="https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2" class="next-match-competition">LaLiga2</a><a href="/wettbewerb/spieltag/wettbewerb/ES2/saison_id/2022/spieltag/42" class="competition-day">42. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/27/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3895766" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div></div></div><div class="quote-slot" slot="quotes" onclick="tmEvent('werbung','click','begegnungsbox_verein');"><span class="oddsServe" data-match="3949588" data-gameday="2" data-competition="CDR"></span></div><div slot="full-matchplan">
+            <a title="Levante UD" class="content-link" href="/ud-levante/spielplan/verein/3368/saison_id/2021">All fixtures</a>        </div></tm-next-matches>
+
+<script>
+    var nextMatchesEl = document.getElementsByTagName('tm-next-matches')[0];
+    if(nextMatchesEl) {
+        nextMatchesEl.addEventListener('nextMatchesReloadQuotes', (event) => {
+            jQuery(document).trigger('begegnungenVereinSliderLoad', 1);
+        });
+    }
+</script>
+<div id="BVSPfhSnlX" class="ixVjVloL"><div id="KhZiLy" class="rFyzlceKqv bzwlfHid"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/Bbn3fJHQncG58WY1Ip66rlKSbFZbZgs7VzMjKRvzL3Z1/BBxwXzseVSLYKmw7JmntB5elGprBnGsEsvVXzT4QkqF4DVzekh55tG0Rt.gif"><style id="vr-60ck07ik0ig">/*!
+* this is a simplified version of
+* cleanslate
+*   github.com/premasagar/cleanslate
+*
+*/.vr-60ck07ik0ig-reset,.vr-60ck07ik0ig-reset *{background-attachment:scroll;background-color:transparent;background-image:none;background-position:0 0;background-repeat:repeat;border-color:black;border-color:currentColor;border-radius:0;border-style:none;border-width:medium;bottom:auto;clear:none;clip:auto;color:inherit;counter-increment:none;counter-reset:none;cursor:auto;direction:inherit;float:none;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:normal;font-weight:inherit;height:auto;left:auto;letter-spacing:normal;line-height:inherit;list-style-type:inherit;list-style-position:outside;list-style-image:none;margin:0;max-height:none;max-width:none;min-height:0;min-width:0;opacity:1;outline:invert none medium;overflow:visible;padding:0;position:static;quotes:'' '';right:auto;table-layout:auto;text-align:inherit;text-decoration:inherit;text-indent:0;text-transform:none;top:auto;unicode-bidi:normal;vertical-align:baseline;visibility:inherit;white-space:normal;width:auto;word-spacing:normal;z-index:auto;background-origin:padding-box;background-clip:border-box;background-size:auto;-o-border-image:none;border-image:none;box-shadow:none;box-sizing:content-box;-webkit-column-count:auto;-moz-column-count:auto;column-count:auto;-webkit-column-gap:normal;-moz-column-gap:normal;column-gap:normal;-webkit-column-rule:medium none black;-moz-column-rule:medium none black;column-rule:medium none black;-webkit-column-span:1;-moz-column-span:1;column-span:1;-webkit-column-width:auto;-moz-column-width:auto;column-width:auto;-webkit-font-feature-settings:normal;font-feature-settings:normal;overflow-x:visible;overflow-y:visible;-webkit-hyphens:manual;hyphens:manual;-webkit-perspective:none;perspective:none;-webkit-perspective-origin:50% 50%;perspective-origin:50% 50%;-webkit-backface-visibility:visible;backface-visibility:visible;text-shadow:none;transition:all 0s ease 0s;-webkit-transform:none;transform:none;-webkit-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transform-style:flat;transform-style:flat;word-break:normal}.vr-60ck07ik0ig-reset a,.vr-60ck07ik0ig-reset a:visited{color:inherit;text-decoration:none}.vr-60ck07ik0ig-reset a,.vr-60ck07ik0ig-reset a *{cursor:pointer}#viralize-wide-wrapper-60ck07ik0ig{width:100%;height:0;text-align:center;position:relative}#viralize-wide-wrapper-60ck07ik0ig div:first-child{background-color:black}#viralize-wide-wrapper-60ck07ik0ig #vr-60ck07ik0ig-disclaimer{visibility:hidden;height:20px;line-height:20px;color:black;font-family:'Helvetiva Neue', Helvetica, Arial, sans-serif;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase}#viralize-wide-wrapper-60ck07ik0ig #vr-60ck07ik0ig-disclaimer.show{visibility:visible;font-family:'Helvetiva Regular', Helvetica, Arial, sans-serif;color:#c5c5c5}#viralize-native-wrapper-60ck07ik0ig{width:100%;max-height:0;display:inline-block;height:auto;overflow:hidden}#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip{height:auto}#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-animated{transition:max-height 0.3s ease-in}#viralize-native-60ck07ik0ig{width:100%;height:0;position:relative;overflow:hidden}#viralize-player-iframe-60ck07ik0ig{position:absolute;top:0;left:0;z-index:1}@media (orientation: landscape) and (min-width: 1025px){.vr-60ck07ik0ig-desktop-top{top:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-60ck07ik0ig-desktop-bottom{bottom:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-60ck07ik0ig-desktop-top-left{top:20px;left:1%}.vr-60ck07ik0ig-desktop-top-right{top:20px;right:20px}.vr-60ck07ik0ig-desktop-bottom-left{bottom:20px;left:20px}.vr-60ck07ik0ig-desktop-bottom-right{bottom:20px;right:20px}}@media (orientation: landscape) and (max-width: 1024px){.vr-60ck07ik0ig-mobile-landscape-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-60ck07ik0ig-mobile-landscape-top.vr-60ck07ik0ig-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-60ck07ik0ig-mobile-landscape-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-60ck07ik0ig-mobile-landscape-bottom.vr-60ck07ik0ig-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-60ck07ik0ig-mobile-landscape-top-left{top:5px;left:5px}.vr-60ck07ik0ig-mobile-landscape-top-right{top:5px;right:5px}.vr-60ck07ik0ig-mobile-landscape-bottom-left{bottom:5px;left:5px}.vr-60ck07ik0ig-mobile-landscape-bottom-right{bottom:5px;right:5px}}@media (orientation: portrait){.vr-60ck07ik0ig-mobile-portrait-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-60ck07ik0ig-mobile-portrait-top.vr-60ck07ik0ig-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-60ck07ik0ig-mobile-portrait-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-60ck07ik0ig-mobile-portrait-bottom.vr-60ck07ik0ig-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-60ck07ik0ig-mobile-portrait-top-left{top:5px;left:5px}.vr-60ck07ik0ig-mobile-portrait-top-right{top:5px;right:5px}.vr-60ck07ik0ig-mobile-portrait-bottom-left{bottom:5px;left:5px}.vr-60ck07ik0ig-mobile-portrait-bottom-right{bottom:5px;right:5px}}#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip{position:fixed;z-index:2147483647;width:25%}@media (orientation: landscape) and (max-width: 2140px){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-medium{width:400px}#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-large{width:535px}}@media (orientation: portrait){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip{width:90%}}@media (orientation: landscape) and (min-width: 1921px){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-aspect-ratio-square{width:450px}}@media (orientation: landscape) and (max-width: 1920px){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-aspect-ratio-square{width:300px}}@media (orientation: portrait){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-aspect-ratio-square{width:90%}}@media (orientation: landscape) and (min-width: 1601px){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-aspect-ratio-portrait{width:300px}}@media (orientation: landscape) and (max-width: 1600px){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-aspect-ratio-portrait{width:226px}}@media (orientation: portrait){#viralize-native-wrapper-60ck07ik0ig.vr-60ck07ik0ig-vip.vr-60ck07ik0ig-aspect-ratio-portrait{width:50%}}
+</style><ins id="viralize-fallback-60ck07ik0ig"><script>
+window.adf_SH_MR_noFill = true;
+if (typeof viralizeNoAd === 'function') {
+    viralizeNoAd();
+}
+(function (w, d, zid) {
+    if (typeof w.callNextAdTag !== 'function') {
+        return;
+    }
+
+    var fallbackScript = d.currentScript;
+    var fallbackScriptParent = fallbackScript.parentElement;
+    var tagScript = fallbackScriptParent.nextSibling;
+    if (!tagScript.src.includes(zid)) {
+        return;
+    }
+
+    var positionId = tagScript.getAttribute('data-positionid');
+    if (!positionId) {
+        return;
+    }
+
+    w.callNextAdTag(positionId);
+}(window, document, 'AAEiXtWFbVzM5lZh'));
+</script></ins><script type="text/javascript" data-wid="auto" src="https://content.viralize.tv/display/?zid=AAEiXtWFbVzM5lZh&amp;u=https%3A%2F%2Fwww.transfermarkt.com%2Flevante-ud%2Fstartseite%2Fverein%2F3368%3Fsaison_id%3D2021" data-injected="true"></script></div><div class="dtDganUzm "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/Gvtq4XhDB7sZgZhYhIscMkUizkIM07OS5WYCd2UMjp1D/BBxwXzseVSIJFZdDT5K5DwJKwcGldHDQlelDFRZ3iLJn1Gy3STPC3Cbu1.gif"></div><div id="tUvmBOmO" class="large-12 columns"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/OkRMzsMk3MOcBL6PQGjdoNMvkOW37xddZdwP2TPuPqMw/BBxwXzseVSHON8Uc0I0zD5DNqE5MHUx7gwUFi2rYde3zwhcHXro4HrcOv.gif"></div></div><div class="werbung werbung-rectangle1 bzwlfHid"><!-- /58778164/Desktop-MediumRectangle-1 -->
+                        <div id="div-gpt-ad-1621526463511-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621526463511-0"); });
+                          </script>
+                        </div></div><tm-groundhopping-widget class="viewport-tracking hydrated" data-viewport="Groundhopping" raw-data="{&quot;headline&quot;:&quot;Groundhopping&quot;,&quot;clubname&quot;:&quot;Levante&quot;,&quot;description&quot;:&quot;Have you seen Levante live?&quot;,&quot;link&quot;:{&quot;text&quot;:&quot;Register now&quot;,&quot;url&quot;:&quot;\/profil\/registrieren&quot;}}"><section class="groundhopping-box"><h2 class="content-box-headline">Groundhopping</h2><p class="groundhopping-box__description">Have you seen Levante live?</p><a class="groundhopping-box__link content-link" href="/profil/registrieren">Register now</a></section></tm-groundhopping-widget>
+<div class="box saison-bilanz viewport-tracking" data-viewport="Saisonbilanz">
+            <h2 class="content-box-headline">
+            Season record 21/22        </h2>
+        <table>
+        <thead>
+        <tr>
+            <th colspan="2">Competition</th>
+            <th class="rechts">Achieve</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="Copa del Rey" href="/copa-del-rey/startseite/pokalwettbewerb/CDR/saison_id/2021">Copa del Rey</a></td>
+
+                <td class="rechts">
+                    Second Round                </td>
+            </tr>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="LaLiga" href="/laliga/startseite/wettbewerb/ES1/saison_id/2021">LaLiga</a></td>
+
+                <td class="rechts">
+                    19th                </td>
+            </tr>
+        
+        </tbody>
+
+    </table>
+    <a title="Levante UD" class="content-link" href="/ud-levante/erfolge/verein/3368">View achievements</a></div>
+<div class="box box-slider viewport-tracking" data-viewport="Mitarbeiter_Historie">
+    <div class="container">
+        <span class="mitarbeiterVereinSlider-prev"><a class="bx-prev" href=""> </a></span>
+                    <h2 class="text">
+                <span>Coach for the season 21/22</span>
+            </h2>
+                <span class="mitarbeiterVereinSlider-next"><a class="bx-next" href=""> </a></span>
+    </div>
+    <div class="clearer">
+        <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 196px;"><ul class="mitarbeiterVereinSlider slider-list" style="width: auto; position: relative;">
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 50; display: block;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/8115-1541153940.jpg?lm=1" title="Paco López" alt="Paco López" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="Paco López" id="0" href="/paco-lopez/profil/trainer/8115">Paco López</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                53 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                Mar 5, 2018                                <br>
+                                <b>Departure :</b>
+                                Oct 3, 2021                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/paco-lopez/leistungsdatenDetail/trainer/8115/verein_id/3368/saison_id/2021">8</a>                                        </td>
+                                        <td class="zentriert">0</td>
+                                        <td class="zentriert">4</td>
+                                        <td class="zentriert">4</td>
+                                        <td class="zentriert">
+                                            <a href="/paco-lopez/leistungsdatenDetail/trainer/8115/verein_id/3368/saison_id/2021">0.50</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 0; display: none;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/16348-1633615389.jpg?lm=1" title="Javier Pereira" alt="Javier Pereira" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="Javier Pereira" id="0" href="/javier-pereira/profil/trainer/16348">Javier Pereira</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                55 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                Oct 7, 2021                                <br>
+                                <b>Departure :</b>
+                                Nov 29, 2021                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/javier-pereira/leistungsdatenDetail/trainer/16348/verein_id/3368/saison_id/2021">7</a>                                        </td>
+                                        <td class="zentriert">0</td>
+                                        <td class="zentriert">3</td>
+                                        <td class="zentriert">4</td>
+                                        <td class="zentriert">
+                                            <a href="/javier-pereira/leistungsdatenDetail/trainer/16348/verein_id/3368/saison_id/2021">0.43</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 0; display: none;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/87289-1638896859.jpg?lm=1" title="Alessio Lisci" alt="Alessio Lisci" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="Alessio Lisci" id="0" href="/alessio-lisci/profil/trainer/87289">Alessio Lisci</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                35 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                Nov 30, 2021                                <br>
+                                <b>Departure :</b>
+                                Dec 6, 2021                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/alessio-lisci/leistungsdatenDetail/trainer/87289/verein_id/3368/saison_id/2021">25</a>                                        </td>
+                                        <td class="zentriert">9</td>
+                                        <td class="zentriert">4</td>
+                                        <td class="zentriert">12</td>
+                                        <td class="zentriert">
+                                            <a href="/alessio-lisci/leistungsdatenDetail/trainer/87289/verein_id/3368/saison_id/2021">1.24</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 0; display: none;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/87289-1638896859.jpg?lm=1" title="Alessio Lisci" alt="Alessio Lisci" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="Alessio Lisci" id="0" href="/alessio-lisci/profil/trainer/87289">Alessio Lisci</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                35 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                Dec 7, 2021                                <br>
+                                <b>Departure :</b>
+                                Jun 30, 2022                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/alessio-lisci/leistungsdatenDetail/trainer/87289/verein_id/3368/saison_id/2021">25</a>                                        </td>
+                                        <td class="zentriert">9</td>
+                                        <td class="zentriert">4</td>
+                                        <td class="zentriert">12</td>
+                                        <td class="zentriert">
+                                            <a href="/alessio-lisci/leistungsdatenDetail/trainer/87289/verein_id/3368/saison_id/2021">1.24</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                    </ul></div><div class="bx-controls"></div></div>
+    </div>
+    <div class="c2action-footer bxPagerParent">
+        <span class="bxPagerCustomMitarbeiter"><div class="bx-pager bx-default-pager">1 / 4</div></span>
+        <a title="Levante UD" href="/ud-levante/mitarbeiterhistorie/verein/3368">Go to coach history</a>    </div>
+</div>
+<div class="box viewport-tracking transfer-record" data-viewport="Transferbilanz">
+    <h2 class="content-box-headline">
+        Transfer record 21/22    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th class="transfer-record__header"></th>
+                <th class="zentriert transfer-record__header">Arrivals/Departures</th>
+                <th class="transfer-record__header transfer-record__header--right">Fee</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="transfer-record__revenue">
+                <td class="transfer-record__text">Income</td>
+                <td class="zentriert test-class transfer-record__text">10</td>
+                <td class="transfer-record__total transfer-record__total--positive">
+                    0                </td>
+            </tr>
+            <tr class="transfer-record__expenses">
+                <td class="transfer-record__text">Expenditure</td>
+                <td class="zentriert transfer-record__text">13</td>
+                <td class="transfer-record__total transfer-record__total--negative">
+                    <span class="abloeseZusatz">€</span>875<span class="abloeseZusatz">k</span>                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="transfer-record__text transfer-record__text--bold" colspan="2">Overall balance</td>
+                <td class="redtext rechts transfer-record__total">
+                    <span class="abloeseZusatz">€</span>-875<span class="abloeseZusatz">k</span>                </td>
+            </tr>
+        </tfoot>
+    </table>
+    <a title="Levante UD" class="content-link" href="/ud-levante/transfers/verein/3368/saison_id/2021">All transfers</a></div>
+<div id="CHgtOU" class="hnPnrP "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/H2YT3KhEz2pBwBrHiYV4YDqspYJg69VRZPZXIsNm7oCi/BBxwXzseVSVJHTRzPhfn4YVZi5YCUUo81Ovx4KtQDyFZZVt4jNeZC3ewK.gif"></div><div class="werbung werbung-rectangle2 bzwlfHid"><!-- /58778164/Desktop-MediumRectangle-2 -->
+                        <div id="div-gpt-ad-1621528018930-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528018930-0"); });
+                          </script>
+                        </div></div>    </div>
+</div>
+                    </main>
+
+        <footer>
+            
+
+<div class="tm-footer">
+            <a href="/" class="tm-footer__logo">
+          <img src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" alt="Transfermarkt" height="33" width="80">
+        </a>
+      <ul class="tm-footer__links">
+    <li class="tm-footer__links-item">
+      <a href="/intern/impressum">
+          Legal notice      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/web/datenschutz">
+          Data protection      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="javascript:void(0)" class="cmp-link">
+          Privacy      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/anb">
+          General terms of use      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/tmteam">
+          The TM team      </a>
+    </li>
+                        <li class="tm-footer__links-item">
+      <a href="/intern/faq">
+          FAQ      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/fehlermelden">
+          Found a mistake?      </a>
+    </li>
+  </ul>
+</div>
+        </footer>
+                    <div id="menue_overlay"></div>
+</div><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+                        <script type="text/javascript">
+                var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r",
+"co":""
+}
+            </script>
+                        <script type="module">
+                var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};
+            </script>
+                        <script type="text/javascript">
+                if(typeof IOMm === 'function') {
+                    IOMm('configure', { st: iam_data.st, dn: 'data-84a0f3455d.transfermarkt.com', mh:5 });
+                    IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+                } else {
+                    console.warn('IOMm is not defined');
+                }
+            </script>
+            <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script><img src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk">
+
+	<!-- Adition -->
+	<div id="oddsServe">
+	<script type="text/javascript">
+		adition.srq.push(function(api) {
+			api.renderSlot("oddsServe");
+		})
+	</script>
+	</div>
+
+            <script type="module" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.esm.js" defer=""></script><script nomodule="" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.js" defer=""></script>    <script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1667566935"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-menu.min.js?lm=1667566934"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1667566934"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+function skyscraperSwitch() {
+                const firstAd = document.getElementsByClassName("werbung-skyscraper");
+                const secondAd = document.getElementsByClassName("werbung-skyscraperbtf")
+                if (this.scrollY > 699) {
+                    firstAd[0].style.visibility = "hidden";
+                    secondAd[0].style.position = "fixed";
+                    secondAd[0].style.top = "40px";
+                } else {
+                    firstAd[0].style.visibility = "visible";
+                    secondAd[0].style.position = "relative";
+                    secondAd[0].style.top = "unset";
+                }
+            }
+            window.addEventListener("scroll", skyscraperSwitch, false);
+	var loginUrl='/profil/login';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function sendIvwData(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_t",
+"co":""
+}
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_r",
+"co":""
+}
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_forum",
+"co":""
+}
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_s",
+"co":""
+}
+
+    }
+    if(typeof IOMm === 'function') {
+        IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+    }
+}
+jQuery(function($) {
+jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','afterAjaxUpdate':function() {window.LazyLoadInstance.update(); tmTrackingAndAds(); trackLinks(); document.dispatchEvent(new CustomEvent("tmInitTooltip"));}});
+
+    mitarbeiterVereinSlider = $('.mitarbeiterVereinSlider').bxSlider({
+        mode: 'fade',
+        prevSelector: '.mitarbeiterVereinSlider-prev',
+        prevText: ' ',
+        nextSelector: '.mitarbeiterVereinSlider-next',
+        nextText: ' ',
+        pager: true,
+        pagerType: 'short',
+        pagerSelector: '.bxPagerCustomMitarbeiter',
+        responsive: true,
+        adaptiveHeight: true,
+    });
+
+});
+/*]]>*/
+</script>
+
+
+
+<script src="https://static.criteo.net/js/ld/publishertag.js"></script><script>window.Criteo = window.Criteo || {}; window.Criteo.events = window.Criteo.events || [];</script><ins id="113"><script language="javascript" type="text/javascript">
+	s = document.createElement('script');
+	s.src='https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r='+Math.round(Math.random()*99999999999); 
+	document.body.append(s);
+</script></ins><ins id="3"><script>
+	// Smart RTB+ force cookie-sync code - https only - 2020-02-04
+       var c ={
+           'insertionId' : 5733718,
+           'pageId' : 1473518,
+           'domain' : 'www8.smartadserver.com'
+       }
+       var h = document.getElementsByTagName('head')[0];
+       var sl = document.createElement('script');
+       sl.type = 'text/javascript';
+       sl.src =  'https://'+ c.domain+'/ac?pgid='+c.pageId+'&insid='+c.insertionId+'&tmstp='+Math.round(Math.random()*10000000000)+'&out=js';
+       sl.async = true;
+       h.appendChild(sl);
+</script></ins><ins id="1"><img src="//ads.stickyadstv.com/auto-user-sync" style="display:none;" width="1" height="1"></ins><ins id="219"><iframe src="https://csync-global.smartadserver.com/2058/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="166"><iframe src="https://csync-global.smartadserver.com/2161/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="42"><iframe src="https://csync-global.smartadserver.com/3668/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><script src="https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r=10821906739"></script><iframe referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/f9BtJZwCsTqUfZz0wM1dxVONLBNXiu254Ri7SNTFoShq/BBxwXzseVSYZT8JS2sS0124XnvFvU3nvDYvWdW5jSdmFnfOVOwZOdVhyT.gif" style="width: 2px; height: 2px; display: none;"></iframe><iframe scrolling="no" frameborder="0" width="0" height="0" src="https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=smartadserver&amp;endpoint=eu" style="margin: 0px; padding: 0px; display: none; width: 0px; height: 0px; visibility: hidden;"></iframe></body>

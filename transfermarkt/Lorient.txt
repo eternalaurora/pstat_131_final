@@ -1,0 +1,1476 @@
+<body class="" itemscope="" itemtype="http://schema.org/WebPage" data-tm-tld="com" data-cmp-layer-id="225676" data-new-gr-c-s-check-loaded="14.1025.0" data-gr-ext-installed=""><div class="werbung werbung-header qmaiiHid"><!-- Start GPT Tag -->
+                        <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+                        <script>
+                          window.googletag = window.googletag || {cmd: []};
+                          googletag.cmd.push(function() {
+                            googletag.defineSlot("/58778164/Desktop-Billboard-1", [[960, 90], [970, 250], [950, 90], [728, 90], [970, 90]], "div-gpt-ad-1621524903956-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-1", [[300, 250], [336, 280]], "div-gpt-ad-1621526463511-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-1", [[160, 600], [336, 280], [300, 250], [300, 600]], "div-gpt-ad-1621527521939-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-2", [[336, 280], [300, 250]], "div-gpt-ad-1621528018930-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-2",  [[300, 250], [336, 280], [160, 600], [300, 600]], "div-gpt-ad-1621528123398-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Billboard-2",  [[950, 90], [970, 250], [728, 90], [970, 90], [960, 90]], "div-gpt-ad-1621528173524-0")
+                            .addService(googletag.pubads());
+                             googletag.pubads().enableLazyLoad({
+                                fetchMarginPercent: 500,
+                                renderMarginPercent: 200,
+                                mobileScaling: 2.0});
+                            googletag.pubads().setCentering(true);
+                            googletag.pubads().disableInitialLoad();
+                            googletag.pubads().enableSingleRequest();
+                            googletag.pubads().setTargeting("cg1", ["verein"]);
+                            googletag.pubads().setTargeting("URL", "www.transfermarkt.com");
+                            googletag.enableServices();
+                          });
+                        </script>
+                        <!-- End GPT Tag --></div>    
+
+    
+    
+        <div id="main">
+    <div id="FZqECa" class="GbJhfU hide-for-small"><div id="zUwjklVLN"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/xrwtPhNJtfwMtQGrYRCtf9TtRhC61IhzLlnBjo1odx8g/JGQUWGvIphRYKudcPIWNotqgs1rYNh6tSKS2Bo8XCU8soEKzlD7dzMr95.gif" style="position: fixed; top: 0px;"></div></div><div class="werbung-skyscraper-container">
+            <div class="werbung werbung-skyscraper qmaiiHid"><!-- /58778164/Desktop-Skyscraper-1 -->
+                        <div id="div-gpt-ad-1621527521939-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621527521939-0"); });
+                          </script>
+                        </div></div>        </div>
+
+        <div class="werbung-skyscraperbtf-container" style="top: 2000px; display: block;">
+            <div class="werbung werbung-skyscraperbtf qmaiiHid"><!-- /58778164/Desktop-Skyscraper-2 -->
+                        <div id="div-gpt-ad-1621528123398-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528123398-0"); });
+                          </script>
+                        </div></div>        </div>
+        
+        <header class="tm-header">
+                        <div class="tm-header__box ">
+                                <a href="/">
+                    <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" height="62" width="156" title="Transfermarkt" alt="Transfermarkt">
+                </a>
+                                                 <tm-domainswitcher open-list="false" tld="com" class="hydrated"></tm-domainswitcher>
+                                    <div class="tm-header__social-box">
+		                <a href="https://www.facebook.com/Transfermarkt.global" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/fb_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://twitter.com/TMuk_news" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/twitter_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="http://instagram.com/transfermarkt_official" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/instagram_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="/intern/rssguide" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','RSS');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/rss_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://www.tiktok.com/@transfermarkt" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Tiktok');
+">
+                    <img src="https://tmsi.akamaized.net/icons/tiktok.svg" width="20" height="20" class="header__icon">
+                </a>
+				    </div>
+                    <div class="tm-header__input-wrapper " id="schnellsuche-platz">
+                        <form name="schnellsuche" id="schnellsuche" class="tm-header__form" action="/schnellsuche/ergebnis/schnellsuche">
+                            <input type="text" name="query" class="tm-header__input--search-field" onclick="" placeholder="Enter search term" autocorrect="off" spellcheck="false" value="">
+                            <input type="submit" value="" class="tm-header__input--search-send" alt="search">
+                        </form>
+                        <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="tm-header__search-detail">
+                            <img src="https://tmsi.akamaized.net/icons/search_icon_plus_blue_white.svg" alt="search" class="tm-header__icon-detail-search" height="26" width="26">
+                        </a>
+                    </div>
+                                </div>
+                
+            <nav class="main-navbar navihalter">
+                                                                        <ul class="main-navbar__container megamenu_dark_bar megamenu_dark" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+                    <a href="/" class="sticky-logo hide-for-small">
+                <span title="Transfermarkt" class="tm_svg"></span>
+            </a>
+        
+    <li class="main-navbar__list" data-nav-group="news">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('News','click','menu');
+">
+            News        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="transfers">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Transfers &amp; Gerüchte','click','menu');
+">
+            Transfers &amp; rumours        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="marktwerte">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Marktwerte','click','menu');
+">
+            Market values        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list aktiv" data-nav-group="wettbewerbe">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Wettbewerbe','click','menu');
+">
+            Competitions        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="foren">
+                <a class="main-navbar__list-title tm-main-nav-el" href="/uebersicht/index/forum/com" onclick="tmEvent('Foren','click','menu');
+">
+            Forums                    </a>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="meintm">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('MeinTM','click','menu');
+">
+            My TM        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list">
+                <a class="main-navbar__list-title tm-main-nav-el live-navilink" href="/ticker/index/live" onclick="tmEvent('Live','click','menu');
+">
+            Live                            <tm-live-match-counter auto-request="true" content="[&quot;Live match&quot;, &quot;live matches&quot;]" class="hydrated"></tm-live-match-counter>
+                    </a>
+            </li>
+</ul>
+
+                
+                <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                    <input type="text" name="query" class="header-suche" onclick="" placeholder="Enter search term">
+                    <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="search">
+                </form>
+                <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="header-suche-detailsuche">
+                    <span class="icon-detailsuche"></span>
+                </a>
+                                 <a id="arrow-up-xy" href="#">
+                            <svg style="fill: white; width: 20px; height: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                            <g>
+                            <path d="M78.016,49.132L51.961,12.714c-0.471-0.66-1.233-1.049-2.043-1.051c-0.006,0-0.006,0-0.006,0
+                                c-0.815,0.002-1.575,0.396-2.048,1.059L21.977,49.14c-0.546,0.767-0.616,1.776-0.183,2.612c0.426,0.835,1.292,1.361,2.236,1.361
+                                h12.183l-0.001,32.709c0,1.39,1.125,2.515,2.516,2.515l22.541-0.001c1.389,0.001,2.515-1.124,2.516-2.517l0-32.705h12.187
+                                c0.94,0,1.803-0.53,2.237-1.367C78.641,50.911,78.566,49.9,78.016,49.132z"></path>
+                            </g>
+                            </svg>
+                        </a>
+                                <div class="tm-login" id="login" onclick="tmEvent('login','click','sign_in_button');
+">
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" fill="#FFF" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve" class="tm-login__image">
+        <g>
+            <path d="M80.161,60.441l-15.66-7.47l-6.622-3.159c2.892-1.822,5.241-4.634,6.778-8.022c1.22-2.69,1.946-5.734,1.946-8.99
+                c0-1.827-0.29-3.562-0.694-5.236C63.94,19.453,57.605,13.477,50,13.477c-7.461,0-13.701,5.763-15.792,13.645
+                c-0.482,1.808-0.815,3.688-0.815,5.68c0,3.459,0.808,6.684,2.181,9.489c1.587,3.254,3.94,5.937,6.804,7.662l-6.342,2.953
+                l-16.168,7.53c-1.404,0.658-2.327,2.242-2.327,4.011v15.062v2.703c0,2.381,1.659,4.312,3.708,4.312h57.505
+                c2.048,0,3.708-1.93,3.708-4.312v-2.703V64.446C82.46,62.683,81.552,61.114,80.161,60.441z"></path>
+        </g>
+    </svg>
+    <span class="tm-login__cta">
+        Log in    </span>
+</div>
+            </nav>
+                         
+           <div class="quick-select-wrapper">
+    
+
+    <tm-quick-select-bar default-country="50" default-competition="FR1" default-club="1158" default-player="" dropdown-visible="" translations="{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Country&quot;,&quot;competition&quot;:&quot;Competition&quot;,&quot;club&quot;:&quot;club&quot;,&quot;player&quot;:&quot;player&quot;,&quot;attack&quot;:&quot;attack&quot;,&quot;midfield&quot;:&quot;midfield&quot;,&quot;defense&quot;:&quot;defence&quot;,&quot;goalkeeper&quot;:&quot;goalkeeper&quot;}" version="2.0.0" class="hydrated" in-viewport="true">
+    </tm-quick-select-bar>
+</div>
+
+
+            <div class="hksDyVS "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/pEXDg8DK3xIl19g45hwnpg0Zun1xbhI0GZc9CKbzRNIo/JGQUWGvIphKBW93vfS9TlMGtMuxmLqBZyR6Yx8JRE0VN1P8PyNsvs1cQD.gif"></div><div class="werbung werbung-billboard qmaiiHid"><!-- /58778164/Desktop-Billboard-1 -->
+                        <div id="div-gpt-ad-1621524903956-0" style="min-width: 728px; min-height: 90px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621524903956-0"); });
+                          </script>
+                        </div></div>        </header>
+        <main>
+            <script type="text/javascript" class="teads" src="//a.teads.tv/page/138303/tag" async="true"></script><header class="data-header">
+    <div class="data-header__headline-container">
+        <h1 class="data-header__headline-wrapper data-header__headline-wrapper--oswald">
+            FC Lorient        </h1>
+    </div>
+    <div class="data-header__badge-container">
+                                    <a href="/fc-lorient/erfolge/verein/1158" title="French Cup winner " class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/35.png?lm=1520606999" data-src="https://tmssl.akamaized.net/images/erfolge/header/35.png?lm=1520606999" title="French Cup winner " alt="French Cup winner " class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        1                    </span>
+                </a>
+                                    </div>
+            <div class="data-header__box--big">
+            <a class="data-header__box__club-link" href="/ligue-1/startseite/wettbewerb/FR1">
+                                    <img srcset="
+                                    https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/fr1.png?lm=1648360140 1x,
+                                    https://tmssl.akamaized.net/images/logo/homepageWappen150x150/fr1.png?lm=1648360140 2x
+                                " alt="Ligue 1" height="80" width="80">
+                            </a>
+            <div class="data-header__club-info">
+                <span class="data-header__club" itemprop="affiliation">
+                    <a href="/ligue-1/startseite/wettbewerb/FR1">
+                        Ligue 1                    </a>
+                </span>
+                                        <span class="data-header__label">
+                            <strong>League level:</strong>                            <span class="data-header__content">
+                                <a href="/ligue-1/startseite/wettbewerb/FR1">
+                                    <img src="https://tmssl.akamaized.net/images/flagge/tiny/50.png?lm=1520611569" data-src="https://tmssl.akamaized.net/images/flagge/tiny/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen vm lazy entered loaded" data-ll-status="loaded">First Tier
+                                </a>
+                            </span>
+                        </span>
+                                            <span class="data-header__label">
+                            Table position:
+                            <span class="data-header__content">
+                                <a href="/ligue-1/tabelle/wettbewerb/FR1" title="League table">6</a>                                
+                            </span>
+                        </span>
+                        <span class="data-header__label">
+                            In league since:
+                            <span class="data-header__content">
+                                <a href="/fc-lorient/platzierungen/verein/1158" title="">3 years</a>
+                            </span>
+                        </span>
+                            </div>
+        </div>
+        <div class="data-header__profile-container">
+        <img src="https://tmssl.akamaized.net/images/wappen/head/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class="">
+    </div>
+            <div class="data-header__box--small">
+
+                        <a href="/fc-lorient/kader/verein/1158" class="data-header__market-value-wrapper"><span class="waehrung">€</span>86.10<span class="waehrung">m</span>            <p class="data-header__last-update">
+                Total market value            </p>
+            </a>
+        </div>
+        <div class="data-header__info-box">
+        <div class="data-header__details">
+            <ul class="data-header__items">
+                <li class="data-header__label">
+                    Squad size:
+                    <span itemprop="dataItem" class="data-header__content">
+                        27                    </span>
+                </li>
+                <li class="data-header__label">
+                    Average age:
+                    <span itemprop="dataItem" class="data-header__content">
+                        24.1                    </span>
+                </li>
+                <li class="data-header__label">
+                    Foreigners:
+                    <span itemprop="dataItem" class="data-header__content">
+                        <a href="/fc-lorient/legionaere/verein/1158">13</a>&nbsp;&nbsp;<span class="tabellenplatz">48.1 %</span>                    </span>
+                </li>
+            </ul>
+            <ul class="data-header__items">
+                                    <li class="data-header__label">
+                        National team players:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a href="/fc-lorient/nationalspieler/verein/1158">8</a>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Stadium:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a title="FC Lorient" href="/fc-lorient/stadion/verein/1158">Stade du Moustoir</a>&nbsp;&nbsp;<span class="tabellenplatz">19.010 Seats</span>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Current transfer record:
+                        <span itemprop="dataItem" class="data-header__content">
+                                                        <span class="greentext">
+                                <a class="greentext" href="/fc-lorient/transfers/verein/1158/saison_id/2022">+€8.45m</a>                            </span>
+                    </span></li>
+                            </ul>
+        </div>
+    </div>
+            <div class="data-header__toggle">
+            <div class="data-header__toggle-icon">+</div>
+            <ul class="data-header__list-clubs">
+                <li><img src="https://tmssl.akamaized.net/images/wappen/tiny/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class="tiny_wappen"><span><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158">FC Lorient</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/16662.png?lm=1652787955" title="FC Lorient B" alt="FC Lorient B" class="tiny_wappen"><span><a title="FC Lorient B" href="/fc-lorient-b/startseite/verein/16662">FC Lorient B</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/11605.png?lm=1652787955" title="FC Lorient U19" alt="FC Lorient U19" class="tiny_wappen"><span><a title="FC Lorient U19" href="/fc-lorient-u19/startseite/verein/11605">FC Lorient U19</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/99399.png?lm=1652787955" title="FC Lorient U17" alt="FC Lorient U17" class="tiny_wappen"><span><a title="FC Lorient U17" href="/fc-lorient-u17/startseite/verein/99399">FC Lorient U17</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/100157.png?lm=1663771993" title="FC Lorient Formation" alt="FC Lorient Formation" class="tiny_wappen"><span><a title="FC Lorient Formation" href="/fc-lorient-formation/startseite/verein/100157">FC Lorient Formation</a></span>                    </li>            </ul>
+        </div>
+    </header>
+<script type="text/javascript">
+    const headerLinkList = document.querySelector('.data-header__toggle');
+    if (headerLinkList) {
+        headerLinkList.addEventListener('click', () => {
+            headerLinkList.classList.toggle('data-header__toggle--active');
+        })
+    };
+</script>
+<a href="https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178" class="db mt10" onclick="tmEvent('banner', 'https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178', 'd-day-banner');">
+    <img src="https://dzjovqk3zamsg.cloudfront.net/MVU_Banner_Premier-League_1122_Desktop_EN.jpg" width="1034" height="99" alt="deadline-day banner">
+</a>
+    <div class="row hide-on-print" id="subnavi" data-season="2021" data-controller="verein" data-action="startseite" data-path="fc-lorient/startseite/verein/1158" data-id="1158">
+        <div class="page_wrapper subnavi">
+            <div class="large-12 columns">
+                <div class="subnavi_box" id="subnavigation">
+                    <div class="submenu-text show-for-small">
+                        <a name="SubNavi" title="Navigation">
+                            <span>≡ Sub Menu</span>
+                        </a>
+                    </div>
+                    <nav>
+                        <ul id="submenu">
+                                                        <li id="close_submenu" class="show-for-small">
+                                <div id="submenu-icon">
+                                    <span class="clicked"></span>
+                                    <span class="clicked"></span>
+                                </div>
+                                <a>Close Menu</a>
+                            </li>
+                                                                <li id="overview" class="first-button aktiv " data-nav-group="overview">
+                                        <a name="SubNavi" href="/fc-lorient/startseite/verein/1158/saison_id/2022" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','uebersicht');
+">Overview</a>
+                                                                            </li>
+                                                                        <li id="squad" class="  " data-nav-group="squad">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','kader');
+">Squad</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="fixtures" class="  " data-nav-group="fixtures">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','spielplan');
+">Fixtures</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="transfers-amp-rumours" class="  " data-nav-group="transfers-amp-rumours">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','transfers-amp-geruchte');
+">Transfers &amp; rumours</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="information-amp-facts" class="  " data-nav-group="information-amp-facts">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','daten_und_fakten');
+">Information &amp; facts</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="stadium" class="  " data-nav-group="stadium">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','stadion');
+">Stadium</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="history" class="  " data-nav-group="history">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','historie');
+">History</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="news" class="  " data-nav-group="news">
+                                        <a name="SubNavi" href="/fc-lorient/news/verein/1158" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','news');
+">News</a>
+                                                                            </li>
+                                                                        <li id="subnavi-edit" class="  subnavi-edit" data-nav-group="subnavi-edit">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','edit');
+"></a>
+                                        <div class="dropdown_fullwidth gasthinweis" title="Log in or register now"><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var stickySubTop = $('#subnavigation').offset().top;
+        stickySubTop = stickySubTop - 60;
+        var main = $("#main");
+        $(document).ready(function () {
+            $(window).on('scroll load', function () {
+                if (!main.hasClass("stickySubnavigation")) {
+                    stickySubTop = $('#subnavigation').offset().top;
+                }
+                if ($(window).scrollTop() > stickySubTop) {
+                    main.addClass("stickySubnavigation");
+                } else {
+                    main.removeClass("stickySubnavigation");
+                }
+            });
+        });
+    </script>
+    <style>
+        .forum-anchor {
+            margin-top: -80px;
+        }
+    </style>
+
+    <div class="row vereinsstartseite" itemscope="" itemtype="http://schema.org/SportsTeam">
+    <div class="large-8 columns">
+        <div class="box kader-widget viewport-tracking" data-viewport="Kader">
+    <h2 class="content-box-headline">
+                        Squad of FC Lorient - Season 21/22      
+    </h2>
+            <div class="content">
+            <form action="/fc-lorient/startseite/verein/1158" method="get">            <div class="row">
+                <div class="large-12 columns">
+                    <table class="auflistung">
+                        <tbody>
+                            <tr>
+                                <td>
+                                                                            Filter by season                                                                    </td>
+                                <td>
+                                    <div class="inline-select">
+                                        <select name="saison_id" data-placeholder="Filter by season" class="chzn-select chzn-done" tabindex="-1" id="sel6OE" style="display: none;">
+                                                                                            <option value="2022">22/23</option>
+                                                                                            <option selected="selected" value="2021">21/22</option>
+                                                                                            <option value="2020">20/21</option>
+                                                                                            <option value="2019">19/20</option>
+                                                                                            <option value="2018">18/19</option>
+                                                                                            <option value="2017">17/18</option>
+                                                                                            <option value="2016">16/17</option>
+                                                                                            <option value="2015">15/16</option>
+                                                                                            <option value="2014">14/15</option>
+                                                                                            <option value="2013">13/14</option>
+                                                                                            <option value="2012">12/13</option>
+                                                                                            <option value="2011">11/12</option>
+                                                                                            <option value="2010">10/11</option>
+                                                                                            <option value="2009">09/10</option>
+                                                                                            <option value="2008">08/09</option>
+                                                                                            <option value="2007">07/08</option>
+                                                                                            <option value="2006">06/07</option>
+                                                                                            <option value="2005">05/06</option>
+                                                                                            <option value="2004">04/05</option>
+                                                                                            <option value="2003">03/04</option>
+                                                                                            <option value="2002">02/03</option>
+                                                                                            <option value="2001">01/02</option>
+                                                                                            <option value="2000">00/01</option>
+                                                                                            <option value="1999">99/00</option>
+                                                                                            <option value="1998">98/99</option>
+                                                                                            <option value="1997">97/98</option>
+                                                                                            <option value="1996">96/97</option>
+                                                                                            <option value="1995">95/96</option>
+                                                                                            <option value="1987">87/88</option>
+                                                                                            <option value="1985">85/86</option>
+                                                                                            <option value="1984">84/85</option>
+                                                                                            <option value="1983">83/84</option>
+                                                                                            <option value="1975">75/76</option>
+                                                                                            <option value="1974">74/75</option>
+                                                                                            <option value="1967">67/68</option>
+                                                                                    </select><div id="sel6OE_chzn" class="chzn-container chzn-container-single" style="width: 100%;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>21/22</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="search" autocomplete="off" tabindex="0"></div><ul class="chzn-results"><li id="sel6OE_chzn_o_0" class="active-result" style="">22/23</li><li id="sel6OE_chzn_o_1" class="active-result result-selected" style="">21/22</li><li id="sel6OE_chzn_o_2" class="active-result" style="">20/21</li><li id="sel6OE_chzn_o_3" class="active-result" style="">19/20</li><li id="sel6OE_chzn_o_4" class="active-result" style="">18/19</li><li id="sel6OE_chzn_o_5" class="active-result" style="">17/18</li><li id="sel6OE_chzn_o_6" class="active-result" style="">16/17</li><li id="sel6OE_chzn_o_7" class="active-result" style="">15/16</li><li id="sel6OE_chzn_o_8" class="active-result" style="">14/15</li><li id="sel6OE_chzn_o_9" class="active-result" style="">13/14</li><li id="sel6OE_chzn_o_10" class="active-result" style="">12/13</li><li id="sel6OE_chzn_o_11" class="active-result" style="">11/12</li><li id="sel6OE_chzn_o_12" class="active-result" style="">10/11</li><li id="sel6OE_chzn_o_13" class="active-result" style="">09/10</li><li id="sel6OE_chzn_o_14" class="active-result" style="">08/09</li><li id="sel6OE_chzn_o_15" class="active-result" style="">07/08</li><li id="sel6OE_chzn_o_16" class="active-result" style="">06/07</li><li id="sel6OE_chzn_o_17" class="active-result" style="">05/06</li><li id="sel6OE_chzn_o_18" class="active-result" style="">04/05</li><li id="sel6OE_chzn_o_19" class="active-result" style="">03/04</li><li id="sel6OE_chzn_o_20" class="active-result" style="">02/03</li><li id="sel6OE_chzn_o_21" class="active-result" style="">01/02</li><li id="sel6OE_chzn_o_22" class="active-result" style="">00/01</li><li id="sel6OE_chzn_o_23" class="active-result" style="">99/00</li><li id="sel6OE_chzn_o_24" class="active-result" style="">98/99</li><li id="sel6OE_chzn_o_25" class="active-result" style="">97/98</li><li id="sel6OE_chzn_o_26" class="active-result" style="">96/97</li><li id="sel6OE_chzn_o_27" class="active-result" style="">95/96</li><li id="sel6OE_chzn_o_28" class="active-result" style="">87/88</li><li id="sel6OE_chzn_o_29" class="active-result" style="">85/86</li><li id="sel6OE_chzn_o_30" class="active-result" style="">84/85</li><li id="sel6OE_chzn_o_31" class="active-result" style="">83/84</li><li id="sel6OE_chzn_o_32" class="active-result" style="">75/76</li><li id="sel6OE_chzn_o_33" class="active-result" style="">74/75</li><li id="sel6OE_chzn_o_34" class="active-result" style="">67/68</li></ul></div></div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <input type="submit" class="small button" value="Show">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            </form>
+        </div>
+                
+<div class="tm-tabs">
+    <a class="tm-tab tm-tab__active--parent" href="/fc-lorient/kader/verein/1158/saison_id/2021"><div class=" tm-tab__active"><span>Compact</span></div></a><a class="tm-tab" href="/fc-lorient/kader/verein/1158/saison_id/2021/plus/1"><div class=""><span>Detailed</span></div></a><a class="tm-tab" href="/fc-lorient/kader/verein/1158/saison_id/2021/galerie/1"><div class=""><span>Gallery</span></div></a></div>
+        <div class="responsive-table">
+            <div id="yw1" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw1_c0"><a class="sort-link" href="/fc-lorient/startseite/verein/1158/saison_id/2021/sort/rn">#</a></th><th id="yw1_c1"><a class="sort-link" href="/fc-lorient/startseite/verein/1158/saison_id/2021/sort/name_sort">player</a></th><th class="zentriert" id="yw1_c2"><a class="sort-link" href="/fc-lorient/startseite/verein/1158/saison_id/2021/sort/age">Date of birth / Age</a></th><th class="zentriert" id="yw1_c3">Nat.</th><th class="zentriert" id="yw1_c4">Current club</th><th class="rechts" id="yw1_c5"><a class="sort-link" href="/fc-lorient/startseite/verein/1158/saison_id/2021/sort/marktwert.desc">Market value</a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">30</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/189744-1553245767.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/189744-1553245767.jpg?lm=1" title="Paul Nardi" alt="Paul Nardi" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Paul Nardi" href="/paul-nardi/profil/spieler/189744">Paul Nardi</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Paul Nardi" href="/paul-nardi/profil/spieler/189744">P. Nardi</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">May 18, 1994 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="KAA Gent" href="/kaa-gent/startseite/verein/157"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/157.png?lm=1660723687" title="KAA Gent" alt="KAA Gent" class=""></a></td><td class="rechts hauptlink"><a href="/paul-nardi/marktwertverlauf/spieler/189744">€2.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">1</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/57134-1604333929.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/57134-1604333929.jpg?lm=1" title="Matthieu Dreyer" alt="Matthieu Dreyer" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Matthieu Dreyer" href="/matthieu-dreyer/profil/spieler/57134">Matthieu Dreyer</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Matthieu Dreyer" href="/matthieu-dreyer/profil/spieler/57134">M. Dreyer</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Mar 20, 1989 (32)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="AS Saint-Étienne" href="/as-saint-etienne/startseite/verein/618"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/618.png?lm=1658260152" title="AS Saint-Étienne" alt="AS Saint-Étienne" class=""></a></td><td class="rechts hauptlink"><a href="/matthieu-dreyer/marktwertverlauf/spieler/57134">€300k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">16</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/629587-1604333628.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/629587-1604333628.jpg?lm=1" title="Teddy Bartouche" alt="Teddy Bartouche" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Teddy Bartouche" href="/teddy-bartouche/profil/spieler/629587">Teddy Bartouche</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Teddy Bartouche" href="/teddy-bartouche/profil/spieler/629587">T. Bartouche</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Jun 5, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/251.png?lm=1520611569" title="Guadeloupe" alt="Guadeloupe" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/teddy-bartouche/marktwertverlauf/spieler/629587">€150k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">40</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/593315-1662835240.png?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/593315-1662835240.png?lm=1" title="Thomas Callens" alt="Thomas Callens" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Thomas Callens" href="/thomas-callens/profil/spieler/593315">Thomas Callens</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Thomas Callens" href="/thomas-callens/profil/spieler/593315">T. Callens</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Sep 6, 1998 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Annecy" href="/fc-annecy/startseite/verein/30204"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/30204.png?lm=1655726754" title="FC Annecy" alt="FC Annecy" class=""></a></td><td class="rechts hauptlink"><a href="/thomas-callens/marktwertverlauf/spieler/593315">€150k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">15</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/386057-1583422584.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/386057-1583422584.jpg?lm=1" title="Julien Laporte" alt="Julien Laporte" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Julien Laporte" href="/julien-laporte/profil/spieler/386057">Julien Laporte</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Julien Laporte" href="/julien-laporte/profil/spieler/386057">J. Laporte</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Nov 4, 1993 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/julien-laporte/marktwertverlauf/spieler/386057">€3.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">3</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from FC Lausanne-Sport; date: Aug 30, 2021; fee: €3.50m" href="/fc-lausanne-sport/startseite/verein/527/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/527.png?lm=1656418402" title="FC Lausanne-Sport" alt="FC Lausanne-Sport" class=""></a></span><a title="Joined from FC Lausanne-Sport; date: Aug 30, 2021; fee: €3.50m" class="hide-for-small" href="/fc-lausanne-sport/startseite/verein/527/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/460245-1615820408.jpg?lm=1" title="Moritz Jenz" alt="Moritz Jenz" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Moritz Jenz" href="/moritz-jenz/profil/spieler/460245">Moritz Jenz</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Moritz Jenz" href="/moritz-jenz/profil/spieler/460245">M. Jenz</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 30, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="Celtic FC" href="/celtic-glasgow/startseite/verein/371"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/371.png?lm=1403615766" title="Celtic FC" alt="Celtic FC" class=""></a></td><td class="rechts hauptlink"><a href="/moritz-jenz/marktwertverlauf/spieler/460245">€2.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">19</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Andrézieux-Bouthéon FC; date: Jul 16, 2021; fee: free transfer" href="/andrezieux-boutheon-fc/startseite/verein/21676/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/21676.png?lm=1625848305" title="Andrézieux-Bouthéon FC" alt="Andrézieux-Bouthéon FC" class=""></a></span><a title="Joined from Andrézieux-Bouthéon FC; date: Jul 16, 2021; fee: free transfer" class="hide-for-small" href="/andrezieux-boutheon-fc/startseite/verein/21676/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/412829-1632771558.jpg?lm=1" title="Léo Pétrot" alt="Léo Pétrot" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Léo Pétrot" href="/leo-petrot/profil/spieler/412829">Léo Pétrot</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Léo Pétrot" href="/leo-petrot/profil/spieler/412829">L. Pétrot</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 15, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="AS Saint-Étienne" href="/as-saint-etienne/startseite/verein/618"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/618.png?lm=1658260152" title="AS Saint-Étienne" alt="AS Saint-Étienne" class=""></a></td><td class="rechts hauptlink"><a href="/leo-petrot/marktwertverlauf/spieler/412829">€1.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/80036-1665264173.jpg?lm=1" title="Thomas Fontaine" alt="Thomas Fontaine" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Thomas Fontaine" href="/thomas-fontaine/profil/spieler/80036">Thomas Fontaine</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Thomas Fontaine" href="/thomas-fontaine/profil/spieler/80036">T. Fontaine</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">May 8, 1991 (30)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/101.png?lm=1520611569" title="Madagascar" alt="Madagascar" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Beroe Stara Zagora" href="/pfc-beroe-stara-zagora/startseite/verein/6764"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/6764.png?lm=1416144905" title="Beroe Stara Zagora" alt="Beroe Stara Zagora" class=""></a></td><td class="rechts hauptlink"><a href="/thomas-fontaine/marktwertverlauf/spieler/80036">€500k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with Bourg-en-Bresse Péronnas 01; date: Jun 30, 2022; fee: End of loan" href="/bourg-en-bresse-peronnas-01/startseite/verein/2972/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/2972.png?lm=1546256460" title="Bourg-en-Bresse Péronnas 01" alt="Bourg-en-Bresse Péronnas 01" class=""></a></span><a title="Returned after loan spell with Bourg-en-Bresse Péronnas 01; date: Jun 30, 2022; fee: End of loan" class="hide-for-small" href="/bourg-en-bresse-peronnas-01/startseite/verein/2972/saison_id/2021"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/799936-1666191819.JPG?lm=1" title="Loris Mouyokolo" alt="Loris Mouyokolo" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Loris Mouyokolo" href="/loris-mouyokolo/profil/spieler/799936">Loris Mouyokolo</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Loris Mouyokolo" href="/loris-mouyokolo/profil/spieler/799936">L. Mouyokolo</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">May 22, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/85.png?lm=1520611569" title="Congo" alt="Congo" class="flaggenrahmen"></td><td class="zentriert"><a title="Rodez AF" href="/rodez-af/startseite/verein/11273"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/11273.png?lm=1498251875" title="Rodez AF" alt="Rodez AF" class=""></a></td><td class="rechts hauptlink"><a href="/loris-mouyokolo/marktwertverlauf/spieler/799936">€500k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">21</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/23960-1599767564.jpg?lm=1" title="Jérémy Morel" alt="Jérémy Morel" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jérémy Morel" href="/jeremy-morel/profil/spieler/23960">Jérémy Morel</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jérémy Morel" href="/jeremy-morel/profil/spieler/23960">J. Morel</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 2, 1984 (37)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/101.png?lm=1520611569" title="Madagascar" alt="Madagascar" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="US Montagnarde" href="/us-la-montagnarde/startseite/verein/30422"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/30422.png?lm=1604183513" title="US Montagnarde" alt="US Montagnarde" class=""></a></td><td class="rechts hauptlink"><a href="/jeremy-morel/marktwertverlauf/spieler/23960">€300k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">25</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/120651-1599768054.jpg?lm=1" title="Vincent Le Goff" alt="Vincent Le Goff" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Vincent Le Goff" href="/vincent-le-goff/profil/spieler/120651">Vincent Le Goff</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Vincent Le Goff" href="/vincent-le-goff/profil/spieler/120651">V. Le Goff</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Oct 15, 1989 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/vincent-le-goff/marktwertverlauf/spieler/120651">€1.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">20</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with US Avranches; date: Jun 30, 2021; fee: End of loan" href="/us-avranches/startseite/verein/26871/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/26871.png?lm=1489754531" title="US Avranches" alt="US Avranches" class=""></a></span><a title="Returned after loan spell with US Avranches; date: Jun 30, 2021; fee: End of loan" class="hide-for-small" href="/us-avranches/startseite/verein/26871/saison_id/2020"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/648886-1598966686.png?lm=1" title="Samuel Loric" alt="Samuel Loric" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Samuel Loric" href="/samuel-loric/profil/spieler/648886">Samuel Loric</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Samuel Loric" href="/samuel-loric/profil/spieler/648886">S. Loric</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Jul 5, 2000 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/samuel-loric/marktwertverlauf/spieler/648886">€600k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">17</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/442552-1599767815.jpg?lm=1" title="Houboulang Mendes" alt="Houboulang Mendes" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Houboulang Mendes" href="/houboulang-mendes/profil/spieler/442552">Houboulang Mendes</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Houboulang Mendes" href="/houboulang-mendes/profil/spieler/442552">H. Mendes</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">May 4, 1998 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/60.png?lm=1520611569" title="Guinea-Bissau" alt="Guinea-Bissau" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="UD Almería" href="/ud-almeria/startseite/verein/3302"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/3302.png?lm=1408654801" title="UD Almería" alt="UD Almería" class=""></a></td><td class="rechts hauptlink"><a href="/houboulang-mendes/marktwertverlauf/spieler/442552">€3.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">2</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from NK Osijek; date: Jul 23, 2021; fee: €2.50m" href="/nk-osijek/startseite/verein/327/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/327.png?lm=1488628710" title="NK Osijek" alt="NK Osijek" class=""></a></span><a title="Joined from NK Osijek; date: Jul 23, 2021; fee: €2.50m" class="hide-for-small" href="/nk-osijek/startseite/verein/327/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/391720-1600971302.jpg?lm=1" title="Igor Silva" alt="Igor Silva" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Igor Silva" href="/igor-silva/profil/spieler/391720">Igor Silva</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Igor Silva" href="/igor-silva/profil/spieler/391720">I. Silva</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Aug 21, 1996 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brazil" alt="Brazil" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/igor-silva/marktwertverlauf/spieler/391720">€2.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">37</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Théo Le Bris" alt="Théo Le Bris" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Théo Le Bris" href="/theo-le-bris/profil/spieler/766412">Théo Le Bris</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Théo Le Bris" href="/theo-le-bris/profil/spieler/766412">T. Le Bris</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Oct 1, 2002 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/theo-le-bris/marktwertverlauf/spieler/766412">€400k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">14</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/314912-1604333718.jpg?lm=1" title="Jérôme Hergault" alt="Jérôme Hergault" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jérôme Hergault" href="/jerome-hergault/profil/spieler/314912">Jérôme Hergault</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jérôme Hergault" href="/jerome-hergault/profil/spieler/314912">J. Hergault</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Apr 5, 1986 (35)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lavaur" href="/fc-lavaur/startseite/verein/37300"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/37300.png?lm=1571866501" title="FC Lavaur" alt="FC Lavaur" class=""></a></td><td class="rechts hauptlink"><a href="/jerome-hergault/marktwertverlauf/spieler/314912">€250k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Ronny Labonne" alt="Ronny Labonne" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Ronny Labonne" href="/ronny-labonne/profil/spieler/562175">Ronny Labonne</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Ronny Labonne" href="/ronny-labonne/profil/spieler/562175">R. Labonne</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Sep 14, 1997 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/207.png?lm=1520611569" title="Martinique" alt="Martinique" class="flaggenrahmen"></td><td class="zentriert"><a title="Nîmes Olympique" href="/nimes-olympique/startseite/verein/1160"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1160.png?lm=1526910377" title="Nîmes Olympique" alt="Nîmes Olympique" class=""></a></td><td class="rechts hauptlink"><a href="/ronny-labonne/marktwertverlauf/spieler/562175">€150k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">6</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/238626-1538130070.jpg?lm=1" title="Laurent Abergel" alt="Laurent Abergel" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Laurent Abergel" href="/laurent-abergel/profil/spieler/238626">Laurent Abergel</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Laurent Abergel" href="/laurent-abergel/profil/spieler/238626">L. Abergel</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 1, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/laurent-abergel/marktwertverlauf/spieler/238626">€3.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">8</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined as a winter arrival from: Malmö FF; date: Jan 18, 2022; fee: free transfer" href="/malmo-ff/startseite/verein/496/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/496.png?lm=1409230098" title="Malmö FF" alt="Malmö FF" class=""></a></span><a title="Joined as a winter arrival from: Malmö FF; date: Jan 18, 2022; fee: free transfer" class="hide-for-small" href="/malmo-ff/startseite/verein/496/saison_id/2021"><img src="/images/icons/winterzugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/333383-1548405598.jpg?lm=1" title="Bonke Innocent" alt="Bonke Innocent" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Bonke Innocent" href="/bonke-innocent/profil/spieler/333383">Bonke Innocent</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Bonke Innocent" href="/bonke-innocent/profil/spieler/333383">B. Innocent</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Jan 20, 1996 (25)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/bonke-innocent/marktwertverlauf/spieler/333383">€2.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">23</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/127182-1593969721.jpg?lm=1" title="Thomas Monconduit" alt="Thomas Monconduit" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Thomas Monconduit" href="/thomas-monconduit/profil/spieler/127182">Thomas Monconduit</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Thomas Monconduit" href="/thomas-monconduit/profil/spieler/127182">T. Monconduit</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 10, 1991 (30)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="AS Saint-Étienne" href="/as-saint-etienne/startseite/verein/618"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/618.png?lm=1658260152" title="AS Saint-Étienne" alt="AS Saint-Étienne" class=""></a></td><td class="rechts hauptlink"><a href="/thomas-monconduit/marktwertverlauf/spieler/127182">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">18</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/56794-1599768373.jpg?lm=1" title="Fabien Lemoine" alt="Fabien Lemoine" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Fabien Lemoine" href="/fabien-lemoine/profil/spieler/56794">Fabien Lemoine</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Fabien Lemoine" href="/fabien-lemoine/profil/spieler/56794">F. Lemoine</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Mar 16, 1987 (34)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Versailles 78" href="/fc-versailles/startseite/verein/13466"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/13466.png?lm=1652140831" title="FC Versailles 78" alt="FC Versailles 78" class=""></a></td><td class="rechts hauptlink"><a href="/fabien-lemoine/marktwertverlauf/spieler/56794">€600k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Bamo Meïté" alt="Bamo Meïté" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Bamo Meïté" href="/bamo-meite/profil/spieler/807165">Bamo Meïté</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Bamo Meïté" href="/bamo-meite/profil/spieler/807165">B. Meïté</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Jun 20, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/38.png?lm=1520611569" title="Cote d'Ivoire" alt="Cote d'Ivoire" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/bamo-meite/marktwertverlauf/spieler/807165">€100k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Baptiste Mouazan" alt="Baptiste Mouazan" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Baptiste Mouazan" href="/baptiste-mouazan/profil/spieler/804548">Baptiste Mouazan</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Baptiste Mouazan" href="/baptiste-mouazan/profil/spieler/804548">B. Mouazan</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Sep 27, 2001 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="AS Nancy-Lorraine" href="/as-nancy-lorraine/startseite/verein/1159"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1159.png?lm=1529961068" title="AS Nancy-Lorraine" alt="AS Nancy-Lorraine" class=""></a></td><td class="rechts hauptlink"><a href="/baptiste-mouazan/marktwertverlauf/spieler/804548">€200k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">31</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/804547-1632771810.jpg?lm=1" title="Redwan Bourlès" alt="Redwan Bourlès" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Redwan Bourlès" href="/redwan-bourles/profil/spieler/804547">Redwan Bourlès</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Redwan Bourlès" href="/redwan-bourles/profil/spieler/804547">R. Bourlès</a></span></div></td></tr><tr><td>Left Midfield</td></tr></tbody></table></td><td class="zentriert">Jan 2, 2003 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Stade Rennais FC B" href="/fc-stade-rennes-b/startseite/verein/8154"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/8154.png?lm=1575038320" title="Stade Rennais FC B" alt="Stade Rennais FC B" class=""></a></td><td class="rechts hauptlink"><a href="/redwan-bourles/marktwertverlauf/spieler/804547">€300k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">10</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/633992-1623749409.jpg?lm=1" title="Enzo Le Fée" alt="Enzo Le Fée" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Enzo Le Fée" href="/enzo-le-fee/profil/spieler/633992">Enzo Le Fée</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Enzo Le Fée" href="/enzo-le-fee/profil/spieler/633992">E. Le Fée</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 3, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/enzo-le-fee/marktwertverlauf/spieler/633992">€6.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">11</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/412671-1563890526.jpg?lm=1" title="Quentin Boisgard" alt="Quentin Boisgard" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Quentin Boisgard" href="/quentin-boisgard/profil/spieler/412671">Quentin Boisgard</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Quentin Boisgard" href="/quentin-boisgard/profil/spieler/412671">Q. Boisgard</a></span></div></td></tr><tr><td>Attacking Midfield</td></tr></tbody></table></td><td class="zentriert">Mar 17, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/quentin-boisgard/marktwertverlauf/spieler/412671">€1.80m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">28</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/579930-1664973756.jpg?lm=1" title="Armand Laurienté" alt="Armand Laurienté" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Armand Laurienté" href="/armand-lauriente/profil/spieler/579930">Armand Laurienté</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Armand Laurienté" href="/armand-lauriente/profil/spieler/579930">A. Laurienté</a></span></div></td></tr><tr><td>Left Winger</td></tr></tbody></table></td><td class="zentriert">Dec 4, 1998 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/251.png?lm=1520611569" title="Guadeloupe" alt="Guadeloupe" class="flaggenrahmen"></td><td class="zentriert"><a title="US Sassuolo" href="/us-sassuolo/startseite/verein/6574"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/6574.png?lm=1601389908" title="US Sassuolo" alt="US Sassuolo" class=""></a></td><td class="rechts hauptlink"><a href="/armand-lauriente/marktwertverlauf/spieler/579930">€7.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">7</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/428954-1604333823.jpg?lm=1" title="Stéphane Diarra" alt="Stéphane Diarra" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Stéphane Diarra" href="/stephane-diarra/profil/spieler/428954">Stéphane Diarra</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Stéphane Diarra" href="/stephane-diarra/profil/spieler/428954">S. Diarra</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Dec 9, 1998 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/38.png?lm=1520611569" title="Cote d'Ivoire" alt="Cote d'Ivoire" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/stephane-diarra/marktwertverlauf/spieler/428954">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">38</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: FC Lorient B; date: Jul 1, 2021" href="/fc-lorient-b/startseite/verein/16662/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/16662.png?lm=1652787955" title="FC Lorient B" alt="FC Lorient B" class=""></a></span><a title="Internal transfer: FC Lorient B; date: Jul 1, 2021" class="hide-for-small" href="/fc-lorient-b/startseite/verein/16662/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/823231-1663162842.jpg?lm=1" title="Dango Ouattara" alt="Dango Ouattara" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Dango Ouattara" href="/dango-ouattara/profil/spieler/823231">Dango Ouattara</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Dango Ouattara" href="/dango-ouattara/profil/spieler/823231">D. Ouattara</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Feb 11, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/29.png?lm=1520611569" title="Burkina Faso" alt="Burkina Faso" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/dango-ouattara/marktwertverlauf/spieler/823231">€900k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">13</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/538874-1603021287.jpg?lm=1" title="Terem Moffi" alt="Terem Moffi" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Terem Moffi" href="/terem-moffi/profil/spieler/538874">Terem Moffi</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Terem Moffi" href="/terem-moffi/profil/spieler/538874">T. Moffi</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">May 25, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/terem-moffi/marktwertverlauf/spieler/538874">€9.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">9</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined as a winter arrival from: Sarpsborg 08 FF; date: Jan 31, 2022; fee: €4.00m" href="/sarpsborg-08-ff/startseite/verein/10217/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/10217.png?lm=1410172953" title="Sarpsborg 08 FF" alt="Sarpsborg 08 FF" class=""></a></span><a title="Joined as a winter arrival from: Sarpsborg 08 FF; date: Jan 31, 2022; fee: €4.00m" class="hide-for-small" href="/sarpsborg-08-ff/startseite/verein/10217/saison_id/2021"><img src="/images/icons/winterzugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/490223-1579196307.jpg?lm=1" title="Ibrahima Koné" alt="Ibrahima Koné" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Ibrahima Koné" href="/ibrahima-kone/profil/spieler/490223">Ibrahima Koné</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Ibrahima Koné" href="/ibrahima-kone/profil/spieler/490223">I. Koné</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jun 16, 1999 (22)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/105.png?lm=1520611569" title="Mali" alt="Mali" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/ibrahima-kone/marktwertverlauf/spieler/490223">€4.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with Vitesse Arnhem; date: Jun 30, 2022; fee: End of loan" href="/vitesse-arnhem/startseite/verein/499/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/499.png?lm=1610789824" title="Vitesse Arnhem" alt="Vitesse Arnhem" class=""></a></span><a title="Returned after loan spell with Vitesse Arnhem; date: Jun 30, 2022; fee: End of loan" class="hide-for-small" href="/vitesse-arnhem/startseite/verein/499/saison_id/2021"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/167342-1540456985.jpg?lm=1" title="Adrian Grbic" alt="Adrian Grbic" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Adrian Grbic" href="/adrian-grbic/profil/spieler/167342">Adrian Grbic</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Adrian Grbic" href="/adrian-grbic/profil/spieler/167342">A. Grbic</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Aug 4, 1996 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/127.png?lm=1520611569" title="Austria" alt="Austria" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/37.png?lm=1520611569" title="Croatia" alt="Croatia" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class=""></a></td><td class="rechts hauptlink"><a href="/adrian-grbic/marktwertverlauf/spieler/167342">€2.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with Clermont Foot 63; date: Jun 30, 2022; fee: End of loan" href="/clermont-foot-63/startseite/verein/3524/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/3524.png?lm=1625739356" title="Clermont Foot 63" alt="Clermont Foot 63" class=""></a></span><a title="Returned after loan spell with Clermont Foot 63; date: Jun 30, 2022; fee: End of loan" class="hide-for-small" href="/clermont-foot-63/startseite/verein/3524/saison_id/2021"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/203504-1583142506.jpg?lm=1" title="Pierre-Yves Hamel" alt="Pierre-Yves Hamel" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pierre-Yves Hamel" href="/pierre-yves-hamel/profil/spieler/203504">Pierre-Yves Hamel</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pierre-Yves Hamel" href="/pierre-yves-hamel/profil/spieler/203504">P. Hamel</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Feb 3, 1994 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Paris FC" href="/paris-fc/startseite/verein/10004"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/10004.png?lm=1411995262" title="Paris FC" alt="Paris FC" class=""></a></td><td class="rechts hauptlink"><a href="/pierre-yves-hamel/marktwertverlauf/spieler/203504">€1.20m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">22</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal winter transfer: FC Lorient B; Date: Jan 1, 2022" href="/fc-lorient-b/startseite/verein/16662/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/16662.png?lm=1652787955" title="FC Lorient B" alt="FC Lorient B" class=""></a></span><a title="Internal winter transfer: FC Lorient B; Date: Jan 1, 2022" class="hide-for-small" href="/fc-lorient-b/startseite/verein/16662/saison_id/2021"><img src="/images/icons/winterzugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/704270-1645697334.jpg?lm=1" title="Sambou Soumano" alt="Sambou Soumano" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Sambou Soumano" href="/sambou-soumano/profil/spieler/704270">Sambou Soumano</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Sambou Soumano" href="/sambou-soumano/profil/spieler/704270">S. Soumano</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jan 3, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569" title="Senegal" alt="Senegal" class="flaggenrahmen"></td><td class="zentriert"><a title="KAS Eupen" href="/kas-eupen/startseite/verein/1245"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1245.png?lm=1464260524" title="KAS Eupen" alt="KAS Eupen" class=""></a></td><td class="rechts hauptlink"><a href="/sambou-soumano/marktwertverlauf/spieler/704270">€1.20m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Pablo Pagis" alt="Pablo Pagis" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Pablo Pagis" href="/pablo-pagis/profil/spieler/810411">Pablo Pagis</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Pablo Pagis" href="/pablo-pagis/profil/spieler/810411">P. Pagis</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Dec 29, 2002 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Nîmes Olympique" href="/nimes-olympique/startseite/verein/1160"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1160.png?lm=1526910377" title="Nîmes Olympique" alt="Nîmes Olympique" class=""></a></td><td class="rechts hauptlink"><a href="/pablo-pagis/marktwertverlauf/spieler/810411">€200k</a>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/fc-lorient/startseite/verein/1158?saison_id=2021"><span>189744</span><span>57134</span><span>629587</span><span>593315</span><span>386057</span><span>460245</span><span>412829</span><span>80036</span><span>799936</span><span>23960</span><span>120651</span><span>648886</span><span>442552</span><span>391720</span><span>766412</span><span>314912</span><span>562175</span><span>238626</span><span>333383</span><span>127182</span><span>56794</span><span>807165</span><span>804548</span><span>804547</span><span>633992</span><span>412671</span><span>579930</span><span>428954</span><span>823231</span><span>538874</span><span>490223</span><span>167342</span><span>203504</span><span>704270</span><span>810411</span></div>
+</div>        </div>
+        <a title="FC Lorient" class="content-link" href="/fc-lorient/kader/verein/1158/saison_id/2021">Detailed squad</a>    </div>
+
+<div id="MHJnYzeGF" class="YNmhXMzjy"></div><script async="" src="/js/custom/tm-track-links.min.js" type="module"></script>
+<article data-teads=""></article><script>!function($,s,t,e,i,a,o){s[$]||(s[$]={init:function(){_('i',arguments)},fetchBids:function(){_('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]},(a=t.createElement(e)).async=!0,a.src=i,(o=t.getElementsByTagName(e)[0]).parentNode.insertBefore(a,o));function _(t,e){s[$]._Q.push([t,e])}}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js'),apstag.init({pubID:'5134',adServer:'googletag'}),apstag.fetchBids({slots:[{slotID:'div-gpt-ad-1621524903956-0',slotName:'58778164/Desktop-Billboard-1',sizes:[[960,90],[970,250],[950,90],[728,90],[970,90]]},{slotID:'div-gpt-ad-1621526463511-0',slotName:'58778164/Desktop-MediumRectangle-1',sizes:[[300,250],[336,280]]},{slotID:'div-gpt-ad-1621527521939-0',slotName:'58778164/Desktop-Skyscraper-1',sizes:[[160,600],[336,280],[300,250],[300,600]]},{slotID:'div-gpt-ad-1621528018930-0',slotName:'58778164/Desktop-MediumRectangle-2',sizes:[[336,280],[300,250]]},{slotID:'div-gpt-ad-1621528123398-0',slotName:'58778164/Desktop-Skyscraper-2',sizes:[[300,250],[336,280],[160,600],[300,600]]},{slotID:'div-gpt-ad-1621528173524-0',slotName:'58778164/Desktop-Billboard-2',sizes:[[950,90],[970,250],[728,90],[970,90],[960,90]]},{slotID:'div-gpt-ad-1621534289296-0',slotName:'58778164/Mobile-MediumRectangle-1',sizes:[[300,100],[300,250]]},{slotID:'div-gpt-ad-1621534369294-0',slotName:'58778164/Mobile-Halfpage-1',sizes:[[300,600],[300,250]]},{slotID:'div-gpt-ad-1621534432829-0',slotName:'58778164/Mobile-Sticky',sizes:[[300,50],[320,50]]},],timeout:2e3},function($){googletag.cmd.push(function(){apstag.setDisplayBids(),googletag.pubads().refresh()})});</script>        <div class="flex-container">
+            <div class="box verein-widget zugaenge-widget viewport-tracking" data-viewport="TopTransfers_zugaenge">
+    <div class="sub-kategorie">
+        <h2>Top arrivals</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/ibrahima-kone/profil/spieler/490223" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/490223-1579196307.jpg?lm=1" title="Ibrahima Koné" alt="Ibrahima Koné" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/ibrahima-kone/profil/spieler/490223" class="table-link">
+                        <span class="spielername">
+                            Ibrahima Koné                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/10217.png?lm=1410172953" title="Sarpsborg 08" alt="Sarpsborg 08" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>4.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/moritz-jenz/profil/spieler/460245" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/460245-1615820408.jpg?lm=1" title="Moritz Jenz" alt="Moritz Jenz" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/moritz-jenz/profil/spieler/460245" class="table-link">
+                        <span class="spielername">
+                            Moritz Jenz                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/527.png?lm=1656418402" title="Lausanne-Sport" alt="Lausanne-Sport" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>3.50<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/igor-silva/profil/spieler/391720" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/391720-1600971302.jpg?lm=1" title="Igor Silva" alt="Igor Silva" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/igor-silva/profil/spieler/391720" class="table-link">
+                        <span class="spielername">
+                            Igor Silva                        </span>
+                            <span class="spieler-zusatz">
+                            Right-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/327.png?lm=1488628710" title="NK Osijek" alt="NK Osijek" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>2.50<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/bonke-innocent/profil/spieler/333383" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/333383-1548405598.jpg?lm=1" title="Bonke Innocent" alt="Bonke Innocent" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/bonke-innocent/profil/spieler/333383" class="table-link">
+                        <span class="spielername">
+                            Bonke Innocent                        </span>
+                            <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/496.png?lm=1409230098" title="Malmö FF" alt="Malmö FF" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/taofeek-ismaheel/profil/spieler/676476" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/676476-1666030896.jpg?lm=1" title="Taofeek Ismaheel" alt="Taofeek Ismaheel" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/taofeek-ismaheel/profil/spieler/676476" class="table-link">
+                        <span class="spielername">
+                            Taofeek Ismaheel                        </span>
+                            <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/3837.png?lm=1412592657" title="Fredrikstad" alt="Fredrikstad" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>500<span class="abloeseZusatz">k</span>                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/fc-lorient/transferrekorde/verein/1158/saison_id/2021" class="content-link">
+            All arrivals        </a>
+        <div class="clearer"></div>
+</div>
+<div class="box verein-widget abgaenge-widget viewport-tracking" data-viewport="TopTransfers_abgaenge">
+    <div class="sub-kategorie">
+        <h2>Top departures</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/yoane-wissa/profil/spieler/388165" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/388165-1579276540.jpg?lm=1" title="Yoane Wissa" alt="Yoane Wissa" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/yoane-wissa/profil/spieler/388165" class="table-link">
+                        <span class="spielername">
+                            Yoane Wissa                        </span>
+                            <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/1148.png?lm=1625150543" title="Brentford" alt="Brentford" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>10.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/adrian-grbic/profil/spieler/167342" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/167342-1540456985.jpg?lm=1" title="Adrian Grbic" alt="Adrian Grbic" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/adrian-grbic/profil/spieler/167342" class="table-link">
+                        <span class="spielername">
+                            Adrian Grbic                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/499.png?lm=1610789824" title="Vitesse" alt="Vitesse" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    loan transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/pierre-yves-hamel/profil/spieler/203504" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/203504-1583142506.jpg?lm=1" title="Pierre-Yves Hamel" alt="Pierre-Yves Hamel" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/pierre-yves-hamel/profil/spieler/203504" class="table-link">
+                        <span class="spielername">
+                            Pierre-Yves Hamel                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/3524.png?lm=1625739356" title="Clermont Foot" alt="Clermont Foot" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    loan transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/julien-ponceau/profil/spieler/569390" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/569390-1614604717.JPG?lm=1" title="Julien Ponceau" alt="Julien Ponceau" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/julien-ponceau/profil/spieler/569390" class="table-link">
+                        <span class="spielername">
+                            Julien Ponceau                        </span>
+                            <span class="spieler-zusatz">
+                            Attacking Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/1160.png?lm=1526910377" title="Nîmes Olympique" alt="Nîmes Olympique" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    loan transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/umut-bozok/profil/spieler/259025" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/259025-1663875296.png?lm=1" title="Umut Bozok" alt="Umut Bozok" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/umut-bozok/profil/spieler/259025" class="table-link">
+                        <span class="spielername">
+                            Umut Bozok                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/10484.png?lm=1408653850" title="Kasimpasa" alt="Kasimpasa" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    loan transfer                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/fc-lorient/rekordabgaenge/verein/1158/saison_id/2021" class="content-link">
+            All departures        </a>
+        <div class="clearer"></div>
+</div>
+
+            
+            <div class="clearer"></div>
+        </div>
+        <div class="flex-container">
+            <div class="box verein-widget torschuetzen-widget viewport-tracking" data-viewport="TopTorschuetzen">
+    <div class="sub-kategorie">
+        <h2>Top Goalscorers</h2>
+    </div>
+    <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">Goals</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/terem-moffi/profil/spieler/538874" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/538874-1603021287.jpg?lm=1" title="Terem Moffi" alt="Terem Moffi" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/terem-moffi/profil/spieler/538874" class="table-link">
+                        <span class="spielername">
+                            Terem Moffi                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        8                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/armand-lauriente/profil/spieler/579930" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/579930-1664973756.jpg?lm=1" title="Armand Laurienté" alt="Armand Laurienté" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/armand-lauriente/profil/spieler/579930" class="table-link">
+                        <span class="spielername">
+                            Armand Laurienté                        </span>
+                        <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        6                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/ibrahima-kone/profil/spieler/490223" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/490223-1579196307.jpg?lm=1" title="Ibrahima Koné" alt="Ibrahima Koné" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/ibrahima-kone/profil/spieler/490223" class="table-link">
+                        <span class="spielername">
+                            Ibrahima Koné                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        5                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/thomas-monconduit/profil/spieler/127182" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/127182-1593969721.jpg?lm=1" title="Thomas Monconduit" alt="Thomas Monconduit" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/thomas-monconduit/profil/spieler/127182" class="table-link">
+                        <span class="spielername">
+                            Thomas Monconduit                        </span>
+                        <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        3                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/sambou-soumano/profil/spieler/704270" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/704270-1645697334.jpg?lm=1" title="Sambou Soumano" alt="Sambou Soumano" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/sambou-soumano/profil/spieler/704270" class="table-link">
+                        <span class="spielername">
+                            Sambou Soumano                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        3                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+        <a href="/fc-lorient/leistungsdaten/verein/1158/reldata/FR1%262021" class="content-link">
+        All goalscorers    </a>
+    <div class="clearer"></div>
+</div>
+<div class="box verein-widget vorlagengeber-widget viewport-tracking" data-viewport="TopVorlagengeber">
+    <div class="sub-kategorie">
+        <h2>Most assists</h2>
+    </div>
+    <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">Assists</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/terem-moffi/profil/spieler/538874" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/538874-1603021287.jpg?lm=1" title="Terem Moffi" alt="Terem Moffi" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/terem-moffi/profil/spieler/538874" class="table-link">
+                        <span class="spielername">
+                            Terem Moffi                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        4                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/enzo-le-fee/profil/spieler/633992" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/633992-1623749409.jpg?lm=1" title="Enzo Le Fée" alt="Enzo Le Fée" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/enzo-le-fee/profil/spieler/633992" class="table-link">
+                        <span class="spielername">
+                            Enzo Le Fée                        </span>
+                        <span class="spieler-zusatz">
+                            Attacking Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        3                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/armand-lauriente/profil/spieler/579930" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/579930-1664973756.jpg?lm=1" title="Armand Laurienté" alt="Armand Laurienté" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/armand-lauriente/profil/spieler/579930" class="table-link">
+                        <span class="spielername">
+                            Armand Laurienté                        </span>
+                        <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        2                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/thomas-monconduit/profil/spieler/127182" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/127182-1593969721.jpg?lm=1" title="Thomas Monconduit" alt="Thomas Monconduit" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/thomas-monconduit/profil/spieler/127182" class="table-link">
+                        <span class="spielername">
+                            Thomas Monconduit                        </span>
+                        <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        2                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/dango-ouattara/profil/spieler/823231" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/823231-1663162842.jpg?lm=1" title="Dango Ouattara" alt="Dango Ouattara" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/dango-ouattara/profil/spieler/823231" class="table-link">
+                        <span class="spielername">
+                            Dango Ouattara                        </span>
+                        <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        2                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+         <a href="/fc-lorient/leistungsdaten/verein/1158/reldata/FR1%262021/plus/1" class="content-link">
+        Total ranking    </a>
+    <div class="clearer"></div>
+</div>
+            <div class="clearer"></div>
+        </div>
+        <div class="row">     <div class="large-12 columns" style="margin-top: 10px;">         <div class="box aobj0" style="padding: 10px; display: block;">             <div style="color: #1d75a3; font-family: OSB; font-weight: normal; font-size: 20px; letter-spacing: 0.8px; line-height: 20px; text-transform: uppercase; padding-bottom: 15px; ">DAS KÖNNTE SIE AUCH INTERESSIEREN</div>             <div style="padding: 0;                 position: absolute;                 top: 26px;                 right: 103px;">                 <a href="https://www.outbrain.com/what-is/default/de" rel="nofollow" onclick="OBR.extern.callWhatIs(&quot;https://www.outbrain.com/what-is/default/de&quot;,&quot;&quot;,-1,-1,true ,null);return false" style="                 color: #757575;                 font-size: 11px;                 font-family: arial;                 text-decoration: none;                 display: block;">empfohlen von                     <span class="ob_logo" title="Outbrain - content marketing" style="                         width: 67px;                         height: 12px;                         background: url(https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png) no-repeat center top;                         position: absolute;                         margin-left: 4px;                         float: left;">                         <span style="float: right;                             background-image: url(https://widgets.outbrain.com/images/widgetIcons/achoice.svg);                             background-size: 75% 75%;                             width: 12px;                             height: 12px;                             padding-left: 4px;                             display: inline-block;                             background-repeat: no-repeat;                             background-position: right center;                             border-left: 1px solid #999;                             position: relative;                             left: 17px;">                         </span>                     </span>                 </a>             </div>             <div id="sftb1"> <div id="LOEhgXKDrv"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/CZxvkZPxkcQxYgRDqCFryslC2sXVoeiLeLzpwwTP8sNI/JGQUWGvIphJHCrukseXZfSH84wy70jprPRS4gn2ho5BymyRDfTMHeETMQ.gif"></div></div>             <div id="sftb2"> </div>             <div id="sftb3"> </div>             <div id="sftb4"> </div>             <div id="sftb5"> </div>         </div>     </div> </div><div id="recommender" class="box" style="display: none;">
+    <div class="OUTBRAIN" data-src="" data-widget-id="AR_1" data-ob-template="DE_Transfermarkt.de"></div>
+	<script type="text/javascript" src="https://widgets.outbrain.com/outbrain.js"></script>
+</div>
+    </div>
+    <div class="large-4 columns">
+        
+
+
+<tm-next-matches class="viewport-tracking hydrated" data-viewport="Naechste_Begegnungen" locale="en" type="team" identifier="1158" translations="{&quot;headline&quot;:&quot;Next matches&quot;,&quot;matchDay&quot;:&quot;Matchday&quot;}" skeleton="tm-next-matches-351612964"><!---->
+    
+            
+    <div class="next-match-headline">Next matches</div><div class="slider"><next-matches-arrows class="hydrated"><div class="next-match-arrows"><button class="next-match-arrow-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z" transform="translate(10 18.707) rotate(180)"></path></svg></button><button class="next-match-arrow-right"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z"></path></svg></button></div></next-matches-arrows><div class="next-match-arrows"></div><div class="slider__slides" data-observe-slider-next-matches=""><div class="slider__box" data-slide-id-next-matches="slide-0"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/15" class="competition-day">15. Matchday</a></div><div class="next-match-competition-time">Sunday, 11/13/2022 - 8:05 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840106" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-1"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/16" class="competition-day">16. Matchday</a></div><div class="next-match-competition-time">Tuesday, 12/27/2022 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840112" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-2"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/17" class="competition-day">17. Matchday</a></div><div class="next-match-competition-time">Saturday, 12/31/2022 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840120" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-3"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/18" class="competition-day">18. Matchday</a></div><div class="next-match-competition-time">Tuesday, 01/10/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840132" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-4"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/19" class="competition-day">19. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/14/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840144" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-5"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/20" class="competition-day">20. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/28/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840152" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-6"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/21" class="competition-day">21. Matchday</a></div><div class="next-match-competition-time">Tuesday, 01/31/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840167" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-7"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/22" class="competition-day">22. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/04/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840172" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-8"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/23" class="competition-day">23. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/11/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840182" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-9"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/24" class="competition-day">24. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/18/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840190" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-10"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/25" class="competition-day">25. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/25/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840203" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-11"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/26" class="competition-day">26. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/04/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840211" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-12"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/27" class="competition-day">27. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/11/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840224" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-13"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/28" class="competition-day">28. Matchday</a></div><div class="next-match-competition-time">Saturday, 03/18/2023 - 4:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840231" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-14"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/29" class="competition-day">29. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/01/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840251" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-15"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/30" class="competition-day">30. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/08/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840258" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-16"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/31" class="competition-day">31. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/15/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840267" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-17"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/32" class="competition-day">32. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/22/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840279" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-18"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/33" class="competition-day">33. Matchday</a></div><div class="next-match-competition-time">Saturday, 04/29/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840290" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-19"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/34" class="competition-day">34. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/06/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840408" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-20"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/35" class="competition-day">35. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/13/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840417" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-21"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/36" class="competition-day">36. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/20/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840427" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-22"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/37" class="competition-day">37. Matchday</a></div><div class="next-match-competition-time">Friday, 05/26/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840436" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-23"><div class="next-match-box"><a href="https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1" class="next-match-competition">Ligue 1</a><a href="/wettbewerb/spieltag/wettbewerb/FR1/saison_id/2022/spieltag/38" class="competition-day">38. Matchday</a></div><div class="next-match-competition-time">Friday, 06/02/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3840448" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div></div></div><div class="quote-slot" slot="quotes" onclick="tmEvent('werbung','click','begegnungsbox_verein');"><span class="oddsServe" data-match="3840106" data-gameday="15" data-competition="FR1"></span></div><div slot="full-matchplan">
+            <a title="FC Lorient" class="content-link" href="/fc-lorient/spielplan/verein/1158/saison_id/2021">All fixtures</a>        </div></tm-next-matches>
+
+<script>
+    var nextMatchesEl = document.getElementsByTagName('tm-next-matches')[0];
+    if(nextMatchesEl) {
+        nextMatchesEl.addEventListener('nextMatchesReloadQuotes', (event) => {
+            jQuery(document).trigger('begegnungenVereinSliderLoad', 1);
+        });
+    }
+</script>
+<div id="HulrXQVEEm" class="YNmhXMzjy"><div id="PYdEIRVH"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/hKV6eEKEKjJDw3nV93rteUwuhC5X4eUKtVEb0YIDO1Vi/JGQUWGvIphOLWyCkfQm3nQFvgdS6jTgUo0lBrDTVIxyTW333u80wogxc1.gif"><style id="vr-2cmhfokoddg">/*!
+* this is a simplified version of
+* cleanslate
+*   github.com/premasagar/cleanslate
+*
+*/.vr-2cmhfokoddg-reset,.vr-2cmhfokoddg-reset *{background-attachment:scroll;background-color:transparent;background-image:none;background-position:0 0;background-repeat:repeat;border-color:black;border-color:currentColor;border-radius:0;border-style:none;border-width:medium;bottom:auto;clear:none;clip:auto;color:inherit;counter-increment:none;counter-reset:none;cursor:auto;direction:inherit;float:none;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:normal;font-weight:inherit;height:auto;left:auto;letter-spacing:normal;line-height:inherit;list-style-type:inherit;list-style-position:outside;list-style-image:none;margin:0;max-height:none;max-width:none;min-height:0;min-width:0;opacity:1;outline:invert none medium;overflow:visible;padding:0;position:static;quotes:'' '';right:auto;table-layout:auto;text-align:inherit;text-decoration:inherit;text-indent:0;text-transform:none;top:auto;unicode-bidi:normal;vertical-align:baseline;visibility:inherit;white-space:normal;width:auto;word-spacing:normal;z-index:auto;background-origin:padding-box;background-clip:border-box;background-size:auto;-o-border-image:none;border-image:none;box-shadow:none;box-sizing:content-box;-webkit-column-count:auto;-moz-column-count:auto;column-count:auto;-webkit-column-gap:normal;-moz-column-gap:normal;column-gap:normal;-webkit-column-rule:medium none black;-moz-column-rule:medium none black;column-rule:medium none black;-webkit-column-span:1;-moz-column-span:1;column-span:1;-webkit-column-width:auto;-moz-column-width:auto;column-width:auto;-webkit-font-feature-settings:normal;font-feature-settings:normal;overflow-x:visible;overflow-y:visible;-webkit-hyphens:manual;hyphens:manual;-webkit-perspective:none;perspective:none;-webkit-perspective-origin:50% 50%;perspective-origin:50% 50%;-webkit-backface-visibility:visible;backface-visibility:visible;text-shadow:none;transition:all 0s ease 0s;-webkit-transform:none;transform:none;-webkit-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transform-style:flat;transform-style:flat;word-break:normal}.vr-2cmhfokoddg-reset a,.vr-2cmhfokoddg-reset a:visited{color:inherit;text-decoration:none}.vr-2cmhfokoddg-reset a,.vr-2cmhfokoddg-reset a *{cursor:pointer}#viralize-wide-wrapper-2cmhfokoddg{width:100%;height:0;text-align:center;position:relative}#viralize-wide-wrapper-2cmhfokoddg div:first-child{background-color:black}#viralize-wide-wrapper-2cmhfokoddg #vr-2cmhfokoddg-disclaimer{visibility:hidden;height:20px;line-height:20px;color:black;font-family:'Helvetiva Neue', Helvetica, Arial, sans-serif;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase}#viralize-wide-wrapper-2cmhfokoddg #vr-2cmhfokoddg-disclaimer.show{visibility:visible;font-family:'Helvetiva Regular', Helvetica, Arial, sans-serif;color:#c5c5c5}#viralize-native-wrapper-2cmhfokoddg{width:100%;max-height:0;display:inline-block;height:auto;overflow:hidden}#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip{height:auto}#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-animated{transition:max-height 0.3s ease-in}#viralize-native-2cmhfokoddg{width:100%;height:0;position:relative;overflow:hidden}#viralize-player-iframe-2cmhfokoddg{position:absolute;top:0;left:0;z-index:1}@media (orientation: landscape) and (min-width: 1025px){.vr-2cmhfokoddg-desktop-top{top:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-2cmhfokoddg-desktop-bottom{bottom:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-2cmhfokoddg-desktop-top-left{top:20px;left:1%}.vr-2cmhfokoddg-desktop-top-right{top:20px;right:20px}.vr-2cmhfokoddg-desktop-bottom-left{bottom:20px;left:20px}.vr-2cmhfokoddg-desktop-bottom-right{bottom:20px;right:20px}}@media (orientation: landscape) and (max-width: 1024px){.vr-2cmhfokoddg-mobile-landscape-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-2cmhfokoddg-mobile-landscape-top.vr-2cmhfokoddg-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-2cmhfokoddg-mobile-landscape-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-2cmhfokoddg-mobile-landscape-bottom.vr-2cmhfokoddg-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-2cmhfokoddg-mobile-landscape-top-left{top:5px;left:5px}.vr-2cmhfokoddg-mobile-landscape-top-right{top:5px;right:5px}.vr-2cmhfokoddg-mobile-landscape-bottom-left{bottom:5px;left:5px}.vr-2cmhfokoddg-mobile-landscape-bottom-right{bottom:5px;right:5px}}@media (orientation: portrait){.vr-2cmhfokoddg-mobile-portrait-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-2cmhfokoddg-mobile-portrait-top.vr-2cmhfokoddg-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-2cmhfokoddg-mobile-portrait-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-2cmhfokoddg-mobile-portrait-bottom.vr-2cmhfokoddg-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-2cmhfokoddg-mobile-portrait-top-left{top:5px;left:5px}.vr-2cmhfokoddg-mobile-portrait-top-right{top:5px;right:5px}.vr-2cmhfokoddg-mobile-portrait-bottom-left{bottom:5px;left:5px}.vr-2cmhfokoddg-mobile-portrait-bottom-right{bottom:5px;right:5px}}#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip{position:fixed;z-index:2147483647;width:25%}@media (orientation: landscape) and (max-width: 2140px){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-medium{width:400px}#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-large{width:535px}}@media (orientation: portrait){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip{width:90%}}@media (orientation: landscape) and (min-width: 1921px){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-aspect-ratio-square{width:450px}}@media (orientation: landscape) and (max-width: 1920px){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-aspect-ratio-square{width:300px}}@media (orientation: portrait){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-aspect-ratio-square{width:90%}}@media (orientation: landscape) and (min-width: 1601px){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-aspect-ratio-portrait{width:300px}}@media (orientation: landscape) and (max-width: 1600px){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-aspect-ratio-portrait{width:226px}}@media (orientation: portrait){#viralize-native-wrapper-2cmhfokoddg.vr-2cmhfokoddg-vip.vr-2cmhfokoddg-aspect-ratio-portrait{width:50%}}
+</style><div id="viralize-wide-wrapper-2cmhfokoddg" class="vr-2cmhfokoddg-native vr-2cmhfokoddg-wide-wrapper vr-2cmhfokoddg-reset"><p id="vr-2cmhfokoddg-disclaimer">Advertisement</p><div id="viralize-native-wrapper-2cmhfokoddg" class="vr-2cmhfokoddg-native vr-2cmhfokoddg-native-wrapper"><div id="viralize-native-2cmhfokoddg" class="vr-2cmhfokoddg-native vr-2cmhfokoddg-native-element" style="height: auto; padding-bottom: 56.25%;"><iframe id="viralize-player-iframe-2cmhfokoddg" src="about:blank" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allow="autoplay; fullscreen" width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" class="vr-2cmhfokoddg-native vr-2cmhfokoddg-frame" style="width: 100%; height: 100%; max-height: 0px;"></iframe></div></div></div><script type="text/javascript" data-wid="auto" src="https://content.viralize.tv/display/?zid=AAEiXtWFbVzM5lZh&amp;u=https%3A%2F%2Fwww.transfermarkt.com%2Ffc-lorient%2Fstartseite%2Fverein%2F1158%3Fsaison_id%3D2021" data-injected="true"></script></div></div><div class="werbung werbung-rectangle1 qmaiiHid"><!-- /58778164/Desktop-MediumRectangle-1 -->
+                        <div id="div-gpt-ad-1621526463511-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621526463511-0"); });
+                          </script>
+                        </div></div><tm-groundhopping-widget class="viewport-tracking hydrated" data-viewport="Groundhopping" raw-data="{&quot;headline&quot;:&quot;Groundhopping&quot;,&quot;clubname&quot;:&quot;FC Lorient&quot;,&quot;description&quot;:&quot;Have you seen FC Lorient live?&quot;,&quot;link&quot;:{&quot;text&quot;:&quot;Register now&quot;,&quot;url&quot;:&quot;\/profil\/registrieren&quot;}}"><section class="groundhopping-box"><h2 class="content-box-headline">Groundhopping</h2><p class="groundhopping-box__description">Have you seen FC Lorient live?</p><a class="groundhopping-box__link content-link" href="/profil/registrieren">Register now</a></section></tm-groundhopping-widget>
+<div class="box saison-bilanz viewport-tracking" data-viewport="Saisonbilanz">
+            <h2 class="content-box-headline">
+            Season record 21/22        </h2>
+        <table>
+        <thead>
+        <tr>
+            <th colspan="2">Competition</th>
+            <th class="rechts">Achieve</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="Ligue 1" href="/ligue-1/startseite/wettbewerb/FR1/saison_id/2021">Ligue 1</a></td>
+
+                <td class="rechts">
+                    16th                </td>
+            </tr>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="Coupe de France" href="/coupe-de-france/startseite/pokalwettbewerb/FRC/saison_id/2021">Coupe de France</a></td>
+
+                <td class="rechts">
+                    Third Round                </td>
+            </tr>
+        
+        </tbody>
+
+    </table>
+    <a title="FC Lorient" class="content-link" href="/fc-lorient/erfolge/verein/1158">View achievements</a></div>
+<div class="box viewport-tracking" data-viewport="Tabelle">
+    <h2 class="content-box-headline">
+        Table section Ligue 1 21/22    </h2>
+    <table>
+        <thead>
+        <tr>
+            <th class="zentriert">#</th>
+            <th colspan="2">club</th>
+            <th class="zentriert">Matches</th>
+
+            <th class="zentriert">+/-</th>
+            <th class="zentriert">Pts</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td style="background-color:" class="zentriert">13</td>
+                <td class="zentriert no-border-rechts"><a title="Montpellier HSC" href="/montpellier-hsc/startseite/verein/969/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/969.png?lm=1459072367" title="Montpellier HSC" alt="Montpellier HSC" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Montpellier HSC" href="/montpellier-hsc/startseite/verein/969/saison_id/2021">Montpellier</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-12</td>
+                                <td class="zentriert">43</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">14</td>
+                <td class="zentriert no-border-rechts"><a title="Angers SCO" href="/sco-angers/startseite/verein/1420/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1420.png?lm=1621808572" title="Angers SCO" alt="Angers SCO" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Angers SCO" href="/sco-angers/startseite/verein/1420/saison_id/2021">Angers SCO</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-11</td>
+                                <td class="zentriert">41</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">15</td>
+                <td class="zentriert no-border-rechts"><a title="ESTAC Troyes" href="/es-troyes-ac/startseite/verein/1095/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1095.png?lm=1599945497" title="ESTAC Troyes" alt="ESTAC Troyes" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="ESTAC Troyes" href="/es-troyes-ac/startseite/verein/1095/saison_id/2021">Troyes</a>                    <span title="Promoted to 1st league 2021" class="icons_sprite icon-aufsteiger">&nbsp;</span>                </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-16</td>
+                                <td class="zentriert">38</td>
+            </tr>
+                    <tr class="table-highlight">
+                <td style="background-color:" class="zentriert">16</td>
+                <td class="zentriert no-border-rechts"><a title="FC Lorient" href="/fc-lorient/startseite/verein/1158/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1158.png?lm=1406642498" title="FC Lorient" alt="FC Lorient" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="FC Lorient" href="/fc-lorient/startseite/verein/1158/saison_id/2021">FC Lorient</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-28</td>
+                                <td class="zentriert">36</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">17</td>
+                <td class="zentriert no-border-rechts"><a title="Clermont Foot 63" href="/clermont-foot-63/startseite/verein/3524/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3524.png?lm=1625739356" title="Clermont Foot 63" alt="Clermont Foot 63" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Clermont Foot 63" href="/clermont-foot-63/startseite/verein/3524/saison_id/2021">Clermont Foot</a>                    <span title="Promoted to 1st league 2021" class="icons_sprite icon-aufsteiger">&nbsp;</span>                </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-31</td>
+                                <td class="zentriert">36</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">18</td>
+                <td class="zentriert no-border-rechts"><a title="AS Saint-Étienne" href="/as-saint-etienne/startseite/verein/618/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/618_1656350276.png?lm=1656350278" title="&nbsp;" alt="AS Saint-Étienne" class=""></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="AS Saint-Étienne" href="/as-saint-etienne/startseite/verein/618/saison_id/2021">Saint-Étienne</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-35</td>
+                                <td class="zentriert">32</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">19</td>
+                <td class="zentriert no-border-rechts"><a title="FC Metz" href="/fc-metz/startseite/verein/347/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/347.png?lm=1625391843" title="FC Metz" alt="FC Metz" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="FC Metz" href="/fc-metz/startseite/verein/347/saison_id/2021">FC Metz</a>                                    </td>
+                <td class="zentriert">38</td>
+                <td class="zentriert bg_g">-34</td>
+                                <td class="zentriert">31</td>
+            </tr>
+                </tbody>
+    </table>
+    <a title="To complete table" class="content-link" href="/ligue-1/tabelle/wettbewerb/FR1/saison_id/2021">To complete table</a></div>
+<div class="box box-slider viewport-tracking" data-viewport="Mitarbeiter_Historie">
+    <div class="container">
+        <span class="mitarbeiterVereinSlider-prev"><a class="bx-prev disabled" href=""> </a></span>
+                    <h2 class="text">
+                <span>Coach for the season 21/22</span>
+            </h2>
+                <span class="mitarbeiterVereinSlider-next"><a class="bx-next disabled" href=""> </a></span>
+    </div>
+    <div class="clearer">
+        <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 222px;"><ul class="mitarbeiterVereinSlider slider-list" style="width: auto; position: relative;">
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 50; display: block;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/24802-1594313598.jpg?lm=1" title="Christophe Pélissier" alt="Christophe Pélissier" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="Christophe Pélissier" id="0" href="/christophe-pelissier/profil/trainer/24802">Christophe Pélissier</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                55 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                May 29, 2019                                <br>
+                                <b>Departure :</b>
+                                Jun 26, 2022                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/christophe-pelissier/leistungsdatenDetail/trainer/24802/verein_id/1158/saison_id/2021">39</a>                                        </td>
+                                        <td class="zentriert">8</td>
+                                        <td class="zentriert">12</td>
+                                        <td class="zentriert">19</td>
+                                        <td class="zentriert">
+                                            <a href="/christophe-pelissier/leistungsdatenDetail/trainer/24802/verein_id/1158/saison_id/2021">0.92</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                    </ul></div><div class="bx-controls"></div></div>
+    </div>
+    <div class="c2action-footer bxPagerParent">
+        <span class="bxPagerCustomMitarbeiter"><div class="bx-pager bx-default-pager">1 / 1</div></span>
+        <a title="FC Lorient" href="/fc-lorient/mitarbeiterhistorie/verein/1158">Go to coach history</a>    </div>
+</div>
+<div class="box viewport-tracking transfer-record" data-viewport="Transferbilanz">
+    <h2 class="content-box-headline">
+        Transfer record 21/22    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th class="transfer-record__header"></th>
+                <th class="zentriert transfer-record__header">Arrivals/Departures</th>
+                <th class="transfer-record__header transfer-record__header--right">Fee</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="transfer-record__revenue">
+                <td class="transfer-record__text">Income</td>
+                <td class="zentriert test-class transfer-record__text">17</td>
+                <td class="transfer-record__total transfer-record__total--positive">
+                    <span class="abloeseZusatz">€</span>10.00<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+            <tr class="transfer-record__expenses">
+                <td class="transfer-record__text">Expenditure</td>
+                <td class="zentriert transfer-record__text">14</td>
+                <td class="transfer-record__total transfer-record__total--negative">
+                    <span class="abloeseZusatz">€</span>10.50<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="transfer-record__text transfer-record__text--bold" colspan="2">Overall balance</td>
+                <td class="redtext rechts transfer-record__total">
+                    <span class="abloeseZusatz">€</span>-500<span class="abloeseZusatz">k</span>                </td>
+            </tr>
+        </tfoot>
+    </table>
+    <a title="FC Lorient" class="content-link" href="/fc-lorient/transfers/verein/1158/saison_id/2021">All transfers</a></div>
+<div class="GbnZCYx "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/BEs7istEcMY4zjc7BsNjXfH5T2KVPj2LV2VCWfY3JfL5/JGQUWGvIphWUHXfHbEIlR2ZRZbsbnSkujpD8GW2qoWpD4VhOUw6bDO4TO.gif"></div><div class="werbung werbung-rectangle2 qmaiiHid"><!-- /58778164/Desktop-MediumRectangle-2 -->
+                        <div id="div-gpt-ad-1621528018930-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528018930-0"); });
+                          </script>
+                        </div></div>    </div>
+</div>
+                    </main>
+
+        <footer>
+            
+
+<div class="tm-footer">
+            <a href="/" class="tm-footer__logo">
+          <img src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" alt="Transfermarkt" height="33" width="80">
+        </a>
+      <ul class="tm-footer__links">
+    <li class="tm-footer__links-item">
+      <a href="/intern/impressum">
+          Legal notice      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/web/datenschutz">
+          Data protection      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="javascript:void(0)" class="cmp-link">
+          Privacy      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/anb">
+          General terms of use      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/tmteam">
+          The TM team      </a>
+    </li>
+                        <li class="tm-footer__links-item">
+      <a href="/intern/faq">
+          FAQ      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/fehlermelden">
+          Found a mistake?      </a>
+    </li>
+  </ul>
+</div>
+        </footer>
+                    <div id="menue_overlay"></div>
+</div><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+                        <script type="text/javascript">
+                var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r",
+"co":""
+}
+            </script>
+                        <script type="module">
+                var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};
+            </script>
+                        <script type="text/javascript">
+                if(typeof IOMm === 'function') {
+                    IOMm('configure', { st: iam_data.st, dn: 'data-84a0f3455d.transfermarkt.com', mh:5 });
+                    IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+                } else {
+                    console.warn('IOMm is not defined');
+                }
+            </script>
+            <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script><img src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk">
+
+	<!-- Adition -->
+	<div id="oddsServe">
+	<script type="text/javascript">
+		adition.srq.push(function(api) {
+			api.renderSlot("oddsServe");
+		})
+	</script>
+	</div>
+
+            <script type="module" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.esm.js" defer=""></script><script nomodule="" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.js" defer=""></script>    <script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1667566935"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-menu.min.js?lm=1667566934"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1667566934"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+function skyscraperSwitch() {
+                const firstAd = document.getElementsByClassName("werbung-skyscraper");
+                const secondAd = document.getElementsByClassName("werbung-skyscraperbtf")
+                if (this.scrollY > 699) {
+                    firstAd[0].style.visibility = "hidden";
+                    secondAd[0].style.position = "fixed";
+                    secondAd[0].style.top = "40px";
+                } else {
+                    firstAd[0].style.visibility = "visible";
+                    secondAd[0].style.position = "relative";
+                    secondAd[0].style.top = "unset";
+                }
+            }
+            window.addEventListener("scroll", skyscraperSwitch, false);
+	var loginUrl='/profil/login';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function sendIvwData(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_t",
+"co":""
+}
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_r",
+"co":""
+}
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_forum",
+"co":""
+}
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_s",
+"co":""
+}
+
+    }
+    if(typeof IOMm === 'function') {
+        IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+    }
+}
+jQuery(function($) {
+jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','afterAjaxUpdate':function() {window.LazyLoadInstance.update(); tmTrackingAndAds(); trackLinks(); document.dispatchEvent(new CustomEvent("tmInitTooltip"));}});
+
+    mitarbeiterVereinSlider = $('.mitarbeiterVereinSlider').bxSlider({
+        mode: 'fade',
+        prevSelector: '.mitarbeiterVereinSlider-prev',
+        prevText: ' ',
+        nextSelector: '.mitarbeiterVereinSlider-next',
+        nextText: ' ',
+        pager: true,
+        pagerType: 'short',
+        pagerSelector: '.bxPagerCustomMitarbeiter',
+        responsive: true,
+        adaptiveHeight: true,
+    });
+
+});
+/*]]>*/
+</script>
+
+
+
+<script src="https://static.criteo.net/js/ld/publishertag.js"></script><script>window.Criteo = window.Criteo || {}; window.Criteo.events = window.Criteo.events || [];</script><ins id="113"><script language="javascript" type="text/javascript">
+	s = document.createElement('script');
+	s.src='https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r='+Math.round(Math.random()*99999999999); 
+	document.body.append(s);
+</script></ins><ins id="3"><script>
+	// Smart RTB+ force cookie-sync code - https only - 2020-02-04
+       var c ={
+           'insertionId' : 5733718,
+           'pageId' : 1473518,
+           'domain' : 'www8.smartadserver.com'
+       }
+       var h = document.getElementsByTagName('head')[0];
+       var sl = document.createElement('script');
+       sl.type = 'text/javascript';
+       sl.src =  'https://'+ c.domain+'/ac?pgid='+c.pageId+'&insid='+c.insertionId+'&tmstp='+Math.round(Math.random()*10000000000)+'&out=js';
+       sl.async = true;
+       h.appendChild(sl);
+</script></ins><ins id="1"><img src="//ads.stickyadstv.com/auto-user-sync" style="display:none;" width="1" height="1"></ins><ins id="219"><iframe src="https://csync-global.smartadserver.com/2058/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="166"><iframe src="https://csync-global.smartadserver.com/2161/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="42"><iframe src="https://csync-global.smartadserver.com/3668/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><script src="https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r=56509736574"></script><iframe src="//csync.smartadserver.com/diff/rtb/csync/CookieSync.html?nwid=2058&amp;dcid=3&amp;gdpr=0&amp;gdprc=" scrolling="no" frameborder="0" width="0" height="0" style="margin: 0px; padding: 0px; display: none; width: 0px; height: 0px; visibility: hidden;"></iframe><iframe referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/ses3uV9YN7x9HsXVjhtjwLCtb1UkBKnIjv58rFMWM3h9/JGQUWGvIphQBEe4FMp48W4BXzfdhsKXEfd4Xv9OKFtPh8CEC6m0GfK672.gif" style="width: 2px; height: 2px; display: none;"></iframe></body>

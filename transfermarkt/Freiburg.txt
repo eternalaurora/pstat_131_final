@@ -1,0 +1,1495 @@
+<body class="" itemscope="" itemtype="http://schema.org/WebPage" data-tm-tld="com" data-cmp-layer-id="225676" data-new-gr-c-s-check-loaded="14.1025.0" data-gr-ext-installed=""><div class="werbung werbung-header hnjhtHid"><!-- Start GPT Tag -->
+                        <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+                        <script>
+                          window.googletag = window.googletag || {cmd: []};
+                          googletag.cmd.push(function() {
+                            googletag.defineSlot("/58778164/Desktop-Billboard-1", [[960, 90], [970, 250], [950, 90], [728, 90], [970, 90]], "div-gpt-ad-1621524903956-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-1", [[300, 250], [336, 280]], "div-gpt-ad-1621526463511-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-1", [[160, 600], [336, 280], [300, 250], [300, 600]], "div-gpt-ad-1621527521939-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-MediumRectangle-2", [[336, 280], [300, 250]], "div-gpt-ad-1621528018930-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Skyscraper-2",  [[300, 250], [336, 280], [160, 600], [300, 600]], "div-gpt-ad-1621528123398-0")
+                            .addService(googletag.pubads());
+                            googletag.defineSlot("/58778164/Desktop-Billboard-2",  [[950, 90], [970, 250], [728, 90], [970, 90], [960, 90]], "div-gpt-ad-1621528173524-0")
+                            .addService(googletag.pubads());
+                             googletag.pubads().enableLazyLoad({
+                                fetchMarginPercent: 500,
+                                renderMarginPercent: 200,
+                                mobileScaling: 2.0});
+                            googletag.pubads().setCentering(true);
+                            googletag.pubads().disableInitialLoad();
+                            googletag.pubads().enableSingleRequest();
+                            googletag.pubads().setTargeting("cg1", ["verein"]);
+                            googletag.pubads().setTargeting("URL", "www.transfermarkt.com");
+                            googletag.enableServices();
+                          });
+                        </script>
+                        <!-- End GPT Tag --></div>    
+
+    
+    
+        <div id="main" class="stickyContent">
+    <div id="yToSOJ" class="hide-for-small"><div id="AgMHUrrW" class="bQyFKNtoc "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/xBSg12ZF7fkoW7UqPZPfc077y4U75icFcGdzkGbU0hR1/rpTjlCUKBwQOCKz98GpLfwG45ePjoQXY6ByZFsGex4PCgbxbTeuOhrEPg.gif" style="position: fixed; top: 0px;"></div></div><div class="werbung-skyscraper-container">
+            <div class="werbung werbung-skyscraper hnjhtHid" style="visibility: visible;"><!-- /58778164/Desktop-Skyscraper-1 -->
+                        <div id="div-gpt-ad-1621527521939-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621527521939-0"); });
+                          </script>
+                        </div></div>        </div>
+
+        <div class="werbung-skyscraperbtf-container" style="top: 2000px; display: block;">
+            <div class="werbung werbung-skyscraperbtf hnjhtHid" style="position: relative; top: unset;"><!-- /58778164/Desktop-Skyscraper-2 -->
+                        <div id="div-gpt-ad-1621528123398-0" style="min-width: 160px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528123398-0"); });
+                          </script>
+                        </div></div>        </div>
+        
+        <header class="tm-header">
+                        <div class="tm-header__box ">
+                                <a href="/">
+                    <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" height="62" width="156" title="Transfermarkt" alt="Transfermarkt">
+                </a>
+                                                 <tm-domainswitcher open-list="false" tld="com" class="hydrated"></tm-domainswitcher>
+                                    <div class="tm-header__social-box">
+		                <a href="https://www.facebook.com/Transfermarkt.global" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/fb_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://twitter.com/TMuk_news" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/twitter_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="http://instagram.com/transfermarkt_official" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/instagram_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="/intern/rssguide" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','RSS');
+">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/rss_icon_hover.svg" width="20" height="20" class="header__icon">
+                </a>
+                <a href="https://www.tiktok.com/@transfermarkt" target="_blank" class="header__social-link" onclick="tmEvent('SM-Icons_Header','click','Tiktok');
+">
+                    <img src="https://tmsi.akamaized.net/icons/tiktok.svg" width="20" height="20" class="header__icon">
+                </a>
+				    </div>
+                    <div class="tm-header__input-wrapper " id="schnellsuche-platz">
+                        <form name="schnellsuche" id="schnellsuche" class="tm-header__form" action="/schnellsuche/ergebnis/schnellsuche">
+                            <input type="text" name="query" class="tm-header__input--search-field" onclick="" placeholder="Enter search term" autocorrect="off" spellcheck="false" value="">
+                            <input type="submit" value="" class="tm-header__input--search-send" alt="search">
+                        </form>
+                        <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="tm-header__search-detail">
+                            <img src="https://tmsi.akamaized.net/icons/search_icon_plus_blue_white.svg" alt="search" class="tm-header__icon-detail-search" height="26" width="26">
+                        </a>
+                    </div>
+                                </div>
+                
+            <nav class="main-navbar navihalter">
+                                                                        <ul class="main-navbar__container megamenu_dark_bar megamenu_dark" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+                    <a href="/" class="sticky-logo hide-for-small">
+                <span title="Transfermarkt" class="tm_svg"></span>
+            </a>
+        
+    <li class="main-navbar__list" data-nav-group="news">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('News','click','menu');
+">
+            News        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="transfers">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Transfers &amp; Gerüchte','click','menu');
+">
+            Transfers &amp; rumours        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="marktwerte">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Marktwerte','click','menu');
+">
+            Market values        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list aktiv" data-nav-group="wettbewerbe">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('Wettbewerbe','click','menu');
+">
+            Competitions        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="foren">
+                <a class="main-navbar__list-title tm-main-nav-el" href="/uebersicht/index/forum/com" onclick="tmEvent('Foren','click','menu');
+">
+            Forums                    </a>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list" data-nav-group="meintm">
+                <span class="main-navbar__list-title tm-main-nav-el" onclick="tmEvent('MeinTM','click','menu');
+">
+            My TM        </span>
+                    <div class="main-navbar__drop-down">
+                                    <img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner">
+                                </div>
+        
+    </li><li class="main-navbar__list">
+                <a class="main-navbar__list-title tm-main-nav-el live-navilink" href="/ticker/index/live" onclick="tmEvent('Live','click','menu');
+">
+            Live                            <tm-live-match-counter auto-request="true" content="[&quot;Live match&quot;, &quot;live matches&quot;]" class="hydrated"></tm-live-match-counter>
+                    </a>
+            </li>
+</ul>
+
+                
+                <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                    <input type="text" name="query" class="header-suche" onclick="" placeholder="Enter search term">
+                    <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="search">
+                </form>
+                <a href="/detailsuche/spielerdetail/suche" title="to the player detail search" id="detailsuche-head" class="header-suche-detailsuche">
+                    <span class="icon-detailsuche"></span>
+                </a>
+                                 <a id="arrow-up-xy" href="#">
+                            <svg style="fill: white; width: 20px; height: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                            <g>
+                            <path d="M78.016,49.132L51.961,12.714c-0.471-0.66-1.233-1.049-2.043-1.051c-0.006,0-0.006,0-0.006,0
+                                c-0.815,0.002-1.575,0.396-2.048,1.059L21.977,49.14c-0.546,0.767-0.616,1.776-0.183,2.612c0.426,0.835,1.292,1.361,2.236,1.361
+                                h12.183l-0.001,32.709c0,1.39,1.125,2.515,2.516,2.515l22.541-0.001c1.389,0.001,2.515-1.124,2.516-2.517l0-32.705h12.187
+                                c0.94,0,1.803-0.53,2.237-1.367C78.641,50.911,78.566,49.9,78.016,49.132z"></path>
+                            </g>
+                            </svg>
+                        </a>
+                                <div class="tm-login tm-login--small" id="login" onclick="tmEvent('login','click','sign_in_button');
+">
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" fill="#FFF" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve" class="tm-login__image">
+        <g>
+            <path d="M80.161,60.441l-15.66-7.47l-6.622-3.159c2.892-1.822,5.241-4.634,6.778-8.022c1.22-2.69,1.946-5.734,1.946-8.99
+                c0-1.827-0.29-3.562-0.694-5.236C63.94,19.453,57.605,13.477,50,13.477c-7.461,0-13.701,5.763-15.792,13.645
+                c-0.482,1.808-0.815,3.688-0.815,5.68c0,3.459,0.808,6.684,2.181,9.489c1.587,3.254,3.94,5.937,6.804,7.662l-6.342,2.953
+                l-16.168,7.53c-1.404,0.658-2.327,2.242-2.327,4.011v15.062v2.703c0,2.381,1.659,4.312,3.708,4.312h57.505
+                c2.048,0,3.708-1.93,3.708-4.312v-2.703V64.446C82.46,62.683,81.552,61.114,80.161,60.441z"></path>
+        </g>
+    </svg>
+    <span class="tm-login__cta">
+        Log in    </span>
+</div>
+            </nav>
+                         
+           <div class="quick-select-wrapper">
+    
+
+    <tm-quick-select-bar default-country="40" default-competition="L1" default-club="60" default-player="" dropdown-visible="" translations="{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Country&quot;,&quot;competition&quot;:&quot;Competition&quot;,&quot;club&quot;:&quot;club&quot;,&quot;player&quot;:&quot;player&quot;,&quot;attack&quot;:&quot;attack&quot;,&quot;midfield&quot;:&quot;midfield&quot;,&quot;defense&quot;:&quot;defence&quot;,&quot;goalkeeper&quot;:&quot;goalkeeper&quot;}" version="2.0.0" class="hydrated" in-viewport="true">
+    </tm-quick-select-bar>
+</div>
+
+
+            <div id="sMVeyGrqX" class="IYTcoVhaPy "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/7iPIqC4UNbQ5qNFgDwcjmLjerCINniZo1dYy3JDL3M3v/rpTjlCUKBwGSF9WyHT8wmH5EpMnwKYRGgG2Wvl7GbketDZFnwIHX6vWGL.gif"></div><div class="werbung werbung-billboard hnjhtHid"><!-- /58778164/Desktop-Billboard-1 -->
+                        <div id="div-gpt-ad-1621524903956-0" style="min-width: 728px; min-height: 90px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621524903956-0"); });
+                          </script>
+                        </div></div>        </header>
+        <main>
+            <script type="text/javascript" class="teads" src="//a.teads.tv/page/138303/tag" async="true"></script><header class="data-header">
+    <div class="data-header__headline-container">
+        <h1 class="data-header__headline-wrapper data-header__headline-wrapper--oswald">
+            SC Freiburg        </h1>
+    </div>
+    <div class="data-header__badge-container">
+                                    <a href="/sc-freiburg/erfolge/verein/60" title="German 2. Bundesliga Champion" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/378.png?lm=1461847499" data-src="https://tmssl.akamaized.net/images/erfolge/header/378.png?lm=1461847499" title="German 2. Bundesliga Champion" alt="German 2. Bundesliga Champion" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        4                    </span>
+                </a>
+                            <a href="/sc-freiburg/erfolge/verein/60" title="Landespokal Südbaden Winner" class="data-header__success-data">
+                                            <img src="https://tmssl.akamaized.net/images/erfolge/header/141.png?lm=1641824322" data-src="https://tmssl.akamaized.net/images/erfolge/header/141.png?lm=1641824322" title="Landespokal Südbaden Winner" alt="Landespokal Südbaden Winner" class="data-header__success-image lazy entered loaded" data-ll-status="loaded">                    
+                    <span class="data-header__success-number">
+                        2                    </span>
+                </a>
+                                    </div>
+            <div class="data-header__box--big">
+            <a class="data-header__box__club-link" href="/bundesliga/startseite/wettbewerb/L1">
+                                    <img srcset="
+                                    https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/l1.png?lm=1525905518 1x,
+                                    https://tmssl.akamaized.net/images/logo/homepageWappen150x150/l1.png?lm=1525905518 2x
+                                " alt="Bundesliga" height="80" width="80">
+                            </a>
+            <div class="data-header__club-info">
+                <span class="data-header__club" itemprop="affiliation">
+                    <a href="/bundesliga/startseite/wettbewerb/L1">
+                        Bundesliga                    </a>
+                </span>
+                                        <span class="data-header__label">
+                            <strong>League level:</strong>                            <span class="data-header__content">
+                                <a href="/bundesliga/startseite/wettbewerb/L1">
+                                    <img src="https://tmssl.akamaized.net/images/flagge/tiny/40.png?lm=1520612525" data-src="https://tmssl.akamaized.net/images/flagge/tiny/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen vm lazy entered loaded" data-ll-status="loaded">First Tier
+                                </a>
+                            </span>
+                        </span>
+                                            <span class="data-header__label">
+                            Table position:
+                            <span class="data-header__content">
+                                <a href="/bundesliga/tabelle/wettbewerb/L1" title="League table">3</a>                                
+                            </span>
+                        </span>
+                        <span class="data-header__label">
+                            In league since:
+                            <span class="data-header__content">
+                                <a href="/sc-freiburg/platzierungen/verein/60" title="">7 years</a>
+                            </span>
+                        </span>
+                            </div>
+        </div>
+        <div class="data-header__profile-container">
+        <img src="https://tmssl.akamaized.net/images/wappen/head/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class="">
+    </div>
+            <div class="data-header__box--small">
+
+                        <a href="/sc-freiburg/kader/verein/60" class="data-header__market-value-wrapper"><span class="waehrung">€</span>175.60<span class="waehrung">m</span>            <p class="data-header__last-update">
+                Total market value            </p>
+            </a>
+        </div>
+        <div class="data-header__info-box">
+        <div class="data-header__details">
+            <ul class="data-header__items">
+                <li class="data-header__label">
+                    Squad size:
+                    <span itemprop="dataItem" class="data-header__content">
+                        28                    </span>
+                </li>
+                <li class="data-header__label">
+                    Average age:
+                    <span itemprop="dataItem" class="data-header__content">
+                        25.5                    </span>
+                </li>
+                <li class="data-header__label">
+                    Foreigners:
+                    <span itemprop="dataItem" class="data-header__content">
+                        <a href="/sc-freiburg/legionaere/verein/60">11</a>&nbsp;&nbsp;<span class="tabellenplatz">39.3 %</span>                    </span>
+                </li>
+            </ul>
+            <ul class="data-header__items">
+                                    <li class="data-header__label">
+                        National team players:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a href="/sc-freiburg/nationalspieler/verein/60">10</a>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Stadium:
+                        <span itemprop="dataItem" class="data-header__content">
+                            <a title="SC Freiburg" href="/sc-freiburg/stadion/verein/60">Europa-Park Stadion</a>&nbsp;&nbsp;<span class="tabellenplatz">34.700 Seats</span>                        </span>
+                    </li>
+                    <li class="data-header__label">
+                        Current transfer record:
+                        <span itemprop="dataItem" class="data-header__content">
+                                                        <span class="greentext">
+                                <a class="greentext" href="/sc-freiburg/transfers/verein/60/saison_id/2022">+€4.43m</a>                            </span>
+                    </span></li>
+                            </ul>
+        </div>
+    </div>
+            <div class="data-header__toggle">
+            <div class="data-header__toggle-icon">+</div>
+            <ul class="data-header__list-clubs">
+                <li><img src="https://tmssl.akamaized.net/images/wappen/tiny/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class="tiny_wappen"><span><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60">SC Freiburg</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class="tiny_wappen"><span><a title="SC Freiburg II" href="/sc-freiburg-ii/startseite/verein/245">SC Freiburg II</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/4042.png?lm=1594709898" title="SC Freiburg U19" alt="SC Freiburg U19" class="tiny_wappen"><span><a title="SC Freiburg U19" href="/sc-freiburg-u19/startseite/verein/4042">SC Freiburg U19</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/21075.png?lm=1517249279" title="SC Freiburg U17" alt="SC Freiburg U17" class="tiny_wappen"><span><a title="SC Freiburg U17" href="/sc-freiburg-u17/startseite/verein/21075">SC Freiburg U17</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/83334.png?lm=1594709898" title="SC Freiburg U16" alt="SC Freiburg U16" class="tiny_wappen"><span><a title="SC Freiburg U16" href="/sc-freiburg-u16/startseite/verein/83334">SC Freiburg U16</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/47068.png?lm=1423314547" title="Freiburger Fußballschule" alt="Freiburger Fußballschule" class="tiny_wappen"><span><a title="Freiburger Fußballschule" href="/freiburger-fussballschule/startseite/verein/47068">Freiburger Fußballschule</a></span>                    </li><li><img src="https://tmssl.akamaized.net/images/wappen/tiny/18042.png?lm=1594709898" title="SC Freiburg Youth" alt="SC Freiburg Youth" class="tiny_wappen"><span><a title="SC Freiburg Youth" href="/sc-freiburg-jugend/startseite/verein/18042">SC Freiburg Youth</a></span>                    </li>            </ul>
+        </div>
+    </header>
+<script type="text/javascript">
+    const headerLinkList = document.querySelector('.data-header__toggle');
+    if (headerLinkList) {
+        headerLinkList.addEventListener('click', () => {
+            headerLinkList.classList.toggle('data-header__toggle--active');
+        })
+    };
+</script>
+<a href="https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178" class="db mt10" onclick="tmEvent('banner', 'https://www.transfermarkt.com/premier-league-market-values-haaland-knocks-mbappe-off-his-throne-saka-surpasses-salah/view/news/413178', 'd-day-banner');">
+    <img src="https://dzjovqk3zamsg.cloudfront.net/MVU_Banner_Premier-League_1122_Desktop_EN.jpg" width="1034" height="99" alt="deadline-day banner">
+</a>
+    <div class="row hide-on-print" id="subnavi" data-season="2021" data-controller="verein" data-action="startseite" data-path="sc-freiburg/startseite/verein/60" data-id="60">
+        <div class="page_wrapper subnavi">
+            <div class="large-12 columns">
+                <div class="subnavi_box" id="subnavigation">
+                    <div class="submenu-text show-for-small">
+                        <a name="SubNavi" title="Navigation">
+                            <span>≡ Sub Menu</span>
+                        </a>
+                    </div>
+                    <nav>
+                        <ul id="submenu">
+                                                        <li id="close_submenu" class="show-for-small">
+                                <div id="submenu-icon">
+                                    <span class="clicked"></span>
+                                    <span class="clicked"></span>
+                                </div>
+                                <a>Close Menu</a>
+                            </li>
+                                                                <li id="overview" class="first-button aktiv " data-nav-group="overview">
+                                        <a name="SubNavi" href="/sc-freiburg/startseite/verein/60/saison_id/2022" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','uebersicht');
+">Overview</a>
+                                                                            </li>
+                                                                        <li id="squad" class="  " data-nav-group="squad">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','kader');
+">Squad</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="fixtures" class="  " data-nav-group="fixtures">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','spielplan');
+">Fixtures</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="transfers-amp-rumours" class="  " data-nav-group="transfers-amp-rumours">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','transfers-amp-geruchte');
+">Transfers &amp; rumours</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="information-amp-facts" class="  " data-nav-group="information-amp-facts">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','daten_und_fakten');
+">Information &amp; facts</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="stadium" class="  " data-nav-group="stadium">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','stadion');
+">Stadium</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="history" class="  " data-nav-group="history">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','historie');
+">History</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                                        <li id="news" class="  " data-nav-group="news">
+                                        <a name="SubNavi" href="/sc-freiburg/news/verein/60" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','news');
+">News</a>
+                                                                            </li>
+                                                                        <li id="forum" class="  " data-nav-group="forum">
+                                        <a name="SubNavi" href="/sc-freiburg/detail/forum/25" class="tm-subnav-item megamenu" onclick="tmEvent('subnavigation_verein','click','forum');
+">Forum</a>
+                                                                            </li>
+                                                                        <li id="subnavi-edit" class="  subnavi-edit" data-nav-group="subnavi-edit">
+                                        <a name="SubNavi" href="#subnavi" class="tm-subnav-item megamenu_drop" onclick="tmEvent('subnavigation_verein','click','edit');
+"></a>
+                                        <div class="dropdown_fullwidth gasthinweis" title="Log in or register now"><div><img src="https://tmsi.akamaized.net/icons/tm_spinner_inverted.min.svg" width="40" height="40" class="navigation-loading-spinner"></div></div>                                    </li>
+                                                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var stickySubTop = $('#subnavigation').offset().top;
+        stickySubTop = stickySubTop - 60;
+        var main = $("#main");
+        $(document).ready(function () {
+            $(window).on('scroll load', function () {
+                if (!main.hasClass("stickySubnavigation")) {
+                    stickySubTop = $('#subnavigation').offset().top;
+                }
+                if ($(window).scrollTop() > stickySubTop) {
+                    main.addClass("stickySubnavigation");
+                } else {
+                    main.removeClass("stickySubnavigation");
+                }
+            });
+        });
+    </script>
+    <style>
+        .forum-anchor {
+            margin-top: -80px;
+        }
+    </style>
+
+    <div class="row vereinsstartseite" itemscope="" itemtype="http://schema.org/SportsTeam">
+    <div class="large-8 columns">
+        <div class="box kader-widget viewport-tracking" data-viewport="Kader">
+    <h2 class="content-box-headline">
+                        Squad of SC Freiburg - Season 21/22      
+    </h2>
+            <div class="content">
+            <form action="/sc-freiburg/startseite/verein/60" method="get">            <div class="row">
+                <div class="large-12 columns">
+                    <table class="auflistung">
+                        <tbody>
+                            <tr>
+                                <td>
+                                                                            Filter by season                                                                    </td>
+                                <td>
+                                    <div class="inline-select">
+                                        <select name="saison_id" data-placeholder="Filter by season" class="chzn-select chzn-done" tabindex="-1" id="sel517" style="display: none;">
+                                                                                            <option value="2022">22/23</option>
+                                                                                            <option selected="selected" value="2021">21/22</option>
+                                                                                            <option value="2020">20/21</option>
+                                                                                            <option value="2019">19/20</option>
+                                                                                            <option value="2018">18/19</option>
+                                                                                            <option value="2017">17/18</option>
+                                                                                            <option value="2016">16/17</option>
+                                                                                            <option value="2015">15/16</option>
+                                                                                            <option value="2014">14/15</option>
+                                                                                            <option value="2013">13/14</option>
+                                                                                            <option value="2012">12/13</option>
+                                                                                            <option value="2011">11/12</option>
+                                                                                            <option value="2010">10/11</option>
+                                                                                            <option value="2009">09/10</option>
+                                                                                            <option value="2008">08/09</option>
+                                                                                            <option value="2007">07/08</option>
+                                                                                            <option value="2006">06/07</option>
+                                                                                            <option value="2005">05/06</option>
+                                                                                            <option value="2004">04/05</option>
+                                                                                            <option value="2003">03/04</option>
+                                                                                            <option value="2002">02/03</option>
+                                                                                            <option value="2001">01/02</option>
+                                                                                            <option value="2000">00/01</option>
+                                                                                            <option value="1999">99/00</option>
+                                                                                            <option value="1998">98/99</option>
+                                                                                            <option value="1997">97/98</option>
+                                                                                            <option value="1996">96/97</option>
+                                                                                            <option value="1995">95/96</option>
+                                                                                            <option value="1994">94/95</option>
+                                                                                            <option value="1993">93/94</option>
+                                                                                            <option value="1992">92/93</option>
+                                                                                            <option value="1991">91/92</option>
+                                                                                            <option value="1990">90/91</option>
+                                                                                            <option value="1989">89/90</option>
+                                                                                            <option value="1988">88/89</option>
+                                                                                            <option value="1987">87/88</option>
+                                                                                            <option value="1986">86/87</option>
+                                                                                            <option value="1985">85/86</option>
+                                                                                            <option value="1984">84/85</option>
+                                                                                            <option value="1983">83/84</option>
+                                                                                            <option value="1982">82/83</option>
+                                                                                            <option value="1981">81/82</option>
+                                                                                            <option value="1980">80/81</option>
+                                                                                            <option value="1979">79/80</option>
+                                                                                            <option value="1978">78/79</option>
+                                                                                            <option value="1977">77/78</option>
+                                                                                            <option value="1976">76/77</option>
+                                                                                            <option value="1975">75/76</option>
+                                                                                    </select><div id="sel517_chzn" class="chzn-container chzn-container-single" style="width: 100%;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>21/22</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="search" autocomplete="off" tabindex="0"></div><ul class="chzn-results"><li id="sel517_chzn_o_0" class="active-result" style="">22/23</li><li id="sel517_chzn_o_1" class="active-result result-selected" style="">21/22</li><li id="sel517_chzn_o_2" class="active-result" style="">20/21</li><li id="sel517_chzn_o_3" class="active-result" style="">19/20</li><li id="sel517_chzn_o_4" class="active-result" style="">18/19</li><li id="sel517_chzn_o_5" class="active-result" style="">17/18</li><li id="sel517_chzn_o_6" class="active-result" style="">16/17</li><li id="sel517_chzn_o_7" class="active-result" style="">15/16</li><li id="sel517_chzn_o_8" class="active-result" style="">14/15</li><li id="sel517_chzn_o_9" class="active-result" style="">13/14</li><li id="sel517_chzn_o_10" class="active-result" style="">12/13</li><li id="sel517_chzn_o_11" class="active-result" style="">11/12</li><li id="sel517_chzn_o_12" class="active-result" style="">10/11</li><li id="sel517_chzn_o_13" class="active-result" style="">09/10</li><li id="sel517_chzn_o_14" class="active-result" style="">08/09</li><li id="sel517_chzn_o_15" class="active-result" style="">07/08</li><li id="sel517_chzn_o_16" class="active-result" style="">06/07</li><li id="sel517_chzn_o_17" class="active-result" style="">05/06</li><li id="sel517_chzn_o_18" class="active-result" style="">04/05</li><li id="sel517_chzn_o_19" class="active-result" style="">03/04</li><li id="sel517_chzn_o_20" class="active-result" style="">02/03</li><li id="sel517_chzn_o_21" class="active-result" style="">01/02</li><li id="sel517_chzn_o_22" class="active-result" style="">00/01</li><li id="sel517_chzn_o_23" class="active-result" style="">99/00</li><li id="sel517_chzn_o_24" class="active-result" style="">98/99</li><li id="sel517_chzn_o_25" class="active-result" style="">97/98</li><li id="sel517_chzn_o_26" class="active-result" style="">96/97</li><li id="sel517_chzn_o_27" class="active-result" style="">95/96</li><li id="sel517_chzn_o_28" class="active-result" style="">94/95</li><li id="sel517_chzn_o_29" class="active-result" style="">93/94</li><li id="sel517_chzn_o_30" class="active-result" style="">92/93</li><li id="sel517_chzn_o_31" class="active-result" style="">91/92</li><li id="sel517_chzn_o_32" class="active-result" style="">90/91</li><li id="sel517_chzn_o_33" class="active-result" style="">89/90</li><li id="sel517_chzn_o_34" class="active-result" style="">88/89</li><li id="sel517_chzn_o_35" class="active-result" style="">87/88</li><li id="sel517_chzn_o_36" class="active-result" style="">86/87</li><li id="sel517_chzn_o_37" class="active-result" style="">85/86</li><li id="sel517_chzn_o_38" class="active-result" style="">84/85</li><li id="sel517_chzn_o_39" class="active-result" style="">83/84</li><li id="sel517_chzn_o_40" class="active-result" style="">82/83</li><li id="sel517_chzn_o_41" class="active-result" style="">81/82</li><li id="sel517_chzn_o_42" class="active-result" style="">80/81</li><li id="sel517_chzn_o_43" class="active-result" style="">79/80</li><li id="sel517_chzn_o_44" class="active-result" style="">78/79</li><li id="sel517_chzn_o_45" class="active-result" style="">77/78</li><li id="sel517_chzn_o_46" class="active-result" style="">76/77</li><li id="sel517_chzn_o_47" class="active-result" style="">75/76</li></ul></div></div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <input type="submit" class="small button" value="Show">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            </form>
+        </div>
+                
+<div class="tm-tabs">
+    <a class="tm-tab tm-tab__active--parent" href="/sc-freiburg/kader/verein/60/saison_id/2021"><div class=" tm-tab__active"><span>Compact</span></div></a><a class="tm-tab" href="/sc-freiburg/kader/verein/60/saison_id/2021/plus/1"><div class=""><span>Detailed</span></div></a><a class="tm-tab" href="/sc-freiburg/kader/verein/60/saison_id/2021/galerie/1"><div class=""><span>Gallery</span></div></a></div>
+        <div class="responsive-table">
+            <div id="yw1" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw1_c0"><a class="sort-link" href="/sc-freiburg/startseite/verein/60/saison_id/2021/sort/rn">#</a></th><th id="yw1_c1"><a class="sort-link" href="/sc-freiburg/startseite/verein/60/saison_id/2021/sort/name_sort">player</a></th><th class="zentriert" id="yw1_c2"><a class="sort-link" href="/sc-freiburg/startseite/verein/60/saison_id/2021/sort/age">Date of birth / Age</a></th><th class="zentriert" id="yw1_c3">Nat.</th><th class="zentriert" id="yw1_c4">Current club</th><th class="rechts" id="yw1_c5"><a class="sort-link" href="/sc-freiburg/startseite/verein/60/saison_id/2021/sort/marktwert.desc">Market value</a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">26</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/125714-1658411484.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/125714-1658411484.jpg?lm=1" title="Mark Flekken" alt="Mark Flekken" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Mark Flekken" href="/mark-flekken/profil/spieler/125714">Mark Flekken</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Mark Flekken" href="/mark-flekken/profil/spieler/125714">M. Flekken</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Jun 13, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/122.png?lm=1520611569" title="Netherlands" alt="Netherlands" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/mark-flekken/marktwertverlauf/spieler/125714">€7.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">21</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></span><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" class="hide-for-small" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/526845-1658411548.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/526845-1658411548.jpg?lm=1" title="Noah Atubolu" alt="Noah Atubolu" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Noah Atubolu" href="/noah-atubolu/profil/spieler/526845">Noah Atubolu</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Noah Atubolu" href="/noah-atubolu/profil/spieler/526845">N. Atubolu</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">May 25, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/noah-atubolu/marktwertverlauf/spieler/526845">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Goalkeeper" class="zentriert rueckennummer bg_Torwart"><div class="tm-shirt-number">1</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/120296-1658411575.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/120296-1658411575.jpg?lm=1" title="Benjamin Uphoff" alt="Benjamin Uphoff" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Benjamin Uphoff" href="/benjamin-uphoff/profil/spieler/120296">Benjamin Uphoff</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Benjamin Uphoff" href="/benjamin-uphoff/profil/spieler/120296">B. Uphoff</a></span></div></td></tr><tr><td>Goalkeeper</td></tr></tbody></table></td><td class="zentriert">Aug 8, 1993 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/benjamin-uphoff/marktwertverlauf/spieler/120296">€500k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">4</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Returned after loan spell with 1.FC Union Berlin; date: Jun 30, 2021; fee: End of loan" href="/1-fc-union-berlin/startseite/verein/89/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/89.png?lm=1402956210" title="1.FC Union Berlin" alt="1.FC Union Berlin" class=""></a></span><a title="Returned after loan spell with 1.FC Union Berlin; date: Jun 30, 2021; fee: End of loan" class="hide-for-small" href="/1-fc-union-berlin/startseite/verein/89/saison_id/2020"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/388198-1661412991.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/388198-1661412991.jpg?lm=1" title="Nico Schlotterbeck" alt="Nico Schlotterbeck" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nico Schlotterbeck" href="/nico-schlotterbeck/profil/spieler/388198">Nico Schlotterbeck</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nico Schlotterbeck" href="/nico-schlotterbeck/profil/spieler/388198">N. Schlotterbeck</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Dec 1, 1999 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="rechts hauptlink"><a href="/nico-schlotterbeck/marktwertverlauf/spieler/388198">€33.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">3</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/225657-1658411602.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/225657-1658411602.jpg?lm=1" title="Philipp Lienhart" alt="Philipp Lienhart" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Philipp Lienhart" href="/philipp-lienhart/profil/spieler/225657">Philipp Lienhart</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Philipp Lienhart" href="/philipp-lienhart/profil/spieler/225657">P. Lienhart</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Jul 11, 1996 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/127.png?lm=1520611569" title="Austria" alt="Austria" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/philipp-lienhart/marktwertverlauf/spieler/225657">€18.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">31</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/413843-1658411690.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/413843-1658411690.jpg?lm=1" title="Keven Schlotterbeck" alt="Keven Schlotterbeck" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Keven Schlotterbeck" href="/keven-schlotterbeck/profil/spieler/413843">Keven Schlotterbeck</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Keven Schlotterbeck" href="/keven-schlotterbeck/profil/spieler/413843">K. Schlotterbeck</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Apr 28, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/keven-schlotterbeck/marktwertverlauf/spieler/413843">€3.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/110036-1659518991.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/110036-1659518991.jpg?lm=1" title="Dominique Heintz" alt="Dominique Heintz" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Dominique Heintz" href="/dominique-heintz/profil/spieler/110036">Dominique Heintz</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Dominique Heintz" href="/dominique-heintz/profil/spieler/110036">D. Heintz</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Aug 15, 1993 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="rechts hauptlink"><a href="/dominique-heintz/marktwertverlauf/spieler/110036">€2.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">5</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/45683-1658411711.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/45683-1658411711.jpg?lm=1" title="Manuel Gulde" alt="Manuel Gulde" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Manuel Gulde" href="/manuel-gulde/profil/spieler/45683">Manuel Gulde</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Manuel Gulde" href="/manuel-gulde/profil/spieler/45683">M. Gulde</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Feb 12, 1991 (30)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/manuel-gulde/marktwertverlauf/spieler/45683">€1.70m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/527276-1658503640.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/527276-1658503640.jpg?lm=1" title="Kenneth Schmidt" alt="Kenneth Schmidt" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Kenneth Schmidt" href="/kenneth-schmidt/profil/spieler/527276">Kenneth Schmidt</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Kenneth Schmidt" href="/kenneth-schmidt/profil/spieler/527276">K. Schmidt</a></span></div></td></tr><tr><td>Centre-Back</td></tr></tbody></table></td><td class="zentriert">Jun 3, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg II" href="/sc-freiburg-ii/startseite/verein/245"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></td><td class="rechts hauptlink"><a href="/kenneth-schmidt/marktwertverlauf/spieler/527276">€500k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">30</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/93707-1658411784.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/93707-1658411784.jpg?lm=1" title="Christian Günter" alt="Christian Günter" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Christian Günter" href="/christian-gunter/profil/spieler/93707">Christian Günter</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Christian Günter" href="/christian-gunter/profil/spieler/93707">C. Günter</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Feb 28, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/christian-gunter/marktwertverlauf/spieler/93707">€12.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">24</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></span><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" class="hide-for-small" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/453865-1658412048.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/453865-1658412048.jpg?lm=1" title="Kimberly Ezekwem" alt="Kimberly Ezekwem" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Kimberly Ezekwem" href="/kimberly-ezekwem/profil/spieler/453865">Kimberly Ezekwem</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Kimberly Ezekwem" href="/kimberly-ezekwem/profil/spieler/453865">K. Ezekwem</a></span></div></td></tr><tr><td>Left-Back</td></tr></tbody></table></td><td class="zentriert">Jun 19, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/kimberly-ezekwem/marktwertverlauf/spieler/453865">€300k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">2</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined as a winter arrival from: Standard Liège; date: Jan 1, 2022; fee: €4.50m" href="/standard-liege/startseite/verein/3057/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/3057.png?lm=1496825940" title="Standard Liège" alt="Standard Liège" class=""></a></span><a title="Joined as a winter arrival from: Standard Liège; date: Jan 1, 2022; fee: €4.50m" class="hide-for-small" href="/standard-liege/startseite/verein/3057/saison_id/2021"><img src="/images/icons/winterzugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/578680-1658412344.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/578680-1658412344.jpg?lm=1" title="Hugo Siquet" alt="Hugo Siquet" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Hugo Siquet" href="/hugo-siquet/profil/spieler/578680">Hugo Siquet</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Hugo Siquet" href="/hugo-siquet/profil/spieler/578680">H. Siquet</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Jul 9, 2002 (18)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/19.png?lm=1520611569" title="Belgium" alt="Belgium" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/hugo-siquet/marktwertverlauf/spieler/578680">€5.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">17</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/93604-1658412582.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/93604-1658412582.jpg?lm=1" title="Lukas Kübler" alt="Lukas Kübler" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Lukas Kübler" href="/lukas-kubler/profil/spieler/93604">Lukas Kübler</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Lukas Kübler" href="/lukas-kubler/profil/spieler/93604">L. Kübler</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Aug 30, 1992 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/lukas-kubler/marktwertverlauf/spieler/93604">€2.30m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">25</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></span><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" class="hide-for-small" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/548348-1658411753.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/548348-1658411753.jpg?lm=1" title="Kiliann Sildillia" alt="Kiliann Sildillia" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Kiliann Sildillia" href="/kiliann-sildillia/profil/spieler/548348">Kiliann Sildillia</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Kiliann Sildillia" href="/kiliann-sildillia/profil/spieler/548348">K. Sildillia</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">May 16, 2002 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/251.png?lm=1520611569" title="Guadeloupe" alt="Guadeloupe" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/kiliann-sildillia/marktwertverlauf/spieler/548348">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Defender" class="zentriert rueckennummer bg_Abwehr"><div class="tm-shirt-number">7</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/70285-1658412605.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/70285-1658412605.jpg?lm=1" title="Jonathan Schmid" alt="Jonathan Schmid" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Jonathan Schmid" href="/jonathan-schmid/profil/spieler/70285">Jonathan Schmid</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Jonathan Schmid" href="/jonathan-schmid/profil/spieler/70285">J. Schmid</a></span></div></td></tr><tr><td>Right-Back</td></tr></tbody></table></td><td class="zentriert">Jun 22, 1990 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/jonathan-schmid/marktwertverlauf/spieler/70285">€1.20m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">14</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/342039-1658412708.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/small/342039-1658412708.jpg?lm=1" title="Yannik Keitel" alt="Yannik Keitel" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Yannik Keitel" href="/yannik-keitel/profil/spieler/342039">Yannik Keitel</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Yannik Keitel" href="/yannik-keitel/profil/spieler/342039">Y. Keitel</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 15, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/yannik-keitel/marktwertverlauf/spieler/342039">€4.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">27</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/55099-1658412737.jpg?lm=1" title="Nicolas Höfler" alt="Nicolas Höfler" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nicolas Höfler" href="/nicolas-hofler/profil/spieler/55099">Nicolas Höfler</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nicolas Höfler" href="/nicolas-hofler/profil/spieler/55099">N. Höfler</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Mar 9, 1990 (31)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/nicolas-hofler/marktwertverlauf/spieler/55099">€2.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/405670-1658504058.jpg?lm=1" title="Yannik Engelhardt" alt="Yannik Engelhardt" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Yannik Engelhardt" href="/yannik-engelhardt/profil/spieler/405670">Yannik Engelhardt</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Yannik Engelhardt" href="/yannik-engelhardt/profil/spieler/405670">Y. Engelhardt</a></span></div></td></tr><tr><td>Defensive Midfield</td></tr></tbody></table></td><td class="zentriert">Feb 7, 2001 (20)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg II" href="/sc-freiburg-ii/startseite/verein/245"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></td><td class="rechts hauptlink"><a href="/yannik-engelhardt/marktwertverlauf/spieler/405670">€400k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/285323-1666698827.jpg?lm=1" title="Baptiste Santamaria" alt="Baptiste Santamaria" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Baptiste Santamaria" href="/baptiste-santamaria/profil/spieler/285323">Baptiste Santamaria</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Baptiste Santamaria" href="/baptiste-santamaria/profil/spieler/285323">B. Santamaria</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Mar 9, 1995 (26)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen"></td><td class="zentriert"><a title="Stade Rennais FC" href="/fc-stade-rennes/startseite/verein/273"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/273.png?lm=1408779098" title="Stade Rennais FC" alt="Stade Rennais FC" class=""></a></td><td class="rechts hauptlink"><a href="/baptiste-santamaria/marktwertverlauf/spieler/285323">€14.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">8</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from SV Werder Bremen; date: Aug 18, 2021; fee: €5.00m" href="/sv-werder-bremen/startseite/verein/86/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/86.png?lm=1403082298" title="SV Werder Bremen" alt="SV Werder Bremen" class=""></a></span><a title="Joined from SV Werder Bremen; date: Aug 18, 2021; fee: €5.00m" class="hide-for-small" href="/sv-werder-bremen/startseite/verein/86/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/190284-1658412761.jpg?lm=1" title="Maximilian Eggestein" alt="Maximilian Eggestein" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Maximilian Eggestein" href="/maximilian-eggestein/profil/spieler/190284">Maximilian Eggestein</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Maximilian Eggestein" href="/maximilian-eggestein/profil/spieler/190284">M. Eggestein</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Dec 8, 1996 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/maximilian-eggestein/marktwertverlauf/spieler/190284">€8.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">19</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/177779-1659519244.jpg?lm=1" title="Janik Haberer" alt="Janik Haberer" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Janik Haberer" href="/janik-haberer/profil/spieler/177779">Janik Haberer</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Janik Haberer" href="/janik-haberer/profil/spieler/177779">J. Haberer</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Apr 2, 1994 (27)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="1.FC Union Berlin" href="/1-fc-union-berlin/startseite/verein/89"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/89.png?lm=1402956210" title="1.FC Union Berlin" alt="1.FC Union Berlin" class=""></a></td><td class="rechts hauptlink"><a href="/janik-haberer/marktwertverlauf/spieler/177779">€3.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="midfield" class="zentriert rueckennummer bg_Mittelfeld"><div class="tm-shirt-number">-</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/690429-1658412782.jpg?lm=1" title="Robert Wagner" alt="Robert Wagner" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Robert Wagner" href="/robert-wagner/profil/spieler/690429">Robert Wagner</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Robert Wagner" href="/robert-wagner/profil/spieler/690429">R. Wagner</a></span></div></td></tr><tr><td>Central Midfield</td></tr></tbody></table></td><td class="zentriert">Jul 14, 2003 (17)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/robert-wagner/marktwertverlauf/spieler/690429">€500k</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">32</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/185077-1658413230.jpg?lm=1" title="Vincenzo Grifo" alt="Vincenzo Grifo" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Vincenzo Grifo" href="/vincenzo-grifo/profil/spieler/185077">Vincenzo Grifo</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Vincenzo Grifo" href="/vincenzo-grifo/profil/spieler/185077">V. Grifo</a></span></div></td></tr><tr><td>Left Winger</td></tr></tbody></table></td><td class="zentriert">Apr 7, 1993 (28)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/vincenzo-grifo/marktwertverlauf/spieler/185077">€12.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">33</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></span><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" class="hide-for-small" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/392163-1658413281.jpg?lm=1" title="Noah Weißhaupt" alt="Noah Weißhaupt" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Noah Weißhaupt" href="/noah-weisshaupt/profil/spieler/392163">Noah Weißhaupt</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Noah Weißhaupt" href="/noah-weisshaupt/profil/spieler/392163">N. Weißhaupt</a></span></div></td></tr><tr><td>Left Winger</td></tr></tbody></table></td><td class="zentriert">Sep 20, 2001 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/noah-weisshaupt/marktwertverlauf/spieler/392163">€1.70m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">22</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/332798-1658413418.jpg?lm=1" title="Roland Sallai" alt="Roland Sallai" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Roland Sallai" href="/roland-sallai/profil/spieler/332798">Roland Sallai</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Roland Sallai" href="/roland-sallai/profil/spieler/332798">R. Sallai</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">May 22, 1997 (24)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/178.png?lm=1521635893" title="Hungary" alt="Hungary" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/roland-sallai/marktwertverlauf/spieler/332798">€12.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">20</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></span><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" class="hide-for-small" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/473050-1658413463.jpg?lm=1" title="Kevin Schade" alt="Kevin Schade" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Kevin Schade" href="/kevin-schade/profil/spieler/473050">Kevin Schade</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Kevin Schade" href="/kevin-schade/profil/spieler/473050">K. Schade</a></span></div></td></tr><tr><td>Right Winger</td></tr></tbody></table></td><td class="zentriert">Nov 27, 2001 (19)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/kevin-schade/marktwertverlauf/spieler/473050">€7.00m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">29</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/297583-1658413502.jpg?lm=1" title="Woo-yeong Jeong" alt="Woo-yeong Jeong" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Woo-yeong Jeong" href="/woo-yeong-jeong/profil/spieler/297583">Woo-yeong Jeong</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Woo-yeong Jeong" href="/woo-yeong-jeong/profil/spieler/297583">W. Jeong</a></span></div></td></tr><tr><td>Second Striker</td></tr></tbody></table></td><td class="zentriert">Sep 20, 1999 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/87.png?lm=1520611569" title="Korea, South" alt="Korea, South" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/woo-yeong-jeong/marktwertverlauf/spieler/297583">€5.50m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">9</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/248999-1658413525.jpg?lm=1" title="Lucas Höler" alt="Lucas Höler" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Lucas Höler" href="/lucas-holer/profil/spieler/248999">Lucas Höler</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Lucas Höler" href="/lucas-holer/profil/spieler/248999">L. Höler</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jul 10, 1994 (26)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/lucas-holer/marktwertverlauf/spieler/248999">€6.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">11</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/335457-1658600789.jpg?lm=1" title="Ermedin Demirovic" alt="Ermedin Demirovic" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Ermedin Demirovic" href="/ermedin-demirovic/profil/spieler/335457">Ermedin Demirovic</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Ermedin Demirovic" href="/ermedin-demirovic/profil/spieler/335457">E. Demirovic</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Mar 25, 1998 (23)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/24.png?lm=1569523290" title="Bosnia-Herzegovina" alt="Bosnia-Herzegovina" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Augsburg" href="/fc-augsburg/startseite/verein/167"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/167.png?lm=1656582897" title="FC Augsburg" alt="FC Augsburg" class=""></a></td><td class="rechts hauptlink"><a href="/ermedin-demirovic/marktwertverlauf/spieler/335457">€6.00m</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">18</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/42936-1658413575.jpg?lm=1" title="Nils Petersen" alt="Nils Petersen" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nils Petersen" href="/nils-petersen/profil/spieler/42936">Nils Petersen</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nils Petersen" href="/nils-petersen/profil/spieler/42936">N. Petersen</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Dec 6, 1988 (32)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/nils-petersen/marktwertverlauf/spieler/42936">€1.50m</a>&nbsp;</td></tr>
+<tr class="odd">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">48</div></td><td title="" class="posrela"><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/273054-1658505082.jpg?lm=1" title="Vincent Vermeij" alt="Vincent Vermeij" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Vincent Vermeij" href="/vincent-vermeij/profil/spieler/273054">Vincent Vermeij</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Vincent Vermeij" href="/vincent-vermeij/profil/spieler/273054">V. Vermeij</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Aug 9, 1994 (26)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/122.png?lm=1520611569" title="Netherlands" alt="Netherlands" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg II" href="/sc-freiburg-ii/startseite/verein/245"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></td><td class="rechts hauptlink"><a href="/vincent-vermeij/marktwertverlauf/spieler/273054">€400k</a>&nbsp;</td></tr>
+<tr class="even">
+<td title="Attack" class="zentriert rueckennummer bg_Sturm"><div class="tm-shirt-number">45</div></td><td title="" class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></span><a title="Internal transfer: SC Freiburg II; date: Jul 1, 2021" class="hide-for-small" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2021"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a><table class="inline-table" title=""><tbody><tr><td rowspan="2" class=""><a href="#"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/small/346900-1658413602.jpg?lm=1" title="Nishan Burkart" alt="Nishan Burkart" class="bilderrahmen-fixed lazy lazy"></a></td><td class="hauptlink"><div class="di nowrap"><span class="hide-for-small"><a title="Nishan Burkart" href="/nishan-burkart/profil/spieler/346900">Nishan Burkart</a></span></div><div class="di nowrap"><span class="show-for-small"><a title="Nishan Burkart" href="/nishan-burkart/profil/spieler/346900">N. Burkart</a></span></div></td></tr><tr><td>Centre-Forward</td></tr></tbody></table></td><td class="zentriert">Jan 31, 2000 (21)</td><td class="zentriert "><img src="https://tmssl.akamaized.net/images/flagge/verysmall/148.png?lm=1520611569" title="Switzerland" alt="Switzerland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Winterthur" href="/fc-winterthur/startseite/verein/242"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/242.png?lm=1656418921" title="FC Winterthur" alt="FC Winterthur" class=""></a></td><td class="rechts hauptlink"><a href="/nishan-burkart/marktwertverlauf/spieler/346900">€350k</a>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/sc-freiburg/startseite/verein/60?saison_id=2021"><span>125714</span><span>526845</span><span>120296</span><span>388198</span><span>225657</span><span>413843</span><span>110036</span><span>45683</span><span>527276</span><span>93707</span><span>453865</span><span>578680</span><span>93604</span><span>548348</span><span>70285</span><span>342039</span><span>55099</span><span>405670</span><span>285323</span><span>190284</span><span>177779</span><span>690429</span><span>185077</span><span>392163</span><span>332798</span><span>473050</span><span>297583</span><span>248999</span><span>335457</span><span>42936</span><span>273054</span><span>346900</span></div>
+</div>        </div>
+        <a title="SC Freiburg" class="content-link" href="/sc-freiburg/kader/verein/60/saison_id/2021">Detailed squad</a>    </div>
+
+<div class="CCFmELCYM EGcTITzxo"></div><script async="" src="/js/custom/tm-track-links.min.js" type="module"></script>
+<a href="https://track.webgains.com/click.html?wgcampaignid=186263&amp;wgprogramid=274615&amp;wgtarget=https://www.11teamsports.com/de-de/p/nike-sc-freiburg-trikot-home-22-23-rot-f660?droppsearch=1" target="_blank" class="db mt10" onclick="tmEvent('werbung','click','houseofclubs')">
+    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://tmsi.akamaized.net/kooperationen/hoc/60.jpg" class="lazy" height="100" width="700">
+</a>
+<article data-teads=""></article><script>!function($,s,t,e,i,a,o){s[$]||(s[$]={init:function(){_('i',arguments)},fetchBids:function(){_('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]},(a=t.createElement(e)).async=!0,a.src=i,(o=t.getElementsByTagName(e)[0]).parentNode.insertBefore(a,o));function _(t,e){s[$]._Q.push([t,e])}}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js'),apstag.init({pubID:'5134',adServer:'googletag'}),apstag.fetchBids({slots:[{slotID:'div-gpt-ad-1621524903956-0',slotName:'58778164/Desktop-Billboard-1',sizes:[[960,90],[970,250],[950,90],[728,90],[970,90]]},{slotID:'div-gpt-ad-1621526463511-0',slotName:'58778164/Desktop-MediumRectangle-1',sizes:[[300,250],[336,280]]},{slotID:'div-gpt-ad-1621527521939-0',slotName:'58778164/Desktop-Skyscraper-1',sizes:[[160,600],[336,280],[300,250],[300,600]]},{slotID:'div-gpt-ad-1621528018930-0',slotName:'58778164/Desktop-MediumRectangle-2',sizes:[[336,280],[300,250]]},{slotID:'div-gpt-ad-1621528123398-0',slotName:'58778164/Desktop-Skyscraper-2',sizes:[[300,250],[336,280],[160,600],[300,600]]},{slotID:'div-gpt-ad-1621528173524-0',slotName:'58778164/Desktop-Billboard-2',sizes:[[950,90],[970,250],[728,90],[970,90],[960,90]]},{slotID:'div-gpt-ad-1621534289296-0',slotName:'58778164/Mobile-MediumRectangle-1',sizes:[[300,100],[300,250]]},{slotID:'div-gpt-ad-1621534369294-0',slotName:'58778164/Mobile-Halfpage-1',sizes:[[300,600],[300,250]]},{slotID:'div-gpt-ad-1621534432829-0',slotName:'58778164/Mobile-Sticky',sizes:[[300,50],[320,50]]},],timeout:2e3},function($){googletag.cmd.push(function(){apstag.setDisplayBids(),googletag.pubads().refresh()})});</script>        <div class="flex-container">
+            <div class="box verein-widget zugaenge-widget viewport-tracking" data-viewport="TopTransfers_zugaenge">
+    <div class="sub-kategorie">
+        <h2>Top arrivals</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/maximilian-eggestein/profil/spieler/190284" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/190284-1658412761.jpg?lm=1" title="Maximilian Eggestein" alt="Maximilian Eggestein" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/maximilian-eggestein/profil/spieler/190284" class="table-link">
+                        <span class="spielername">
+                            Maximilian Eggestein                        </span>
+                            <span class="spieler-zusatz">
+                            Central Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/86.png?lm=1403082298" title="Werder Bremen" alt="Werder Bremen" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>5.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/hugo-siquet/profil/spieler/578680" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/578680-1658412344.jpg?lm=1" title="Hugo Siquet" alt="Hugo Siquet" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/hugo-siquet/profil/spieler/578680" class="table-link">
+                        <span class="spielername">
+                            Hugo Siquet                        </span>
+                            <span class="spieler-zusatz">
+                            Right-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/3057.png?lm=1496825940" title="Standard Liège" alt="Standard Liège" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>4.50<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/kevin-schade/profil/spieler/473050" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/473050-1658413463.jpg?lm=1" title="Kevin Schade" alt="Kevin Schade" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/kevin-schade/profil/spieler/473050" class="table-link">
+                        <span class="spielername">
+                            Kevin Schade                        </span>
+                            <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/kiliann-sildillia/profil/spieler/548348" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/548348-1658411753.jpg?lm=1" title="Kiliann Sildillia" alt="Kiliann Sildillia" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/kiliann-sildillia/profil/spieler/548348" class="table-link">
+                        <span class="spielername">
+                            Kiliann Sildillia                        </span>
+                            <span class="spieler-zusatz">
+                            Right-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/noah-weisshaupt/profil/spieler/392163" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/392163-1658413281.jpg?lm=1" title="Noah Weißhaupt" alt="Noah Weißhaupt" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/noah-weisshaupt/profil/spieler/392163" class="table-link">
+                        <span class="spielername">
+                            Noah Weißhaupt                        </span>
+                            <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    -                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/sc-freiburg/transferrekorde/verein/60/saison_id/2021" class="content-link">
+            All arrivals        </a>
+        <div class="clearer"></div>
+</div>
+<div class="box verein-widget abgaenge-widget viewport-tracking" data-viewport="TopTransfers_abgaenge">
+    <div class="sub-kategorie">
+        <h2>Top departures</h2>
+    </div>
+        <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">club</th>
+            <th class="rechts">transfer fee</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/baptiste-santamaria/profil/spieler/285323" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/285323-1666698827.jpg?lm=1" title="Baptiste Santamaria" alt="Baptiste Santamaria" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/baptiste-santamaria/profil/spieler/285323" class="table-link">
+                        <span class="spielername">
+                            Baptiste Santamaria                        </span>
+                            <span class="spieler-zusatz">
+                            Central Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/273.png?lm=1408779098" title="Rennes" alt="Rennes" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>14.00<span class="abloeseZusatz">m</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/dominique-heintz/profil/spieler/110036" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/110036-1659518991.jpg?lm=1" title="Dominique Heintz" alt="Dominique Heintz" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/dominique-heintz/profil/spieler/110036" class="table-link">
+                        <span class="spielername">
+                            Dominique Heintz                        </span>
+                            <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/89.png?lm=1402956210" title="Union Berlin" alt="Union Berlin" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="abloeseZusatz">€</span>150<span class="abloeseZusatz">k</span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/chang-hoon-kwon/profil/spieler/259350" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/259350-1570613918.jpg?lm=1" title="Chang-hoon Kwon" alt="Chang-hoon Kwon" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/chang-hoon-kwon/profil/spieler/259350" class="table-link">
+                        <span class="spielername">
+                            Chang-hoon Kwon                        </span>
+                            <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/3301.png?lm=1491249373" title="Suwon Bluewings" alt="Suwon Bluewings" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/lino-tempelmann/profil/spieler/378883" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/378883-1659622777.jpg?lm=1" title="Lino Tempelmann" alt="Lino Tempelmann" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/lino-tempelmann/profil/spieler/378883" class="table-link">
+                        <span class="spielername">
+                            Lino Tempelmann                        </span>
+                            <span class="spieler-zusatz">
+                            Central Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/4.png?lm=1525459914" title="1.FC Nuremberg" alt="1.FC Nuremberg" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    <span class="leihtext">Loan fee</span><span class="abloeseLeihe"><span class="abloeseZusatz">€</span>50<span class="abloeseZusatz">k</span></span>                </span>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/amir-abrashi/profil/spieler/66005" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/66005-1630734304.jpg?lm=1" title="Amir Abrashi" alt="Amir Abrashi" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/amir-abrashi/profil/spieler/66005" class="table-link">
+                        <span class="spielername">
+                            Amir Abrashi                        </span>
+                            <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="wappen">
+                    <div class="transfer-wappen">
+                    <span class="wappen-ab">
+                        <img src="https://tmssl.akamaized.net/images/wappen/homepage/504.png?lm=1656418544" title="Grasshoppers" alt="Grasshoppers" class="">                    </span>
+                    </div>
+                </td>
+                <td class="rechts">
+                <span class="abloese">
+                    free transfer                </span>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+            <a href="/sc-freiburg/rekordabgaenge/verein/60/saison_id/2021" class="content-link">
+            All departures        </a>
+        <div class="clearer"></div>
+</div>
+
+            
+            <div class="clearer"></div>
+        </div>
+        <div class="flex-container">
+            <div class="box verein-widget torschuetzen-widget viewport-tracking" data-viewport="TopTorschuetzen">
+    <div class="sub-kategorie">
+        <h2>Top Goalscorers</h2>
+    </div>
+    <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">Goals</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/vincenzo-grifo/profil/spieler/185077" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/185077-1658413230.jpg?lm=1" title="Vincenzo Grifo" alt="Vincenzo Grifo" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/vincenzo-grifo/profil/spieler/185077" class="table-link">
+                        <span class="spielername">
+                            Vincenzo Grifo                        </span>
+                        <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        9                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/lucas-holer/profil/spieler/248999" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/248999-1658413525.jpg?lm=1" title="Lucas Höler" alt="Lucas Höler" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/lucas-holer/profil/spieler/248999" class="table-link">
+                        <span class="spielername">
+                            Lucas Höler                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        7                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/woo-yeong-jeong/profil/spieler/297583" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/297583-1658413502.jpg?lm=1" title="Woo-yeong Jeong" alt="Woo-yeong Jeong" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/woo-yeong-jeong/profil/spieler/297583" class="table-link">
+                        <span class="spielername">
+                            Woo-yeong Jeong                        </span>
+                        <span class="spieler-zusatz">
+                            Second Striker                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        5                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/nils-petersen/profil/spieler/42936" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/42936-1658413575.jpg?lm=1" title="Nils Petersen" alt="Nils Petersen" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/nils-petersen/profil/spieler/42936" class="table-link">
+                        <span class="spielername">
+                            Nils Petersen                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        5                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/philipp-lienhart/profil/spieler/225657" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/225657-1658411602.jpg?lm=1" title="Philipp Lienhart" alt="Philipp Lienhart" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/philipp-lienhart/profil/spieler/225657" class="table-link">
+                        <span class="spielername">
+                            Philipp Lienhart                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Back                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore ">
+                    <a href="" class="table-link">
+                        5                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+        <a href="/sc-freiburg/leistungsdaten/verein/60/reldata/L1%262021" class="content-link">
+        All goalscorers    </a>
+    <div class="clearer"></div>
+</div>
+<div class="box verein-widget vorlagengeber-widget viewport-tracking" data-viewport="TopVorlagengeber">
+    <div class="sub-kategorie">
+        <h2>Most assists</h2>
+    </div>
+    <table class="startseite">
+        <thead>
+        <tr>
+            <th colspan="2">player/ position</th>
+            <th class="zentriert">Assists</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="foto">
+                    <a href="/christian-gunter/profil/spieler/93707" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/93707-1658411784.jpg?lm=1" title="Christian Günter" alt="Christian Günter" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/christian-gunter/profil/spieler/93707" class="table-link">
+                        <span class="spielername">
+                            Christian Günter                        </span>
+                        <span class="spieler-zusatz">
+                            Left-Back                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        10                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/vincenzo-grifo/profil/spieler/185077" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/185077-1658413230.jpg?lm=1" title="Vincenzo Grifo" alt="Vincenzo Grifo" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/vincenzo-grifo/profil/spieler/185077" class="table-link">
+                        <span class="spielername">
+                            Vincenzo Grifo                        </span>
+                        <span class="spieler-zusatz">
+                            Left Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        8                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/nicolas-hofler/profil/spieler/55099" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/55099-1658412737.jpg?lm=1" title="Nicolas Höfler" alt="Nicolas Höfler" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/nicolas-hofler/profil/spieler/55099" class="table-link">
+                        <span class="spielername">
+                            Nicolas Höfler                        </span>
+                        <span class="spieler-zusatz">
+                            Defensive Midfield                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        6                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/roland-sallai/profil/spieler/332798" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/332798-1658413418.jpg?lm=1" title="Roland Sallai" alt="Roland Sallai" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/roland-sallai/profil/spieler/332798" class="table-link">
+                        <span class="spielername">
+                            Roland Sallai                        </span>
+                        <span class="spieler-zusatz">
+                            Right Winger                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        5                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="foto">
+                    <a href="/lucas-holer/profil/spieler/248999" name="" class="table-link">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/home2/248999-1658413525.jpg?lm=1" title="Lucas Höler" alt="Lucas Höler" class="swiper-lazy lazy">                    </a>
+                </td>
+                <td class="td">
+                    <a href="/lucas-holer/profil/spieler/248999" class="table-link">
+                        <span class="spielername">
+                            Lucas Höler                        </span>
+                        <span class="spieler-zusatz">
+                            Centre-Forward                        </span>
+                    </a>
+                </td>
+                <td class="zentriert tore">
+                    <a href="" class="table-link">
+                        4                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+         <a href="/sc-freiburg/leistungsdaten/verein/60/reldata/L1%262021/plus/1" class="content-link">
+        Total ranking    </a>
+    <div class="clearer"></div>
+</div>
+            <div class="clearer"></div>
+        </div>
+        <div class="row">     <div class="large-12 columns" style="margin-top: 10px;">         <div class="box aobj0" style="padding: 10px; display: block;">             <div style="color: #1d75a3; font-family: OSB; font-weight: normal; font-size: 20px; letter-spacing: 0.8px; line-height: 20px; text-transform: uppercase; padding-bottom: 15px; ">DAS KÖNNTE SIE AUCH INTERESSIEREN</div>             <div style="padding: 0;                 position: absolute;                 top: 26px;                 right: 103px;">                 <a href="https://www.outbrain.com/what-is/default/de" rel="nofollow" onclick="OBR.extern.callWhatIs(&quot;https://www.outbrain.com/what-is/default/de&quot;,&quot;&quot;,-1,-1,true ,null);return false" style="                 color: #757575;                 font-size: 11px;                 font-family: arial;                 text-decoration: none;                 display: block;">empfohlen von                     <span class="ob_logo" title="Outbrain - content marketing" style="                         width: 67px;                         height: 12px;                         background: url(https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png) no-repeat center top;                         position: absolute;                         margin-left: 4px;                         float: left;">                         <span style="float: right;                             background-image: url(https://widgets.outbrain.com/images/widgetIcons/achoice.svg);                             background-size: 75% 75%;                             width: 12px;                             height: 12px;                             padding-left: 4px;                             display: inline-block;                             background-repeat: no-repeat;                             background-position: right center;                             border-left: 1px solid #999;                             position: relative;                             left: 17px;">                         </span>                     </span>                 </a>             </div>             <div id="sftb1"> <div id="ZbYFfU" class="deAiksDxLp "><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/TZFwHz7mmrKZEEz5viV3HVNY2KsN2uDKViG7zdirNCVx/rpTjlCUKBwZERt9pi5HRvlVoKNSjvVnk7Qm8TWgPGBMXtvDU6wuJnO0RC.gif"></div></div>             <div id="sftb2"> </div>             <div id="sftb3"> </div>             <div id="sftb4"> </div>             <div id="sftb5"> </div>         </div>     </div> </div><div id="recommender" class="box" style="display: none;">
+    <div class="OUTBRAIN" data-src="" data-widget-id="AR_1" data-ob-template="DE_Transfermarkt.de"></div>
+	<script type="text/javascript" src="https://widgets.outbrain.com/outbrain.js"></script>
+</div>
+    </div>
+    <div class="large-4 columns">
+        
+
+
+<tm-next-matches class="viewport-tracking hydrated" data-viewport="Naechste_Begegnungen" locale="en" type="team" identifier="60" translations="{&quot;headline&quot;:&quot;Next matches&quot;,&quot;matchDay&quot;:&quot;Matchday&quot;}" skeleton="tm-next-matches-781304140"><!---->
+    
+            
+    <div class="next-match-headline">Next matches</div><div class="slider"><next-matches-arrows class="hydrated"><div class="next-match-arrows"><button class="next-match-arrow-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z" transform="translate(10 18.707) rotate(180)"></path></svg></button><button class="next-match-arrow-right"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18.707"><path d="M4.228,0H0L5.772,9.363,0,18.707H4.228L10,9.363Z"></path></svg></button></div></next-matches-arrows><div class="next-match-arrows"></div><div class="slider__slides" data-observe-slider-next-matches=""><div class="slider__box" data-slide-id-next-matches="slide-0"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/15" class="competition-day">15. Matchday</a></div><div class="next-match-competition-time">Sunday, 11/13/2022 - 8:30 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839259" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-1"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/16" class="competition-day">16. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/21/2023 - 6:30 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839282" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-2"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/17" class="competition-day">17. Matchday</a></div><div class="next-match-competition-time">Wednesday, 01/25/2023 - 11:30 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839296" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-3"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/18" class="competition-day">18. Matchday</a></div><div class="next-match-competition-time">Saturday, 01/28/2023 - 6:30 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839315" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-4"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/19" class="competition-day">19. Matchday</a></div><div class="next-match-competition-time">Saturday, 02/04/2023 - 6:30 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839330" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-5"><div class="next-match-box"><a href="https://www.transfermarkt.com/dfb-pokal/startseite/pokalwettbewerb/DFB" class="next-match-competition">DFB-Pokal</a><a href="/wettbewerb/spieltag/pokalwettbewerb/DFB/saison_id/2022/spieltag/3/gruppe/AF" class="competition-group">Round of 16</a></div><div class="next-match-competition-time">Tuesday, 02/07/2023 - 9:00 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3949448" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-6"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/20" class="competition-day">20. Matchday</a></div><div class="next-match-competition-time">Friday, 02/10/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839350" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-7"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/21" class="competition-day">21. Matchday</a></div><div class="next-match-competition-time">Friday, 02/17/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839372" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-8"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/22" class="competition-day">22. Matchday</a></div><div class="next-match-competition-time">Friday, 02/24/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839386" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-9"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/23" class="competition-day">23. Matchday</a></div><div class="next-match-competition-time">Friday, 03/03/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839397" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-10"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/24" class="competition-day">24. Matchday</a></div><div class="next-match-competition-time">Friday, 03/10/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839413" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-11"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/25" class="competition-day">25. Matchday</a></div><div class="next-match-competition-time">Friday, 03/17/2023 - 4:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839432" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-12"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/26" class="competition-day">26. Matchday</a></div><div class="next-match-competition-time">Friday, 03/31/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839450" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-13"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/27" class="competition-day">27. Matchday</a></div><div class="next-match-competition-time">Friday, 04/07/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839467" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-14"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/28" class="competition-day">28. Matchday</a></div><div class="next-match-competition-time">Friday, 04/14/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839491" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-15"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/29" class="competition-day">29. Matchday</a></div><div class="next-match-competition-time">Friday, 04/21/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839503" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-16"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/30" class="competition-day">30. Matchday</a></div><div class="next-match-competition-time">Friday, 04/28/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839513" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-17"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/31" class="competition-day">31. Matchday</a></div><div class="next-match-competition-time">Friday, 05/05/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839530" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-18"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/32" class="competition-day">32. Matchday</a></div><div class="next-match-competition-time">Friday, 05/12/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839549" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-19"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/33" class="competition-day">33. Matchday</a></div><div class="next-match-competition-time">Friday, 05/19/2023 - 3:00 PM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839566" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div><div class="slider__box" data-slide-id-next-matches="slide-20"><div class="next-match-box"><a href="https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1" class="next-match-competition">Bundesliga</a><a href="/wettbewerb/spieltag/wettbewerb/L1/saison_id/2022/spieltag/34" class="competition-day">34. Matchday</a></div><div class="next-match-competition-time">Saturday, 05/27/2023 - 6:30 AM</div><div class="next-match-versus"><next-matches-club class="hydrated"></next-matches-club><a href="/spielbericht/index/spielbericht/3839587" class="next-match-result-state next-match-result-state--fixture">-:-</a><next-matches-club class="hydrated"></next-matches-club></div><div class="next-match-injuries"></div></div></div></div><div class="quote-slot" slot="quotes" onclick="tmEvent('werbung','click','begegnungsbox_verein');"><span class="oddsServe" data-match="3839259" data-gameday="15" data-competition="L1"></span></div><div slot="full-matchplan">
+            <a title="SC Freiburg" class="content-link" href="/sc-freiburg/spielplan/verein/60/saison_id/2021">All fixtures</a>        </div></tm-next-matches>
+
+<script>
+    var nextMatchesEl = document.getElementsByTagName('tm-next-matches')[0];
+    if(nextMatchesEl) {
+        nextMatchesEl.addEventListener('nextMatchesReloadQuotes', (event) => {
+            jQuery(document).trigger('begegnungenVereinSliderLoad', 1);
+        });
+    }
+</script>
+<div id="TQeYWbas" class="EGcTITzxo"><div id="WzqIUpXZe"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/gZ0xSN13h0ZwtJNR1qm0C87gEXssVRzijSBrcobi2X2j/rpTjlCUKBwCKZeJ3dWx5PHlFDf52crZ6u0ZK57KC5hLiIHbWuOcYvmCWl.gif"><style id="vr-u12mhd1fi6g-style">/*!
+* this is a simplified version of
+* cleanslate
+*   github.com/premasagar/cleanslate
+*
+*/.vr-u12mhd1fi6g-reset,.vr-u12mhd1fi6g-reset *{background-attachment:scroll;background-color:transparent;background-image:none;background-position:0 0;background-repeat:repeat;border-color:black;border-color:currentColor;border-radius:0;border-style:none;border-width:medium;bottom:auto;clear:none;clip:auto;color:inherit;counter-increment:none;counter-reset:none;cursor:auto;direction:inherit;float:none;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:normal;font-weight:inherit;height:auto;left:auto;letter-spacing:normal;line-height:inherit;list-style-type:inherit;list-style-position:outside;list-style-image:none;margin:0;max-height:none;max-width:none;min-height:0;min-width:0;opacity:1;outline:invert none medium;overflow:visible;padding:0;position:static;quotes:'' '';right:auto;table-layout:auto;text-align:inherit;text-decoration:inherit;text-indent:0;text-transform:none;top:auto;unicode-bidi:normal;vertical-align:baseline;visibility:inherit;white-space:normal;width:auto;word-spacing:normal;z-index:auto;background-origin:padding-box;background-clip:border-box;background-size:auto;-o-border-image:none;border-image:none;box-shadow:none;box-sizing:content-box;-webkit-column-count:auto;-moz-column-count:auto;column-count:auto;-webkit-column-gap:normal;-moz-column-gap:normal;column-gap:normal;-webkit-column-rule:medium none black;-moz-column-rule:medium none black;column-rule:medium none black;-webkit-column-span:1;-moz-column-span:1;column-span:1;-webkit-column-width:auto;-moz-column-width:auto;column-width:auto;-webkit-font-feature-settings:normal;font-feature-settings:normal;overflow-x:visible;overflow-y:visible;-webkit-hyphens:manual;hyphens:manual;-webkit-perspective:none;perspective:none;-webkit-perspective-origin:50% 50%;perspective-origin:50% 50%;-webkit-backface-visibility:visible;backface-visibility:visible;text-shadow:none;transition:all 0s ease 0s;-webkit-transform:none;transform:none;-webkit-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transform-style:flat;transform-style:flat;word-break:normal}.vr-u12mhd1fi6g-reset a,.vr-u12mhd1fi6g-reset a:visited{color:inherit;text-decoration:none}.vr-u12mhd1fi6g-reset a,.vr-u12mhd1fi6g-reset a *{cursor:pointer}#viralize-wide-wrapper-u12mhd1fi6g{width:100%;height:0;text-align:center;position:relative}#viralize-wide-wrapper-u12mhd1fi6g div:first-child{background-color:black}#viralize-wide-wrapper-u12mhd1fi6g #vr-u12mhd1fi6g-disclaimer{visibility:hidden;height:20px;line-height:20px;color:black;font-family:'Helvetiva Neue', Helvetica, Arial, sans-serif;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase}#viralize-wide-wrapper-u12mhd1fi6g #vr-u12mhd1fi6g-disclaimer.show{visibility:visible;font-family:'Helvetiva Regular', Helvetica, Arial, sans-serif;color:#c5c5c5}#viralize-native-wrapper-u12mhd1fi6g{width:100%;max-height:0;display:inline-block;height:auto;overflow:hidden}#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip{height:auto}#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-animated{transition:max-height 0.3s ease-in}#viralize-native-u12mhd1fi6g{width:100%;height:0;position:relative;overflow:hidden}#viralize-player-iframe-u12mhd1fi6g{position:absolute;top:0;left:0;z-index:1}@media (orientation: landscape) and (min-width: 1025px){.vr-u12mhd1fi6g-desktop-top{top:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-u12mhd1fi6g-desktop-bottom{bottom:20px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-u12mhd1fi6g-desktop-top-left{top:20px;left:1%}.vr-u12mhd1fi6g-desktop-top-right{top:20px;right:20px}.vr-u12mhd1fi6g-desktop-bottom-left{bottom:20px;left:20px}.vr-u12mhd1fi6g-desktop-bottom-right{bottom:20px;right:20px}}@media (orientation: landscape) and (max-width: 1024px){.vr-u12mhd1fi6g-mobile-landscape-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-u12mhd1fi6g-mobile-landscape-top.vr-u12mhd1fi6g-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-u12mhd1fi6g-mobile-landscape-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-u12mhd1fi6g-mobile-landscape-bottom.vr-u12mhd1fi6g-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-25%}.vr-u12mhd1fi6g-mobile-landscape-top-left{top:5px;left:5px}.vr-u12mhd1fi6g-mobile-landscape-top-right{top:5px;right:5px}.vr-u12mhd1fi6g-mobile-landscape-bottom-left{bottom:5px;left:5px}.vr-u12mhd1fi6g-mobile-landscape-bottom-right{bottom:5px;right:5px}}@media (orientation: portrait){.vr-u12mhd1fi6g-mobile-portrait-top{top:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-u12mhd1fi6g-mobile-portrait-top.vr-u12mhd1fi6g-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-u12mhd1fi6g-mobile-portrait-bottom{bottom:5px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vr-u12mhd1fi6g-mobile-portrait-bottom.vr-u12mhd1fi6g-android-browser-lt-4-4{-webkit-transform:translateX(0%);transform:translateX(0%);margin-left:-37.5%}.vr-u12mhd1fi6g-mobile-portrait-top-left{top:5px;left:5px}.vr-u12mhd1fi6g-mobile-portrait-top-right{top:5px;right:5px}.vr-u12mhd1fi6g-mobile-portrait-bottom-left{bottom:5px;left:5px}.vr-u12mhd1fi6g-mobile-portrait-bottom-right{bottom:5px;right:5px}}#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip{position:fixed;z-index:2147483647;width:25%}@media (orientation: landscape) and (max-width: 2140px){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-medium{width:400px}#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-large{width:535px}}@media (orientation: portrait){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip{width:90%}}@media (orientation: landscape) and (min-width: 1921px){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-aspect-ratio-square{width:450px}}@media (orientation: landscape) and (max-width: 1920px){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-aspect-ratio-square{width:300px}}@media (orientation: portrait){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-aspect-ratio-square{width:90%}}@media (orientation: landscape) and (min-width: 1601px){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-aspect-ratio-portrait{width:300px}}@media (orientation: landscape) and (max-width: 1600px){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-aspect-ratio-portrait{width:226px}}@media (orientation: portrait){#viralize-native-wrapper-u12mhd1fi6g.vr-u12mhd1fi6g-vip.vr-u12mhd1fi6g-aspect-ratio-portrait{width:50%}}
+</style><div id="viralize-wide-wrapper-u12mhd1fi6g" class="vr-u12mhd1fi6g-wide-wrapper vr-u12mhd1fi6g-native vr-u12mhd1fi6g-reset"> <p id="vr-u12mhd1fi6g-disclaimer">Advertisement</p> <div id="viralize-native-wrapper-u12mhd1fi6g" class="vr-u12mhd1fi6g-native vr-u12mhd1fi6g-native-wrapper"> <div id="viralize-native-u12mhd1fi6g" class="vr-u12mhd1fi6g-native vr-u12mhd1fi6g-native-element" style="height: auto; padding-bottom: 56.25%;"> <iframe id="viralize-player-iframe-u12mhd1fi6g" class="vr-u12mhd1fi6g-native vr-u12mhd1fi6g-frame" src="about:blank" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allow="autoplay; fullscreen" width="100%" height="100%" allowfullscreen="true" style="width: 100%; height: 100%; max-height: 0px;"></iframe> </div> </div> </div><script type="text/javascript" data-wid="auto" src="https://content.viralize.tv/display/?zid=AAEiXtWFbVzM5lZh&amp;u=https%3A%2F%2Fwww.transfermarkt.com%2Fsc-freiburg%2Fstartseite%2Fverein%2F60%3Fsaison_id%3D2021" data-injected="true"></script></div></div><div class="werbung werbung-rectangle1 hnjhtHid"><!-- /58778164/Desktop-MediumRectangle-1 -->
+                        <div id="div-gpt-ad-1621526463511-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621526463511-0"); });
+                          </script>
+                        </div></div><tm-groundhopping-widget class="viewport-tracking hydrated" data-viewport="Groundhopping" raw-data="{&quot;headline&quot;:&quot;Groundhopping&quot;,&quot;clubname&quot;:&quot;SC Freiburg&quot;,&quot;description&quot;:&quot;Have you seen SC Freiburg live?&quot;,&quot;link&quot;:{&quot;text&quot;:&quot;Register now&quot;,&quot;url&quot;:&quot;\/profil\/registrieren&quot;}}"><section class="groundhopping-box"><h2 class="content-box-headline">Groundhopping</h2><p class="groundhopping-box__description">Have you seen SC Freiburg live?</p><a class="groundhopping-box__link content-link" href="/profil/registrieren">Register now</a></section></tm-groundhopping-widget>
+<div class="box saison-bilanz viewport-tracking" data-viewport="Saisonbilanz">
+            <h2 class="content-box-headline">
+            Season record 21/22        </h2>
+        <table>
+        <thead>
+        <tr>
+            <th colspan="2">Competition</th>
+            <th class="rechts">Achieve</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="DFB-Pokal" href="/dfb-pokal/startseite/pokalwettbewerb/DFB/saison_id/2021">DFB-Pokal</a></td>
+
+                <td class="rechts">
+                    <img src="https://tmssl.akamaized.net/images/erfolge/tiny/default.png?lm=1520606999" title="Deutscher Pokalfinalist" alt="Deutscher Pokalfinalist" class="">                </td>
+            </tr>
+                    <tr>
+                <td class="zentriert no-border-rechts erfolg_table_wappen">
+                                    </td>
+                <td class="no-border-links hauptlink"><a title="Bundesliga" href="/bundesliga/startseite/wettbewerb/L1/saison_id/2021">Bundesliga</a></td>
+
+                <td class="rechts">
+                    6th                </td>
+            </tr>
+        
+        </tbody>
+
+    </table>
+    <a title="SC Freiburg" class="content-link" href="/sc-freiburg/erfolge/verein/60">View achievements</a></div>
+<div class="box viewport-tracking" data-viewport="Tabelle">
+    <h2 class="content-box-headline">
+        Table section Bundesliga 21/22    </h2>
+    <table>
+        <thead>
+        <tr>
+            <th class="zentriert">#</th>
+            <th colspan="2">club</th>
+            <th class="zentriert">Matches</th>
+
+            <th class="zentriert">+/-</th>
+            <th class="zentriert">Pts</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td style="background-color:" class="zentriert">3</td>
+                <td class="zentriert no-border-rechts"><a title="Bayer 04 Leverkusen" href="/bayer-04-leverkusen/startseite/verein/15/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/15.png?lm=1651221781" title="Bayer 04 Leverkusen" alt="Bayer 04 Leverkusen" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="Bayer 04 Leverkusen" href="/bayer-04-leverkusen/startseite/verein/15/saison_id/2021">B. Leverkusen</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">33</td>
+                                <td class="zentriert">64</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">4</td>
+                <td class="zentriert no-border-rechts"><a title="RB Leipzig" href="/rasenballsport-leipzig/startseite/verein/23826/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/23826.png?lm=1619431624" title="RB Leipzig" alt="RB Leipzig" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="RB Leipzig" href="/rasenballsport-leipzig/startseite/verein/23826/saison_id/2021">RB Leipzig</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">35</td>
+                                <td class="zentriert">58</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">5</td>
+                <td class="zentriert no-border-rechts"><a title="1.FC Union Berlin" href="/1-fc-union-berlin/startseite/verein/89/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/89.png?lm=1402956210" title="1.FC Union Berlin" alt="1.FC Union Berlin" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="1.FC Union Berlin" href="/1-fc-union-berlin/startseite/verein/89/saison_id/2021">Union Berlin</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">6</td>
+                                <td class="zentriert">57</td>
+            </tr>
+                    <tr class="table-highlight">
+                <td style="background-color:" class="zentriert">6</td>
+                <td class="zentriert no-border-rechts"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60/saison_id/2021">SC Freiburg</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">12</td>
+                                <td class="zentriert">55</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">7</td>
+                <td class="zentriert no-border-rechts"><a title="1. FC Köln" href="/1-fc-koln/startseite/verein/3/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3.png?lm=1656580823" title="1. FC Köln" alt="1. FC Köln" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="1. FC Köln" href="/1-fc-koln/startseite/verein/3/saison_id/2021">1. FC Köln</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">3</td>
+                                <td class="zentriert">52</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">8</td>
+                <td class="zentriert no-border-rechts"><a title="1.FSV Mainz 05" href="/1-fsv-mainz-05/startseite/verein/39/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/39.png?lm=1564748880" title="1.FSV Mainz 05" alt="1.FSV Mainz 05" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="1.FSV Mainz 05" href="/1-fsv-mainz-05/startseite/verein/39/saison_id/2021">1.FSV Mainz 05</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">5</td>
+                                <td class="zentriert">46</td>
+            </tr>
+                    <tr>
+                <td style="background-color:" class="zentriert">9</td>
+                <td class="zentriert no-border-rechts"><a title="TSG 1899 Hoffenheim" href="/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/tiny/533.png?lm=1656585748" title="TSG 1899 Hoffenheim" alt="TSG 1899 Hoffenheim" class="tiny_wappen"></a></td>
+                <td class="no-border-links hauptlink ">
+                    <a title="TSG 1899 Hoffenheim" href="/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2021">TSG Hoffenheim</a>                                    </td>
+                <td class="zentriert">34</td>
+                <td class="zentriert bg_g">-2</td>
+                                <td class="zentriert">46</td>
+            </tr>
+                </tbody>
+    </table>
+    <a title="To complete table" class="content-link" href="/bundesliga/tabelle/wettbewerb/L1/saison_id/2021">To complete table</a></div>
+<div class="box box-slider viewport-tracking" data-viewport="Mitarbeiter_Historie">
+    <div class="container">
+        <span class="mitarbeiterVereinSlider-prev"><a class="bx-prev disabled" href=""> </a></span>
+                    <h2 class="text">
+                <span>Coach for the season 21/22</span>
+            </h2>
+                <span class="mitarbeiterVereinSlider-next"><a class="bx-next disabled" href=""> </a></span>
+    </div>
+    <div class="clearer">
+        <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 196px;"><ul class="mitarbeiterVereinSlider slider-list" style="width: auto; position: relative;">
+                            <li class="slider-list" style="float: none; list-style: none; position: absolute; width: 253px; z-index: 50; display: block;">
+                    <div>
+                        <div class="container-foto text-center">
+                            <img src="https://img.a.transfermarkt.technology/portrait/medium/2989-1658413786.jpg?lm=1" title="Christian Streich" alt="Christian Streich" class="bilderrahmen max-medium-foto">                        </div>
+                        <div class="container-inhalt">
+                            <div class="container-hauptinfo">
+                                <a title="Christian Streich" id="0" href="/christian-streich/profil/trainer/2989">Christian Streich</a>                            </div>
+                            <div class="container-zusatzinfo">
+                                <b>Age :</b>
+                                56 Years                                &nbsp;
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen">                                <br>
+                                <b>Appointed :</b>
+                                Dec 29, 2011                                <br>
+                                <b>Departure :</b>
+                                -                            </div>
+                            <div class="container-zusatzinfo">
+                                <table class="table-border">
+                                    <tbody><tr class="">
+                                                                                    <td class="hauptlink bg_ueberschrift" colspan="5">Season record</td>
+                                                                            </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">Matches</td>
+                                        <td class="zentriert hauptlink">W</td>
+                                        <td class="zentriert hauptlink">D</td>
+                                        <td class="zentriert hauptlink">L</td>
+                                        <td class="zentriert hauptlink">PPM</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="zentriert hauptlink">
+                                            <a href="/christian-streich/leistungsdatenDetail/trainer/2989/verein_id/60/saison_id/2021">40</a>                                        </td>
+                                        <td class="zentriert">20</td>
+                                        <td class="zentriert">10</td>
+                                        <td class="zentriert">10</td>
+                                        <td class="zentriert">
+                                            <a href="/christian-streich/leistungsdatenDetail/trainer/2989/verein_id/60/saison_id/2021">1.75</a>                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div class="clearer"></div>
+                        </div>
+                    </div>
+                </li>
+                    </ul></div><div class="bx-controls"></div></div>
+    </div>
+    <div class="c2action-footer bxPagerParent">
+        <span class="bxPagerCustomMitarbeiter"><div class="bx-pager bx-default-pager">1 / 1</div></span>
+        <a title="SC Freiburg" href="/sc-freiburg/mitarbeiterhistorie/verein/60">Go to coach history</a>    </div>
+</div>
+<div class="box viewport-tracking transfer-record" data-viewport="Transferbilanz">
+    <h2 class="content-box-headline">
+        Transfer record 21/22    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th class="transfer-record__header"></th>
+                <th class="zentriert transfer-record__header">Arrivals/Departures</th>
+                <th class="transfer-record__header transfer-record__header--right">Fee</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="transfer-record__revenue">
+                <td class="transfer-record__text">Income</td>
+                <td class="zentriert test-class transfer-record__text">12</td>
+                <td class="transfer-record__total transfer-record__total--positive">
+                    <span class="abloeseZusatz">€</span>14.55<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+            <tr class="transfer-record__expenses">
+                <td class="transfer-record__text">Expenditure</td>
+                <td class="zentriert transfer-record__text">14</td>
+                <td class="transfer-record__total transfer-record__total--negative">
+                    <span class="abloeseZusatz">€</span>9.50<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="transfer-record__text transfer-record__text--bold" colspan="2">Overall balance</td>
+                <td class="greentext rechts transfer-record__total">
+                    +<span class="abloeseZusatz">€</span>5.05<span class="abloeseZusatz">m</span>                </td>
+            </tr>
+        </tfoot>
+    </table>
+    <a title="SC Freiburg" class="content-link" href="/sc-freiburg/transfers/verein/60/saison_id/2021">All transfers</a></div>
+<div id="kZlvpxvVg"><img referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/EJTE634tbq3v8hrf6fBiFJtvNXCncEj4kvomJ22vHJEU/rpTjlCUKBwLPDt70IeX8stTG9GPbwfdRTl6JP5j9wgsphTrrcQdFM6mSt.gif"></div><div class="werbung werbung-rectangle2 hnjhtHid"><!-- /58778164/Desktop-MediumRectangle-2 -->
+                        <div id="div-gpt-ad-1621528018930-0" style="min-width: 300px; min-height: 250px;">
+                          <script>
+                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1621528018930-0"); });
+                          </script>
+                        </div></div>    </div>
+</div>
+                    </main>
+
+        <footer>
+            
+
+<div class="tm-footer">
+            <a href="/" class="tm-footer__logo">
+          <img src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" alt="Transfermarkt" height="33" width="80">
+        </a>
+      <ul class="tm-footer__links">
+    <li class="tm-footer__links-item">
+      <a href="/intern/impressum">
+          Legal notice      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/web/datenschutz">
+          Data protection      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="javascript:void(0)" class="cmp-link">
+          Privacy      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/anb">
+          General terms of use      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/tmteam">
+          The TM team      </a>
+    </li>
+                        <li class="tm-footer__links-item">
+      <a href="/intern/faq">
+          FAQ      </a>
+    </li>
+    <li class="tm-footer__links-item">
+      <a href="/intern/fehlermelden">
+          Found a mistake?      </a>
+    </li>
+  </ul>
+</div>
+        </footer>
+                    <div id="menue_overlay"></div>
+</div><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+                        <script type="text/javascript">
+                var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r",
+"co":""
+}
+            </script>
+                        <script type="module">
+                var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};
+            </script>
+                        <script type="text/javascript">
+                if(typeof IOMm === 'function') {
+                    IOMm('configure', { st: iam_data.st, dn: 'data-84a0f3455d.transfermarkt.com', mh:5 });
+                    IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+                } else {
+                    console.warn('IOMm is not defined');
+                }
+            </script>
+            <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script><img src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk">
+
+	<!-- Adition -->
+	<div id="oddsServe">
+	<script type="text/javascript">
+		adition.srq.push(function(api) {
+			api.renderSlot("oddsServe");
+		})
+	</script>
+	</div>
+
+            <script type="module" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.esm.js" defer=""></script><script nomodule="" src="https://tmsi.akamaized.net/js/globals/tm-global-elements.js" defer=""></script>    <script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1667566935"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-menu.min.js?lm=1667566934"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1667566934"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+function skyscraperSwitch() {
+                const firstAd = document.getElementsByClassName("werbung-skyscraper");
+                const secondAd = document.getElementsByClassName("werbung-skyscraperbtf")
+                if (this.scrollY > 699) {
+                    firstAd[0].style.visibility = "hidden";
+                    secondAd[0].style.position = "fixed";
+                    secondAd[0].style.top = "40px";
+                } else {
+                    firstAd[0].style.visibility = "visible";
+                    secondAd[0].style.position = "relative";
+                    secondAd[0].style.top = "unset";
+                }
+            }
+            window.addEventListener("scroll", skyscraperSwitch, false);
+	var loginUrl='/profil/login';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function sendIvwData(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_t",
+"co":""
+}
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_r",
+"co":""
+}
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_forum",
+"co":""
+}
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_co.uk_r_s",
+"co":""
+}
+
+    }
+    if(typeof IOMm === 'function') {
+        IOMm('pageview', { cp: iam_data.cp, co: iam_data.co });
+    }
+}
+jQuery(function($) {
+jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','afterAjaxUpdate':function() {window.LazyLoadInstance.update(); tmTrackingAndAds(); trackLinks(); document.dispatchEvent(new CustomEvent("tmInitTooltip"));}});
+
+    mitarbeiterVereinSlider = $('.mitarbeiterVereinSlider').bxSlider({
+        mode: 'fade',
+        prevSelector: '.mitarbeiterVereinSlider-prev',
+        prevText: ' ',
+        nextSelector: '.mitarbeiterVereinSlider-next',
+        nextText: ' ',
+        pager: true,
+        pagerType: 'short',
+        pagerSelector: '.bxPagerCustomMitarbeiter',
+        responsive: true,
+        adaptiveHeight: true,
+    });
+
+});
+/*]]>*/
+</script>
+
+
+
+<script src="https://static.criteo.net/js/ld/publishertag.js"></script><script>window.Criteo = window.Criteo || {}; window.Criteo.events = window.Criteo.events || [];</script><ins id="113"><script language="javascript" type="text/javascript">
+	s = document.createElement('script');
+	s.src='https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r='+Math.round(Math.random()*99999999999); 
+	document.body.append(s);
+</script></ins><ins id="176"><script type="text/javascript">!function(){"use strict";var t=function(t){try{return!!t.location.href}catch(i){return!1}},i=window;(function(){return t(window.top)})()&&(i=window.top),i.vpt=i.vpt||{},i.vpt.queue=i.vpt.queue||[],i.vpt.queue.push(function(){i.vpt.on(i.vpt.EVENTS.AD_IMPRESSION,function(t){var i;t.data&&t.format&&{outstream:1,native:1,strip_hover:1,instream:1,interstitial:1,gallery:1}[t.format]&&(i=new Image,i.src="https://adrta.com/i?clid=vrl&paid=vrl&dvid=v&plid="+t.data.creativity.id+"&caid="+t.data.creativity.itemId+"&publisherId=5272&siteId=54914&kv1="+t.data.unit.width+"x"+t.data.unit.height+"&kv2=https%3A%2F%2Fwww.transfermarkt.com%2Fsc-freiburg%2Fstartseite%2Fverein%2F60%3Fsaison_id%3D2021&kv7=transfermarkt.com&kv11=C0eHq9Xac8&kv12="+t.zid+"&kv24=Desktop_Video_VPAID&kv27=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36+Edg%2F107.0.1418.35&kv44=autoplay")})})}();</script></ins><ins id="3"><script>
+	// Smart RTB+ force cookie-sync code - https only - 2020-02-04
+       var c ={
+           'insertionId' : 5733718,
+           'pageId' : 1473518,
+           'domain' : 'www8.smartadserver.com'
+       }
+       var h = document.getElementsByTagName('head')[0];
+       var sl = document.createElement('script');
+       sl.type = 'text/javascript';
+       sl.src =  'https://'+ c.domain+'/ac?pgid='+c.pageId+'&insid='+c.insertionId+'&tmstp='+Math.round(Math.random()*10000000000)+'&out=js';
+       sl.async = true;
+       h.appendChild(sl);
+</script></ins><ins id="1"><img src="//ads.stickyadstv.com/auto-user-sync" style="display:none;" width="1" height="1"></ins><ins id="219"><iframe src="https://csync-global.smartadserver.com/2058/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="166"><iframe src="https://csync-global.smartadserver.com/2161/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><ins id="42"><iframe src="https://csync-global.smartadserver.com/3668/CookieSync.html" style="position: absolute; width:0; height:0; border:0;"></iframe></ins><script src="https://sync.richaudience.com/b3adde1f4bbb31c3485562d6e3ddceb4/js/?r=470057574"></script><iframe referrerpolicy="unsafe-url" src="https://www.transfermarkt.com/image/q0EZnwC5u0JXzYKlIW4IfC22PDE55x7Yi1ZJROT6i93l/rpTjlCUKBwXIVb9FYuYrLzbVObnhSNVumrKVDOUH1xGFeqlBBHk82nEp6.gif" style="width: 2px; height: 2px;"></iframe><iframe scrolling="no" frameborder="0" width="0" height="0" src="https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=smartadserver&amp;endpoint=eu" style="margin: 0px; padding: 0px; display: none; width: 0px; height: 0px; visibility: hidden;"></iframe></body>

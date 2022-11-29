@@ -1,0 +1,2927 @@
+﻿id,squad,player,rating
+1,Alavés,Joselu,7.25
+2,Alavés,Mamadou Loum,6.70
+3,Alavés,Nahuel Tenaglia,6.68
+4,Alavés,Gonzalo Escalante,6.67
+5,Alavés,Rubén Duarte,6.65
+6,Alavés,Matt Miazga,6.58
+7,Alavés,Luis Rioja,6.56
+8,Alavés,Florian Lejeune,6.50
+9,Alavés,Víctor Laguardia,6.50
+10,Alavés,Fernando Pacheco,6.49
+11,Alavés,Antonio Sivera,6.48
+12,Alavés,Manu García,6.45
+13,Alavés,Alex Tirlea,6.42
+14,Alavés,Martín Aguirregabiria,6.42
+15,Alavés,Toni Moya,6.36
+16,Alavés,Jason,6.36
+17,Alavés,Jesús Owono,6.30
+18,Alavés,Ximo Navarro,6.29
+19,Alavés,Édgar Méndez,6.29
+20,Alavés,Tomás Pina,6.24
+21,Alavés,Tachi,6.20
+22,Alavés,Miguel De la Fuente,6.19
+23,Alavés,Facundo Pellistri,6.18
+24,Alavés,Saul García,6.17
+25,Alavés,Pere Pons,6.16
+26,Alavés,Manu Vallejo,6.15
+27,Alavés,John Guidetti,6.12
+28,Alavés,Javi Lopez,6.12
+29,Alavés,Mamadou Sylla,6.11
+30,Alavés,Unai Ropero,6.08
+31,Alavés,Tomás Mendes,6.04
+32,Alavés,Iván Martín,5.99
+33,Alavés,Marc Tenas,5.88
+34,Angers,Sofiane Boufal,7.27
+35,Angers,Jimmy Cabot,6.99
+36,Angers,Anthony Mandréa,6.87
+37,Angers,Angelo Fulgini,6.81
+38,Angers,Romain Thomas,6.78
+39,Angers,Nabil Bentaleb,6.76
+40,Angers,Thomas Mangani,6.72
+41,Angers,Souleyman Doumbia,6.61
+42,Angers,Ismael Traoré,6.59
+43,Angers,Paul Bernardoni,6.58
+44,Angers,Mathias Pereira Lage,6.54
+45,Angers,Batista Mendy,6.43
+46,Angers,Azzedine Ounahi,6.43
+47,Angers,Pierrick Capelle,6.39
+48,Angers,Vincent Manceau,6.38
+49,Angers,Billal Brahimi,6.37
+50,Angers,Stéphane Bahoken,6.33
+51,Angers,Momo Cho,6.33
+52,Angers,Enzo Ebosse,6.29
+53,Angers,Danijel Petkovic,6.26
+54,Angers,Waniss Taibi,6.22
+55,Angers,Abdoulaye Bamba,6.13
+56,Angers,Marin Jakolis,6.11
+57,Angers,Antonin Bobichon,6.04
+58,Angers,Noah Fatar,6.03
+59,Angers,Casimir Ninga,6.02
+60,Angers,Sada Thioub,6.00
+61,Angers,Farid El Melali,5.99
+62,Angers,Guédé Nadje,5.98
+63,Angers,Jason Mbock,5.88
+64,Arminia,Stefanos Kapino,7.58
+65,Arminia,Patrick Wimmer,6.92
+66,Arminia,Amos Pieper,6.79
+67,Arminia,Guilherme Ramos,6.77
+68,Arminia,Cédric Brunner,6.77
+69,Arminia,Joakim Nilsson,6.73
+70,Arminia,Stefan Ortega,6.73
+71,Arminia,Fabian Klos,6.57
+72,Arminia,Alessandro Schöpf,6.54
+73,Arminia,Andrés Andrade,6.53
+74,Arminia,Masaya Okugawa,6.52
+75,Arminia,Jacob Barrett,6.45
+76,Arminia,Manuel Prietl,6.45
+77,Arminia,Sebastian Vasiliadis,6.44
+78,Arminia,Fabian Kunze,6.40
+79,Arminia,Edimilson Fernandes,6.38
+80,Arminia,Mike van der Hoorn,6.36
+81,Arminia,Bryan Lasme,6.33
+82,Arminia,Janni Serra,6.33
+83,Arminia,Gonzalo Castro,6.27
+84,Arminia,Robin Hack,6.21
+85,Arminia,George Bello,6.20
+86,Arminia,Florian Krüger,6.18
+87,Arminia,Burak Ince,6.13
+88,Arminia,Nathan De Medina,6.09
+89,Arminia,Lennart Czyborra,5.89
+90,Arsenal,Bukayo Saka,7.06
+91,Arsenal,Thomas Partey,6.96
+92,Arsenal,Martin Ødegaard,6.91
+93,Arsenal,Gabriel Martinelli,6.86
+94,Arsenal,Takehiro Tomiyasu,6.83
+95,Arsenal,Ben White,6.78
+96,Arsenal,Kieran Tierney,6.77
+97,Arsenal,Gabriel Magalhães,6.74
+98,Arsenal,Emile Smith Rowe,6.74
+99,Arsenal,Pierre-Emerick Aubameyang,6.74
+100,Arsenal,Alexandre Lacazette,6.74
+101,Arsenal,Granit Xhaka,6.67
+102,Arsenal,Pablo Marí,6.65
+103,Arsenal,Aaron Ramsdale,6.65
+104,Arsenal,Eddie Nketiah,6.60
+105,Arsenal,Cédric Soares,6.53
+106,Arsenal,Albert Sambi Lokonga,6.51
+107,Arsenal,Rob Holding,6.48
+108,Arsenal,Mohamed Elneny,6.46
+109,Arsenal,Nicolas Pépé,6.44
+110,Arsenal,Nuno Tavares,6.42
+111,Arsenal,Bernd Leno,6.41
+112,Arsenal,Ainsley Maitland-Niles,6.35
+113,Arsenal,Calum Chambers,6.13
+114,Arsenal,Reiss Nelson,6.04
+115,Arsenal,Folarin Balogun,5.95
+116,Arsenal,Sead Kolasinac,5.72
+117,Aston Villa,John McGinn,7.17
+118,Aston Villa,Philippe Coutinho,6.96
+119,Aston Villa,Lucas Digne,6.94
+120,Aston Villa,Matty Cash,6.91
+121,Aston Villa,Ollie Watkins,6.90
+122,Aston Villa,Calum Chambers,6.79
+123,Aston Villa,Douglas Luiz,6.77
+124,Aston Villa,Jacob Ramsey,6.77
+125,Aston Villa,Emiliano Buendía,6.75
+126,Aston Villa,Tyrone Mings,6.74
+127,Aston Villa,Matt Targett,6.71
+128,Aston Villa,Danny Ings,6.65
+129,Aston Villa,Emiliano Martínez,6.63
+130,Aston Villa,Kortney Hause,6.58
+131,Aston Villa,Tim Iroegbunam,6.46
+132,Aston Villa,Marvelous Nakamba,6.45
+133,Aston Villa,Ezri Konsa,6.43
+134,Aston Villa,Ashley Young,6.43
+135,Aston Villa,Leon Bailey,6.40
+136,Aston Villa,Morgan Sanson,6.34
+137,Aston Villa,Anwar El Ghazi,6.33
+138,Aston Villa,Bertrand Traoré,6.28
+139,Aston Villa,Carney Chukwuemeka,6.20
+140,Aston Villa,Axel Tuanzebe,6.18
+141,Aston Villa,Robin Olsen,6.14
+142,Aston Villa,Trézéguet,6.03
+143,Aston Villa,Cameron Archer,6.02
+144,Aston Villa,Wesley,6.00
+145,Aston Villa,Jaden Philogene,5.95
+146,Aston Villa,Keinan Davis,5.92
+147,Aston Villa,Jed Steer,5.46
+148,Atalanta,Luis Muriel,7.30
+149,Atalanta,Duván Zapata,7.06
+150,Atalanta,José Luis Palomino,7.00
+151,Atalanta,Robin Gosens,6.92
+152,Atalanta,Ruslan Malinovskyi,6.91
+153,Atalanta,Mario Pasalic,6.86
+154,Atalanta,Josip Ilicic,6.84
+155,Atalanta,Teun Koopmeiners,6.82
+156,Atalanta,Marten de Roon,6.78
+157,Atalanta,Merih Demiral,6.75
+158,Atalanta,Rafael Tolói,6.73
+159,Atalanta,Remo Freuler,6.71
+160,Atalanta,Davide Zappacosta,6.63
+161,Atalanta,Matteo Pessina,6.62
+162,Atalanta,Berat Djimsiti,6.60
+163,Atalanta,Aleksey Miranchuk,6.59
+164,Atalanta,Marco Sportiello,6.58
+165,Atalanta,Juan Musso,6.58
+166,Atalanta,Jérémie Boga,6.57
+167,Atalanta,Giuseppe Pezzella,6.46
+168,Atalanta,Matteo Lovato,6.46
+169,Atalanta,Hans Hateboer,6.44
+170,Atalanta,Joakim Maehle,6.43
+171,Atalanta,Giorgio Scalvini,6.42
+172,Atalanta,Francesco Rossi,6.38
+173,Atalanta,Moustapha Cissé,6.38
+174,Atalanta,Alasanne Sidibe,6.16
+175,Atalanta,Roberto Piccoli,6.12
+176,Atalanta,Giorgio Cittadini,6.12
+177,Atalanta,Sam Lammers,6.10
+178,Atalanta,Tommaso De Nipoti,6.08
+179,Atalanta,Valentin Mihaila,6.03
+180,Athletic Club,Iker Muniain,7.19
+181,Athletic Club,Íñigo Martínez,6.94
+182,Athletic Club,Yuri Berchiche,6.89
+183,Athletic Club,Yeray Álvarez,6.82
+184,Athletic Club,Julen Agirrezabala,6.81
+185,Athletic Club,Dani Vivian,6.80
+186,Athletic Club,Alex Berenguer,6.78
+187,Athletic Club,Óscar De Marcos,6.76
+188,Athletic Club,Iñaki Williams,6.71
+189,Athletic Club,Oihan Sancet,6.68
+190,Athletic Club,Unai Simón,6.60
+191,Athletic Club,Íñigo Lekue,6.59
+192,Athletic Club,Raúl García,6.56
+193,Athletic Club,Mikel Balenziaga,6.55
+194,Athletic Club,Unai Vencedor,6.48
+195,Athletic Club,Dani García,6.43
+196,Athletic Club,Nico Williams,6.36
+197,Athletic Club,Mikel Vesga,6.32
+198,Athletic Club,Asier Villalibre,6.27
+199,Athletic Club,Unai Núñez,6.25
+200,Athletic Club,Nicolás Serrano,6.23
+201,Athletic Club,Oier Zarraga,6.23
+202,Athletic Club,Alex Petxarroman,6.15
+203,Athletic Club,Ander Capa,6.01
+204,Athletic Club,Peru Nolaskoain,6.00
+205,Athletic Club,Jon Morcillo,5.96
+206,Atlético Madrid,Yannick Carrasco,7.08
+207,Atlético Madrid,João Félix,6.91
+208,Atlético Madrid,José Giménez,6.82
+209,Atlético Madrid,Geoffrey Kondogbia,6.81
+210,Atlético Madrid,Saúl Ñíguez,6.81
+211,Atlético Madrid,Thomas Lemar,6.80
+212,Atlético Madrid,Rodrigo de Paul,6.80
+213,Atlético Madrid,Antoine Griezmann,6.80
+214,Atlético Madrid,Stefan Savic,6.80
+215,Atlético Madrid,Reinildo,6.77
+216,Atlético Madrid,Marcos Llorente,6.67
+217,Atlético Madrid,Ángel Correa,6.67
+218,Atlético Madrid,Koke,6.66
+219,Atlético Madrid,Kieran Trippier,6.57
+220,Atlético Madrid,Luis Suárez,6.54
+221,Atlético Madrid,Mario Hermoso,6.54
+222,Atlético Madrid,Sime Vrsaljko,6.53
+223,Atlético Madrid,Matheus Cunha,6.53
+224,Atlético Madrid,Felipe,6.52
+225,Atlético Madrid,Héctor Herrera,6.49
+226,Atlético Madrid,Renan Lodi,6.47
+227,Atlético Madrid,Jan Oblak,6.35
+228,Atlético Madrid,Carlos Martín,6.30
+229,Atlético Madrid,Daniel Wass,6.17
+230,Atlético Madrid,Benjamin Lecomte,6.00
+231,Atlético Madrid,Giuliano Simeone,6.00
+232,Atlético Madrid,Javier Serrano,5.97
+233,Augsburg,Reece Oxford,6.86
+234,Augsburg,Daniel Caligiuri,6.81
+235,Augsburg,Michael Gregoritsch,6.78
+236,Augsburg,Iago,6.75
+237,Augsburg,Niklas Dorsch,6.74
+238,Augsburg,Jeffrey Gouweleeuw,6.70
+239,Augsburg,André Hahn,6.61
+240,Augsburg,Frederik Winther,6.59
+241,Augsburg,Arne Maier,6.57
+242,Augsburg,Rafal Gikiewicz,6.54
+243,Augsburg,Alfred Finnbogason,6.48
+244,Augsburg,Rubén Vargas,6.48
+245,Augsburg,Florian Niederlechner,6.43
+246,Augsburg,Mads Pedersen,6.40
+247,Augsburg,Robert Gumny,6.39
+248,Augsburg,Tobias Strobl,6.37
+249,Augsburg,Raphael Framberger,6.29
+250,Augsburg,Fredrik Jensen,6.29
+251,Augsburg,Andi Zeqiri,6.29
+252,Augsburg,Felix Uduokhai,6.27
+253,Augsburg,Ricardo Pepi,6.22
+254,Augsburg,Carlos Gruezo,6.22
+255,Augsburg,Noah Sarenren Bazee,6.21
+256,Augsburg,Jan Morávek,6.18
+257,Augsburg,Sergio Córdova,6.16
+258,Augsburg,Lasse Günther,6.08
+259,Barcelona,Ousmane Dembélé,7.46
+260,Barcelona,Antoine Griezmann,7.15
+261,Barcelona,Pedri,7.12
+262,Barcelona,Memphis Depay,7.10
+263,Barcelona,Sergio Busquets,7.05
+264,Barcelona,Dani Alves,7.03
+265,Barcelona,Jordi Alba,6.99
+266,Barcelona,Pierre-Emerick Aubameyang,6.98
+267,Barcelona,Abdessamad Ezzalzouli,6.94
+268,Barcelona,Gerard Piqué,6.93
+269,Barcelona,Martin Braithwaite,6.93
+270,Barcelona,Frenkie de Jong,6.91
+271,Barcelona,Ferran Torres,6.88
+272,Barcelona,Ilias Akhomach,6.87
+273,Barcelona,Ronald Araújo,6.84
+274,Barcelona,Gavi,6.79
+275,Barcelona,Sergiño Dest,6.76
+276,Barcelona,Adama Traoré,6.74
+277,Barcelona,Ansu Fati,6.70
+278,Barcelona,Eric García,6.62
+279,Barcelona,Neto,6.56
+280,Barcelona,Luuk de Jong,6.54
+281,Barcelona,Samuel Umtiti,6.53
+282,Barcelona,Nico González,6.53
+283,Barcelona,Sergi Roberto,6.53
+284,Barcelona,Ferran Jutglà,6.52
+285,Barcelona,Marc-André ter Stegen,6.51
+286,Barcelona,Óscar Mingueza,6.49
+287,Barcelona,Philippe Coutinho,6.46
+288,Barcelona,Clément Lenglet,6.30
+289,Barcelona,Sergio Agüero,6.30
+290,Barcelona,Riqui Puig,6.29
+291,Barcelona,Emerson Royal,6.28
+292,Barcelona,Yusuf Demir,6.20
+293,Barcelona,Alejandro Balde,6.14
+294,Barcelona,Estanis Pedrola,6.07
+295,Barcelona,Álvaro Sanz,6.01
+296,Barcelona,Mika Mármol,6.00
+297,Bayern Munich,Robert Lewandowski,7.89
+298,Bayern Munich,Joshua Kimmich,7.60
+299,Bayern Munich,Thomas Müller,7.34
+300,Bayern Munich,Alphonso Davies,7.31
+301,Bayern Munich,Serge Gnabry,7.30
+302,Bayern Munich,Leroy Sané,7.17
+303,Bayern Munich,Kingsley Coman,7.13
+304,Bayern Munich,Leon Goretzka,7.08
+305,Bayern Munich,Dayot Upamecano,6.98
+306,Bayern Munich,Jamal Musiala,6.94
+307,Bayern Munich,Lucas Hernández,6.94
+308,Bayern Munich,Benjamin Pavard,6.87
+309,Bayern Munich,Niklas Süle,6.81
+310,Bayern Munich,Manuel Neuer,6.74
+311,Bayern Munich,Corentin Tolisso,6.72
+312,Bayern Munich,Josip Stanisic,6.59
+313,Bayern Munich,Michaël Cuisance,6.59
+314,Bayern Munich,Omar Richards,6.54
+315,Bayern Munich,Tanguy Nianzou,6.52
+316,Bayern Munich,Marc Roca,6.51
+317,Bayern Munich,Eric Choupo-Moting,6.49
+318,Bayern Munich,Bouna Sarr,6.46
+319,Bayern Munich,Marcel Sabitzer,6.38
+320,Bayern Munich,Malik Tillman,6.30
+321,Bayern Munich,Lucas Copado,6.24
+322,Bayern Munich,Sven Ulreich,6.22
+323,Bayern Munich,Gabriel Vidovic,6.20
+324,Bayern Munich,Paul Wanner,6.10
+325,Bayern Munich,Chris Richards,6.02
+326,Bayern Munich,Christian Früchtl,6.02
+327,Betis,Kike Hermoso,7.77
+328,Betis,Nabil Fekir,7.38
+329,Betis,Marc Bartra,6.95
+330,Betis,Sergio Canales,6.94
+331,Betis,Martín Montoya,6.94
+332,Betis,Juanmi,6.93
+333,Betis,Guido Rodríguez,6.92
+334,Betis,Álex Moreno,6.92
+335,Betis,Germán Pezzella,6.87
+336,Betis,Héctor Bellerín,6.87
+337,Betis,William Carvalho,6.80
+338,Betis,Juan Miranda,6.76
+339,Betis,Edgar González,6.74
+340,Betis,Víctor Ruiz,6.72
+341,Betis,Rui Silva,6.68
+342,Betis,Youssouf Sabaly,6.63
+343,Betis,José Manuel Calderón,6.62
+344,Betis,Willian José,6.59
+345,Betis,Paul Akouokou,6.58
+346,Betis,Borja Iglesias,6.55
+347,Betis,Rodri,6.47
+348,Betis,Claudio Bravo,6.44
+349,Betis,Cristian Tello,6.42
+350,Betis,Andrés Guardado,6.40
+351,Betis,Róber,6.39
+352,Betis,Joaquín,6.39
+353,Betis,Aitor Ruibal,6.26
+354,Betis,Diego Lainez,6.16
+355,Betis,Loren Morón,6.11
+356,Betis,Víctor Camarasa,6.08
+357,Betis,Raúl García,6.00
+358,Bochum,Danilo Soares,7.06
+359,Bochum,Anthony Losilla,6.96
+360,Bochum,Manuel Riemann,6.81
+361,Bochum,Cristian Gamboa,6.72
+362,Bochum,Sebastian Polter,6.66
+363,Bochum,Gerrit Holtmann,6.65
+364,Bochum,Vasilios Lampropoulos,6.63
+365,Bochum,Erhan Masovic,6.62
+366,Bochum,Maxim Leitsch,6.60
+367,Bochum,Eduard Löwen,6.60
+368,Bochum,Simon Zoller,6.60
+369,Bochum,Konstantinos Stafylidis,6.59
+370,Bochum,Armel Bella-Kotchap,6.56
+371,Bochum,Milos Pantovic,6.51
+372,Bochum,Michael Esser,6.49
+373,Bochum,Danny Blum,6.48
+374,Bochum,Takuma Asano,6.45
+375,Bochum,Elvis Rexhbecaj,6.43
+376,Bochum,Jürgen Locadia,6.43
+377,Bochum,Herbert Bockhorn,6.39
+378,Bochum,Patrick Osterhage,6.34
+379,Bochum,Soma Novothny,6.27
+380,Bochum,Christopher Antwi-Adjei,6.26
+381,Bochum,Saulo Decarli,6.16
+382,Bochum,Silvère Ganvoula,6.07
+383,Bochum,Luis Hartwig,6.06
+384,Bochum,Tarsis Bonga,6.05
+385,Bochum,Robert Tesche,5.82
+386,Bologna,Wisdom Amey,7.27
+387,Bologna,Francesco Bardi,6.96
+388,Bologna,Lukasz Skorupski,6.86
+389,Bologna,Marko Arnautovic,6.85
+390,Bologna,Jerdy Schouten,6.84
+391,Bologna,Nicolás Domínguez,6.83
+392,Bologna,Riccardo Stivanello,6.82
+393,Bologna,Musa Barrow,6.75
+394,Bologna,Aaron Hickey,6.69
+395,Bologna,Riccardo Orsolini,6.67
+396,Bologna,Mattias Svanberg,6.66
+397,Bologna,Arthur Theate,6.61
+398,Bologna,Roberto Soriano,6.61
+399,Bologna,Lorenzo De Silvestri,6.55
+400,Bologna,Gary Medel,6.52
+401,Bologna,Adama Soumaoro,6.50
+402,Bologna,Kevin Bonifazi,6.46
+403,Bologna,Nicola Sansone,6.43
+404,Bologna,Takehiro Tomiyasu,6.43
+405,Bologna,Denso Kasius,6.42
+406,Bologna,Kacper Urbanski,6.35
+407,Bologna,Kingsley Michael,6.35
+408,Bologna,Michel Aebischer,6.33
+409,Bologna,Luis Binks,6.33
+410,Bologna,Mitchell Dijks,6.32
+411,Bologna,Andreas Skov Olsen,6.30
+412,Bologna,Emanuel Vignato,6.25
+413,Bologna,Niklas Pyyhtia,6.22
+414,Bologna,Federico Santander,6.21
+415,Bologna,Nicola Bagnolini,6.20
+416,Bologna,Ebenezer Annan,6.17
+417,Bologna,Diego Falcinelli,6.11
+418,Bologna,Nicolas Viola,6.10
+419,Bologna,Sydney van Hooijdonk,6.10
+420,Bologna,Ibrahima Mbaye,6.04
+421,Bologna,Antonio Raimondo,6.02
+422,Bordeaux,Jean Onana,6.81
+423,Bordeaux,Josuha Guilavogui,6.69
+424,Bordeaux,Yacine Adli,6.66
+425,Bordeaux,Danylo Ignatenko,6.66
+426,Bordeaux,Alberth Elis,6.64
+427,Bordeaux,Junior Mwanga,6.62
+428,Bordeaux,Toma Basic,6.61
+429,Bordeaux,Javairô Dilrosun,6.57
+430,Bordeaux,Enock Kwateng,6.55
+431,Bordeaux,Hwang Ui-Jo,6.54
+432,Bordeaux,Anel Ahmedhodzic,6.54
+433,Bordeaux,Remi Oudin,6.53
+434,Bordeaux,Stian Gregersen,6.50
+435,Bordeaux,Samuel Kalu,6.49
+436,Bordeaux,Marcelo,6.46
+437,Bordeaux,Laurent Koscielny,6.45
+438,Bordeaux,Otávio,6.45
+439,Bordeaux,Gaëtan Poussin,6.43
+440,Bordeaux,Sékou Mara,6.42
+441,Bordeaux,Gideon Mensah,6.41
+442,Bordeaux,Ricardo Mangas,6.35
+443,Bordeaux,Abdel Jalil Zaim Idriss Medioub,6.35
+444,Bordeaux,Timothée Pembélé,6.34
+445,Bordeaux,M'Baye Niang,6.30
+446,Bordeaux,Tom Lacoux,6.28
+447,Bordeaux,Mexer,6.24
+448,Bordeaux,Thibault Klidje,6.23
+449,Bordeaux,Issouf Sissokho,6.20
+450,Bordeaux,Jimmy Briand,6.20
+451,Bordeaux,Benoît Costil,6.16
+452,Bordeaux,Fransérgio,6.14
+453,Bordeaux,Dilane Bakwa,6.10
+454,Bordeaux,Mehdi Zerkane,6.10
+455,Bordeaux,Paul Baysse,6.10
+456,Bordeaux,Loris Benito,6.07
+457,Bordeaux,Rubén Pardo,6.00
+458,Bordeaux,Johaneko Louis Jean,5.94
+459,Bordeaux,Josh Maja,5.90
+460,Bordeaux,Amadou Traoré,5.71
+461,Brentford,Christian Eriksen,7.37
+462,Brentford,Ivan Toney,7.28
+463,Brentford,Christian Nørgaard,7.00
+464,Brentford,Ethan Pinnock,6.97
+465,Brentford,David Raya,6.80
+466,Brentford,Pontus Jansson,6.76
+467,Brentford,Bryan Mbeumo,6.74
+468,Brentford,Kristoffer Ajer,6.73
+469,Brentford,Vitaly Janelt,6.73
+470,Brentford,Charlie Goode,6.55
+471,Brentford,Rico Henry,6.54
+472,Brentford,Yoane Wissa,6.52
+473,Brentford,Sergi Canós,6.49
+474,Brentford,Zanka,6.47
+475,Brentford,Finley Stevens,6.46
+476,Brentford,Álvaro Fernández,6.46
+477,Brentford,Saman Ghoddos,6.46
+478,Brentford,Mathias Jensen,6.42
+479,Brentford,Tariqe Fosu-Henry,6.38
+480,Brentford,Frank Onyeka,6.37
+481,Brentford,Shandon Baptiste,6.32
+482,Brentford,Mads Bech Sørensen,6.27
+483,Brentford,Mads Roerslev,6.27
+484,Brentford,Marcus Forss,6.15
+485,Brentford,Josh Dasilva,6.14
+486,Brentford,Mads Bidstrup,6.06
+487,Brentford,Dominic Thompson,6.01
+488,Brentford,Nathan Young-Coombes,5.98
+489,Brentford,Jonas Lössl,5.55
+490,Brest,Romain Faivre,7.20
+491,Brest,Franck Honorat,7.13
+492,Brest,Steve Mounié,6.89
+493,Brest,Brendan Chardonnet,6.87
+494,Brest,Youcef Belaïli,6.86
+495,Brest,Ronaël Pierre-Gabriel,6.80
+496,Brest,Christophe Hérelle,6.73
+497,Brest,Lucien Agoumé,6.67
+498,Brest,Jean-Kévin Duverne,6.66
+499,Brest,Haris Belkebla,6.64
+500,Brest,Marco Bizot,6.63
+501,Brest,Paul Lasne,6.61
+502,Brest,Romain Del Castillo,6.55
+503,Brest,Martín Satriano,6.53
+504,Brest,Lilian Brassier,6.52
+505,Brest,Dénys Bain,6.48
+506,Brest,Jere Uronen,6.48
+507,Brest,Hugo Magnetti,6.45
+508,Brest,Jérémy Le Douaron,6.39
+509,Brest,Julien Faussurier,6.32
+510,Brest,Irvin Cardona,6.32
+511,Brest,Hianga'a M'Bock,6.25
+512,Brest,Rafiki Said,6.12
+513,Brest,Youssouph Badji,6.06
+514,Brest,Gautier Larsonneur,6.00
+515,Brest,Romain Philippoteaux,5.95
+516,Brighton,Moisés Caicedo,7.07
+517,Brighton,Yves Bissouma,6.99
+518,Brighton,Marc Cucurella,6.94
+519,Brighton,Jason Steele,6.92
+520,Brighton,Leandro Trossard,6.90
+521,Brighton,Shane Duffy,6.88
+522,Brighton,Dan Burn,6.80
+523,Brighton,Joël Veltman,6.80
+524,Brighton,Pascal Groß,6.79
+525,Brighton,Alexis Mac Allister,6.75
+526,Brighton,Lewis Dunk,6.73
+527,Brighton,Adam Webster,6.72
+528,Brighton,Danny Welbeck,6.69
+529,Brighton,Enock Mwepu,6.66
+530,Brighton,Robert Sánchez,6.63
+531,Brighton,Solly March,6.59
+532,Brighton,Tariq Lamptey,6.54
+533,Brighton,Adam Lallana,6.50
+534,Brighton,Neal Maupay,6.49
+535,Brighton,Jakub Moder,6.45
+536,Brighton,Steven Alzate,6.42
+537,Brighton,Taylor Richards,6.14
+538,Brighton,Aaron Connolly,6.10
+539,Brighton,Jürgen Locadia,6.04
+540,Brighton,Jeremy Sarmiento,6.00
+541,Brighton,Evan Ferguson,5.93
+542,Burnley,James Tarkowski,6.97
+543,Burnley,Dwight McNeil,6.96
+544,Burnley,Ben Mee,6.92
+545,Burnley,Nathan Collins,6.89
+546,Burnley,Josh Brownhill,6.86
+547,Burnley,Charlie Taylor,6.82
+548,Burnley,Nick Pope,6.82
+549,Burnley,Erik Pieters,6.71
+550,Burnley,Maxwel Cornet,6.69
+551,Burnley,Chris Wood,6.66
+552,Burnley,Wout Weghorst,6.62
+553,Burnley,Connor Roberts,6.61
+554,Burnley,Matthew Lowton,6.59
+555,Burnley,Jay Rodríguez,6.44
+556,Burnley,Wayne Hennessey,6.44
+557,Burnley,Jóhann Gudmundsson,6.43
+558,Burnley,Ashley Westwood,6.42
+559,Burnley,Jack Cork,6.38
+560,Burnley,Matej Vydra,6.33
+561,Burnley,Aaron Lennon,6.28
+562,Burnley,Kevin Long,6.22
+563,Burnley,Ashley Barnes,6.18
+564,Burnley,Dale Stephens,6.17
+565,Cagliari,Giorgio Altare,6.80
+566,Cagliari,João Pedro,6.77
+567,Cagliari,Alberto Grassi,6.73
+568,Cagliari,Boris Radunovic,6.70
+569,Cagliari,Nahitan Nández,6.63
+570,Cagliari,Raoul Bellanova,6.58
+571,Cagliari,Alessio Cragno,6.57
+572,Cagliari,Diego Godín,6.54
+573,Cagliari,Matteo Lovato,6.53
+574,Cagliari,Razvan Marin,6.50
+575,Cagliari,Alessandro Deiola,6.48
+576,Cagliari,Leonardo Pavoletti,6.48
+577,Cagliari,Luca Ceppitelli,6.44
+578,Cagliari,Dalbert,6.42
+579,Cagliari,Paolo Faragò,6.42
+580,Cagliari,Gastón Pereiro,6.40
+581,Cagliari,Charalampos Lykogiannis,6.40
+582,Cagliari,Edoardo Goldaniga,6.39
+583,Cagliari,Daniele Baselli,6.38
+584,Cagliari,Adam Obert,6.37
+585,Cagliari,Sebastian Walukiewicz,6.37
+586,Cagliari,Andrea Carboni,6.37
+587,Cagliari,Kevin Strootman,6.29
+588,Cagliari,Keita Baldé,6.29
+589,Cagliari,Marko Rog,6.28
+590,Cagliari,Martín Cáceres,6.25
+591,Cagliari,Gabriele Zappa,6.15
+592,Cagliari,Christian Oliva,6.03
+593,Cagliari,Diego Farias,6.02
+594,Cagliari,Damir Ceter,6.00
+595,Cagliari,Christos Kourfalidis,6.00
+596,Cagliari,Giovanni Simeone,5.98
+597,Cagliari,Luca Gagliano,5.98
+598,Celta Vigo,Iago Aspas,7.19
+599,Celta Vigo,Javi Galán,7.01
+600,Celta Vigo,Brais Méndez,6.83
+601,Celta Vigo,Santi Mina,6.82
+602,Celta Vigo,Kevin Vázquez,6.79
+603,Celta Vigo,Denis Suárez,6.78
+604,Celta Vigo,Franco Cervi,6.71
+605,Celta Vigo,Matías Dituro,6.64
+606,Celta Vigo,Hugo Mallo,6.62
+607,Celta Vigo,Fran Beltrán,6.61
+608,Celta Vigo,Joseph Aidoo,6.58
+609,Celta Vigo,Néstor Araújo,6.51
+610,Celta Vigo,Carlos Domínguez,6.46
+611,Celta Vigo,Renato Tapia,6.45
+612,Celta Vigo,Thiago Galhardo,6.40
+613,Celta Vigo,Okay Yokuslu,6.34
+614,Celta Vigo,Jeison Murillo,6.34
+615,Celta Vigo,Nolito,6.28
+616,Celta Vigo,Gabriel Veiga,6.22
+617,Celta Vigo,José Fontán,6.15
+618,Celta Vigo,Orbelín Pineda,6.14
+619,Celta Vigo,Augusto Solari,6.14
+620,Celta Vigo,Hugo Álvarez,6.12
+621,Celta Vigo,Miguel Baeza,6.00
+622,Celta Vigo,Hugo Sotelo,5.91
+623,Chelsea,Kenedy,7.46
+624,Chelsea,Ben Chilwell,7.42
+625,Chelsea,Reece James,7.24
+626,Chelsea,Mason Mount,7.19
+627,Chelsea,Marcos Alonso,7.10
+628,Chelsea,Thiago Silva,7.08
+629,Chelsea,Mateo Kovacic,7.05
+630,Chelsea,Trevoh Chalobah,7.03
+631,Chelsea,Kepa Arrizabalaga,7.02
+632,Chelsea,N'Golo Kanté,7.01
+633,Chelsea,Jorginho,6.97
+634,Chelsea,Hakim Ziyech,6.92
+635,Chelsea,Andreas Christensen,6.90
+636,Chelsea,Ruben Loftus-Cheek,6.87
+637,Chelsea,Antonio Rüdiger,6.87
+638,Chelsea,Kai Havertz,6.85
+639,Chelsea,César Azpilicueta,6.82
+640,Chelsea,Romelu Lukaku,6.82
+641,Chelsea,Ross Barkley,6.82
+642,Chelsea,Callum Hudson-Odoi,6.77
+643,Chelsea,Malang Sarr,6.77
+644,Chelsea,Édouard Mendy,6.68
+645,Chelsea,Christian Pulisic,6.67
+646,Chelsea,Timo Werner,6.52
+647,Chelsea,Saúl Ñíguez,6.49
+648,Chelsea,Emerson,6.03
+649,Clermont Foot,Mohamed Bayo,6.83
+650,Clermont Foot,Vital N'Simba,6.67
+651,Clermont Foot,Akim Zedadka,6.67
+652,Clermont Foot,Elbasan Rashani,6.65
+653,Clermont Foot,Johan Gastien,6.64
+654,Clermont Foot,Jason Berthomier,6.63
+655,Clermont Foot,Lucas da Cunha,6.60
+656,Clermont Foot,Yohann Magnin,6.58
+657,Clermont Foot,Florent Ogier,6.54
+658,Clermont Foot,Cédric Hountondji,6.50
+659,Clermont Foot,Alidu Seidu,6.43
+660,Clermont Foot,Salis Abdul Samed,6.43
+661,Clermont Foot,Jodel Dossou,6.40
+662,Clermont Foot,Ouparine Djoco,6.40
+663,Clermont Foot,Jim Allevinah,6.38
+664,Clermont Foot,Saîf-Eddine Khaoui,6.32
+665,Clermont Foot,Jean-Claude Billong,6.28
+666,Clermont Foot,Jordan Tell,6.19
+667,Clermont Foot,Arial Mendy,6.17
+668,Clermont Foot,Grejohn Kyei,6.17
+669,Clermont Foot,Jonathan Iglesias,6.12
+670,Clermont Foot,Jerome Phojo,6.08
+671,Clermont Foot,Josue Albert,6.06
+672,Clermont Foot,Pierre-Yves Hamel,6.05
+673,Clermont Foot,Oriol Busquets,6.03
+674,Clermont Foot,Aboubacar Sidibe,6.01
+675,Clermont Foot,Arthur Desmas,5.96
+676,Clermont Foot,Yadaly Diaby,5.85
+677,Crystal Palace,Conor Gallagher,7.09
+678,Crystal Palace,Wilfried Zaha,6.99
+679,Crystal Palace,James McArthur,6.83
+680,Crystal Palace,Marc Guéhi,6.77
+681,Crystal Palace,Tyrick Mitchell,6.75
+682,Crystal Palace,Cheikhou Kouyaté,6.74
+683,Crystal Palace,Jeffrey Schlupp,6.73
+684,Crystal Palace,Joel Ward,6.72
+685,Crystal Palace,Vicente Guaita,6.70
+686,Crystal Palace,Jordan Ayew,6.68
+687,Crystal Palace,Joachim Andersen,6.67
+688,Crystal Palace,Michael Olise,6.66
+689,Crystal Palace,Odsonne Édouard,6.66
+690,Crystal Palace,Christian Benteke,6.66
+691,Crystal Palace,Jean-Philippe Mateta,6.64
+692,Crystal Palace,Nathaniel Clyne,6.57
+693,Crystal Palace,Will Hughes,6.53
+694,Crystal Palace,Eberechi Eze,6.52
+695,Crystal Palace,Jack Butland,6.45
+696,Crystal Palace,Luka Milivojevic,6.44
+697,Crystal Palace,James Tomkins,6.42
+698,Crystal Palace,Jesurun Rak-Sakyi,6.15
+699,Crystal Palace,Jairo Riedewald,6.12
+700,Crystal Palace,Nathan Ferguson,5.98
+701,Cádiz,Rubén Alcaraz,7.01
+702,Cádiz,Alfonso Espino,6.82
+703,Cádiz,Jeremías Ledesma,6.80
+704,Cádiz,Oussama Idrissi,6.79
+705,Cádiz,Álvaro Negredo,6.74
+706,Cádiz,Carlos Akapo,6.72
+707,Cádiz,Lucas Pérez,6.68
+708,Cádiz,Iván Alejo,6.62
+709,Cádiz,Jens Jønsson,6.61
+710,Cádiz,Anthony Lozano,6.59
+711,Cádiz,Iza,6.57
+712,Cádiz,Álex Fernández,6.54
+713,Cádiz,Fali,6.54
+714,Cádiz,Rubén Sobrino,6.50
+715,Cádiz,Varazdat Haroyan,6.49
+716,Cádiz,Luis Hernández,6.49
+717,Cádiz,Tomás Alarcón,6.44
+718,Cádiz,Alberto Perea,6.44
+719,Cádiz,Victor Chust,6.42
+720,Cádiz,Fede San Emeterio,6.34
+721,Cádiz,Raúl Parra,6.33
+722,Cádiz,Salvi Sánchez,6.30
+723,Cádiz,Santiago Arzamendia,6.26
+724,Cádiz,José Mari,6.24
+725,Cádiz,Martín Calderón,6.22
+726,Cádiz,Álvaro Jiménez,6.21
+727,Cádiz,Iván Chapela,6.15
+728,Cádiz,Álvaro Bastida,6.13
+729,Cádiz,Marcos Mauro,6.12
+730,Cádiz,Juan Cala,6.09
+731,Cádiz,Milutin Osmajic,6.06
+732,Cádiz,Florin Andone,6.06
+733,Cádiz,Pedro Benito,5.81
+734,Dortmund,Erling Haaland,7.55
+735,Dortmund,Marco Reus,7.25
+736,Dortmund,Jude Bellingham,7.12
+737,Dortmund,Julian Brandt,7.12
+738,Dortmund,Tom Rothe,7.12
+739,Dortmund,Donyell Malen,6.90
+740,Dortmund,Thomas Meunier,6.88
+741,Dortmund,Mats Hummels,6.88
+742,Dortmund,Emre Can,6.86
+743,Dortmund,Mahmoud Dahoud,6.85
+744,Dortmund,Jamie Bynoe-Gittens,6.83
+745,Dortmund,Raphaël Guerreiro,6.82
+746,Dortmund,Thorgan Hazard,6.73
+747,Dortmund,Giovanni Reyna,6.72
+748,Dortmund,Manuel Akanji,6.71
+749,Dortmund,Gregor Kobel,6.68
+750,Dortmund,Axel Witsel,6.62
+751,Dortmund,Dan-Axel Zagadou,6.51
+752,Dortmund,Nico Schulz,6.50
+753,Dortmund,Marius Wolf,6.45
+754,Dortmund,Steffen Tigges,6.43
+755,Dortmund,Felix Passlack,6.39
+756,Dortmund,Marin Pongracic,6.39
+757,Dortmund,Marwin Hitz,6.33
+758,Dortmund,Ansgar Knauff,6.18
+759,Dortmund,Lennard Maloney,6.18
+760,Dortmund,Youssoufa Moukoko,6.12
+761,Dortmund,Reinier,6.06
+762,Dortmund,Immanuel Pherai,6.00
+763,Dortmund,Lion Semic,6.00
+764,Dortmund,Antonios Papadopoulos,5.88
+765,Dortmund,Thomas Delaney,5.88
+766,Dortmund,Roman Bürki,5.85
+767,Eint Frankfurt,Filip Kostic,7.11
+768,Eint Frankfurt,Diant Ramaj,7.11
+769,Eint Frankfurt,Evan Ndicka,7.06
+770,Eint Frankfurt,Rafael Borré,6.79
+771,Eint Frankfurt,Jesper Lindstrøm,6.76
+772,Eint Frankfurt,Ansgar Knauff,6.76
+773,Eint Frankfurt,Tuta,6.75
+774,Eint Frankfurt,Djibril Sow,6.67
+775,Eint Frankfurt,Kevin Trapp,6.67
+776,Eint Frankfurt,Daichi Kamada,6.63
+777,Eint Frankfurt,Martin Hinteregger,6.60
+778,Eint Frankfurt,Makoto Hasebe,6.57
+779,Eint Frankfurt,Erik Durm,6.57
+780,Eint Frankfurt,Christopher Lenz,6.51
+781,Eint Frankfurt,Kristijan Jakic,6.43
+782,Eint Frankfurt,Sebastian Rode,6.42
+783,Eint Frankfurt,Aymen Barkok,6.42
+784,Eint Frankfurt,Ajdin Hrustic,6.37
+785,Eint Frankfurt,Timothy Chandler,6.36
+786,Eint Frankfurt,Jens Petter Hauge,6.33
+787,Eint Frankfurt,Gonçalo Paciência,6.31
+788,Eint Frankfurt,Danny da Costa,6.31
+789,Eint Frankfurt,Almamy Touré,6.28
+790,Eint Frankfurt,Sam Lammers,6.24
+791,Eint Frankfurt,Ragnar Ache,6.20
+792,Eint Frankfurt,Stefan Ilsanker,6.18
+793,Eint Frankfurt,Jens Grahl,5.81
+794,Elche,John Donald,7.17
+795,Elche,Lucas Boyé,6.91
+796,Elche,Edgar Badia,6.77
+797,Elche,Johan Mojica,6.69
+798,Elche,Lucas Olaza,6.69
+799,Elche,Helibelton Palacios,6.69
+800,Elche,Fidel,6.67
+801,Elche,Pedro Bigas,6.63
+802,Elche,Kiko Casilla,6.61
+803,Elche,Omar Mascarell,6.56
+804,Elche,Kike Pérez,6.53
+805,Elche,Pere Milla,6.51
+806,Elche,Josan,6.49
+807,Elche,Enzo Roco,6.48
+808,Elche,Tete Morente,6.47
+809,Elche,Gerard Gumbau,6.46
+810,Elche,Darío Benedetto,6.45
+811,Elche,Gonzalo Verdú,6.42
+812,Elche,Lucas Pérez,6.40
+813,Elche,Guido Carrillo,6.39
+814,Elche,Diego González,6.36
+815,Elche,Ezequiel Ponce,6.36
+816,Elche,Raúl Guti,6.31
+817,Elche,Iván Marcone,6.28
+818,Elche,Antonio Barragán,6.24
+819,Elche,Javier Pastore,6.24
+820,Elche,Pablo Piatti,6.21
+821,Elche,Josema,6.11
+822,Empoli,Guglielmo Vicario,6.87
+823,Empoli,Szymon Zurkowski,6.80
+824,Empoli,Petar Stojanovic,6.79
+825,Empoli,Andrea Pinamonti,6.74
+826,Empoli,Sebastiano Luperto,6.71
+827,Empoli,Nedim Bajrami,6.68
+828,Empoli,Mattia Viti,6.68
+829,Empoli,Simone Romagnoli,6.68
+830,Empoli,Samuele Ricci,6.57
+831,Empoli,Fabiano Parisi,6.52
+832,Empoli,Lorenzo Tonelli,6.49
+833,Empoli,Nicolas Haas,6.49
+834,Empoli,Federico Di Francesco,6.45
+835,Empoli,Kristjan Asllani,6.43
+836,Empoli,Liam Henderson,6.40
+837,Empoli,Filippo Bandinelli,6.39
+838,Empoli,Ardian Ismajli,6.35
+839,Empoli,Andrea La Mantia,6.34
+840,Empoli,Liberato Cacace,6.32
+841,Empoli,Leo Stulac,6.32
+842,Empoli,Patrick Cutrone,6.27
+843,Empoli,Riccardo Fiamozzi,6.26
+844,Empoli,Riccardo Marchizza,6.26
+845,Empoli,Tommaso Baldanzi,6.16
+846,Empoli,Marco Benassi,6.12
+847,Empoli,Leonardo Mancuso,6.11
+848,Empoli,Valerio Verre,6.08
+849,Empoli,Giovanni Crociata,5.93
+850,Espanyol,Raúl de Tomás,7.02
+851,Espanyol,Sergi Darder,6.85
+852,Espanyol,Oier Olazábal,6.85
+853,Espanyol,Diego López,6.78
+854,Espanyol,Leandro Cabrera,6.74
+855,Espanyol,Adrián Embarba,6.69
+856,Espanyol,Adrià Pedrosa,6.68
+857,Espanyol,Yangel Herrera,6.64
+858,Espanyol,Óscar Gil,6.61
+859,Espanyol,Jofre Carreras,6.56
+860,Espanyol,Lluís Recasens,6.54
+861,Espanyol,Javier Puado,6.54
+862,Espanyol,Sergi Gómez,6.52
+863,Espanyol,Rubén Sánchez,6.51
+864,Espanyol,Tonny Vilhena,6.44
+865,Espanyol,Manu Morlanes,6.42
+866,Espanyol,Fernando Calero,6.41
+867,Espanyol,Keidi Bare,6.41
+868,Espanyol,David López,6.40
+869,Espanyol,Aleix Vidal,6.39
+870,Espanyol,Óscar Melendo,6.37
+871,Espanyol,Nicolás Melamed,6.27
+872,Espanyol,Fran Mérida,6.24
+873,Espanyol,Miguelón,6.22
+874,Espanyol,Loren Morón,6.20
+875,Espanyol,Daniel Villahermosa,6.17
+876,Espanyol,Dídac Vilá,6.14
+877,Espanyol,Wu Lei,6.13
+878,Espanyol,Landry Dimata,6.12
+879,Espanyol,Álvaro Vadillo,6.06
+880,Espanyol,Víctor Gómez,6.04
+881,Espanyol,Luka Koleosho,6.00
+882,Espanyol,Gori,5.99
+883,Espanyol,Joan García,5.00
+884,Everton,Richarlison,6.96
+885,Everton,Dominic Calvert-Lewin,6.92
+886,Everton,Lucas Digne,6.80
+887,Everton,Demarai Gray,6.78
+888,Everton,Asmir Begovic,6.74
+889,Everton,Abdoulaye Doucouré,6.72
+890,Everton,Michael Keane,6.72
+891,Everton,Andros Townsend,6.71
+892,Everton,Anthony Gordon,6.70
+893,Everton,Vitaliy Mykolenko,6.69
+894,Everton,Yerry Mina,6.61
+895,Everton,Fabian Delph,6.61
+896,Everton,Séamus Coleman,6.61
+897,Everton,Jordan Pickford,6.60
+898,Everton,Alex Iwobi,6.58
+899,Everton,Mason Holgate,6.53
+900,Everton,Ben Godfrey,6.51
+901,Everton,Allan,6.50
+902,Everton,Donny van de Beek,6.47
+903,Everton,Jonjoe Kenny,6.27
+904,Everton,Dele Alli,6.26
+905,Everton,Tom Davies,6.22
+906,Everton,Ellis Simms,6.21
+907,Everton,Salomón Rondón,6.19
+908,Everton,André Gomes,6.17
+909,Everton,Jarrad Branthwaite,6.15
+910,Everton,Jean-Philippe Gbamin,6.07
+911,Everton,Anwar El Ghazi,6.05
+912,Everton,Tyler Onyango,6.02
+913,Everton,Moise Kean,6.00
+914,Everton,Lewis Dobbin,5.99
+915,Everton,Cenk Tosun,5.96
+916,Everton,Isaac Price,5.70
+917,Fiorentina,Dusan Vlahovic,7.33
+918,Fiorentina,Nicolás González,7.02
+919,Fiorentina,Cristiano Biraghi,6.76
+920,Fiorentina,Giacomo Bonaventura,6.75
+921,Fiorentina,Nikola Milenkovic,6.75
+922,Fiorentina,Lucas Martínez,6.73
+923,Fiorentina,Lucas Torreira,6.67
+924,Fiorentina,Igor Julio,6.62
+925,Fiorentina,Pietro Terracciano,6.60
+926,Fiorentina,Erick Pulgar,6.57
+927,Fiorentina,Riccardo Saponara,6.57
+928,Fiorentina,Arthur Cabral,6.53
+929,Fiorentina,Gaetano Castrovilli,6.52
+930,Fiorentina,Bartlomiej Dragowski,6.48
+931,Fiorentina,Riccardo Sottil,6.47
+932,Fiorentina,Krzysztof Piatek,6.43
+933,Fiorentina,Alfred Duncan,6.43
+934,Fiorentina,Jonathan Ikoné,6.36
+935,Fiorentina,Sofyan Amrabat,6.35
+936,Fiorentina,Youssef Maleh,6.34
+937,Fiorentina,Álvaro Odriozola,6.34
+938,Fiorentina,Lorenzo Venuti,6.34
+939,Fiorentina,José Callejón,6.29
+940,Fiorentina,Aleksa Terzic,6.27
+941,Fiorentina,Matija Nastasic,6.18
+942,Fiorentina,Marco Benassi,6.09
+943,Fiorentina,Aleksandr Kokorin,6.01
+944,Fiorentina,Filippo Distefano,5.97
+945,Freiburg,Nico Schlotterbeck,7.39
+946,Freiburg,Vincenzo Grifo,7.10
+947,Freiburg,Nicolas Höfler,7.09
+948,Freiburg,Lucas Höler,7.08
+949,Freiburg,Philipp Lienhart,6.87
+950,Freiburg,Lukas Kübler,6.80
+951,Freiburg,Christian Günter,6.78
+952,Freiburg,Mark Flekken,6.71
+953,Freiburg,Maximilian Eggestein,6.60
+954,Freiburg,Kevin Schade,6.58
+955,Freiburg,Roland Sallai,6.53
+956,Freiburg,Woo-Yeong Jeong,6.51
+957,Freiburg,Jonathan Schmid,6.47
+958,Freiburg,Nils Petersen,6.42
+959,Freiburg,Manuel Gulde,6.41
+960,Freiburg,Dominique Heintz,6.34
+961,Freiburg,Keven Schlotterbeck,6.33
+962,Freiburg,Janik Haberer,6.30
+963,Freiburg,Ermedin Demirovic,6.30
+964,Freiburg,Vincent Vermeij,6.25
+965,Freiburg,Kiliann Sildillia,6.19
+966,Freiburg,Yannik Keitel,6.14
+967,Freiburg,Baptiste Santamaría,6.14
+968,Freiburg,Noah Weißhaupt,6.03
+969,Freiburg,Hugo Siquet,5.74
+970,Freiburg,Benjamin Uphoff,5.10
+971,Genoa,Adrian Semper,6.83
+972,Genoa,Milan Badelj,6.79
+973,Genoa,Morten Frendrup,6.78
+974,Genoa,Mattia Bani,6.73
+975,Genoa,Domenico Criscito,6.73
+976,Genoa,Nicolò Rovella,6.73
+977,Genoa,Johan Vásquez,6.71
+978,Genoa,Mohamed Fares,6.68
+979,Genoa,Davide Biraschi,6.67
+980,Genoa,Silvan Hefti,6.63
+981,Genoa,Salvatore Sirigu,6.59
+982,Genoa,Andrea Cambiaso,6.56
+983,Genoa,Manolo Portanova,6.53
+984,Genoa,Mattia Destro,6.53
+985,Genoa,Nikola Maksimovic,6.51
+986,Genoa,Felipe Caicedo,6.51
+987,Genoa,Leo Östigard,6.45
+988,Genoa,Nadiem Amiri,6.41
+989,Genoa,Zinho Vanheusden,6.41
+990,Genoa,Kelvin Yeboah,6.39
+991,Genoa,Paolo Ghiglione,6.35
+992,Genoa,Yayah Kallon,6.33
+993,Genoa,Caleb Ekuban,6.33
+994,Genoa,Stefano Sturaro,6.33
+995,Genoa,Abdoulaye Touré,6.31
+996,Genoa,Albert Gudmundsson,6.29
+997,Genoa,Andrea Masiello,6.29
+998,Genoa,Pablo Galdames,6.29
+999,Genoa,Filippo Melegoni,6.28
+1000,Genoa,Flavio Bianchi,6.18
+1001,Genoa,Goran Pandev,6.17
+1002,Genoa,Hernani,6.15
+1003,Genoa,Francesco Cassata,6.12
+1004,Genoa,Roberto Piccoli,6.12
+1005,Genoa,Stefano Sabelli,6.05
+1006,Genoa,Valon Behrami,6.03
+1007,Genoa,Aleksander Buksa,6.02
+1008,Genoa,Riccardo Calafiori,5.99
+1009,Genoa,Andrea Favilli,5.92
+1010,Genoa,Laurens Serpe,5.87
+1011,Getafe,Mathías Olivera,6.99
+1012,Getafe,Enes Ünal,6.94
+1013,Getafe,Mauro Arambarri,6.92
+1014,Getafe,Jorge Cuenca,6.71
+1015,Getafe,Damián Suárez,6.69
+1016,Getafe,Borja Mayoral,6.68
+1017,Getafe,Nemanja Maksimovic,6.67
+1018,Getafe,David Soria,6.63
+1019,Getafe,Djené Dakonam,6.60
+1020,Getafe,Óscar Rodríguez,6.51
+1021,Getafe,Okay Yokuslu,6.49
+1022,Getafe,Stefan Mitrovic,6.45
+1023,Getafe,Carles Aleñá,6.43
+1024,Getafe,Florentino,6.39
+1025,Getafe,Gonzalo Villar,6.32
+1026,Getafe,Sandro Ramírez,6.31
+1027,Getafe,Hugo Duro,6.29
+1028,Getafe,Marc Cucurella,6.29
+1029,Getafe,Juan Iglesias,6.27
+1030,Getafe,Allan-Roméo Nyom,6.26
+1031,Getafe,Koffi,6.23
+1032,Getafe,Vitolo,6.23
+1033,Getafe,Darío Poveda,6.23
+1034,Getafe,Jakub Jankto,6.20
+1035,Getafe,Diego Conde,6.18
+1036,Getafe,José Macías,6.16
+1037,Getafe,Jaime Mata,6.13
+1038,Getafe,Jonathan Silva,6.10
+1039,Getafe,Erick Cabaco,6.02
+1040,Getafe,David Timor,5.99
+1041,Getafe,Chema Rodríguez,5.89
+1042,Granada,Luis Milla,6.84
+1043,Granada,Darwin Machís,6.73
+1044,Granada,Luís Maximiano,6.73
+1045,Granada,Jorge Molina,6.71
+1046,Granada,Luis Suárez,6.68
+1047,Granada,Maxime Gonalons,6.61
+1048,Granada,Rubén Rochina,6.61
+1049,Granada,Luis Abram,6.60
+1050,Granada,Antonio Puertas,6.59
+1051,Granada,Álex Collado,6.58
+1052,Granada,Sergio Escudero,6.50
+1053,Granada,Domingos Duarte,6.50
+1054,Granada,Quini,6.49
+1055,Granada,Carlos Neva,6.48
+1056,Granada,Germán Sánchez,6.47
+1057,Granada,Raúl Torrente,6.46
+1058,Granada,Dimitri Foulquier,6.46
+1059,Granada,Víctor Díaz,6.40
+1060,Granada,Njegos Petrovic,6.36
+1061,Granada,Santiago Arias,6.36
+1062,Granada,Ángel Montoro,6.29
+1063,Granada,Alberto Soro,6.27
+1064,Granada,Aarón Escandell,6.27
+1065,Granada,Myrto Uzuni,6.24
+1066,Granada,Carlos Bacca,6.20
+1067,Granada,Matías Arezo,6.20
+1068,Granada,Monchu,6.18
+1069,Granada,Isma Ruiz,6.18
+1070,Granada,Yan Eteki,6.10
+1071,Granada,Dani Raba,6.05
+1072,Granada,Adrián Butzke,6.00
+1073,Granada,Sergio Barcia,5.62
+1074,Greuther Fürth,Max Christiansen,6.63
+1075,Greuther Fürth,Jessic Ngankam,6.58
+1076,Greuther Fürth,Branimir Hrgota,6.57
+1077,Greuther Fürth,Marco Meyerhöfer,6.55
+1078,Greuther Fürth,Andreas Linde,6.54
+1079,Greuther Fürth,Timothy Tillman,6.53
+1080,Greuther Fürth,Gian-Luca Itter,6.44
+1081,Greuther Fürth,Jamie Leweling,6.43
+1082,Greuther Fürth,Sebastian Griesbeck,6.42
+1083,Greuther Fürth,Paul Seguin,6.40
+1084,Greuther Fürth,Nick Viergever,6.39
+1085,Greuther Fürth,Sascha Burchert,6.38
+1086,Greuther Fürth,Justin Hoogma,6.38
+1087,Greuther Fürth,Jeremy Dudziak,6.38
+1088,Greuther Fürth,Hans Nunoo Sarpei,6.36
+1089,Greuther Fürth,Jetro Willems,6.36
+1090,Greuther Fürth,Havard Nielsen,6.33
+1091,Greuther Fürth,Tobias Raschl,6.30
+1092,Greuther Fürth,Cedric Itten,6.30
+1093,Greuther Fürth,Maximilian Bauer,6.28
+1094,Greuther Fürth,Dickson Abiama,6.14
+1095,Greuther Fürth,Julian Green,6.13
+1096,Greuther Fürth,Simon Asta,6.10
+1097,Greuther Fürth,Afimico Pululu,6.07
+1098,Greuther Fürth,Adrian Fein,6.06
+1099,Greuther Fürth,Abdourahmane Barry,6.03
+1100,Greuther Fürth,Nils Seufert,6.00
+1101,Greuther Fürth,Gideon Jung,5.96
+1102,Greuther Fürth,Marius Funk,5.96
+1103,Hellas Verona,Mattia Zaccagni,8.47
+1104,Hellas Verona,Gianluca Caprari,7.20
+1105,Hellas Verona,Antonín Barak,6.91
+1106,Hellas Verona,Giovanni Simeone,6.89
+1107,Hellas Verona,Adrien Tameze,6.84
+1108,Hellas Verona,Marco Faraoni,6.77
+1109,Hellas Verona,Darko Lazovic,6.72
+1110,Hellas Verona,Koray Günter,6.66
+1111,Hellas Verona,Ivan Ilic,6.65
+1112,Hellas Verona,Pawel Dawidowicz,6.60
+1113,Hellas Verona,Nicolò Casale,6.58
+1114,Hellas Verona,Alessandro Berardi,6.54
+1115,Hellas Verona,Miguel Veloso,6.52
+1116,Hellas Verona,Diego Coppola,6.50
+1117,Hellas Verona,Lorenzo Montipò,6.49
+1118,Hellas Verona,Federico Ceccherini,6.39
+1119,Hellas Verona,Giangiacomo Magnani,6.36
+1120,Hellas Verona,Kevin Lasagna,6.35
+1121,Hellas Verona,Fabio Depaoli,6.33
+1122,Hellas Verona,Bosko Sutalo,6.31
+1123,Hellas Verona,Ivor Pandur,6.31
+1124,Hellas Verona,Yildirim Çetin,6.27
+1125,Hellas Verona,Nikola Kalinic,6.25
+1126,Hellas Verona,Daniel Bessa,6.24
+1127,Hellas Verona,Martin Hongla,6.20
+1128,Hellas Verona,Matteo Cancellieri,6.17
+1129,Hellas Verona,Filippo Terracciano,6.14
+1130,Hellas Verona,Panagiotis Retsos,6.14
+1131,Hellas Verona,Mateusz Praszelik,6.11
+1132,Hellas Verona,Gianluca Frabotta,6.10
+1133,Hellas Verona,Samuel Di Carmine,5.92
+1134,Hertha BSC,Maximilian Mittelstädt,6.88
+1135,Hertha BSC,Marvin Plattenhardt,6.75
+1136,Hertha BSC,Jordan Torunarigha,6.72
+1137,Hertha BSC,Suat Serdar,6.70
+1138,Hertha BSC,Matheus Cunha,6.68
+1139,Hertha BSC,Santiago Ascacíbar,6.66
+1140,Hertha BSC,Stevan Jovetic,6.64
+1141,Hertha BSC,Marc Oliver Kempf,6.61
+1142,Hertha BSC,Niklas Stark,6.59
+1143,Hertha BSC,Ishak Belfodil,6.56
+1144,Hertha BSC,Vladimír Darida,6.55
+1145,Hertha BSC,Dedryck Boyata,6.52
+1146,Hertha BSC,Marco Richter,6.50
+1147,Hertha BSC,Lucas Tousart,6.49
+1148,Hertha BSC,Peter Pekarík,6.44
+1149,Hertha BSC,Alexander Schwolow,6.43
+1150,Hertha BSC,Dodi Lukébakio,6.37
+1151,Hertha BSC,Marcel Lotka,6.36
+1152,Hertha BSC,Márton Dárdai,6.34
+1153,Hertha BSC,Davie Selke,6.34
+1154,Hertha BSC,Linus Gechter,6.30
+1155,Hertha BSC,Krzysztof Piatek,6.29
+1156,Hertha BSC,Deyovaisio Zeefuik,6.27
+1157,Hertha BSC,Kevin-Prince Boateng,6.26
+1158,Hertha BSC,Jurgen Ekkelenkamp,6.26
+1159,Hertha BSC,Lukas Klünter,6.23
+1160,Hertha BSC,Myziane Maolida,6.22
+1161,Hertha BSC,Cimo Röcker,6.22
+1162,Hertha BSC,Julian Eitschberger,6.18
+1163,Hertha BSC,Dennis Jastrzembski,6.17
+1164,Hertha BSC,Luca Wollschläger,6.16
+1165,Hertha BSC,Fredrik Bjørkan,6.16
+1166,Hertha BSC,Anton Kade,6.15
+1167,Hertha BSC,Javairô Dilrosun,6.06
+1168,Hertha BSC,Marten Winkler,6.01
+1169,Hertha BSC,Dong-Jun Lee,5.99
+1170,Hoffenheim,David Raum,7.16
+1171,Hoffenheim,Benjamin Hübner,6.96
+1172,Hoffenheim,Andrej Kramaric,6.89
+1173,Hoffenheim,Florian Grillitsch,6.87
+1174,Hoffenheim,Ihlas Bebou,6.69
+1175,Hoffenheim,Diadié Samassékou,6.68
+1176,Hoffenheim,Chris Richards,6.66
+1177,Hoffenheim,Georginio Rutter,6.66
+1178,Hoffenheim,Oliver Baumann,6.66
+1179,Hoffenheim,Christoph Baumgartner,6.61
+1180,Hoffenheim,Dennis Geiger,6.60
+1181,Hoffenheim,Pavel Kaderábek,6.58
+1182,Hoffenheim,Stefan Posch,6.57
+1183,Hoffenheim,Munas Dabbur,6.54
+1184,Hoffenheim,Angelo Stiller,6.48
+1185,Hoffenheim,Kevin Akpoguma,6.47
+1186,Hoffenheim,Philipp Pentke,6.40
+1187,Hoffenheim,Sebastian Rudy,6.36
+1188,Hoffenheim,Kevin Vogt,6.33
+1189,Hoffenheim,Marco John,6.33
+1190,Hoffenheim,Mijat Gacinovic,6.30
+1191,Hoffenheim,Håvard Nordtveit,6.29
+1192,Hoffenheim,Jacob Bruun Larsen,6.28
+1193,Hoffenheim,Robert Skov,6.25
+1194,Hoffenheim,Sargis Adamyan,6.25
+1195,Hoffenheim,Justin Che,6.12
+1196,Hoffenheim,Kasim Adams,6.08
+1197,Hoffenheim,Umut Tohumcu,6.03
+1198,Hoffenheim,Ermin Bicakcic,6.00
+1199,Hoffenheim,Fisnik Asllani,5.99
+1200,Hoffenheim,Tom Bischof,5.98
+1201,Hoffenheim,Nick Proschwitz,5.73
+1202,Inter,Hakan Çalhanoglu,7.28
+1203,Inter,Ivan Perisic,7.22
+1204,Inter,Lautaro Martínez,7.18
+1205,Inter,Marcelo Brozovic,7.13
+1206,Inter,Nicolò Barella,7.13
+1207,Inter,Edin Dzeko,7.07
+1208,Inter,Alessandro Bastoni,6.90
+1209,Inter,Milan Skriniar,6.82
+1210,Inter,Denzel Dumfries,6.81
+1211,Inter,Samir Handanovic,6.79
+1212,Inter,Federico Dimarco,6.77
+1213,Inter,Stefan de Vrij,6.73
+1214,Inter,Joaquín Correa,6.70
+1215,Inter,Danilo D'Ambrosio,6.69
+1216,Inter,Andrea Ranocchia,6.68
+1217,Inter,Alexis Sánchez,6.62
+1218,Inter,Matteo Darmian,6.58
+1219,Inter,Roberto Gagliardini,6.47
+1220,Inter,Arturo Vidal,6.41
+1221,Inter,Robin Gosens,6.34
+1222,Inter,Matías Vecino,6.33
+1223,Inter,Stefano Sensi,6.24
+1224,Inter,Aleksandar Kolarov,6.22
+1225,Inter,Mattia Zanotti,6.19
+1226,Inter,Martín Satriano,6.07
+1227,Inter,Felipe Caicedo,6.00
+1228,Inter,Ionut Radu,4.90
+1229,Juventus,Paulo Dybala,7.22
+1230,Juventus,Juan Cuadrado,7.19
+1231,Juventus,Federico Chiesa,6.94
+1232,Juventus,Danilo,6.93
+1233,Juventus,Matthijs de Ligt,6.87
+1234,Juventus,Dusan Vlahovic,6.85
+1235,Juventus,Álvaro Morata,6.83
+1236,Juventus,Adrien Rabiot,6.82
+1237,Juventus,Manuel Locatelli,6.81
+1238,Juventus,Giorgio Chiellini,6.74
+1239,Juventus,Wojciech Szczesny,6.73
+1240,Juventus,Weston McKennie,6.73
+1241,Juventus,Leonardo Bonucci,6.70
+1242,Juventus,Rodrigo Bentancur,6.65
+1243,Juventus,Mattia De Sciglio,6.61
+1244,Juventus,Luca Pellegrini,6.59
+1245,Juventus,Alex Sandro,6.57
+1246,Juventus,Federico Bernardeschi,6.57
+1247,Juventus,Denis Zakaria,6.56
+1248,Juventus,Daniele Rugani,6.56
+1249,Juventus,Arthur,6.48
+1250,Juventus,Dejan Kulusevski,6.43
+1251,Juventus,Mattia Perin,6.41
+1252,Juventus,Fabio Miretti,6.36
+1253,Juventus,Moise Kean,6.33
+1254,Juventus,Carlo Pinsoglio,6.30
+1255,Juventus,Kaio Jorge,6.14
+1256,Juventus,Aaron Ramsey,6.07
+1257,Juventus,Matìas Soulé,6.00
+1258,Juventus,Cristiano Ronaldo,5.98
+1259,Juventus,Marley Aké,5.90
+1260,Juventus,Martin Palumbo,5.86
+1261,Köln,Anthony Modeste,7.11
+1262,Köln,Timo Hübers,7.06
+1263,Köln,Mark Uth,7.00
+1264,Köln,Ellyes Skhiri,6.98
+1265,Köln,Jonas Hector,6.97
+1266,Köln,Florian Kainz,6.88
+1267,Köln,Salih Özcan,6.79
+1268,Köln,Marvin Schwäbe,6.78
+1269,Köln,Dejan Ljubicic,6.59
+1270,Köln,Benno Schmitz,6.58
+1271,Köln,Timo Horn,6.56
+1272,Köln,Luca Kilian,6.55
+1273,Köln,Rafael Czichos,6.54
+1274,Köln,Kingsley Ehizibue,6.52
+1275,Köln,Ondrej Duda,6.49
+1276,Köln,Jan Thielmann,6.45
+1277,Köln,Jorge Meré,6.41
+1278,Köln,Sebastian Andersson,6.38
+1279,Köln,Julian Chabot,6.37
+1280,Köln,Jannes Horn,6.33
+1281,Köln,Louis Schaub,6.29
+1282,Köln,Kingsley Schindler,6.25
+1283,Köln,Tim Lemperle,6.24
+1284,Köln,Tomás Ostrák,6.24
+1285,Köln,Noah Katterbach,6.23
+1286,Köln,Mathias Olesen,6.05
+1287,Lazio,Sergej Milinkovic-Savic,7.36
+1288,Lazio,Ciro Immobile,7.31
+1289,Lazio,Felipe Anderson,7.02
+1290,Lazio,Mattia Zaccagni,7.01
+1291,Lazio,Luis Alberto,6.96
+1292,Lazio,Pedro,6.89
+1293,Lazio,Francesco Acerbi,6.73
+1294,Lazio,Jovane Cabral,6.69
+1295,Lazio,Luiz Felipe,6.66
+1296,Lazio,Adam Marusic,6.58
+1297,Lazio,Danilo Cataldi,6.57
+1298,Lazio,Thomas Strakosha,6.55
+1299,Lazio,Elseid Hysaj,6.52
+1300,Lazio,Manuel Lazzari,6.51
+1301,Lazio,Lucas Leiva,6.49
+1302,Lazio,Dimitrije Kamenovic,6.47
+1303,Lazio,Patric,6.36
+1304,Lazio,Gonzalo Escalante,6.34
+1305,Lazio,Toma Basic,6.27
+1306,Lazio,Stefan Radu,6.26
+1307,Lazio,Jean-Daniel Akpa Akpro,6.26
+1308,Lazio,Pepe Reina,6.25
+1309,Lazio,André Anderson,6.16
+1310,Lazio,Luka Romero,6.15
+1311,Lazio,Raúl Moro,6.12
+1312,Lazio,Vedat Muriqi,6.06
+1313,Lazio,Denis Vavro,6.04
+1314,Leeds United,Kristoffer Klaesson,7.27
+1315,Leeds United,Raphinha,6.96
+1316,Leeds United,Liam Cooper,6.86
+1317,Leeds United,Stuart Dallas,6.78
+1318,Leeds United,Leo Hjelde,6.70
+1319,Leeds United,Jack Harrison,6.66
+1320,Leeds United,Illan Meslier,6.62
+1321,Leeds United,Diego Llorente,6.59
+1322,Leeds United,Rodrigo,6.57
+1323,Leeds United,Kalvin Phillips,6.57
+1324,Leeds United,Junior Firpo,6.49
+1325,Leeds United,Luke Ayling,6.49
+1326,Leeds United,Patrick Bamford,6.46
+1327,Leeds United,Jamie Shackleton,6.45
+1328,Leeds United,Daniel James,6.44
+1329,Leeds United,Mateusz Klich,6.37
+1330,Leeds United,Pascal Struijk,6.36
+1331,Leeds United,Robin Koch,6.35
+1332,Leeds United,Sam Greenwood,6.34
+1333,Leeds United,Adam Forshaw,6.33
+1334,Leeds United,Tyler Roberts,6.32
+1335,Leeds United,Joe Gelhardt,6.28
+1336,Leeds United,Crysencio Summerville,6.23
+1337,Leeds United,Charlie Cresswell,6.19
+1338,Leeds United,Cody Drameh,6.03
+1339,Leeds United,Hélder Costa,6.00
+1340,Leeds United,Nohan Kenneh,6.00
+1341,Leeds United,Stuart McKinstry,5.99
+1342,Leeds United,Liam McCarron,5.91
+1343,Leeds United,Lewis Bate,5.82
+1344,Leicester City,Danny Ward,7.25
+1345,Leicester City,James Maddison,7.06
+1346,Leicester City,Jamie Vardy,6.94
+1347,Leicester City,Wilfred Ndidi,6.93
+1348,Leicester City,Ricardo Pereira,6.91
+1349,Leicester City,Youri Tielemans,6.90
+1350,Leicester City,Wesley Fofana,6.87
+1351,Leicester City,Harvey Barnes,6.79
+1352,Leicester City,Jonny Evans,6.76
+1353,Leicester City,Çaglar Söyüncü,6.74
+1354,Leicester City,Kasper Schmeichel,6.73
+1355,Leicester City,Luke Thomas,6.73
+1356,Leicester City,James Justin,6.70
+1357,Leicester City,Timothy Castagne,6.70
+1358,Leicester City,Kiernan Dewsbury-Hall,6.66
+1359,Leicester City,Ademola Lookman,6.63
+1360,Leicester City,Hamza Choudhury,6.57
+1361,Leicester City,Marc Albrighton,6.54
+1362,Leicester City,Kelechi Iheanacho,6.52
+1363,Leicester City,Daniel Amartey,6.45
+1364,Leicester City,Jannik Vestergaard,6.44
+1365,Leicester City,Patson Daka,6.44
+1366,Leicester City,Boubakary Soumaré,6.41
+1367,Leicester City,Ayoze Pérez,6.35
+1368,Leicester City,Nampalys Mendy,6.31
+1369,Leicester City,Lewis Brunt,6.12
+1370,Leicester City,Ryan Bertrand,6.10
+1371,Leicester City,Kasey McAteer,6.01
+1372,Lens,Jonathan Clauss,7.22
+1373,Lens,Florian Sotoca,6.99
+1374,Lens,Seko Fofana,6.94
+1375,Lens,Simon Banza,6.94
+1376,Lens,Cheick Oumar Doucouré,6.94
+1377,Lens,Christopher Wooh,6.85
+1378,Lens,Jonathan Gradit,6.84
+1379,Lens,Steven Fortès,6.79
+1380,Lens,Kevin Danso,6.77
+1381,Lens,Przemyslaw Frankowski,6.75
+1382,Lens,Arnaud Kalimuendo,6.69
+1383,Lens,Facundo Medina,6.67
+1384,Lens,Jean-Louis Leca,6.59
+1385,Lens,Wuilker Fariñez,6.59
+1386,Lens,David da Costa,6.53
+1387,Lens,Gaël Kakuta,6.51
+1388,Lens,Wesley Saïd,6.44
+1389,Lens,Massadio Haïdara,6.40
+1390,Lens,Ignatius Ganago,6.34
+1391,Lens,Deiver Machado,6.29
+1392,Lens,Brayann Pereira,6.23
+1393,Lens,Patrick Berg,6.21
+1394,Lens,Ismaël Boura,6.17
+1395,Lens,Yannick Cahuzac,6.16
+1396,Lens,Corentin Jean,6.14
+1397,Lens,Charles Boli,6.10
+1398,Lens,Ibrahima Baldé,6.02
+1399,Lens,Jonathan Varane,6.00
+1400,Levante,José Morales,6.95
+1401,Levante,José Campaña,6.75
+1402,Levante,Marcelo Saracchi,6.69
+1403,Levante,Jorge de Frutos,6.69
+1404,Levante,Óscar Duarte,6.62
+1405,Levante,Shkodran Mustafi,6.61
+1406,Levante,Pepelu,6.61
+1407,Levante,Enis Bardhi,6.54
+1408,Levante,Roger Martí,6.53
+1409,Levante,Gonzalo Melero,6.50
+1410,Levante,Jorge Miramón,6.49
+1411,Levante,Aitor Fernández,6.46
+1412,Levante,Rúben Vezo,6.44
+1413,Levante,Coke,6.44
+1414,Levante,Daniel Cárdenas,6.43
+1415,Levante,Carlos Clerc,6.43
+1416,Levante,Róber Pier,6.40
+1417,Levante,Nemanja Radoja,6.39
+1418,Levante,Son,6.39
+1419,Levante,Mickaël Malsa,6.37
+1420,Levante,Pablo Martínez,6.35
+1421,Levante,Dani Gómez,6.33
+1422,Levante,Alejandro Primo,6.26
+1423,Levante,Nikola Vukcevic,6.21
+1424,Levante,Roberto Soldado,6.20
+1425,Levante,Sergio Postigo,6.19
+1426,Levante,Enric Franquesa,6.17
+1427,Levante,Alejandro Cantero,6.12
+1428,Levante,Marc Pubill,6.10
+1429,Levante,Martín Cáceres,6.09
+1430,Levante,Omar Faraj,6.01
+1431,Leverkusen,Patrik Schick,7.45
+1432,Leverkusen,Florian Wirtz,7.41
+1433,Leverkusen,Moussa Diaby,7.20
+1434,Leverkusen,Lennart Grill,7.01
+1435,Leverkusen,Kerem Demirbay,6.98
+1436,Leverkusen,Jonathan Tah,6.94
+1437,Leverkusen,Jeremie Frimpong,6.88
+1438,Leverkusen,Edmond Tapsoba,6.84
+1439,Leverkusen,Lukás Hrádecky,6.80
+1440,Leverkusen,Robert Andrich,6.78
+1441,Leverkusen,Karim Bellarabi,6.78
+1442,Leverkusen,Paulinho,6.71
+1443,Leverkusen,Piero Hincapié,6.69
+1444,Leverkusen,Charles Aránguiz,6.67
+1445,Leverkusen,Mitchel Bakker,6.65
+1446,Leverkusen,Exequiel Palacios,6.61
+1447,Leverkusen,Amine Adli,6.60
+1448,Leverkusen,Odilon Kossounou,6.55
+1449,Leverkusen,Sardar Azmoun,6.53
+1450,Leverkusen,Lucas Alario,6.40
+1451,Leverkusen,Daley Sinkgraven,6.29
+1452,Leverkusen,Timothy Fosu-Mensah,6.27
+1453,Leverkusen,Nadiem Amiri,6.25
+1454,Leverkusen,Andrey Lunev,6.24
+1455,Leverkusen,Iker Bravo,6.20
+1456,Leverkusen,Julian Baumgartlinger,6.19
+1457,Leverkusen,Zidan Sertdemir,6.13
+1458,Leverkusen,Joel Pohjanpalo,6.07
+1459,Leverkusen,Panagiotis Retsos,6.00
+1460,Lille,Benjamin André,6.99
+1461,Lille,Renato Sanches,6.85
+1462,Lille,Sven Botman,6.83
+1463,Lille,Reinildo,6.81
+1464,Lille,Jonathan David,6.73
+1465,Lille,Zeki Çelik,6.73
+1466,Lille,Tiago Djaló,6.73
+1467,Lille,José Fonte,6.70
+1468,Lille,Jonathan Bamba,6.69
+1469,Lille,Xeka,6.66
+1470,Lille,Léo Jardim,6.66
+1471,Lille,Ivo Grbic,6.58
+1472,Lille,Jonathan Ikoné,6.55
+1473,Lille,Amadou Onana,6.52
+1474,Lille,Timothy Weah,6.50
+1475,Lille,Edon Zhegrova,6.48
+1476,Lille,Isaac Lihadji,6.44
+1477,Lille,Gabriel Gudmundsson,6.43
+1478,Lille,Burak Yilmaz,6.42
+1479,Lille,Hatem Ben Arfa,6.40
+1480,Lille,Yusuf Yazici,6.40
+1481,Lille,Angel Gomes,6.30
+1482,Lille,Domagoj Bradaric,6.23
+1483,Lille,Leny Yoro,6.17
+1484,Lille,Jérémy Pied,6.17
+1485,Lille,Cheikh Niasse,6.13
+1486,Liverpool,Mohamed Salah,7.54
+1487,Liverpool,Trent Alexander-Arnold,7.52
+1488,Liverpool,Luis Díaz,7.44
+1489,Liverpool,Joël Matip,7.36
+1490,Liverpool,Sadio Mané,7.30
+1491,Liverpool,Andrew Robertson,7.23
+1492,Liverpool,Virgil van Dijk,7.18
+1493,Liverpool,Thiago,7.10
+1494,Liverpool,Diogo Jota,7.09
+1495,Liverpool,Konstantinos Tsimikas,7.04
+1496,Liverpool,Caoimhín Kelleher,7.02
+1497,Liverpool,Fabinho,7.00
+1498,Liverpool,Neco Williams,6.90
+1499,Liverpool,Ibrahima Konaté,6.89
+1500,Liverpool,Alisson,6.88
+1501,Liverpool,Jordan Henderson,6.87
+1502,Liverpool,Curtis Jones,6.86
+1503,Liverpool,Roberto Firmino,6.85
+1504,Liverpool,Naby Keïta,6.79
+1505,Liverpool,James Milner,6.60
+1506,Liverpool,Divock Origi,6.60
+1507,Liverpool,Harvey Elliott,6.57
+1508,Liverpool,Joe Gomez,6.56
+1509,Liverpool,Alex Oxlade Chamberlain,6.55
+1510,Liverpool,Takumi Minamino,6.38
+1511,Liverpool,Tyler Morton,6.13
+1512,Liverpool,Kaide Gordon,6.08
+1513,Lorient,Julien Laporte,6.83
+1514,Lorient,Laurent Abergel,6.78
+1515,Lorient,Enzo Le Fée,6.74
+1516,Lorient,Armand Laurienté,6.73
+1517,Lorient,Thomas Monconduit,6.71
+1518,Lorient,Jérémy Morel,6.59
+1519,Lorient,Bonke Innocent,6.59
+1520,Lorient,Ibrahima Koné,6.59
+1521,Lorient,Terem Moffi,6.57
+1522,Lorient,Vincent Le Goff,6.51
+1523,Lorient,Léo Pétrot,6.50
+1524,Lorient,Stéphane Diarra,6.48
+1525,Lorient,Fabien Lemoine,6.47
+1526,Lorient,Samuel Loric,6.45
+1527,Lorient,Matthieu Dreyer,6.42
+1528,Lorient,Houboulang Mendes,6.41
+1529,Lorient,Moritz Jenz,6.38
+1530,Lorient,Dango Ouattara,6.31
+1531,Lorient,Quentin Boisgard,6.28
+1532,Lorient,Paul Nardi,6.28
+1533,Lorient,Igor Silva,6.28
+1534,Lorient,Sambou Soumano,6.23
+1535,Lorient,Adrian Grbic,6.20
+1536,Lorient,Thomas Fontaine,6.12
+1537,Lorient,Pierre-Yves Hamel,6.06
+1538,Lorient,Redwan Bourlès,6.04
+1539,Lorient,Baptiste Mouazan,6.03
+1540,Lorient,Théo Le Bris,6.00
+1541,Lorient,Jérôme Hergault,5.86
+1542,Lyon,Tetê,7.48
+1543,Lyon,Lucas Paquetá,7.24
+1544,Lyon,Bruno Guimarães,7.21
+1545,Lyon,Moussa Dembele,7.21
+1546,Lyon,Karl Toko-Ekambi,7.15
+1547,Lyon,Romain Faivre,7.03
+1548,Lyon,Marcelo,7.02
+1549,Lyon,Houssem Aouar,6.93
+1550,Lyon,Emerson,6.91
+1551,Lyon,Xherdan Shaqiri,6.82
+1552,Lyon,Castello Lukeba,6.77
+1553,Lyon,Anthony Lopes,6.74
+1554,Lyon,Maxence Caqueret,6.73
+1555,Lyon,Julian Pollersbeck,6.68
+1556,Lyon,Malo Gusto,6.68
+1557,Lyon,Jason Denayer,6.67
+1558,Lyon,Tanguy Ndombélé,6.67
+1559,Lyon,Léo Dubois,6.63
+1560,Lyon,Damien da Silva,6.62
+1561,Lyon,Thiago Mendes,6.59
+1562,Lyon,Jérôme Boateng,6.58
+1563,Lyon,Henrique,6.53
+1564,Lyon,Sinaly Diomandé,6.49
+1565,Lyon,Jeff Reine-Adélaïde,6.33
+1566,Lyon,Rayan Cherki,6.31
+1567,Lyon,Islam Slimani,6.31
+1568,Lyon,Tinotenda Kadewere,6.26
+1569,Lyon,Bradley Barcola,6.21
+1570,Lyon,Habib Keïta,5.97
+1571,Lyon,Maxwel Cornet,5.06
+1572,M'Gladbach,Jonas Hofmann,7.20
+1573,M'Gladbach,Manu Koné,6.99
+1574,M'Gladbach,Alassane Plea,6.91
+1575,M'Gladbach,Breel Embolo,6.91
+1576,M'Gladbach,Ramy Bensebaïni,6.86
+1577,M'Gladbach,Tony Jantschke,6.82
+1578,M'Gladbach,Denis Zakaria,6.80
+1579,M'Gladbach,Florian Neuhaus,6.78
+1580,M'Gladbach,Matthias Ginter,6.77
+1581,M'Gladbach,Yann Sommer,6.75
+1582,M'Gladbach,Jordan Beyer,6.71
+1583,M'Gladbach,Lars Stindl,6.64
+1584,M'Gladbach,Nico Elvedi,6.55
+1585,M'Gladbach,Marcus Thuram,6.54
+1586,M'Gladbach,Marvin Friedrich,6.49
+1587,M'Gladbach,Joe Scally,6.48
+1588,M'Gladbach,Luca Netz,6.43
+1589,M'Gladbach,Hannes Wolf,6.42
+1590,M'Gladbach,Stefan Lainer,6.41
+1591,M'Gladbach,Patrick Herrmann,6.38
+1592,M'Gladbach,Christoph Kramer,6.31
+1593,M'Gladbach,László Bénes,6.24
+1594,M'Gladbach,Keanan Bennetts,6.17
+1595,M'Gladbach,Tobias Sippel,6.05
+1596,M'Gladbach,Torben Müsel,6.04
+1597,M'Gladbach,Conor Noß,6.01
+1598,Mainz 05,Jeremiah St. Juste,7.03
+1599,Mainz 05,Alexander Hack,6.97
+1600,Mainz 05,Anton Stach,6.93
+1601,Mainz 05,Karim Onisiwo,6.84
+1602,Mainz 05,Aarón Martín,6.84
+1603,Mainz 05,Jonathan Burkardt,6.82
+1604,Mainz 05,Silvan Widmer,6.79
+1605,Mainz 05,Stefan Bell,6.74
+1606,Mainz 05,Moussa Niakhaté,6.72
+1607,Mainz 05,Jae-Sung Lee,6.65
+1608,Mainz 05,Robin Zentner,6.64
+1609,Mainz 05,Leandro Barreiro,6.60
+1610,Mainz 05,Dominik Kohr,6.58
+1611,Mainz 05,Jean-Paul Boëtius,6.54
+1612,Mainz 05,Delano Burgzorg,6.47
+1613,Mainz 05,Anderson Lucoqui,6.46
+1614,Mainz 05,Marcus Ingvartsen,6.36
+1615,Mainz 05,Kevin Stöger,6.30
+1616,Mainz 05,Niklas Tauer,6.27
+1617,Mainz 05,David Nemeth,6.26
+1618,Mainz 05,Ádám Szalai,6.24
+1619,Mainz 05,Daniel Brosinski,6.17
+1620,Mainz 05,Finn Dahmen,6.15
+1621,Mainz 05,Paul Nebel,6.12
+1622,Mainz 05,Merveille Papela,6.03
+1623,Mainz 05,Luca Kilian,6.00
+1624,Mainz 05,Romario Rösch,6.00
+1625,Mainz 05,Stephan Fürstner,6.00
+1626,Mallorca,Vedat Muriqi,7.22
+1627,Mallorca,Pablo Maffeo,6.93
+1628,Mallorca,Dani Rodríguez,6.73
+1629,Mallorca,Íñigo Ruíz de Galarreta,6.68
+1630,Mallorca,Iddrisu Baba,6.63
+1631,Mallorca,Leo Román,6.62
+1632,Mallorca,Jaume Costa,6.61
+1633,Mallorca,Takefusa Kubo,6.54
+1634,Mallorca,Antonio Raíllo,6.53
+1635,Mallorca,Salva Sevilla,6.52
+1636,Mallorca,Martin Valjent,6.49
+1637,Mallorca,Manolo Reina,6.47
+1638,Mallorca,Brian Oliván,6.43
+1639,Mallorca,Antonio Sánchez,6.42
+1640,Mallorca,Lee Kang-In,6.41
+1641,Mallorca,Fernando Niño,6.39
+1642,Mallorca,Ángel Rodríguez,6.37
+1643,Mallorca,Franco Russo,6.35
+1644,Mallorca,Giovanni González,6.35
+1645,Mallorca,Rodrigo Battaglia,6.33
+1646,Mallorca,Amath Ndiaye,6.28
+1647,Mallorca,Abdón Prats,6.27
+1648,Mallorca,Clément Grenier,6.23
+1649,Mallorca,Javi Llabrés,6.23
+1650,Mallorca,Jordi Mboula,6.19
+1651,Mallorca,Sergio Rico,6.13
+1652,Mallorca,Aleix Febas,6.06
+1653,Mallorca,Joan Sastre,6.05
+1654,Mallorca,Lago Junior,6.05
+1655,Mallorca,Aleksander Sedlar,6.02
+1656,Mallorca,Matthew Hoppe,5.98
+1657,Mallorca,Dominik Greif,5.86
+1658,Mallorca,Josep Gayá,4.74
+1659,Manchester City,Kevin De Bruyne,7.63
+1660,Manchester City,Rodri,7.43
+1661,Manchester City,João Cancelo,7.42
+1662,Manchester City,Phil Foden,7.29
+1663,Manchester City,Bernardo Silva,7.27
+1664,Manchester City,Ilkay Gündogan,7.24
+1665,Manchester City,Ferran Torres,7.23
+1666,Manchester City,Raheem Sterling,7.20
+1667,Manchester City,Gabriel Jesus,7.19
+1668,Manchester City,Jack Grealish,7.16
+1669,Manchester City,Zack Steffen,7.16
+1670,Manchester City,John Stones,7.10
+1671,Manchester City,Oleksandr Zinchenko,7.05
+1672,Manchester City,Riyad Mahrez,7.00
+1673,Manchester City,Rúben Dias,6.95
+1674,Manchester City,Nathan Aké,6.92
+1675,Manchester City,Aymeric Laporte,6.90
+1676,Manchester City,Kyle Walker,6.72
+1677,Manchester City,Fernandinho,6.70
+1678,Manchester City,Ederson,6.69
+1679,Manchester City,Benjamin Mendy,6.60
+1680,Manchester City,Liam Delap,6.49
+1681,Manchester City,Cole Palmer,6.43
+1682,Manchester City,CJ Egan-Riley,6.38
+1683,Manchester City,James McAtee,6.13
+1684,Manchester City,Kayky,6.09
+1685,Manchester Utd,Cristiano Ronaldo,7.11
+1686,Manchester Utd,Bruno Fernandes,7.03
+1687,Manchester Utd,Paul Pogba,7.00
+1688,Manchester Utd,Mason Greenwood,6.98
+1689,Manchester Utd,Aaron Wan-Bissaka,6.91
+1690,Manchester Utd,Scott McTominay,6.89
+1691,Manchester Utd,Alex Telles,6.89
+1692,Manchester Utd,Fred,6.87
+1693,Manchester Utd,Diogo Dalot,6.86
+1694,Manchester Utd,Raphaël Varane,6.78
+1695,Manchester Utd,Jadon Sancho,6.66
+1696,Manchester Utd,Harry Maguire,6.65
+1697,Manchester Utd,David de Gea,6.64
+1698,Manchester Utd,Luke Shaw,6.64
+1699,Manchester Utd,Nemanja Matic,6.63
+1700,Manchester Utd,Anthony Elanga,6.56
+1701,Manchester Utd,Daniel James,6.53
+1702,Manchester Utd,Victor Lindelöf,6.50
+1703,Manchester Utd,Phil Jones,6.42
+1704,Manchester Utd,Edinson Cavani,6.40
+1705,Manchester Utd,Marcus Rashford,6.35
+1706,Manchester Utd,Juan Mata,6.31
+1707,Manchester Utd,Anthony Martial,6.31
+1708,Manchester Utd,Donny van de Beek,6.30
+1709,Manchester Utd,Eric Bailly,6.28
+1710,Manchester Utd,Jesse Lingard,6.24
+1711,Manchester Utd,Shola Shoretire,6.05
+1712,Manchester Utd,Alejandro Garnacho,5.98
+1713,Manchester Utd,Hannibal Mejbri,5.97
+1714,Marseille,Dimitri Payet,7.44
+1715,Marseille,Boubacar Kamara,6.91
+1716,Marseille,Gerson,6.89
+1717,Marseille,William Saliba,6.87
+1718,Marseille,Mattéo Guendouzi,6.87
+1719,Marseille,Steve Mandanda,6.87
+1720,Marseille,Valentin Rongier,6.85
+1721,Marseille,Cengiz Ünder,6.82
+1722,Marseille,Luan Peres,6.80
+1723,Marseille,Amine Harit,6.73
+1724,Marseille,Bamba Dieng,6.61
+1725,Marseille,Jordan Amavi,6.61
+1726,Marseille,Duje Caleta-Car,6.60
+1727,Marseille,Pau López,6.59
+1728,Marseille,Arkadiusz Milik,6.58
+1729,Marseille,Leonardo Balerdi,6.52
+1730,Marseille,Konrad De la Fuente,6.52
+1731,Marseille,Pape Gueye,6.50
+1732,Marseille,Pol Lirola,6.48
+1733,Marseille,Cédric Bakambu,6.41
+1734,Marseille,Álvaro González,6.28
+1735,Marseille,Nemanja Radonjic,6.16
+1736,Marseille,Darío Benedetto,6.15
+1737,Marseille,Luis Henrique,6.15
+1738,Marseille,Sead Kolasinac,6.05
+1739,Marseille,Salim Ben Seghir,6.00
+1740,Marseille,Oussama Targhalline,5.94
+1741,Metz,Boubakar Kouyaté,7.04
+1742,Metz,Lenny Lacroix,7.00
+1743,Metz,Fabien Centonze,6.92
+1744,Metz,Nicolas de Préville,6.80
+1745,Metz,Fali Candé,6.77
+1746,Metz,Matthieu Udol,6.75
+1747,Metz,Vincent Pajot,6.67
+1748,Metz,Habib Maïga,6.65
+1749,Metz,Didier Lamkel Zé,6.65
+1750,Metz,Ibrahim Amadou,6.61
+1751,Metz,Thomas Delaine,6.56
+1752,Metz,Sikou Niakaté,6.54
+1753,Metz,Marc-Aurèle Caillard,6.54
+1754,Metz,Pape Sarr,6.54
+1755,Metz,Farid Boulaya,6.54
+1756,Metz,Dylan Bronn,6.47
+1757,Metz,Amine Bassi,6.47
+1758,Metz,Alexandre Oukidja,6.47
+1759,Metz,Boubacar Traoré,6.42
+1760,Metz,Lamine Gueye,6.41
+1761,Metz,Ibrahima Niane,6.38
+1762,Metz,Opa Nguette,6.36
+1763,Metz,Jemerson,6.34
+1764,Metz,Cheick Tidiane Sabaly,6.29
+1765,Metz,Papa Ndiaga Yade,6.27
+1766,Metz,Kevin N'Doram,6.27
+1767,Metz,Amadou Salif Mbengue,6.25
+1768,Metz,Vagner,6.25
+1769,Metz,Jean-Armel Kana-Biyik,6.24
+1770,Metz,Sofiane Alakouch,6.24
+1771,Metz,William Mikelbrencis,6.20
+1772,Metz,Mamadou Fofana I,6.17
+1773,Metz,Louis Mafouta,6.14
+1774,Metz,Warren Tchimbembé,6.07
+1775,Metz,Georges Mikautadze,6.00
+1776,Metz,Lenny Joseph,5.99
+1777,Milan,Rafael Leão,7.37
+1778,Milan,Theo Hernández,7.16
+1779,Milan,Sandro Tonali,7.02
+1780,Milan,Olivier Giroud,6.99
+1781,Milan,Fikayo Tomori,6.98
+1782,Milan,Franck Kessie,6.94
+1783,Milan,Mike Maignan,6.92
+1784,Milan,Davide Calabria,6.89
+1785,Milan,Pierre Kalulu,6.86
+1786,Milan,Junior Messias,6.86
+1787,Milan,Zlatan Ibrahimovic,6.82
+1788,Milan,Ismaël Bennacer,6.78
+1789,Milan,Alessio Romagnoli,6.74
+1790,Milan,Alexis Saelemaekers,6.68
+1791,Milan,Alessandro Florenzi,6.63
+1792,Milan,Brahim Díaz,6.62
+1793,Milan,Simon Kjaer,6.59
+1794,Milan,Rade Krunic,6.54
+1795,Milan,Ciprian Tatarusanu,6.54
+1796,Milan,Ante Rebic,6.47
+1797,Milan,Matteo Gabbia,6.44
+1798,Milan,Fodé Ballo-Touré,6.41
+1799,Milan,Samu Castillejo,6.38
+1800,Milan,Tiemoué Bakayoko,6.30
+1801,Milan,Daniel Maldini,6.23
+1802,Milan,Pietro Pellegri,6.22
+1803,Milan,Andrea Conti,6.08
+1804,Milan,Luca Stanga,6.07
+1805,Monaco,Aurélien Tchouaméni,7.32
+1806,Monaco,Wissam Ben Yedder,7.04
+1807,Monaco,Sofiane Diop,6.90
+1808,Monaco,Ruben Aguilar,6.84
+1809,Monaco,Aleksandr Golovin,6.81
+1810,Monaco,Vanderson,6.79
+1811,Monaco,Kevin Volland,6.79
+1812,Monaco,Benoît Badiashile,6.77
+1813,Monaco,Gelson Martins,6.77
+1814,Monaco,Caio Henrique,6.74
+1815,Monaco,Guillermo Maripán,6.73
+1816,Monaco,Youssouf Fofana,6.72
+1817,Monaco,Axel Disasi,6.70
+1818,Monaco,Alexander Nübel,6.61
+1819,Monaco,Strahinja Pavlovic,6.53
+1820,Monaco,Jean Lucas,6.52
+1821,Monaco,Ismail Jakobs,6.51
+1822,Monaco,Krépin Diatta,6.47
+1823,Monaco,Djibril Sidibé,6.41
+1824,Monaco,Eliot Matazo,6.36
+1825,Monaco,Cesc Fàbregas,6.30
+1826,Monaco,Myron Boadu,6.22
+1827,Monaco,Felix Lemarechal,6.20
+1828,Monaco,Chrislain Matsima,6.13
+1829,Monaco,Maghnes Akliouche,6.02
+1830,Monaco,Wilson Isidor,6.00
+1831,Monaco,Tiago Ribeiro,5.91
+1832,Montpellier,Andy Delort,7.82
+1833,Montpellier,Gaëtan Laborde,7.47
+1834,Montpellier,Téji Savanier,7.40
+1835,Montpellier,Jonas Omlin,6.93
+1836,Montpellier,Stephy Mavididi,6.71
+1837,Montpellier,Mamadou Sakho,6.68
+1838,Montpellier,Rémy Cabella,6.67
+1839,Montpellier,Jordan Ferri,6.62
+1840,Montpellier,Mihailo Ristic,6.62
+1841,Montpellier,Florent Mollet,6.60
+1842,Montpellier,Arnaud Souquet,6.59
+1843,Montpellier,Nicolas Cozza,6.57
+1844,Montpellier,Pedro Mendes,6.56
+1845,Montpellier,Joris Chotard,6.53
+1846,Montpellier,Valère Germain,6.51
+1847,Montpellier,Dimitry Bertaud,6.50
+1848,Montpellier,Elye Wahi,6.48
+1849,Montpellier,Maxime Estève,6.43
+1850,Montpellier,Junior Sambia,6.41
+1851,Montpellier,Ambroise Oyongo,6.24
+1852,Montpellier,Léo Leroy,6.21
+1853,Montpellier,Nicholas Gioacchini,6.16
+1854,Montpellier,Enzo Tchato Mbiayi,6.14
+1855,Montpellier,Thuler,6.12
+1856,Montpellier,Sacha Delaye,6.08
+1857,Montpellier,Yanis Guermouche,6.01
+1858,Montpellier,Béni Makouana,5.98
+1859,Nantes,Andrei Girotto,7.13
+1860,Nantes,Moses Simon,7.01
+1861,Nantes,Randal Kolo Muani,7.01
+1862,Nantes,Ludovic Blas,6.94
+1863,Nantes,Alban Lafont,6.77
+1864,Nantes,Quentin Merlin,6.76
+1865,Nantes,Jean-Charles Castelletto,6.72
+1866,Nantes,Wylan Cyprien,6.72
+1867,Nantes,Nicolas Pallois,6.71
+1868,Nantes,Kalifa Coulibaly,6.69
+1869,Nantes,Pedro Chirivella,6.69
+1870,Nantes,Fábio,6.52
+1871,Nantes,Dennis Appiah,6.46
+1872,Nantes,Osman Bukari,6.46
+1873,Nantes,Sébastien Corchia,6.39
+1874,Nantes,Charles Traoré,6.38
+1875,Nantes,Marcus Coco,6.37
+1876,Nantes,Samuel Moutoussamy,6.36
+1877,Nantes,Roli Pereira De Sa,6.33
+1878,Nantes,Yannis M'Bemba,6.19
+1879,Nantes,Renaud Emond,6.16
+1880,Nantes,Willem Geubbels,6.15
+1881,Nantes,Lohann Doucet,6.07
+1882,Nantes,Mohamed Achi,6.00
+1883,Nantes,Jean-Kévin Augustin,5.99
+1884,Nantes,Abdoulaye Sylla,5.93
+1885,Napoli,Victor Osimhen,7.22
+1886,Napoli,Fabián Ruiz,7.10
+1887,Napoli,Lorenzo Insigne,7.09
+1888,Napoli,Kalidou Koulibaly,7.08
+1889,Napoli,André-Frank Zambo Anguissa,7.05
+1890,Napoli,Giovanni Di Lorenzo,7.04
+1891,Napoli,Mário Rui,6.98
+1892,Napoli,Alex Meret,6.87
+1893,Napoli,Dries Mertens,6.86
+1894,Napoli,Hirving Lozano,6.85
+1895,Napoli,Amir Rrahmani,6.83
+1896,Napoli,David Ospina,6.82
+1897,Napoli,Stanislav Lobotka,6.73
+1898,Napoli,Piotr Zielinski,6.71
+1899,Napoli,Matteo Politano,6.56
+1900,Napoli,Eljif Elmas,6.54
+1901,Napoli,Juan Jesus,6.51
+1902,Napoli,Kostas Manolas,6.43
+1903,Napoli,Davide Marfella,6.41
+1904,Napoli,Adam Ounas,6.40
+1905,Napoli,Diego Demme,6.37
+1906,Napoli,Alessandro Zanoli,6.34
+1907,Napoli,Andrea Petagna,6.34
+1908,Napoli,Faouzi Ghoulam,6.28
+1909,Napoli,Gianluca Gaetano,6.28
+1910,Napoli,Kevin Malcuit,6.27
+1911,Napoli,Axel Tuanzebe,6.12
+1912,Newcastle Utd,Kieran Trippier,7.38
+1913,Newcastle Utd,Allan Saint-Maximin,7.09
+1914,Newcastle Utd,Bruno Guimarães,7.04
+1915,Newcastle Utd,Matt Targett,6.99
+1916,Newcastle Utd,Dan Burn,6.98
+1917,Newcastle Utd,Joelinton,6.82
+1918,Newcastle Utd,Chris Wood,6.72
+1919,Newcastle Utd,Fabian Schär,6.70
+1920,Newcastle Utd,Martin Dúbravka,6.66
+1921,Newcastle Utd,Emil Krafth,6.59
+1922,Newcastle Utd,Joe Willock,6.58
+1923,Newcastle Utd,Callum Wilson,6.57
+1924,Newcastle Utd,Jonjo Shelvey,6.57
+1925,Newcastle Utd,Paul Dummett,6.52
+1926,Newcastle Utd,Jamaal Lascelles,6.50
+1927,Newcastle Utd,Javier Manquillo,6.48
+1928,Newcastle Utd,Ryan Fraser,6.45
+1929,Newcastle Utd,Miguel Almirón,6.45
+1930,Newcastle Utd,Isaac Hayden,6.44
+1931,Newcastle Utd,Matt Ritchie,6.40
+1932,Newcastle Utd,Sean Longstaff,6.39
+1933,Newcastle Utd,Jacob Murphy,6.38
+1934,Newcastle Utd,Federico Fernández,6.37
+1935,Newcastle Utd,Jamal Lewis,6.35
+1936,Newcastle Utd,Jeff Hendrick,6.34
+1937,Newcastle Utd,Ciaran Clark,6.22
+1938,Newcastle Utd,Karl Darlow,6.22
+1939,Newcastle Utd,Dwight Gayle,6.02
+1940,Newcastle Utd,Freddie Woodman,5.81
+1941,Nice,Danilo Barbosa,7.26
+1942,Nice,Andy Delort,7.09
+1943,Nice,Marcin Bulka,7.08
+1944,Nice,Youcef Atal,7.08
+1945,Nice,Amine Gouiri,7.01
+1946,Nice,Melvin Bard,6.89
+1947,Nice,Jean-Clair Todibo,6.87
+1948,Nice,Justin Kluivert,6.79
+1949,Nice,Mario Lemina,6.79
+1950,Nice,Walter Benítez,6.79
+1951,Nice,Jordan Amavi,6.74
+1952,Nice,Dante,6.71
+1953,Nice,Pablo Rosario,6.68
+1954,Nice,Khéphren Thuram,6.65
+1955,Nice,Dan Ndoye,6.63
+1956,Nice,Hicham Boudaoui,6.61
+1957,Nice,Lucas da Cunha,6.61
+1958,Nice,Kasper Dolberg,6.57
+1959,Nice,Flavius Daniliuc,6.52
+1960,Nice,Jordan Lotomba,6.49
+1961,Nice,Myziane Maolida,6.48
+1962,Nice,Hassane Kamara,6.46
+1963,Nice,Morgan Schneiderlin,6.40
+1964,Nice,Calvin Stengs,6.38
+1965,Nice,Alexis Claude-Maurice,6.37
+1966,Nice,Evann Guessand,6.32
+1967,Nice,Billal Brahimi,6.24
+1968,Norwich City,Grant Hanley,6.73
+1969,Norwich City,Dimitris Giannoulis,6.61
+1970,Norwich City,Angus Gunn,6.56
+1971,Norwich City,Mathias Normann,6.56
+1972,Norwich City,Brandon Williams,6.54
+1973,Norwich City,Andrew Omobamidele,6.53
+1974,Norwich City,Pierre Lees-Melou,6.48
+1975,Norwich City,Teemu Pukki,6.47
+1976,Norwich City,Sam Byram,6.46
+1977,Norwich City,Kenny McLean,6.44
+1978,Norwich City,Max Aarons,6.44
+1979,Norwich City,Tim Krul,6.42
+1980,Norwich City,Milot Rashica,6.42
+1981,Norwich City,Billy Gilmour,6.39
+1982,Norwich City,Ozan Kabak,6.36
+1983,Norwich City,Ben Gibson,6.35
+1984,Norwich City,Adam Idah,6.35
+1985,Norwich City,Jacob Sørensen,6.34
+1986,Norwich City,Joshua Sargent,6.33
+1987,Norwich City,Lukas Rupp,6.24
+1988,Norwich City,Todd Cantwell,6.23
+1989,Norwich City,Kieran Dowell,6.22
+1990,Norwich City,Przemyslaw Placheta,6.20
+1991,Norwich City,Jonathan Rowe,6.17
+1992,Norwich City,Christoph Zimmermann,6.09
+1993,Norwich City,Christos Tzolis,6.06
+1994,Norwich City,Bali Mumba,6.05
+1995,Norwich City,Tony Springett,5.97
+1996,Osasuna,David García,6.94
+1997,Osasuna,Lucas Torró,6.92
+1998,Osasuna,Nacho Vidal,6.78
+1999,Osasuna,Ante Budimir,6.76
+2000,Osasuna,Sergio Herrera,6.71
+2001,Osasuna,Rubén García,6.70
+2002,Osasuna,Jon Moncayola,6.61
+2003,Osasuna,Unai García,6.58
+2004,Osasuna,Manu Sánchez,6.55
+2005,Osasuna,Jonás Ramalho,6.52
+2006,Osasuna,Aridane Hernández,6.50
+2007,Osasuna,Kike García,6.47
+2008,Osasuna,Juan Cruz,6.46
+2009,Osasuna,Chimy Avila,6.46
+2010,Osasuna,Kike Barja,6.43
+2011,Osasuna,Cote,6.43
+2012,Osasuna,Darko Brasanac,6.39
+2013,Osasuna,Unai Dufur,6.37
+2014,Osasuna,Javi Martínez,6.31
+2015,Osasuna,Roberto Torres,6.30
+2016,Osasuna,Rober Ibáñez,6.22
+2017,Osasuna,Iñigo Pérez,6.22
+2018,Osasuna,Oier,6.15
+2019,Osasuna,Jaume Grau,6.11
+2020,Osasuna,Iker Benito,6.06
+2021,Osasuna,Barbero,5.97
+2022,Osasuna,Jesús Areso,5.83
+2023,Osasuna,Javier Ontiveros,5.81
+2024,Osasuna,Juan Pérez,5.44
+2025,Paris S-G,Kylian Mbappé,8.04
+2026,Paris S-G,Lionel Messi,7.77
+2027,Paris S-G,Neymar,7.65
+2028,Paris S-G,Marco Verratti,7.21
+2029,Paris S-G,Ángel Di María,7.17
+2030,Paris S-G,Abdou Diallo,6.93
+2031,Paris S-G,Danilo Pereira,6.93
+2032,Paris S-G,Achraf Hakimi,6.93
+2033,Paris S-G,Sergio Rico,6.89
+2034,Paris S-G,Idrissa Gueye,6.86
+2035,Paris S-G,Marquinhos,6.86
+2036,Paris S-G,Ander Herrera,6.84
+2037,Paris S-G,Keylor Navas,6.78
+2038,Paris S-G,Sergio Ramos,6.78
+2039,Paris S-G,Presnel Kimpembe,6.76
+2040,Paris S-G,Rafinha,6.75
+2041,Paris S-G,Leandro Paredes,6.73
+2042,Paris S-G,Juan Bernat,6.69
+2043,Paris S-G,Gianluigi Donnarumma,6.69
+2044,Paris S-G,Nuno Mendes,6.67
+2045,Paris S-G,Thilo Kehrer,6.56
+2046,Paris S-G,Pablo Sarabia,6.53
+2047,Paris S-G,Julian Draxler,6.49
+2048,Paris S-G,Colin Dagba,6.43
+2049,Paris S-G,Georginio Wijnaldum,6.42
+2050,Paris S-G,Éric Ebimbe,6.38
+2051,Paris S-G,Mauro Icardi,6.35
+2052,Paris S-G,El Chadaille Bitshiabu,6.24
+2053,Paris S-G,Djeidi Gassama,6.12
+2054,Paris S-G,Sekou Yansané,6.11
+2055,Paris S-G,Arnaud Kalimuendo,6.07
+2056,Paris S-G,Xavi Simons,6.06
+2057,Paris S-G,Alexandre Letellier,6.04
+2058,Paris S-G,Nathan Bitumazala,6.02
+2059,Paris S-G,Ismaël Gharbi,6.01
+2060,Paris S-G,Édouard Michut,6.00
+2061,Rayo Vallecano,Óscar Trejo,7.00
+2062,Rayo Vallecano,Santiago Comesaña,6.86
+2063,Rayo Vallecano,Álvaro García,6.81
+2064,Rayo Vallecano,Alejandro Catena,6.80
+2065,Rayo Vallecano,Stole Dimitrievski,6.72
+2066,Rayo Vallecano,Isi Palazón,6.67
+2067,Rayo Vallecano,Óscar Valentín,6.65
+2068,Rayo Vallecano,Fran García,6.65
+2069,Rayo Vallecano,Martín Merquelanz,6.58
+2070,Rayo Vallecano,Iván Balliu,6.56
+2071,Rayo Vallecano,Esteban Saveljich,6.53
+2072,Rayo Vallecano,Sergi Guardiola,6.49
+2073,Rayo Vallecano,Pathé Ciss,6.46
+2074,Rayo Vallecano,Radamel Falcao,6.44
+2075,Rayo Vallecano,Nikola Maras,6.44
+2076,Rayo Vallecano,Randy Nteka,6.40
+2077,Rayo Vallecano,Bebé,6.37
+2078,Rayo Vallecano,Unai López,6.32
+2079,Rayo Vallecano,Luca Zidane,6.29
+2080,Rayo Vallecano,Mario Suárez,6.25
+2081,Rayo Vallecano,Mario Hernández,6.24
+2082,Rayo Vallecano,José Ángel Pozo,6.18
+2083,Rayo Vallecano,Kévin Rodrigues,6.15
+2084,Rayo Vallecano,Mamadou Sylla,6.07
+2085,Rayo Vallecano,Yacine Qasmi,6.03
+2086,Rayo Vallecano,Alejandro Asensio,6.02
+2087,Rayo Vallecano,Álvaro Aguirre,5.98
+2088,Rayo Vallecano,Andrés Martín,5.96
+2089,RB Leipzig,Christopher Nkunku,7.64
+2090,RB Leipzig,Willi Orbán,7.06
+2091,RB Leipzig,Josko Gvardiol,7.04
+2092,RB Leipzig,Angeliño,6.95
+2093,RB Leipzig,Marcel Halstenberg,6.93
+2094,RB Leipzig,Mohamed Simakan,6.88
+2095,RB Leipzig,Dominik Szoboszlai,6.82
+2096,RB Leipzig,Amadou Haidara,6.82
+2097,RB Leipzig,Nordi Mukiele,6.75
+2098,RB Leipzig,André Silva,6.74
+2099,RB Leipzig,Dani Olmo,6.71
+2100,RB Leipzig,Lukas Klostermann,6.69
+2101,RB Leipzig,Benjamin Henrichs,6.69
+2102,RB Leipzig,Konrad Laimer,6.67
+2103,RB Leipzig,Emil Forsberg,6.58
+2104,RB Leipzig,Kevin Kampl,6.58
+2105,RB Leipzig,Péter Gulácsi,6.58
+2106,RB Leipzig,Yussuf Poulsen,6.55
+2107,RB Leipzig,Tyler Adams,6.41
+2108,RB Leipzig,Hwang Hee-Chan,6.25
+2109,RB Leipzig,Hugo Novoa,6.21
+2110,RB Leipzig,Marcel Sabitzer,6.19
+2111,RB Leipzig,Brian Brobbey,6.17
+2112,RB Leipzig,Solomon Bonnah,6.11
+2113,RB Leipzig,Ilaix Moriba,6.07
+2114,RB Leipzig,Philipp Tschauner,6.05
+2115,RB Leipzig,Sidney Raebiger,5.98
+2116,RB Leipzig,Joscha Wosz,5.95
+2117,RB Leipzig,Josep Martínez,5.86
+2118,Real Madrid,Karim Benzema,7.69
+2119,Real Madrid,Vinícius Júnior,7.56
+2120,Real Madrid,Miguel Gutiérrez,7.44
+2121,Real Madrid,Andriy Lunin,7.32
+2122,Real Madrid,Casemiro,7.26
+2123,Real Madrid,Luka Modric,7.01
+2124,Real Madrid,Toni Kroos,6.98
+2125,Real Madrid,Éder Militão,6.97
+2126,Real Madrid,Ferland Mendy,6.96
+2127,Real Madrid,Jesús Vallejo,6.93
+2128,Real Madrid,Marco Asensio,6.89
+2129,Real Madrid,Daniel Carvajal,6.85
+2130,Real Madrid,Eduardo Camavinga,6.82
+2131,Real Madrid,Thibaut Courtois,6.79
+2132,Real Madrid,Federico Valverde,6.76
+2133,Real Madrid,David Alaba,6.75
+2134,Real Madrid,Lucas Vázquez,6.73
+2135,Real Madrid,Marcelo,6.70
+2136,Real Madrid,Antonio Blanco,6.70
+2137,Real Madrid,Rodrygo,6.66
+2138,Real Madrid,Nacho,6.65
+2139,Real Madrid,Isco,6.60
+2140,Real Madrid,Eden Hazard,6.59
+2141,Real Madrid,Gareth Bale,6.56
+2142,Real Madrid,Mariano Díaz,6.54
+2143,Real Madrid,Mario Gila,6.47
+2144,Real Madrid,Dani Ceballos,6.39
+2145,Real Madrid,Luka Jovic,6.34
+2146,Real Madrid,Sergio Santos,6.28
+2147,Real Madrid,Peter,6.19
+2148,Real Madrid,Juan Latasa,5.94
+2149,Real Sociedad,Mikel Merino,7.16
+2150,Real Sociedad,Mathew Ryan,6.92
+2151,Real Sociedad,Mikel Oyarzabal,6.90
+2152,Real Sociedad,David Silva,6.90
+2153,Real Sociedad,Robin Le Normand,6.86
+2154,Real Sociedad,Rafinha,6.78
+2155,Real Sociedad,Aritz Elustondo,6.77
+2156,Real Sociedad,Martín Zubimendi,6.76
+2157,Real Sociedad,Diego Rico,6.74
+2158,Real Sociedad,Alexander Isak,6.73
+2159,Real Sociedad,Álex Remiro,6.70
+2160,Real Sociedad,Andoni Gorosabel,6.66
+2161,Real Sociedad,Jon Bautista,6.61
+2162,Real Sociedad,Adnan Januzaj,6.57
+2163,Real Sociedad,Alexander Sørloth,6.56
+2164,Real Sociedad,Ander Barrenetxea,6.54
+2165,Real Sociedad,Aihen Muñoz,6.48
+2166,Real Sociedad,Jon Pacheco,6.45
+2167,Real Sociedad,Asier Illarramendi,6.44
+2168,Real Sociedad,Robert Navarro,6.44
+2169,Real Sociedad,Álex Sola,6.43
+2170,Real Sociedad,Igor Zubeldia,6.41
+2171,Real Sociedad,Joseba Zaldua,6.40
+2172,Real Sociedad,Ander Guevara,6.37
+2173,Real Sociedad,Jon Guridi,6.32
+2174,Real Sociedad,Cristo Romero,6.32
+2175,Real Sociedad,Beñat Turrientes,6.29
+2176,Real Sociedad,Portu,6.28
+2177,Real Sociedad,Näis Djouahra,6.27
+2178,Real Sociedad,Julen Lobete,6.24
+2179,Real Sociedad,Ander Martín,6.23
+2180,Real Sociedad,Germán Valera,6.20
+2181,Reims,Mamadou Mbow,7.33
+2182,Reims,Marshall Munetsi,6.95
+2183,Reims,Predrag Rajkovic,6.85
+2184,Reims,Azor Matusiwa,6.84
+2185,Reims,Hugo Ekitike,6.83
+2186,Reims,Ghislain Konan,6.83
+2187,Reims,Wout Faes,6.76
+2188,Reims,Yunis Abdelhamid,6.76
+2189,Reims,Arbër Zeneli,6.73
+2190,Reims,Alexis Flips,6.73
+2191,Reims,Fodé Doucouré,6.71
+2192,Reims,El Bilal Touré,6.63
+2193,Reims,Jens Cajuste,6.60
+2194,Reims,Maxime Busi,6.59
+2195,Reims,Kamory Doumbia,6.58
+2196,Reims,Moreto Cassamá,6.57
+2197,Reims,Ilan Kebbal,6.56
+2198,Reims,Martin Adeline,6.54
+2199,Reims,Thomas Foket,6.52
+2200,Reims,Andreaw Gravillon,6.45
+2201,Reims,Dion Lopy,6.42
+2202,Reims,Nathanaël Mbuku,6.42
+2203,Reims,Xavier Chavalerin,6.41
+2204,Reims,Bradley Locko,6.40
+2205,Reims,Fraser Hornby,6.34
+2206,Reims,Mathieu Cafaro,6.33
+2207,Reims,Mitchell van Bergen,6.30
+2208,Reims,Sambou Sissoko,6.28
+2209,Reims,N'Dri Koffi,6.27
+2210,Reims,Kaj Sierhuis,6.23
+2211,Reims,Valon Berisha,6.16
+2212,Reims,Anastasios Donis,6.10
+2213,Reims,Moussa Doumbia,6.04
+2214,Reims,Samuel Koeberle,6.00
+2215,Reims,Ibrahim Diakité,5.86
+2216,Rennes,Benjamin Bourigeaud,7.44
+2217,Rennes,Martin Terrier,7.41
+2218,Rennes,Gaëtan Laborde,7.14
+2219,Rennes,Lovro Majer,7.06
+2220,Rennes,Hamari Traoré,7.00
+2221,Rennes,Kamaldeen Sulemana,7.00
+2222,Rennes,Flavien Tait,6.90
+2223,Rennes,Nayef Aguerd,6.88
+2224,Rennes,Baptiste Santamaría,6.83
+2225,Rennes,Jérémy Doku,6.68
+2226,Rennes,Loïc Badé,6.62
+2227,Rennes,Jonas Martin,6.62
+2228,Rennes,Birger Meling,6.61
+2229,Rennes,Dogan Alemdar,6.60
+2230,Rennes,Warmed Omari,6.58
+2231,Rennes,Adrien Truffert,6.56
+2232,Rennes,Alfred Gomis,6.54
+2233,Rennes,Lorenz Assignon,6.48
+2234,Rennes,Serhou Guirassy,6.46
+2235,Rennes,Eduardo Camavinga,6.25
+2236,Rennes,Romain Del Castillo,6.25
+2237,Rennes,Romain Salin,6.17
+2238,Rennes,Lesley Ugochukwu,6.14
+2239,Rennes,Andy Diouf,6.10
+2240,Rennes,Mathys Tel,6.09
+2241,Rennes,Loum Tchaouna,6.07
+2242,Rennes,Matthis Abline,6.02
+2243,Rennes,Jeanuël Belocian,5.94
+2244,Roma,Lorenzo Pellegrini,7.34
+2245,Roma,Tammy Abraham,7.17
+2246,Roma,Henrikh Mkhitaryan,6.99
+2247,Roma,Bryan Cristante,6.94
+2248,Roma,Jordan Veretout,6.81
+2249,Roma,Ibañez,6.80
+2250,Roma,Sérgio Oliveira,6.79
+2251,Roma,Chris Smalling,6.74
+2252,Roma,Nicolò Zaniolo,6.67
+2253,Roma,Nicola Zalewski,6.66
+2254,Roma,Rui Patrício,6.60
+2255,Roma,Rick Karsdorp,6.59
+2256,Roma,Gianluca Mancini,6.59
+2257,Roma,Matías Viña,6.57
+2258,Roma,Ainsley Maitland-Niles,6.56
+2259,Roma,Stephan El Shaarawy,6.56
+2260,Roma,Marash Kumbulla,6.56
+2261,Roma,Cristian Volpato,6.46
+2262,Roma,Carles Pérez,6.39
+2263,Roma,Leonardo Spinazzola,6.36
+2264,Roma,Eldor Shomurodov,6.35
+2265,Roma,Ebrima Darboe,6.31
+2266,Roma,Amadou Diawara,6.29
+2267,Roma,Riccardo Calafiori,6.27
+2268,Roma,Felix Afena-Gyan,6.21
+2269,Roma,Edoardo Bove,6.12
+2270,Roma,Bryan Reynolds,6.12
+2271,Roma,Borja Mayoral,6.12
+2272,Roma,Daniel Fuzato,6.00
+2273,Roma,Dimitrios Keramitsis,6.00
+2274,Saint-Étienne,Abdoulaye Bakayoko,6.94
+2275,Saint-Étienne,Dénis Bouanga,6.88
+2276,Saint-Étienne,Ryad Boudebouz,6.79
+2277,Saint-Étienne,Mahdi Camara,6.77
+2278,Saint-Étienne,Wahbi Khazri,6.74
+2279,Saint-Étienne,Saïdou Sow,6.73
+2280,Saint-Étienne,Mickaël Nadé,6.62
+2281,Saint-Étienne,Stefan Bajic,6.49
+2282,Saint-Étienne,Timothée Kolodziejczak,6.49
+2283,Saint-Étienne,Arnaud Nordin,6.48
+2284,Saint-Étienne,Falaye Sacko,6.48
+2285,Saint-Étienne,Miguel Trauco,6.47
+2286,Saint-Étienne,Sada Thioub,6.43
+2287,Saint-Étienne,Zaydou Youssouf,6.41
+2288,Saint-Étienne,Paul Bernardoni,6.41
+2289,Saint-Étienne,Etienne Green,6.41
+2290,Saint-Étienne,Eliaquim Mangala,6.39
+2291,Saint-Étienne,Harold-Desty Moukoudi,6.37
+2292,Saint-Étienne,Yvann Maçon,6.34
+2293,Saint-Étienne,Jean-Philippe Krasso,6.32
+2294,Saint-Étienne,Yvan Neyou,6.29
+2295,Saint-Étienne,Lucas Gourna-Douath,6.28
+2296,Saint-Étienne,Romain Hamouma,6.25
+2297,Saint-Étienne,Adil Aouchiche,6.24
+2298,Saint-Étienne,Aïmen Moueffek,6.23
+2299,Saint-Étienne,Gabriel Silva,6.23
+2300,Saint-Étienne,Bryan Djile Nokoue,6.21
+2301,Saint-Étienne,Bakary Sako,6.14
+2302,Saint-Étienne,Enzo Crivelli,6.12
+2303,Saint-Étienne,El Hadji Dieye,6.08
+2304,Saint-Étienne,Assane Dioussé,6.06
+2305,Saint-Étienne,Ignacio Ramírez,6.05
+2306,Saint-Étienne,Alpha Sissoko,6.04
+2307,Saint-Étienne,Mathys Saban,6.03
+2308,Saint-Étienne,Yanis Lhéry,6.01
+2309,Saint-Étienne,Lamine Ghezali,6.00
+2310,Saint-Étienne,Maxence Rivera,5.98
+2311,Saint-Étienne,Lucas Calodat,5.90
+2312,Saint-Étienne,Charles Abi,5.84
+2313,Salernitana,Milan Djuric,6.97
+2314,Salernitana,Simone Verdi,6.90
+2315,Salernitana,Éderson,6.82
+2316,Salernitana,Emil Bohinen,6.75
+2317,Salernitana,Federico Fazio,6.70
+2318,Salernitana,Pasquale Mazzocchi,6.67
+2319,Salernitana,Luigi Sepe,6.67
+2320,Salernitana,Mamadou Coulibaly,6.64
+2321,Salernitana,Grigoris Kastanos,6.57
+2322,Salernitana,Lassana Coulibaly,6.47
+2323,Salernitana,Federico Bonazzoli,6.47
+2324,Salernitana,Vid Belec,6.47
+2325,Salernitana,Norbert Gyömbér,6.46
+2326,Salernitana,Riccardo Gagliolo,6.46
+2327,Salernitana,Ivan Radovanovic,6.45
+2328,Salernitana,Stefan Strandberg,6.44
+2329,Salernitana,Luca Ranieri,6.43
+2330,Salernitana,Cedric Gondo,6.41
+2331,Salernitana,Nadir Zortea,6.36
+2332,Salernitana,Franck Ribéry,6.36
+2333,Salernitana,Radu Dragusin,6.29
+2334,Salernitana,Diego Perotti,6.28
+2335,Salernitana,Andrea Schiavone,6.28
+2336,Salernitana,Francesco Di Tacchio,6.27
+2337,Salernitana,Andrei Motoc,6.27
+2338,Salernitana,Joel Obi,6.25
+2339,Salernitana,Simy,6.20
+2340,Salernitana,Matteo Ruggeri,6.16
+2341,Salernitana,Pawel Jaroszynski,6.15
+2342,Salernitana,Alessandro Russo,6.12
+2343,Salernitana,Julian Kristoffersen,6.12
+2344,Salernitana,Wajdi Kechrida,6.12
+2345,Salernitana,Mikael,6.08
+2346,Salernitana,Leonardo Capezzi,6.05
+2347,Salernitana,Lys Mousset,6.02
+2348,Salernitana,Edoardo Vergani,6.00
+2349,Salernitana,Filippo Delli Carri,5.97
+2350,Salernitana,Mario Perrone,5.97
+2351,Salernitana,Luka Bogdan,5.92
+2352,Salernitana,Frédéric Veseli,5.88
+2353,Salernitana,Vincenzo Fiorillo,5.70
+2354,Salernitana,Ramzi Aya,5.31
+2355,Sampdoria,Wladimiro Falcone,7.08
+2356,Sampdoria,Abdelhamid Sabiri,7.00
+2357,Sampdoria,Antonio Candreva,6.94
+2358,Sampdoria,Manolo Gabbiadini,6.71
+2359,Sampdoria,Mikkel Damsgaard,6.69
+2360,Sampdoria,Francesco Caputo,6.68
+2361,Sampdoria,Bartosz Bereszynski,6.67
+2362,Sampdoria,Emil Audero,6.66
+2363,Sampdoria,Morten Thorsby,6.66
+2364,Sampdoria,Omar Colley,6.66
+2365,Sampdoria,Stefano Sensi,6.63
+2366,Sampdoria,Alex Ferrari,6.62
+2367,Sampdoria,Albin Ekdal,6.53
+2368,Sampdoria,Maya Yoshida,6.53
+2369,Sampdoria,Adrien Silva,6.52
+2370,Sampdoria,Tommaso Augello,6.49
+2371,Sampdoria,Tomás Rincón,6.48
+2372,Sampdoria,Giangiacomo Magnani,6.42
+2373,Sampdoria,Julian Chabot,6.34
+2374,Sampdoria,Fabio Quagliarella,6.34
+2375,Sampdoria,Andrea Conti,6.32
+2376,Sampdoria,Kristoffer Askildsen,6.29
+2377,Sampdoria,Radu Dragusin,6.26
+2378,Sampdoria,Valerio Verre,6.20
+2379,Sampdoria,Riccardo Ciervo,6.20
+2380,Sampdoria,Ronaldo Vieira,6.16
+2381,Sampdoria,Nicola Murru,6.15
+2382,Sampdoria,Simone Trimboli,6.04
+2383,Sampdoria,Gerard Yepes,6.03
+2384,Sampdoria,Fabio Depaoli,6.02
+2385,Sampdoria,Ernesto Torregrossa,6.02
+2386,Sampdoria,Sebastian Giovinco,5.93
+2387,Sampdoria,Vladyslav Supryaha,5.92
+2388,Sampdoria,Nicola Ravaglia,5.91
+2389,Sassuolo,Domenico Berardi,7.43
+2390,Sassuolo,Hamed Traorè,6.89
+2391,Sassuolo,Gianluca Scamacca,6.82
+2392,Sassuolo,Davide Frattesi,6.77
+2393,Sassuolo,Maxime Lopez,6.76
+2394,Sassuolo,Giacomo Raspadori,6.75
+2395,Sassuolo,Giorgos Kyriakopoulos,6.73
+2396,Sassuolo,Filip Djuricic,6.72
+2397,Sassuolo,Francesco Caputo,6.64
+2398,Sassuolo,Jérémie Boga,6.61
+2399,Sassuolo,Andrea Consigli,6.61
+2400,Sassuolo,Rogerio,6.56
+2401,Sassuolo,Gian Marco Ferrari,6.53
+2402,Sassuolo,Mert Müldür,6.41
+2403,Sassuolo,Jeremy Toljan,6.41
+2404,Sassuolo,Luigi Samele,6.40
+2405,Sassuolo,Vlad Chiriches,6.38
+2406,Sassuolo,Giacomo Satalino,6.37
+2407,Sassuolo,Kaan Ayhan,6.35
+2408,Sassuolo,Ruan,6.28
+2409,Sassuolo,Matheus Henrique,6.28
+2410,Sassuolo,Gregoire Defrel,6.27
+2411,Sassuolo,Abdou Harroui,6.11
+2412,Sassuolo,Federico Peluso,6.09
+2413,Sassuolo,Brian Oddei,6.08
+2414,Sassuolo,Francesco Magnanelli,6.05
+2415,Sassuolo,Edoardo Goldaniga,6.00
+2416,Sassuolo,Emil Ceïde,5.93
+2417,Sassuolo,Gianluca Pegolo,5.00
+2418,Sevilla,Marcos Acuña,6.96
+2419,Sevilla,Jules Koundé,6.92
+2420,Sevilla,Erik Lamela,6.86
+2421,Sevilla,Ivan Rakitic,6.83
+2422,Sevilla,Lucas Ocampos,6.76
+2423,Sevilla,Yassine Bounou,6.76
+2424,Sevilla,Diego Carlos,6.75
+2425,Sevilla,Papu Gómez,6.73
+2426,Sevilla,Marko Dmitrovic,6.70
+2427,Sevilla,Thomas Delaney,6.69
+2428,Sevilla,Fernando,6.69
+2429,Sevilla,Jesús Corona,6.68
+2430,Sevilla,Jesús Navas,6.64
+2431,Sevilla,Joan Jordán,6.62
+2432,Sevilla,Youssef En-Nesyri,6.58
+2433,Sevilla,Rafa Mir,6.54
+2434,Sevilla,Nemanja Gudelj,6.51
+2435,Sevilla,Karim Rekik,6.47
+2436,Sevilla,Oussama Idrissi,6.46
+2437,Sevilla,Óliver Torres,6.45
+2438,Sevilla,Gonzalo Montiel,6.45
+2439,Sevilla,Pedro Ortiz,6.44
+2440,Sevilla,Suso,6.43
+2441,Sevilla,Óscar Rodríguez,6.41
+2442,Sevilla,Ludwig Augustinsson,6.40
+2443,Sevilla,Anthony Martial,6.34
+2444,Sevilla,Munir El Haddadi,6.33
+2445,Sevilla,José Ángel Carmona,6.28
+2446,Sevilla,Iván Romero,6.24
+2447,Sevilla,Luismi Cruz,6.10
+2448,Sevilla,Valentino Fattore,6.00
+2449,Sevilla,Javi Díaz,5.94
+2450,Sevilla,Juanlu Sánchez,5.89
+2451,Southampton,James Ward-Prowse,7.01
+2452,Southampton,Oriol Romeu,6.87
+2453,Southampton,Kyle Walker-Peters,6.84
+2454,Southampton,Mohammed Salisu,6.82
+2455,Southampton,Jan Bednarek,6.81
+2456,Southampton,Tino Livramento,6.73
+2457,Southampton,Che Adams,6.72
+2458,Southampton,Fraser Forster,6.71
+2459,Southampton,Alex McCarthy,6.63
+2460,Southampton,Mohamed Elyounoussi,6.62
+2461,Southampton,Nathan Redmond,6.60
+2462,Southampton,Armando Broja,6.59
+2463,Southampton,Yan Valery,6.57
+2464,Southampton,Stuart Armstrong,6.51
+2465,Southampton,Jack Stephens,6.50
+2466,Southampton,Romain Perraud,6.41
+2467,Southampton,Ibrahima Diallo,6.38
+2468,Southampton,Adam Armstrong,6.38
+2469,Southampton,Lyanco,6.37
+2470,Southampton,Shane Long,6.33
+2471,Southampton,Nathan Tella,6.25
+2472,Southampton,Willy Caballero,6.25
+2473,Southampton,William Smallbone,6.19
+2474,Southampton,Moussa Djenepo,6.18
+2475,Southampton,Theo Walcott,6.09
+2476,Spezia,Simone Bastoni,6.80
+2477,Spezia,Ivan Provedel,6.76
+2478,Spezia,Daniele Verde,6.70
+2479,Spezia,Jakub Kiwior,6.66
+2480,Spezia,Kevin Agudelo,6.58
+2481,Spezia,Kelvin Amian,6.56
+2482,Spezia,Emmanuel Gyasi,6.54
+2483,Spezia,Martin Erlic,6.53
+2484,Spezia,Aimar Sher,6.52
+2485,Spezia,Petko Hristov,6.51
+2486,Spezia,Arkadiusz Reca,6.47
+2487,Spezia,Rey Manaj,6.47
+2488,Spezia,Giulio Maggiore,6.46
+2489,Spezia,Salvador Ferrer,6.45
+2490,Spezia,Nicolò Bertola,6.43
+2491,Spezia,Dimitrios Nikolaou,6.42
+2492,Spezia,Mehdi Bourabia,6.37
+2493,Spezia,David Strelec,6.35
+2494,Spezia,Jacopo Sala,6.34
+2495,Spezia,Ebrima Colley,6.33
+2496,Spezia,MBala Nzola,6.32
+2497,Spezia,Viktor Kovalenko,6.28
+2498,Spezia,Janis Antiste,6.24
+2499,Spezia,Suf Podgoreanu,6.21
+2500,Spezia,Jeroen Zoet,6.21
+2501,Spezia,Aurélien Nguiamba,6.13
+2502,Spezia,Eddie Salcedo,6.10
+2503,Spezia,Petar Zovko,6.04
+2504,Spezia,Samuel Mráz,5.94
+2505,Spezia,Luca Vignali,5.86
+2506,Strasbourg,Ludovic Ajorque,7.05
+2507,Strasbourg,Frédéric Guilbert,7.04
+2508,Strasbourg,Adrien Thomasson,6.94
+2509,Strasbourg,Eiji Kawashima,6.81
+2510,Strasbourg,Ibrahima Sissoko,6.79
+2511,Strasbourg,Sanjin Prcic,6.77
+2512,Strasbourg,Maxime Le Marchand,6.77
+2513,Strasbourg,Dimitri Liénard,6.76
+2514,Strasbourg,Alexander Djiku,6.74
+2515,Strasbourg,Anthony Caci,6.73
+2516,Strasbourg,Gerzino Nyamsi,6.70
+2517,Strasbourg,Jean-Ricner Bellegarde,6.70
+2518,Strasbourg,Habib Diallo,6.70
+2519,Strasbourg,Lucas Perrin,6.68
+2520,Strasbourg,Kevin Gameiro,6.65
+2521,Strasbourg,Matz Sels,6.62
+2522,Strasbourg,Jean-Eudes Aholou,6.39
+2523,Strasbourg,Nordine Kandil,6.38
+2524,Strasbourg,Majeed Waris,6.35
+2525,Strasbourg,Habib Diarra,6.18
+2526,Strasbourg,Karol Fila,6.17
+2527,Strasbourg,Moise Sahi,6.13
+2528,Strasbourg,Mahamé Siby,6.13
+2529,Strasbourg,Ismaël Doukouré,6.00
+2530,Strasbourg,Lebo Mothiba,6.00
+2531,Strasbourg,Mehdi Chahiri,6.00
+2532,Stuttgart,Sasa Kalajdzic,7.08
+2533,Stuttgart,Konstantinos Mavropanos,7.05
+2534,Stuttgart,Borna Sosa,7.02
+2535,Stuttgart,Omar Marmoush,6.95
+2536,Stuttgart,Wataru Endo,6.93
+2537,Stuttgart,Chris Führich,6.83
+2538,Stuttgart,Atakan Karazor,6.73
+2539,Stuttgart,Philipp Klement,6.70
+2540,Stuttgart,Waldemar Anton,6.68
+2541,Stuttgart,Marc Oliver Kempf,6.67
+2542,Stuttgart,Hiroki Ito,6.64
+2543,Stuttgart,Tiago Tomás,6.61
+2544,Stuttgart,Fabian Bredlow,6.58
+2545,Stuttgart,Hamadi Al Ghaddioui,6.54
+2546,Stuttgart,Orel Mangala,6.53
+2547,Stuttgart,Pascal Stenzel,6.49
+2548,Stuttgart,Clinton Mola,6.42
+2549,Stuttgart,Philipp Förster,6.41
+2550,Stuttgart,Florian Müller,6.40
+2551,Stuttgart,Roberto Massimo,6.37
+2552,Stuttgart,Wahidullah Faghir,6.30
+2553,Stuttgart,Daniel Didavi,6.29
+2554,Stuttgart,Mateo Klimowicz,6.28
+2555,Stuttgart,Tanguy Coulibaly,6.27
+2556,Stuttgart,Erik Thommy,6.24
+2557,Stuttgart,Nikolas Nartey,6.24
+2558,Stuttgart,Enzo Millot,6.21
+2559,Stuttgart,Ömer Beyaz,6.13
+2560,Stuttgart,Alexis Tibidi,6.11
+2561,Stuttgart,Mohamed Sankoh,6.07
+2562,Stuttgart,Silas Mvumpa,6.05
+2563,Stuttgart,Matej Maglica,6.04
+2564,Stuttgart,Lilian Egloff,6.01
+2565,Stuttgart,Naouirou Ahamada,6.00
+2566,Torino,Luca Gemello,7.71
+2567,Torino,Bremer,7.22
+2568,Torino,Etrit Berisha,6.86
+2569,Torino,Sasa Lukic,6.85
+2570,Torino,Stephane Singo,6.80
+2571,Torino,Josip Brekalo,6.77
+2572,Torino,Mërgim Vojvoda,6.72
+2573,Torino,Andrea Belotti,6.71
+2574,Torino,Tommaso Pobega,6.69
+2575,Torino,Ola Aina,6.68
+2576,Torino,Antonio Sanabria,6.65
+2577,Torino,Koffi Djidji,6.61
+2578,Torino,Rolando Mandragora,6.61
+2579,Torino,Ricardo Rodríguez,6.58
+2580,Torino,Alessandro Buongiorno,6.58
+2581,Torino,Dennis Praet,6.57
+2582,Torino,Armando Izzo,6.56
+2583,Torino,David Zima,6.54
+2584,Torino,Marko Pjaca,6.48
+2585,Torino,Cristian Ansaldi,6.48
+2586,Torino,Samuele Ricci,6.46
+2587,Torino,Simone Verdi,6.43
+2588,Torino,Karol Linetty,6.30
+2589,Torino,Demba Seck,6.26
+2590,Torino,Tomás Rincón,6.24
+2591,Torino,Ben Kone,6.23
+2592,Torino,Vanja Milinkovic-Savic,6.21
+2593,Torino,Simone Zaza,6.13
+2594,Torino,Pietro Pellegri,6.12
+2595,Torino,Daniele Baselli,6.05
+2596,Torino,Magnus Warming,6.01
+2597,Tottenham,Son Heung-Min,7.51
+2598,Tottenham,Harry Kane,7.45
+2599,Tottenham,Rodrigo Bentancur,7.24
+2600,Tottenham,Dejan Kulusevski,7.19
+2601,Tottenham,Pierre-Emile Højbjerg,7.16
+2602,Tottenham,Matt Doherty,6.96
+2603,Tottenham,Sergio Reguilón,6.95
+2604,Tottenham,Cristian Romero,6.92
+2605,Tottenham,Emerson Royal,6.87
+2606,Tottenham,Davinson Sánchez,6.87
+2607,Tottenham,Lucas Moura,6.82
+2608,Tottenham,Hugo Lloris,6.79
+2609,Tottenham,Ben Davies,6.78
+2610,Tottenham,Eric Dier,6.77
+2611,Tottenham,Ryan Sessegnon,6.68
+2612,Tottenham,Oliver Skipp,6.57
+2613,Tottenham,Dele Alli,6.53
+2614,Tottenham,Japhet Tanganga,6.52
+2615,Tottenham,Tanguy Ndombélé,6.46
+2616,Tottenham,Harry Winks,6.43
+2617,Tottenham,Giovani Lo Celso,6.30
+2618,Tottenham,Steven Bergwijn,6.25
+2619,Tottenham,Dane Scarlett,6.20
+2620,Tottenham,Bryan Gil,6.15
+2621,Tottenham,Joe Rodon,6.09
+2622,Troyes,Florian Tardieu,6.98
+2623,Troyes,Rominigue Kouamé,6.80
+2624,Troyes,Giulian Biancone,6.77
+2625,Troyes,Renaud Ripart,6.63
+2626,Troyes,Xavier Chavalerin,6.61
+2627,Troyes,Erik Palmer-Brown,6.61
+2628,Troyes,Yoann Salmier,6.60
+2629,Troyes,Tristan Dingomé,6.58
+2630,Troyes,Jessy Moulin,6.58
+2631,Troyes,Gauthier Gallon,6.56
+2632,Troyes,Iké Ugbo,6.51
+2633,Troyes,Issa Kaboré,6.50
+2634,Troyes,Adil Rami,6.49
+2635,Troyes,Oualid El Hajjam,6.44
+2636,Troyes,Mama Baldé,6.42
+2637,Troyes,Philippe Sandler,6.40
+2638,Troyes,Youssouf Koné,6.39
+2639,Troyes,Jimmy Giraudon,6.36
+2640,Troyes,Abdu Conté,6.36
+2641,Troyes,Yoann Touzghar,6.35
+2642,Troyes,Eric N'jo,6.34
+2643,Troyes,Yasser Larouci,6.34
+2644,Troyes,Lebo Mothiba,6.32
+2645,Troyes,Dylan Chambost,6.32
+2646,Troyes,Karim Azamoum,6.27
+2647,Troyes,Brandon Dominguès,6.23
+2648,Troyes,Suk Hyun-Jun,6.19
+2649,Troyes,Gerson Rodrigues,6.15
+2650,Troyes,Nassim Chadli,6.13
+2651,Troyes,Mamadou Camara,6.11
+2652,Troyes,Derek Mazou-Sacko,6.05
+2653,Troyes,Levi Lumeka,6.01
+2654,Troyes,Mykola Kukharevych,6.00
+2655,Troyes,Tanguy Zoukrou,6.00
+2656,Troyes,Patrick Roberts,5.96
+2657,Udinese,Gerard Deulofeu,7.04
+2658,Udinese,Beto,6.84
+2659,Udinese,Samir,6.80
+2660,Udinese,Destiny Udogie,6.80
+2661,Udinese,Pablo Marí,6.76
+2662,Udinese,Fernando Forestieri,6.71
+2663,Udinese,Walace,6.69
+2664,Udinese,Nahuel Molina,6.68
+2665,Udinese,Rodrigo Becão,6.65
+2666,Udinese,Bram Nuytinck,6.63
+2667,Udinese,Daniele Padelli,6.58
+2668,Udinese,Jean-Victor Makengo,6.56
+2669,Udinese,Marco Silvestri,6.55
+2670,Udinese,Isaac Success,6.55
+2671,Udinese,Nehuén Pérez,6.54
+2672,Udinese,Roberto Pereyra,6.53
+2673,Udinese,Tolgay Arslan,6.51
+2674,Udinese,Lazar Samardzic,6.48
+2675,Udinese,Ignacio Pussetto,6.48
+2676,Udinese,Ilija Nestorovski,6.35
+2677,Udinese,Jens Larsen,6.31
+2678,Udinese,Mato Jajalo,6.30
+2679,Udinese,Marvin Zeegelaar,6.25
+2680,Udinese,Stefano Okaka,6.25
+2681,Udinese,Brandon Soppy,6.22
+2682,Udinese,Filip Benkovic,6.22
+2683,Udinese,Simone Pafundi,6.18
+2684,Udinese,Riccardo Pinzi,6.00
+2685,Udinese,Sebastien De Maio,5.99
+2686,Union Berlin,Max Kruse,7.03
+2687,Union Berlin,Christopher Trimmel,6.97
+2688,Union Berlin,Taiwo Awoniyi,6.84
+2689,Union Berlin,Paul Jaeckel,6.83
+2690,Union Berlin,Sheraldo Becker,6.80
+2691,Union Berlin,Robin Knoche,6.75
+2692,Union Berlin,Grischa Prömel,6.75
+2693,Union Berlin,Timo Baumgartl,6.71
+2694,Union Berlin,Marvin Friedrich,6.70
+2695,Union Berlin,Niko Gießelmann,6.69
+2696,Union Berlin,Rani Khedira,6.68
+2697,Union Berlin,Bastian Oczipka,6.63
+2698,Union Berlin,Frederik Rønnow,6.60
+2699,Union Berlin,Genki Haraguchi,6.60
+2700,Union Berlin,Julian Ryerson,6.52
+2701,Union Berlin,Andreas Luthe,6.45
+2702,Union Berlin,Dominique Heintz,6.38
+2703,Union Berlin,Andreas Voglsammer,6.37
+2704,Union Berlin,Sven Michel,6.35
+2705,Union Berlin,Kevin Behrens,6.35
+2706,Union Berlin,András Schäfer,6.34
+2707,Union Berlin,Marcus Ingvartsen,6.34
+2708,Union Berlin,Levin Öztunali,6.20
+2709,Union Berlin,Keita Endo,6.09
+2710,Union Berlin,Kevin Möhwald,6.09
+2711,Union Berlin,Cedric Teuchert,6.08
+2712,Union Berlin,Anthony Ujah,6.08
+2713,Union Berlin,Sebastian Griesbeck,6.04
+2714,Valencia,Gonçalo Guedes,6.99
+2715,Valencia,Gabriel Paulista,6.98
+2716,Valencia,Carlos Soler,6.93
+2717,Valencia,Omar Alderete,6.79
+2718,Valencia,Cristiano Piccini,6.77
+2719,Valencia,Giorgi Mamardashvili,6.71
+2720,Valencia,Thierry Correia,6.65
+2721,Valencia,José Gayà,6.63
+2722,Valencia,Jesús Vázquez,6.60
+2723,Valencia,Maximiliano Gómez,6.60
+2724,Valencia,Rubén Sobrino,6.59
+2725,Valencia,Daniel Wass,6.59
+2726,Valencia,Jasper Cillessen,6.56
+2727,Valencia,Hugo Duro,6.49
+2728,Valencia,Dimitri Foulquier,6.46
+2729,Valencia,Hugo Guillamón,6.45
+2730,Valencia,Toni Lato,6.43
+2731,Valencia,Mouctar Diakhaby,6.42
+2732,Valencia,Marcos André,6.41
+2733,Valencia,Yunus Musah,6.40
+2734,Valencia,Uros Racic,6.40
+2735,Valencia,Ilaix Moriba,6.37
+2736,Valencia,Bryan Gil,6.35
+2737,Valencia,Hélder Costa,6.34
+2738,Valencia,Denis Cheryshev,6.31
+2739,Valencia,Jason,6.28
+2740,Valencia,Jaume Doménech,6.22
+2741,Valencia,Koba Koindredi,6.16
+2742,Valencia,Rubén Iranzo,6.08
+2743,Valencia,Manu Vallejo,6.07
+2744,Valencia,Eray Cömert,6.07
+2745,Valencia,Mario Dominguez,6.02
+2746,Valencia,Yellu,5.96
+2747,Valencia,Cristhian Mosquera,5.91
+2748,Venezia,Sergio Romero,6.93
+2749,Venezia,Luca Lezzerini,6.90
+2750,Venezia,Ethan Ampadu,6.73
+2751,Venezia,Ales Mateju,6.68
+2752,Venezia,Mattia Aramu,6.68
+2753,Venezia,Mattia Caldara,6.66
+2754,Venezia,Thomas Henry,6.57
+2755,Venezia,Ridgeciano Haps,6.56
+2756,Venezia,Niki Mäenpää,6.53
+2757,Venezia,Antonio Vacca,6.53
+2758,Venezia,Jacopo Dezi,6.51
+2759,Venezia,Gianluca Busio,6.49
+2760,Venezia,Sofian Kiyine,6.49
+2761,Venezia,David Okereke,6.49
+2762,Venezia,Pietro Ceccaroni,6.47
+2763,Venezia,Cristian Molinaro,6.47
+2764,Venezia,Michaël Cuisance,6.43
+2765,Venezia,Marco Modolo,6.42
+2766,Venezia,Domen Crnigoj,6.37
+2767,Venezia,Luca Fiordilino,6.35
+2768,Venezia,Tyronne Ebuehi,6.33
+2769,Venezia,Pasquale Mazzocchi,6.30
+2770,Venezia,Francesco Di Mariano,6.28
+2771,Venezia,Hilmir Rafn Mikaelsson,6.25
+2772,Venezia,Daan Heymans,6.25
+2773,Venezia,Dor Peretz,6.25
+2774,Venezia,Dennis Johnsen,6.24
+2775,Venezia,Jean-Pierre Nsame,6.22
+2776,Venezia,Francesco Forte,6.22
+2777,Venezia,Tanner Tessmann,6.21
+2778,Venezia,Michael Svoboda,6.19
+2779,Venezia,Nani,6.16
+2780,Venezia,David Schnegg,6.11
+2781,Venezia,Issa Bah,6.07
+2782,Venezia,Bjarki Bjarkason,6.03
+2783,Venezia,Arnór Sigurdsson,6.02
+2784,Venezia,Nicolas Galazzi,6.02
+2785,Venezia,Maximilian Ullmann,6.02
+2786,Venezia,Patrick Thomas Leal,5.99
+2787,Villarreal,Gerard Moreno,7.44
+2788,Villarreal,Daniel Parejo,7.17
+2789,Villarreal,Etienne Capoue,6.96
+2790,Villarreal,Juan Foyth,6.94
+2791,Villarreal,Arnaut Danjuma,6.91
+2792,Villarreal,Giovani Lo Celso,6.89
+2793,Villarreal,Alfonso Pedraza,6.86
+2794,Villarreal,Pau Torres,6.86
+2795,Villarreal,Samuel Chukwueze,6.78
+2796,Villarreal,Sergio Asenjo,6.74
+2797,Villarreal,Manu Trigueros,6.72
+2798,Villarreal,Gerónimo Rulli,6.71
+2799,Villarreal,Raúl Albiol,6.67
+2800,Villarreal,Francis Coquelin,6.65
+2801,Villarreal,Alberto Moreno,6.64
+2802,Villarreal,Yeremi Pino,6.63
+2803,Villarreal,Aïssa Mandi,6.63
+2804,Villarreal,Boulaye Dia,6.62
+2805,Villarreal,Sèrge Aurier,6.53
+2806,Villarreal,Pervis Estupiñán,6.52
+2807,Villarreal,Vicente Iborra,6.47
+2808,Villarreal,Paco Alcácer,6.45
+2809,Villarreal,Moi Gómez,6.41
+2810,Villarreal,Mario Gaspar,6.40
+2811,Villarreal,Rubén Peña,6.28
+2812,Villarreal,Nicolas Jackson,6.26
+2813,Villarreal,Dani Raba,6.10
+2814,Villarreal,Carlo García,6.05
+2815,Villarreal,Nikita Iosifov,6.00
+2816,Watford,Emmanuel Dennis,6.89
+2817,Watford,Hassane Kamara,6.86
+2818,Watford,João Pedro,6.78
+2819,Watford,Francisco Sierralta,6.72
+2820,Watford,Joshua King,6.70
+2821,Watford,Moussa Sissoko,6.70
+2822,Watford,Adam Masina,6.66
+2823,Watford,Juraj Kucka,6.64
+2824,Watford,Ismaïla Sarr,6.58
+2825,Watford,Daniel Bachmann,6.58
+2826,Watford,Imrân Louza,6.55
+2827,Watford,Samir,6.53
+2828,Watford,Cucho Hernández,6.52
+2829,Watford,Edo Kayembe,6.48
+2830,Watford,Nicolas Nkoulou,6.47
+2831,Watford,Kiko Femenía,6.46
+2832,Watford,Jeremy Ngakia,6.45
+2833,Watford,Dan Gosling,6.45
+2834,Watford,Danny Rose,6.44
+2835,Watford,Craig Cathcart,6.39
+2836,Watford,Christian Kabasele,6.37
+2837,Watford,Peter Etebo,6.31
+2838,Watford,Tom Cleverley,6.31
+2839,Watford,Ken Sema,6.29
+2840,Watford,Ben Foster,6.27
+2841,Watford,William Troost-Ekong,6.27
+2842,Watford,Samuel Kalu,6.25
+2843,Watford,Troy Deeney,6.19
+2844,Watford,Ozan Tufan,6.10
+2845,Watford,Ashley Fletcher,6.05
+2846,West Ham,Jarrod Bowen,7.14
+2847,West Ham,Declan Rice,7.10
+2848,West Ham,Tomás Soucek,6.97
+2849,West Ham,Michail Antonio,6.92
+2850,West Ham,Saïd Benrahma,6.86
+2851,West Ham,Pablo Fornals,6.80
+2852,West Ham,Lukasz Fabianski,6.76
+2853,West Ham,Aaron Cresswell,6.75
+2854,West Ham,Kurt Zouma,6.74
+2855,West Ham,Craig Dawson,6.70
+2856,West Ham,Arthur Masuaku,6.67
+2857,West Ham,Angelo Ogbonna,6.66
+2858,West Ham,Ben Johnson,6.65
+2859,West Ham,Manuel Lanzini,6.64
+2860,West Ham,Vladimír Coufal,6.56
+2861,West Ham,Alphonse Areola,6.56
+2862,West Ham,Issa Diop,6.45
+2863,West Ham,Nikola Vlasic,6.22
+2864,West Ham,Mark Noble,6.20
+2865,West Ham,Harrison Ashby,6.17
+2866,West Ham,Ryan Fredericks,6.15
+2867,West Ham,Andriy Yarmolenko,6.15
+2868,West Ham,Sonny Perkins,6.08
+2869,West Ham,Alex Král,6.00
+2870,West Ham,Daniel Chesters,6.00
+2871,Wolfsburg,Jonas Wind,7.31
+2872,Wolfsburg,Maximilian Arnold,6.99
+2873,Wolfsburg,Max Kruse,6.94
+2874,Wolfsburg,Maxence Lacroix,6.83
+2875,Wolfsburg,Josip Brekalo,6.82
+2876,Wolfsburg,Ridle Baku,6.81
+2877,Wolfsburg,Wout Weghorst,6.76
+2878,Wolfsburg,Josuha Guilavogui,6.73
+2879,Wolfsburg,John Brooks,6.73
+2880,Wolfsburg,Xaver Schlager,6.71
+2881,Wolfsburg,Koen Casteels,6.70
+2882,Wolfsburg,Lukas Nmecha,6.66
+2883,Wolfsburg,Kevin Mbabu,6.64
+2884,Wolfsburg,Paulo Otávio,6.60
+2885,Wolfsburg,Sebastiaan Bornauw,6.59
+2886,Wolfsburg,Yannick Gerhardt,6.58
+2887,Wolfsburg,Micky van de Ven,6.52
+2888,Wolfsburg,Aster Vranckx,6.51
+2889,Wolfsburg,Jérôme Roussillon,6.50
+2890,Wolfsburg,Pavao Pervan,6.49
+2891,Wolfsburg,Dodi Lukébakio,6.48
+2892,Wolfsburg,Maximilian Philipp,6.40
+2893,Wolfsburg,Renato Steffen,6.39
+2894,Wolfsburg,Luca Waldschmidt,6.19
+2895,Wolfsburg,Felix Nmecha,6.17
+2896,Wolfsburg,Kevin Paredes,6.06
+2897,Wolfsburg,Admir Mehmedi,6.04
+2898,Wolfsburg,Bartosz Bialek,6.04
+2899,Wolfsburg,Omar Marmoush,6.03
+2900,Wolfsburg,Daniel Ginczek,6.02
+2901,Wolves,Toti,7.01
+2902,Wolves,Rayan Aït-Nouri,6.96
+2903,Wolves,Adama Traoré,6.94
+2904,Wolves,Maximilian Kilman,6.87
+2905,Wolves,Rúben Neves,6.85
+2906,Wolves,Romain Saïss,6.85
+2907,Wolves,José Sá,6.83
+2908,Wolves,Nélson Semedo,6.82
+2909,Wolves,Daniel Podence,6.78
+2910,Wolves,Marçal,6.75
+2911,Wolves,Jonny,6.75
+2912,Wolves,João Moutinho,6.69
+2913,Wolves,Raúl Jiménez,6.65
+2914,Wolves,Conor Coady,6.65
+2915,Wolves,Willy Boly,6.60
+2916,Wolves,Trincão,6.57
+2917,Wolves,Hwang Hee-Chan,6.52
+2918,Wolves,Chiquinho,6.52
+2919,Wolves,Pedro Neto,6.46
+2920,Wolves,Leander Dendoncker,6.44
+2921,Wolves,John Ruddy,6.40
+2922,Wolves,Luke Cundle,6.34
+2923,Wolves,Ki-Jana Hoever,6.31
+2924,Wolves,Chem Campbell,6.13
+2925,Wolves,Fábio Silva,6.09
+2926,Wolves,Morgan Gibbs-White,5.94
