@@ -131,3 +131,8 @@ f_w_join = f_w_join %>% bind_rows(whoscored_match) %>% select(-id)
 # final merge
 football_data = inner_join(f_t_join, f_w_join)
 save(football_data, file = "football.Rdata")
+football_data = football_data %>% 
+  mutate(aerial_duels_engaged = aerial_duels_won + aerial_duels_lost, 
+         non_penalty_goals = goals - goals_from_penalty_kicks) %>% 
+  relocate(aerial_duels_engaged, .after = aerial_duels_won) %>% 
+  relocate(non_penalty_goals, .after = goals)
