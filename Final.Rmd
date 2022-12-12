@@ -1,0 +1,466 @@
+---
+title: "Final Project"
+author: "Roy Zhang"
+date: "2022-11-29"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE,
+                      fig.align="center")
+```
+
+# Introduction
+
+The goal of this project is to predict the ratings of football players using various kinds of statistics.
+
+## Football and Statistics
+
+Football, more commonly known as "soccer" in America, is widely considered to be the most popular sports in the world. However, unlike other sports, football is not as closely connected to the world of statistics. Many clubs still prefer relying on human scouts to watch the games of the players of interest. That being said, there are some clubs that have used data analytics to their advantage. Some of the most well-known examples are Liverpool FC and Brentford FC, whose technical departments are known in the football world for bringing great players to team at a relatively low cost. 
+
+![](pictures\liverpool_brentford.jpg)
+
+Nowadays, there are open-source websites that provides statistics of the players, which allows ordinary football fans like you and me to perform analytics on the players without having to look at every single match of a season (considering the English Premier League alone plays 380 games with 34,200 minutes in total, that is a lot of effort saved). 
+
+In this project, we will be looking only at the league games of the top 5 leagues in Europe, including the Premier League from England, La Liga from Spain, Bundesliga from Germany, Serie A from Italy, and Ligue 1 form France.
+
+![](pictures\5_leagues.png)
+## Significance of the Model
+
+Following the successes of the pioneers, more football clubs are now interested in using modelling techniques to find out which new signing can boost the strength of the team the most. Some football leagues are working with data companies as well to help the clubs achieve that objective. From now on, we can expect more clubs in the football world to implement analytical methods to determine the performance of the players, both to evaluate their own and consider new signings.
+
+Since I am by no means an expert in football, I decided to use ratings from [WhoScored](https://www.whoscored.com/) as the response variable of this model. The data used in this model used in this project comes from [FBref](https://fbref.com/en/), which provides free access to the football data from [StatsBomb](https://statsbomb.com/) (as FBref now uses Opta as its new data source, some of the data used in this project is no longer accessible there). As the positions of the players identified in FBref is rather vague, I used the data from [Transfermarkt](https://www.transfermarkt.com/).
+
+![](pictures\whoscored.jpg)
+# Exploratory Data Analysis
+
+## Loading Packages and Dataset, and Data Cleaning
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(corrplot)
+library(corrr)
+library(glmnet)
+library(ranger)
+library(xgboost)
+library(vip)
+library(kernlab)
+library(kableExtra)
+tidymodels_prefer()
+```
+
+```{r, echo=FALSE}
+load("Final.Rdata")
+```
+
+The dataset we are working on consists of 1518 non-goalkeeper players that have played at least 900 minutes during the 2021-2022 season. Each observation consists of a player of a club (since some players changed clubs in the middle of the season, the same player might be represented twice). I have done data cleaning once during the name matching process to remove goalkeepers (since they have a separate set of data) and those who played fewer than 899 minutes.
+
+In this step, we are setting the position of the players as a factor variable. Since some of the variables are merely the percentage, sum, or difference of some other variables, we will rule them out in the modelling process. After that, there still exists some observations with NAs. Since there are 3 observations with NA, I decided to remove them as well. Therefore, our model end up at 1515 observations.
+```{r}
+load("football.Rdata")
+football_data = football_data %>% mutate(position = as.factor(position)) %>%
+  select(-contains(c("minus", "plus", "per", "rate"))) %>%
+  select(-c(corner_kicks, blocks, aerial_duels_lost)) %>%
+  drop_na()
+```
+
+# Exploring Data
+
+The overall distribution of the data is skewed to the right, while most of the observations have a rating close to 6.6. No player have a rating lower than 6 in the dataset. Both of these are expected, since few players can perform extremely well, and players that perform poorly will hardly get much game time.
+```{r}
+football_data %>% ggplot(aes(rating)) + geom_histogram() + 
+  labs(x = "Rating", y = "Players", title = "Rating Distribution")
+```
+
+Below are the statistics that are the most strongly and positively correlated to the ratings. All statistics shown here are offensive statistics, with goals and assists being the third and fourth strongest. In the world of football, attacking players usually get the most attentions, and the strong positive correlation to ratings seem to reflect that.
+```{r, message=FALSE}
+rating_correlation = football_data %>% select(goals:rating) %>%
+  correlate() %>% select(term, rating) %>% 
+  drop_na()
+rating_correlation %>% arrange(desc(rating)) %>% head(10)
+```
+
+Below are the statistics that are the most strongly and negatively correlated to the ratings. All statistics shown here are defensive statistics. Could this suggest defensive players tend to have lower ratings?
+```{r}
+rating_correlation %>% arrange(rating) %>% head(10)
+```
+
+Below is a box plot of the ratings of the players by position. Surprisingly, the mean and median ratings of players of different positions are approximately the same, with the exception of right midfielders and second strikers, whose higher ratings might be attributed to a smaller number of players categorized into this position. We can also notice the offensive positions having higher upper extreme and a few outliers that are significantly higher than any other observations, which might be the explanation of the stronger positive correlation to attacking statistics.
+```{r}
+football_data %>% ggplot(aes(position, rating)) + geom_boxplot() + 
+  scale_x_discrete(guide = guide_axis(n.dodge = 2)) + 
+  stat_summary(fun = "mean", color = "red") +
+  labs(x = "Position", y = "Rating",
+       title = "Rating Distribution by Position",
+       subtitle = "Red dots are mean ratings")
+```
+
+Below is a dotted plot with the number of goals on the x-axis and the rating on the y-axis. As we can see, there seems to be a moderately weak positive correlation between goals and ratings. But is that the case for all positions?
+```{r}
+football_data %>% ggplot(aes(goals, rating)) + geom_point() + 
+  labs(x = "Goals", y = "Ratings", title = "Goals vs Rating")
+```
+
+Apparently, that is not the case. For offensive positions like center-forward there is a pretty strong correlation between goals and ratings. On the other hand, there is almost no correlation for defensive positions like center-back. This might suggest we need to add interactions to our model to reflect this difference. 
+```{r}
+football_data %>% ggplot(aes(goals, rating)) +
+  facet_wrap(~position)+ geom_point() + 
+  labs(x = "Goals", y = "Ratings", title = "Goals vs Rating",
+       subtitle = "By Position")
+```
+
+# Setting Up
+
+For the split of the data, I decided to go with 75\% in the training set and 25\% in the testing set. The training set contains 1135 observations, whereas the testing set contains 380.
+
+The training set is then further split into 10 different folds for cross-validation. We need to introduce cross-validation into our model fitting because the performance will vary greatly depending on the splitting of the sets and the testing set, while still including valuable data, is excluded from the process. Cross-validation serves to "check our work" before finally using the model on the testing set.
+```{r}
+set.seed(1)
+split = initial_split(football_data, strata = rating)
+training_set = training(split)
+testing_set = testing(split)
+folds = vfold_cv(training_set, strata = rating)
+```
+
+For the recipe, there will be one central recipe used across all models, while the individual models might add more steps to adapt. In this step, I have dummy-coded the position, which is a factor variable, and used principal component analysis (PCA) on variables that I believe are highly correlated to each other. I also centered and scaled all the variables to put the variables on the same scale, as well as adding a non-zero variance filter to prevent unbalanced variables from breaking the model.
+```{r}
+football_recipe =
+  recipe(rating ~ ., data = football_data %>% select(goals:rating)) %>%
+  step_dummy(position) %>%
+  step_pca(
+    non_penalty_goals,
+    shots,
+    shots_on_target,
+    non_penalty_expected_goals,
+    prefix = "shot",
+    num_comp = 6
+  ) %>%
+  step_pca(goals,
+           expected_goals,
+           prefix = "with_penalty_goal",
+           num_comp = 1) %>%
+  step_pca(passes_attempted,
+           passes_completed,
+           prefix = "pass",
+           num_comp = 1) %>%
+  step_pca(
+    short_passes_completed,
+    short_passes_attempted,
+    prefix = "short_pass",
+    num_comp = 1
+  ) %>%
+  step_pca(
+    medium_passes_completed,
+    medium_passes_attempted,
+    prefix = "medium_pass",
+    num_comp = 1
+  ) %>%
+  step_pca(
+    long_passes_completed,
+    long_passes_attempted,
+    prefix = "long_pass",
+    num_comp = 1
+  ) %>%
+  step_pca(dribblers_tackled,
+           dribblers_confronted,
+           prefix = "tackling_dribblers",
+           num_comp = 1) %>%
+  step_pca(dribbles_completed,
+           dribbles_attempted,
+           prefix = "dribbling",
+           num_comp = 1) %>%
+  step_pca(pass_targets,
+           passes_received,
+           prefix = "pass_receiving",
+           num_comp = 1) %>%
+  step_pca(aerial_duels_won,
+           aerial_duels_engaged,
+           prefix = "aerial_duel",
+           num_comp = 1) %>%
+  step_pca(pressures,
+           pressure_successes,
+           prefix = "pressure",
+           num_comp = 1) %>%
+  step_pca(tackles_attempted,
+           tackles_won,
+           prefix = "tackle",
+           num_comp = 1) %>%
+  step_normalize(all_predictors()) %>%
+  step_nzv(all_predictors())
+```
+
+
+# Model Fitting
+
+In the model fitting process, I will be using models based on linear regression, random forest, boosted tree, and support vector machine.
+
+## Linear Family
+
+First off, we will be working with linear regression models, and then add layers of penalties and interactions onto it. At this stage, I am expecting the best model to be the elastic net model with interaction.
+
+### Linear Regression, without Interaction
+
+We start with the most basic linear model to see how the model performs without any other changes.
+```{r}
+linear_workflow = workflow() %>% add_model(linear_reg()) %>% 
+  add_recipe(football_recipe)
+```
+```{r, eval=FALSE}
+linear_fit = linear_workflow %>%
+  fit_resamples(resamples = folds, metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+linear_fit %>% collect_metrics()
+```
+The model an R-squared value of approximately 0.6329. Not bad as a start. 
+
+### Linear Regression, with Interaction
+
+Now we will add interaction to the model to reflect the difference between positions.
+```{r}
+linear_interaction_workflow = workflow() %>% add_model(linear_reg()) %>%
+  add_recipe(football_recipe %>%
+               step_interact(terms = ~starts_with("position"):.))
+```
+```{r, eval=FALSE}
+linear_interaction_fit = linear_interaction_workflow %>%
+  fit_resamples(resamples = folds, metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+linear_interaction_fit %>% collect_metrics()
+```
+And... that did not work out very well. From the Goals vs Rating plot by position, we can see there are 12 different positions in this dataset, and there are around 105 different variables. This means the number of variables in the linear regression variable with interaction has too many variables that result we get does not align closely to any observation. This suggests we need to add some kind of penalty to reduce some of the post-interaction variables to get it working.
+
+### Lasso Regression, without Interaction
+
+And here comes Lasso. Lasso will help us greatly in that regard since it will reduce some variables down to zero by adding a penalty. We will start with a Lasso regression without any interaction. The amount of Lasso penalty on each model ranges from $10^{-10}$ and 1.
+
+```{r}
+lasso_spec = linear_reg(mode = "regression", engine = "glmnet",
+                         penalty = tune(), mixture = 1)
+lasso_workflow = workflow() %>% add_model(lasso_spec) %>%
+  add_recipe(football_recipe)
+lasso_grid = grid_regular(penalty(), levels = 10)
+```
+```{r, eval=FALSE}
+lasso_tune =
+  tune_grid(lasso_workflow, resamples = folds, grid = lasso_grid,
+            metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+lasso_tune %>% collect_metrics() %>% filter(.metric != "rsq") %>%
+  arrange(mean) %>% distinct(.metric, .keep_all = TRUE) %>% 
+  bind_rows(lasso_tune %>% collect_metrics() %>% filter(.metric == "rsq") %>%
+              arrange(desc(mean)) %>% distinct(.metric, .keep_all = TRUE))
+```
+Not too much of an improvement, but we are seeing some progress. Hopefully we can carry it out when we add interaction back.
+
+```{r}
+lasso_tune %>% autoplot()
+best_lasso = lasso_tune %>% select_best(metric = "rsq")
+```
+According to the plots, the model tend to perform better at lower amount of penalty. As penalty reaches 1, the model breaks and we get NA for the R-squared value.
+
+### Lasso Regression, with Interaction
+
+And now it is time to add interaction back.
+
+```{r}
+lasso_interaction_workflow = workflow() %>% add_model(lasso_spec) %>%
+  add_recipe(football_recipe %>%
+               step_interact(terms = ~starts_with("position"):.))
+```
+```{r, eval=FALSE}
+lasso_interaction_tune = 
+  tune_grid(lasso_interaction_workflow, resamples = folds,
+            grid = lasso_grid, metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+lasso_interaction_tune %>% collect_metrics() %>% filter(.metric != "rsq") %>%
+  arrange(mean) %>% distinct(.metric, .keep_all = TRUE) %>% 
+  bind_rows(lasso_interaction_tune %>% collect_metrics() %>%
+              filter(.metric == "rsq") %>% arrange(desc(mean)) %>%
+              distinct(.metric, .keep_all = TRUE))
+```
+And the result is quite discouraging. Despite making a massive progress from the basic linear regression model, adding interaction to the model still does no good to the prediction process.
+
+```{r}
+lasso_interaction_tune %>% autoplot()
+best_lasso_interaction = lasso_interaction_tune %>% 
+  select_best(metric = "rsq")
+```
+The performance based on the level of penalty remain similar to the Lasso regression without interaction.
+
+### Elastic Net Regression
+
+Finally, in addition to Lasso, we are trying to add Ridge to the linear model to see if there will be an improvement. Since adding interactions in Lasso still does worse than a model without interaction, no interaction will be added to the elastic net. The elastic net has the same amount of Lasso penalty as the Lasso regression models, but it adds a mixture to represent the proportion of Lasso and Ridge in the model.
+
+```{r}
+elastic_net_spec = linear_reg(mode = "regression", engine = "glmnet",
+                         penalty = tune(), mixture = tune())
+elastic_net_workflow = workflow() %>% add_model(elastic_net_spec) %>% 
+  add_recipe(football_recipe)
+elastic_net_grid = grid_regular(penalty(), mixture(), levels = 10)
+```
+```{r,eval=FALSE}
+elastic_net_tune = 
+  tune_grid(elastic_net_workflow, resamples = folds, grid = elastic_net_grid,
+            metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+elastic_net_tune %>% collect_metrics() %>% filter(.metric != "rsq") %>%
+  arrange(mean) %>% distinct(.metric, .keep_all = TRUE) %>% 
+  bind_rows(elastic_net_tune %>% collect_metrics() %>%
+              filter(.metric == "rsq") %>% arrange(desc(mean)) %>%
+              distinct(.metric, .keep_all = TRUE))
+```
+The improvement in performance is almost negligible here. But it is still an improvement. Therefore, I will be using elastic net as the representative of the linear regression family. An interesting point here is the best performer is different depending on the metric we use. I will use R-squared for the only metric when selecting the best model.
+
+```{r}
+elastic_net_tune %>% autoplot()
+best_elastic_net = elastic_net_tune %>% select_best(metric = "rsq")
+```
+Same as the previous ones, less means more in terms of penalty. Another interesting thing to note here is as the proportion of Lasso in the elastic net decreases, we can finally get a non-NA R-squared value. Unfortunately, they also tend to do worse than those with higher Lasso proportion.
+
+## Random Forest
+
+We now move on to random forest, which is the cumulative result of multiple decision trees. I set the maximum number of variables used in each tree to 10, which is supposed to be the largest number smaller than the square root of the total number of predictors (I cannot definitively confirm that because of the PCAs). The range minimal node size is is set to be between 2 and 40, and the number of trees used in each fold ranges form 1 to 1000. 
+
+```{r}
+random_forest_spec = rand_forest("regression", mtry = tune(),
+                                 trees = tune(), min_n = tune())%>%
+              set_engine("ranger", importance = "impurity")
+random_forest_workflow = workflow() %>% add_model(random_forest_spec) %>% 
+  add_recipe(football_recipe)
+random_forest_grid = grid_regular(mtry(range = c(1, 10)), 
+                                  trees(range = c(1, 1000)),
+                                  min_n(), levels = 10)
+```
+```{r,eval=FALSE}
+random_forest_tune = tune_grid(random_forest_workflow, resamples = folds,
+                               grid = random_forest_grid,
+                               metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+random_forest_tune %>% collect_metrics() %>% filter(.metric != "rsq") %>%
+  arrange(mean) %>% distinct(.metric, .keep_all = TRUE) %>% 
+  bind_rows(random_forest_tune %>% collect_metrics() %>%
+              filter(.metric == "rsq") %>% arrange(desc(mean)) %>%
+              distinct(.metric, .keep_all = TRUE))
+```
+And it surprisingly did worse than the linear regression family. Note that the best model is different again based on metric selection, but this time it is MAE that is being different, with a smaller `min_n` value. Like elastic net, I will choose the model with the best R-squared value.
+
+```{r}
+random_forest_tune %>% autoplot()
+best_random_forest = random_forest_tune %>% select_best(metric = "rsq")
+```
+According to the plot above, the difference in performance based on the number of trees is not very significant after it exceeds 112. As we use more predictors on a tree, the performance improves as well. The minimal node size makes a difference as well, but not as significant as the number of predictors.
+
+## Boosted Tree
+
+For boosted tree, the number of trees used in each fold goes between 1 and 2000, since boosted tree takes less time to run than random forest.
+
+```{r}
+boosted_tree_spec = boost_tree("regression", trees = tune())
+boosted_tree_workflow = workflow() %>% add_model(boosted_tree_spec) %>% 
+  add_recipe(football_recipe)
+boosted_tree_grid = grid_regular(trees(), levels = 10)
+```
+```{r,eval=FALSE}
+boosted_tree_tune = tune_grid(boosted_tree_workflow, resamples = folds,
+                              grid = boosted_tree_grid,
+                              metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+boosted_tree_tune %>% collect_metrics() %>% filter(.metric != "rsq") %>%
+  arrange(mean) %>% distinct(.metric, .keep_all = TRUE) %>% 
+  bind_rows(boosted_tree_tune %>% collect_metrics() %>%
+              filter(.metric == "rsq") %>% arrange(desc(mean)) %>%
+              distinct(.metric, .keep_all = TRUE))
+```
+The boosted tree does slightly better than random forest, but nevertheless still worse than elastic net. This is to be expected since both boosted tree and random forest are based on decision tree.
+
+```{r}
+boosted_tree_tune %>% autoplot()
+best_boosted_tree = boosted_tree_tune %>% select_best(metric = "rsq")
+```
+Strangely, the boosted tree model when there is only 1 tree also has NA for R-squared. It seems like the number of trees does not have an influence on the R-squared value once it reaches 223.
+
+## Support Vector Machine
+
+Finally, we will be using support vector machine for the model. Since it is mostly used for classification models than for regression models, I am somewhat pessimistic about the outcome of this model. For the range of toleration, I am setting it to be between $2^{-10}$ and $2^5$.
+
+```{r}
+support_vector_machine_spec = 
+  svm_linear("regression", cost = tune()) %>% 
+  set_engine("kernlab", scaled = FALSE)
+support_vector_machine_workflow = workflow() %>% 
+  add_model(support_vector_machine_spec) %>% 
+  add_recipe(football_recipe)
+support_vector_machine_grid = grid_regular(cost(), levels = 2)
+```
+```{r,eval=FALSE}
+support_vector_machine_tune = tune_grid(support_vector_machine_workflow,
+                                        resamples = folds,
+                                        grid = support_vector_machine_grid,
+                                        metrics = metric_set(rsq, rmse, mae))
+```
+```{r}
+support_vector_machine_tune %>% collect_metrics() %>% 
+  filter(.metric != "rsq") %>% arrange(mean) %>%
+  distinct(.metric, .keep_all = TRUE) %>% 
+  bind_rows(support_vector_machine_tune %>% collect_metrics() %>%
+              filter(.metric == "rsq") %>% arrange(desc(mean)) %>%
+              distinct(.metric, .keep_all = TRUE))
+```
+And yet another unexpected result. Despite being worse than elastic net, support vector machine does better than the tree-based models. It is also the only other non-linear model that beats basic linear regression.
+
+```{r}
+support_vector_machine_tune %>% autoplot()
+best_support_vector_machine = support_vector_machine_tune %>% 
+  select_best(metric = "rsq")
+```
+Based on the plot above, there is a certain interval where the model performs the best, which is around 0.005 and 1. A range too big or too small will both hamper the performance.
+
+# Final Fitting
+
+Based on the performances of the 4 kinds of models, I have finally decided to use elastic net model as my final model. And now it is time to plug it into the testing set.
+
+```{r}
+final_elastic_net = finalize_workflow(elastic_net_workflow,
+                                      best_elastic_net)
+final_training_fit = fit(final_elastic_net, training_set)
+final_training_fit %>% extract_fit_parsnip() %>% vip()
+```
+Based on the importance plot above, the combination of goals and expected goals with penalties has a significantly higher importance than any other variable, which asserts that attacking players tend to have higher ratings. Nevertheless, many neutral statistics like passes and carries also have high importance.
+
+```{r}
+assessment_set = metric_set(mae, rmse, rsq)
+testing_prediction = predict(final_training_fit, testing_set)
+predicted_vs_actual = bind_cols(predicted = testing_prediction$.pred,
+                                actual = testing_set$rating)
+assessment_set(predicted_vs_actual, truth = actual, estimate = predicted)
+```
+The model we finally obtained is capable of explaining approximately 65.7\% of the variability of the player ratings.
+
+```{r}
+testing_set = testing_set %>% mutate(predicted_rating = testing_prediction)
+testing_set %>% 
+  ggplot(aes(rating %>% unlist(), predicted_rating %>% unlist())) +
+  geom_point() + labs(x = "Real Rating", y = "Predicted Rating",
+                      title = "Predicted Rating vs Actual Rating",
+                      subtitle = "By Position") + facet_wrap(~position)
+```
+Based on the dotted plot, there is a pretty strong positive correlation for all positions. One concern is left/right midfielders and second strikers have very limited observations in the training set, but the others provide generally promising results, especially so for left wingers. However, the result for center backs does not look as great.
+
+# Conclusion
+
+Different than what I expected, the best model for predicting the performance of the players is elastic net, a linear regression based model. In future modelling, we can consider adding more models such as K-nearing neighbors and neural network to see whether they can outperform elastic net. While the model does well for attacking players, its performance for evaluating players on the other side of the pitch leaves something to be desired. I am also curious about the rather poor performance of the tree-based models. Perhaps it would be better if I split the dataset completely by positions, but that will require data across multiple seasons. I initially expected interaction to be a key determining factor, but that turned out to be false as both linear regression based models with interaction and tree-based models performed worse than linear regression based models without interaction.
+
+For the dataset, it would be beneficial to add more off-the-ball statistics. The current dataset consists of only actions involving the ball, but off-the-ball movement is a key element of modern football for both offense and defense.
+
+Overall, I feel glad for what I have done in this project. I always believe statistics is gold in the world of football and will only be even more valuable in the future, and this project did provide me a starting point. I am also happy to finally have done a machine learning project on a subject of my interest.
